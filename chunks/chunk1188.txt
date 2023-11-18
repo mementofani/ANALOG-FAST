@@ -1,0 +1,21 @@
+ot Data: 355200 count: 80 t: 11:33:03 AM
+Nov 10 11:33:04 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 355200 count: 81 t: 11:33:04 AM
+Nov 10 11:33:05 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 0 count: 17 t: 11:33:05 AM
+Nov 10 11:33:05 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 355500 count: 54 t: 11:33:05 AM
+Nov 10 11:33:06 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 0 count: 48 t: 11:33:06 AM
+Nov 10 11:33:07 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 355800 count: 41 t: 11:33:07 AM
+Nov 10 11:33:08 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 356200 count: 45 t: 11:33:08 AM
+Nov 10 11:33:08 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 0 count: 64 t: 11:33:08 AM
+Nov 10 11:33:08 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 0 count: 80 t: 11:33:08 AM
+Nov 10 11:33:08 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 358600 count: 38 t: 11:33:08 AM
+Nov 10 11:33:09 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 363200 count: 63 t: 11:33:09 AM
+Nov 10 11:33:10 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 364700 count: 35 t: 11:33:10 AM
+Nov 10 11:33:11 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 367200 count: 100 t: 11:33:11 AM
+Nov 10 11:33:12 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 369000 count: 99 t: 11:33:12 AM
+Nov 10 11:33:13 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 371300 count: 2 t: 11:33:13 AM
+Nov 10 11:33:13 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 371200 count: 100 t: 11:33:13 AM
+Nov 10 11:33:14 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 373300 count: 17 t: 11:33:14 AM
+Nov 10 11:33:14 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 373200 count: 100 t: 11:33:14 AM
+Nov 10 11:33:15 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 375300 count: 14 t: 11:33:15 AM
+Nov 10 11:33:15 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 375200 count: 100 t: 11:33:15 AM
+Nov 10 11:33:16 CMX50070

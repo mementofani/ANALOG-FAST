@@ -1,0 +1,15 @@
+ Series HSfn IsRunning True IsCompleted False IsPausable True IsRunningAtDeactivation False
+Nov 13 09:46:12 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Re-init accessor: (defaultOnlineTable) == (26a79c67-fb01-42d3-9f77-8eb2638c109e)False
+Nov 13 09:46:21 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 136.10M, Virtual set 5.60G, CPU Time 41600.120 s, CPU User Time 26476.710 s, Threads 43
+Nov 13 09:46:44 CMX50070-101776 start_cmxmarsserver.sh[3969328]: After runonce
+Nov 13 09:46:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 13 09:46:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/13/2023 09:46:54 +00:00
+Nov 13 09:46:55 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 13 09:46:55 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2023 09:46:55 +00:00
+Nov 13 09:47:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 13 09:47:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/13/2023 09:47:54 +00:00
+Nov 13 09:47:55 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 13 09:47:55 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2023 09:47:55 +00:00
+Nov 13 09:48:08 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 136.08M, Virtual set 5.60G, CPU Time 41618.320 s, CPU User Time 26488.520 s, Threads 45
+Nov 13 09:48:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 13 09:48:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker runni

@@ -1,0 +1,15 @@
+)
+Nov 10 05:49:46 CMX50070-101776 NetworkManager[441]: <info>  [1699595386.9421] device (docker0): state change: secondaries -> activated (reason 'none', sys-iface-state: 'external')
+Nov 10 05:49:46 CMX50070-101776 NetworkManager[441]: <info>  [1699595386.9433] device (docker0): Activation: successful, device activated.
+Nov 10 05:49:47 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:49:46.992983Z [Program                                              ] INFO : Version: "1.0.4.0"
+Nov 10 05:49:47 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:49:47.026684Z [Program                                              ] INFO : Connected to "localhost"
+Nov 10 05:49:47 CMX50070-101776 audit: BPF prog-id=33 op=LOAD
+Nov 10 05:49:47 CMX50070-101776 Xserver[2566]: MESA-LOADER: failed to retrieve device information
+Nov 10 05:49:47 CMX50070-101776 Xserver[2566]: MESA-LOADER: failed to open amdgpu: /usr/lib/dri/amdgpu_dri.so: cannot open shared object file: Permission denied (search paths /usr/lib/dri, suffix _dri)
+Nov 10 05:49:47 CMX50070-101776 Xserver[2566]: failed to load driver: amdgpu
+Nov 10 05:49:47 CMX50070-101776 Xserver[2566]: MESA-LOADER: failed to open kms_swrast: /usr/lib/dri/kms_swrast_dri.so: cannot open shared object file: Permission denied (search paths /usr/lib/dri, suffix _dri)
+Nov 10 05:49:47 CMX50070-101776 Xserver[2566]: failed to load driver: kms_swrast
+Nov 10 05:49:47 CMX50070-101776 audit[1589]: SYSCALL arch=c000003e syscall=321 success=yes exit=40 a0=5 a1=7ffccd637460 a2=78 a3=0 items=0 ppid=1018 pid=1589 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="systemd" exe="/lib/systemd/systemd" key=(null)
+Nov 10 05:49:47 CMX50070-101776 audit: PROCTITLE proctitle="/lib/systemd/systemd"
+Nov 10 05:49:47 CMX50070-101776 Xserver[2566]: [108:9:1110/054947.092923:ERROR:command_buffer_proxy_impl.cc(125)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+Nov 10 05:49:47 CMX50070-101776 audit[2957]: NETFILTER_CFG table=filter family=2 entries=19 op=xt_replace pid=2957 comm="ip

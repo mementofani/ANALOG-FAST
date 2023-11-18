@@ -1,0 +1,21 @@
+ 11:44:08 AM
+Nov 10 11:44:09 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1634100 count: 50 t: 11:44:09 AM
+Nov 10 11:44:11 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1638700 count: 64 t: 11:44:11 AM
+Nov 10 11:44:12 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1640700 count: 58 t: 11:44:12 AM
+Nov 10 11:44:15 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1646700 count: 84 t: 11:44:15 AM
+Nov 10 11:44:18 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1652800 count: 1 t: 11:44:18 AM
+Nov 10 11:44:18 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1652700 count: 100 t: 11:44:18 AM
+Nov 10 11:44:19 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1654700 count: 97 t: 11:44:19 AM
+Nov 10 11:44:21 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1658700 count: 100 t: 11:44:21 AM
+Nov 10 11:44:21 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1658800 count: 12 t: 11:44:21 AM
+Nov 10 11:44:22 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1660800 count: 13 t: 11:44:22 AM
+Nov 10 11:44:22 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1660700 count: 100 t: 11:44:22 AM
+Nov 10 11:44:24 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1664800 count: 29 t: 11:44:24 AM
+Nov 10 11:44:25 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1666600 count: 84 t: 11:44:25 AM
+Nov 10 11:44:26 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1668400 count: 86 t: 11:44:26 AM
+Nov 10 11:44:27 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1670800 count: 90 t: 11:44:27 AM
+Nov 10 11:44:28 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1672800 count: 97 t: 11:44:28 AM
+Nov 10 11:44:29 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1674800 count: 99 t: 11:44:29 AM
+Nov 10 11:44:31 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1678700 count: 54 t: 11:44:31 AM
+Nov 10 11:44:32 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1680700 count: 63 t: 11:44:32 AM
+Nov 10 11:44:3

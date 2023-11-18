@@ -1,0 +1,21 @@
+Nov 10 05:59:05 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (10.0.54.70:57160).
+Nov 10 05:59:05 CMX50070-101776 sshd[65675]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 05:59:05 CMX50070-101776 sshd[65675]: Connection closed by 10.0.54.70 port 57160
+Nov 10 05:59:05 CMX50070-101776 systemd[1]: sshd@51-10.102.37.173:22-10.0.54.70:57160.service: Deactivated successfully.
+Nov 10 05:59:16 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 10 05:59:16 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 10 05:59:16 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 10 05:59:16 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 10 05:59:16 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 10 05:59:16 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 10 05:59:16 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 10 05:59:16 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 10 05:59:16 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 10 05:59:16 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 10 05:59:16 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3] >> DIAG:PROD:CAT?\n
+Nov 10 05:59:16 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3] << "1201.0002k70","__SWP_Tool__"\n
+Nov 10 05:59:16 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3] >> DIAG:PROD:SEL "1201.0002k70"\n
+Nov 10 05:59:16 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3] >> SYST:DFPR?\n
+Nov 10 05:59:16 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3] << #531852
+Nov 10 05:59:16 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3]: Error: Data channel closed with error 104
+Nov 10 05:59:16 CMX50070-101776 rspias-daemon[1016]: PIAS: Sock

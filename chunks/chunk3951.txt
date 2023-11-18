@@ -1,0 +1,12 @@
+tion: //mrt/0/connector/16 <=> //mrt/0/testenvironment/0/dut/0/connector/0 @ //mrt/0/testenvironment/0/connection/28
+Nov 13 10:33:55 CMX50070-101776 mrt.dos[1967]: 2023-11-13T10:33:55.239580Z [DeviceApiSubscriber                                  ] DEBUG: Received message from Connection service
+Nov 13 10:33:55 CMX50070-101776 mrt.dos[1967]: 2023-11-13T10:33:55.250016Z [DeviceApiSubscriber                                  ] DEBUG: 1 messages in the queue
+Nov 13 10:33:55 CMX50070-101776 mrt.dos[1967]: 2023-11-13T10:33:55.250136Z [DeviceApiSubscriber                                  ] DEBUG: Connection service message: Found connection: //mrt/0/connector/16 <=> //mrt/0/testenvironment/0/dut/0/connector/0 @ //mrt/0/testenvironment/0/connection/28
+Nov 13 10:33:55 CMX50070-101776 mrt.dos[1967]: 2023-11-13T10:33:55.250136Z [DeviceApiSubscriber                                  ] DEBUG: Received message from Connection service
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: Dispatching RPC RatRqm1::sfa_0::message_received
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: execute
+Nov 13 10:33:55 CMX50070-101776 mrt.dos[1967]: 2023-11-13T10:33:55.262402Z [DeviceApiSubscriber                                  ] DEBUG: 1 messages in the queue
+Nov 13 10:33:55 CMX50070-101776 mrt.dos[1967]: 2023-11-13T10:33:55.262402Z [DeviceApiSubscriber                                  ] DEBUG: Connection service message: Found connection: //mrt/0/connector/16 <=> //mrt/0/testenvironment/0/dut/0/connector/0 @ //mrt/0/testenvironment/0/connection/28
+Nov 13 10:33:55 CMX50070-101776 mrt.dos[1967]: 2023-11-13T10:33:55.275586Z [DeviceApiSubscriber                                  ] DEBUG: 0 messages in the queue
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[230144]: /usr/lib/stack/lte/36.80.8/bsp/cmx/pu_container/tools/build_container.sh: Log at /home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation6/temp/lte/build.log
+Nov 13 10:33:56 CMX50070-101776 start_mrt.sh[230273]: /usr/lib/stack/nr/13.2.76009/rt_release/file/bsp/cmx/pu_container/tools/build_container.sh

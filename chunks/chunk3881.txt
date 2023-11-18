@@ -1,0 +1,19 @@
+46 t: 10:00:52 AM
+Nov 13 10:00:53 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 21300 count: 51 t: 10:00:53 AM
+Nov 13 10:00:53 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 21500 count: 52 t: 10:00:53 AM
+Nov 13 10:00:53 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 21900 count: 52 t: 10:00:53 AM
+Nov 13 10:00:53 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 22300 count: 54 t: 10:00:53 AM
+Nov 13 10:00:53 CMX50070-101776 systemd[1]: Starting Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter...
+Nov 13 10:00:53 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 22500 count: 54 t: 10:00:53 AM
+Nov 13 10:00:53 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 22900 count: 54 t: 10:00:53 AM
+Nov 13 10:00:53 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Deactivated successfully.
+Nov 13 10:00:53 CMX50070-101776 systemd[1]: Finished Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 13 10:00:53 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 23300 count: 60 t: 10:00:53 AM
+Nov 13 10:00:54 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 23700 count: 61 t: 10:00:54 AM
+Nov 13 10:00:54 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 24100 count: 61 t: 10:00:54 AM
+Nov 13 10:00:54 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 24500 count: 63 t: 10:00:54 AM
+Nov 13 10:00:54 CMX50070-101776 systemd[1]: Starting Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter...
+Nov 13 10:00:54 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 24900 count: 63 t: 10:00:54 AM
+Nov 13 10:00:54 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Deactivated successfully.
+Nov 13 10:00:54 CMX50070-101776 systemd[1]: Finished Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 13 10:00:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.Positionin

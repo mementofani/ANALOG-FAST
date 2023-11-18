@@ -1,0 +1,16 @@
+:54 +00:00
+Nov 12 09:56:07 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 177.24M, Virtual set 5.60G, CPU Time 28744.690 s, CPU User Time 18294.020 s, Threads 42
+Nov 12 09:56:53 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 12 09:56:53 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/12/2023 09:56:53 +00:00
+Nov 12 09:56:54 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 12 09:56:54 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/12/2023 09:56:54 +00:00
+Nov 12 09:57:53 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 12 09:57:53 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/12/2023 09:57:53 +00:00
+Nov 12 09:57:54 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 12 09:57:54 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/12/2023 09:57:54 +00:00
+Nov 12 09:57:54 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 177.24M, Virtual set 5.60G, CPU Time 28756.950 s, CPU User Time 18301.760 s, Threads 40
+Nov 12 09:58:53 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 12 09:58:53 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/12/2023 09:58:53 +00:00
+Nov 12 09:58:54 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 12 09:58:54 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/12/2023 09:58:54 +00:00
+Nov 12 09:59:41 CM

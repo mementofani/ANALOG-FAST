@@ -1,0 +1,21 @@
+016]: PIAS: Socket[3]: socket normally closed.
+Nov 10 10:17:38 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] >> GET / HTTP/1.0\r\n
+Nov 10 10:17:38 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] SCPI-Error: -113,"Undefined header;GET"
+Nov 10 10:17:38 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: Error: invalid command 'GET'!
+Nov 10 10:17:38 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: Data channel normally closed (or due to unexpected data).
+Nov 10 10:17:38 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: socket normally closed.
+Nov 10 10:17:38 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3] >> GET / HTTP/1.0\r\n
+Nov 10 10:17:38 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3] SCPI-Error: -113,"Undefined header;GET"
+Nov 10 10:17:38 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3]: Error: invalid command 'GET'!
+Nov 10 10:17:38 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3]: Data channel normally closed (or due to unexpected data).
+Nov 10 10:17:38 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3]: socket normally closed.
+Nov 10 10:17:38 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] >> GET / HTTP/1.0\r\n
+Nov 10 10:17:38 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] SCPI-Error: -113,"Undefined header;GET"
+Nov 10 10:17:38 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: Error: invalid command 'GET'!
+Nov 10 10:17:38 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: Data channel normally closed (or due to unexpected data).
+Nov 10 10:17:38 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: socket normally closed.
+Nov 10 10:17:38 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3] >> GET / HTTP/1.0\r\n
+Nov 10 10:17:38 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3] SCPI-Error: -113,"Undefined header;GET"
+Nov 10 10:17:38 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3]: Error: invalid command 'GET'!
+Nov 10 10:17:38 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3]: Data channel normally closed (or due to unexpected data).
+Nov 10 10:17:38 CMX50070-101776 rspias-d

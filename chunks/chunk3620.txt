@@ -1,0 +1,19 @@
+ S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 13 07:00:47 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 100 count: 98 t: 7:00:47 AM
+Nov 13 07:00:48 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Start request repeated too quickly.
+Nov 13 07:00:48 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Failed with result 'start-limit-hit'.
+Nov 13 07:00:48 CMX50070-101776 systemd[1]: Failed to start Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 13 07:00:48 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 200 count: 2 t: 7:00:48 AM
+Nov 13 07:00:48 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 100 count: 100 t: 7:00:48 AM
+Nov 13 07:00:48 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 200 count: 6 t: 7:00:48 AM
+Nov 13 07:00:49 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Start request repeated too quickly.
+Nov 13 07:00:49 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Failed with result 'start-limit-hit'.
+Nov 13 07:00:49 CMX50070-101776 systemd[1]: Failed to start Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 13 07:00:49 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 200 count: 7 t: 7:00:49 AM
+Nov 13 07:00:50 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 200 count: 11 t: 7:00:50 AM
+Nov 13 07:00:50 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Start request repeated too quickly.
+Nov 13 07:00:50 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Failed with result 'start-limit-hit'.
+Nov 13 07:00:50 CMX50070-101776 systemd[1]: Failed to start Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 13 07:00:51 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 200 count: 12 t: 7:00:51 AM
+Nov 13 07:00:51 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Start request repeated too quickly.
+Nov 13 07:00:51 CMX50070-101776 systemd

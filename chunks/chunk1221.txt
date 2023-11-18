@@ -1,0 +1,20 @@
+50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1558500 count: 68 t: 11:43:31 AM
+Nov 10 11:43:32 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1560500 count: 63 t: 11:43:32 AM
+Nov 10 11:43:33 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1562500 count: 72 t: 11:43:33 AM
+Nov 10 11:43:34 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1564500 count: 77 t: 11:43:34 AM
+Nov 10 11:43:35 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1566500 count: 74 t: 11:43:35 AM
+Nov 10 11:43:36 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1568500 count: 89 t: 11:43:36 AM
+Nov 10 11:43:37 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1570500 count: 96 t: 11:43:37 AM
+Nov 10 11:43:39 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1574500 count: 98 t: 11:43:39 AM
+Nov 10 11:43:40 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1576600 count: 11 t: 11:43:40 AM
+Nov 10 11:43:40 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1576500 count: 100 t: 11:43:40 AM
+Nov 10 11:43:41 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1578500 count: 100 t: 11:43:41 AM
+Nov 10 11:43:41 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1578600 count: 6 t: 11:43:41 AM
+Nov 10 11:43:42 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1580600 count: 15 t: 11:43:42 AM
+Nov 10 11:43:42 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1580500 count: 100 t: 11:43:42 AM
+Nov 10 11:43:43 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1582600 count: 24 t: 11:43:43 AM
+Nov 10 11:43:44 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1584400 count: 27 t: 11:43:44 AM
+Nov 10 11:43:45 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1586600 count: 28 t: 11:43:45 AM
+Nov 10 11:43:46 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1588600 count: 41 t: 11:43:46 AM
+Nov 10 11:43:47 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1590600 count: 37 t: 11:43:47 AM
+Nov 10 11:43:49 CMX50070-101776 start_cmxmarss

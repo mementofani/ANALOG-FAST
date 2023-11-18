@@ -1,0 +1,18 @@
+r, Startup
+Nov 10 05:51:23 CMX50070-101776 health_service.deviceapi[544]: Reliability:        [0]
+Nov 10 05:51:23 CMX50070-101776 health_service.deviceapi[544]: Num HW:        0
+Nov 10 05:51:23 CMX50070-101776 health_service.deviceapi[544]: ################################################################################
+Nov 10 05:51:23 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:51:23.411129Z [DeviceApiSubscriber                                  ] DEBUG: Received message from Health service
+Nov 10 05:51:23 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:51:23.411129Z [DeviceApiSubscriber                                  ] DEBUG: Health service message:
+Nov 10 05:51:23 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:51:23.411129Z [DeviceApiSubscriber                                  ] DEBUG:  * ResourceName: //mrt/0/health/0
+Nov 10 05:51:23 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:51:23.411129Z [DeviceApiSubscriber                                  ] DEBUG:  * State: Startup
+Nov 10 05:51:23 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:51:23.411129Z [DeviceApiSubscriber                                  ] DEBUG:  * ProgressInfo: "Finish" is waiting for: Drivers, InstrumentSetupManager, Startup
+Nov 10 05:51:23 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:51:23.411129Z [DeviceApiSubscriber                                  ] DEBUG: 0 messages in the queue
+Nov 10 05:51:24 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (10.0.54.70:57008).
+Nov 10 05:51:24 CMX50070-101776 sshd[15742]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 05:51:24 CMX50070-101776 sshd[15742]: Connection closed by 10.0.54.70 port 57008
+Nov 10 05:51:24 CMX50070-101776 systemd[1]: sshd@7-10.102.37.173:22-10.0.54.70:57008.service: Deactivated successfully.
+Nov 10 05:51:25 CMX50070-101776 start_mrt.sh[3324]: get_ld_rqm_plugin_data: cor_ld
+Nov 10 05:51:25 CMX50070-101776 start_mrt.sh[3324]: get_ld_rqm_plugin_data: fe_ld
+Nov 10 05:51:25 CMX50070-101776 start_mrt.sh[3324]: get_ld_rqm_plugin_data: cor_ld
+Nov 10 05:51:25 CMX50070-101776 start_m

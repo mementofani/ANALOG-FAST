@@ -1,0 +1,20 @@
+ric_gigabit_channel_link(): access is 'clear_update_write'
+Nov 13 07:08:44 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): clear on 0x00060430 with value 0x00000000
+Nov 13 07:08:44 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): [001/001][000/000] 0x00000010 = 0x00000000 / confLengthData: 001
+Nov 13 07:08:44 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): update_write on 0x00060430 with value 0x00000000 (read 0x00000000 | 0x00000000)
+Nov 13 07:08:44 CMX50070-101776 kernel: ---
+Nov 13 07:08:44 CMX50070-101776 kernel: CMX_COMMON_IOCTL_GET_GIGABIT_CHANNEL_LINK_STATUS call
+Nov 13 07:08:44 CMX50070-101776 kernel: CMX_COMMON_IOCTL_RESET_CST_ERROR_MONITOR call
+Nov 13 07:08:44 CMX50070-101776 kernel: CMX_COMMON_IOCTL_GET_GIGABIT_CHANNEL_LINK_STATUS call
+Nov 13 07:08:44 CMX50070-101776 kernel: CMX_COMMON_IOCTL_GET_SYSSYNC_LINK_STATUS call
+Nov 13 07:08:44 CMX50070-101776 kernel: get_generic_syssync_link_status called
+Nov 13 07:08:44 CMX50070-101776 xu_launcher[1980]: Received signal: 17
+Nov 13 07:08:45 CMX50070-101776 xu_launcher[1981]: Received signal: 17
+Nov 13 07:08:45 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 0 count: 82 t: 7:08:45 AM
+Nov 13 07:08:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 13 07:08:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/13/2023 07:08:54 +00:00
+Nov 13 07:08:55 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 13 07:08:55 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2023 07:08:55 +00:00
+Nov 13 07:08:55 CMX50070-101776 xu_launcher[1981]: Received signal: 17
+Nov 13 07:08:55 CMX50070-101776 kernel: CMX_AU_IOCTL_GET_SIGA_FPGA_PCIE_LINK_STATUS call
+Nov 13 07:08:55 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Calling set_mb_sync_connection(mapFile, srcSlot, srcLine, dstSlot, dstLine):/usr/lib/fw/RS.CMWBase/DPSW/mb_cst_map.xcnf 501 0 300 

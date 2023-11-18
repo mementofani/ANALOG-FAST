@@ -1,0 +1,19 @@
+atrP3D1.PositioningServiceCatrP3D1[0]
+Nov 10 05:50:34 CMX50070-101776 mrt.pos.catrp3d1[1968]:       No Positioner Detected: SocketIO IP 172.22.192.37 port 200: Establishing the connection to the instrument failed
+Nov 10 05:50:34 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.CatrP3D1.PositioningServiceCatrP3D1[0]
+Nov 10 05:50:34 CMX50070-101776 mrt.pos.catrp3d1[1968]:       No Positioner Detected
+Nov 10 05:50:35 CMX50070-101776 flexxamconfigurationbridge[6228]: running sams:
+Nov 10 05:50:35 CMX50070-101776 xu_launcher[9723]: No ACK from [fe80::02e0:33ff:fe0b:b5bf%eth_internal]:22 after 1041650 microseconds
+Nov 10 05:50:36 CMX50070-101776 flexxamconfigurationbridge[6228]: running sams:
+Nov 10 05:50:36 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.CatrP3Dr.PositioningServiceCatrP3Dr[0]
+Nov 10 05:50:36 CMX50070-101776 mrt.pos.catrp3dr[1969]:       deviceCount = 0
+Nov 10 05:50:36 CMX50070-101776 health_service.deviceapi[544]: Publish update:
+Nov 10 05:50:36 CMX50070-101776 health_service.deviceapi[544]: ################################################################################
+Nov 10 05:50:36 CMX50070-101776 health_service.deviceapi[544]: ID:        57
+Nov 10 05:50:36 CMX50070-101776 health_service.deviceapi[544]: State:        2
+Nov 10 05:50:36 CMX50070-101776 health_service.deviceapi[544]: Progress:        [8] Create Product Description
+Nov 10 05:50:36 CMX50070-101776 health_service.deviceapi[544]: Reliability:        [0]
+Nov 10 05:50:36 CMX50070-101776 health_service.deviceapi[544]: Num HW:        0
+Nov 10 05:50:36 CMX50070-101776 health_service.deviceapi[544]: ################################################################################
+Nov 10 05:50:36 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:36.962938Z [DeviceApiSubscriber                                  ] DEBUG: Received message from Health service
+Nov 10 05:50:36 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:36.963110Z [DeviceApiSubscriber                                  ] 

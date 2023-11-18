@@ -1,0 +1,16 @@
+023 04:04:53 +00:00
+Nov 12 04:05:53 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 12 04:05:53 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/12/2023 04:05:53 +00:00
+Nov 12 04:05:53 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 12 04:05:53 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/12/2023 04:05:53 +00:00
+Nov 12 04:06:35 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 177.50M, Virtual set 5.59G, CPU Time 25637.410 s, CPU User Time 16313.260 s, Threads 43
+Nov 12 04:06:53 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 12 04:06:53 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/12/2023 04:06:53 +00:00
+Nov 12 04:06:53 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 12 04:06:53 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/12/2023 04:06:53 +00:00
+Nov 12 04:07:53 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 12 04:07:53 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/12/2023 04:07:53 +00:00
+Nov 12 04:07:53 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 12 04:07:53 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/12/2023 04:07:53 +00:00
+Nov 12 04:08:22 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 177.60M, Virtual set 5.59G, CPU Time 25654.910 s, CPU User Time 16324.920 s, Threads 41
+Nov 12 04

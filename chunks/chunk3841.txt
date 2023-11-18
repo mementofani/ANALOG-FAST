@@ -1,0 +1,21 @@
+ t: 9:53:22 AM
+Nov 13 09:53:22 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 36900 count: 68 t: 9:53:22 AM
+Nov 13 09:53:23 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 38000 count: 82 t: 9:53:23 AM
+Nov 13 09:53:23 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 38200 count: 7 t: 9:53:23 AM
+Nov 13 09:53:23 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 38100 count: 100 t: 9:53:23 AM
+Nov 13 09:53:23 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 39000 count: 25 t: 9:53:23 AM
+Nov 13 09:53:24 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 39600 count: 56 t: 9:53:24 AM
+Nov 13 09:53:24 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 39900 count: 37 t: 9:53:24 AM
+Nov 13 09:53:24 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 41000 count: 56 t: 9:53:24 AM
+Nov 13 09:53:24 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 42100 count: 44 t: 9:53:24 AM
+Nov 13 09:53:24 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 43200 count: 24 t: 9:53:24 AM
+Nov 13 09:53:25 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 44200 count: 98 t: 9:53:25 AM
+Nov 13 09:53:25 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 44900 count: 87 t: 9:53:25 AM
+Nov 13 09:53:25 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 45300 count: 87 t: 9:53:25 AM
+Nov 13 09:53:25 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 45500 count: 87 t: 9:53:25 AM
+Nov 13 09:53:25 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 45600 count: 33 t: 9:53:25 AM
+Nov 13 09:53:26 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 46400 count: 54 t: 9:53:26 AM
+Nov 13 09:53:26 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 46800 count: 54 t: 9:53:26 AM
+Nov 13 09:53:26 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 47200 count: 56 t: 9:53:26 AM
+Nov 13 09:53:26 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 47200 count: 75 t: 9:53:26 AM
+Nov 13 09:53:27 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Da

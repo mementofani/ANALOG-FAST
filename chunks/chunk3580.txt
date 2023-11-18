@@ -1,0 +1,14 @@
+nstrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation2/sri')
+Nov 13 06:56:12 CMX50070-101776 start_mrt.sh[3010620]: srss.log location: /home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation2/sri/srss.log
+Nov 13 06:56:12 CMX50070-101776 start_mrt.sh[3010620]: [INFO] [2023-11-13T06:56:12,535+0000] [__init__.__init__:95]: Logging initialized with logging level 20
+Nov 13 06:56:12 CMX50070-101776 start_mrt.sh[3010620]: [INFO] [2023-11-13T06:56:12,535+0000] [drift_zmqbroker.__init__:114]: Initialing DriftRpcClient with url = tcp://127.0.0.1:9013
+Nov 13 06:56:12 CMX50070-101776 start_mrt.sh[3010620]: [INFO] [2023-11-13T06:56:12,535+0000] [drift_zmqbroker.start:59]: Starting message_dispatcher...
+Nov 13 06:56:12 CMX50070-101776 start_mrt.sh[3010620]: [INFO] [2023-11-13T06:56:12,536+0000] [__init__._initmd:368]: Initializing default broker with tcp://127.0.0.1:9010
+Nov 13 06:56:12 CMX50070-101776 start_mrt.sh[3010620]: [INFO] [2023-11-13T06:56:12,537+0000] [__init__._prepare_recordingdirectories:342]: Opened _file_handle <_io.TextIOWrapper name='/home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation2/sri/drifted/recorded/sequence.yaml' mode='w' encoding='utf-8'>
+Nov 13 06:56:12 CMX50070-101776 start_mrt.sh[3010620]: [INFO] [2023-11-13T06:56:12,539+0000] [__init__._initalize_recording:436]: initalize_recording
+Nov 13 06:56:12 CMX50070-101776 start_mrt.sh[3010620]: [INFO] [2023-11-13T06:56:12,539+0000] [__init__.__init__:304]: Initialized Drift version 0.10.x
+Nov 13 06:56:12 CMX50070-101776 start_mrt.sh[3010620]: [INFO] [2023-11-13T06:56:12,539+0000] [__init__.__init__:305]: Test mode: False
+Nov 13 06:56:12 CMX50070-101776 start_mrt.sh[3010620]: [INFO] [2023-11-13T06:56:12,539+0000] [utilities.__init__:188]: Creating SaveRecall
+Nov 13 06:56:12 CMX50070-101776 start_mrt.sh[3010620]: [INFO] [2023-11-13T06:56:12,540+0000] [utilities.__init__:193]: Broker started as Slave
+Nov 13 06:56:12 CMX50070-101776 start_mrt.sh[3010620]: [INFO] [2023-11-13T06:56:12,540+0000] [srss.verify_args:57]: Master broker address: 127.0.0.1
+Nov 13 06:56:12

@@ -1,0 +1,11 @@
+.Slot1.Port3.IFIn @ //mrt/0/connector/9
+Nov 10 05:53:22 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:22.106533Z [DeviceApiSubscriber                                  ] DEBUG:  * CMX RF Connector definitions: IFOut: 0.Slot2.Port2.IFOut @ //mrt/0/connector/12
+Nov 10 05:53:22 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:22.106533Z [DeviceApiSubscriber                                  ] DEBUG:  * CMX RF Connector definitions: IFIn: 0.Slot2.Port2.IFIn @ //mrt/0/connector/13
+Nov 10 05:53:22 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:22.107124Z [DeviceApiSubscriber                                  ] DEBUG:  * CMX RF Connector definitions: IFOut: 0.Slot2.Port3.IFOut @ //mrt/0/connector/14
+Nov 10 05:53:22 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:22.107124Z [DeviceApiSubscriber                                  ] DEBUG:  * CMX RF Connector definitions: IFIn: 0.Slot2.Port3.IFIn @ //mrt/0/connector/15
+Nov 10 05:53:22 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:22.107124Z [DeviceApiSubscriber                                  ] DEBUG:  * CMX RF Connector definitions: RFCom1: 0.Slot3.RFCom1 @ //mrt/0/connector/16
+Nov 10 05:53:22 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:22.107124Z [DeviceApiSubscriber                                  ] DEBUG:  * CMX RF Connector definitions: RFCom2: 0.Slot3.RFCom2 @ //mrt/0/connector/17
+Nov 10 05:53:22 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:22.107124Z [DeviceApiSubscriber                                  ] DEBUG:  * CMX RF Connector definitions: RFIn1: 0.Slot3.RFIn1 @ //mrt/0/connector/18
+Nov 10 05:53:22 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:22.107124Z [DeviceApiSubscriber                                  ] DEBUG:  * CMX RF Connector definitions: RFIn2: 0.Slot3.RFIn2 @ //mrt/0/connector/19
+Nov 10 05:53:22 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:22.107124Z [DeviceApiSubscriber                                  ] DEBUG:  * CMX RF Connector definitions: RFOut1: 0.Slot3.RFOut1 @ //mrt/0/connector/20
+Nov 10 05:53:22 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:22.107124Z [Devi

@@ -1,0 +1,14 @@
+776 start_cmxmarsserver.sh[4192858]: Start signalR Config: {"HandshakeTimeout":"00:00:15","KeepAliveInterval":"00:00:10","ClientTimeoutInterval":"00:02:00","SupportedProtocols":["json","json"],"MaximumReceiveMessageSize":32768,"EnableDetailedErrors":true,"StreamBufferCapacity":10,"MaximumParallelInvocationsPerClient":1}
+Nov 13 09:58:45 CMX50070-101776 start_cmxmarsserver.sh[4192858]: Hosting environment: Production
+Nov 13 09:58:45 CMX50070-101776 start_cmxmarsserver.sh[4192858]: Content root path: /usr/lib/cmxtools/cmxmars
+Nov 13 09:58:45 CMX50070-101776 start_cmxmarsserver.sh[4192858]: Now listening on: http://0.0.0.0:39001
+Nov 13 09:58:45 CMX50070-101776 start_cmxmarsserver.sh[4192858]: Now listening on: http://[::]:39001
+Nov 13 09:58:45 CMX50070-101776 start_cmxmarsserver.sh[4192858]: The termination request handler has been registered.
+Nov 13 09:58:50 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 136.18M, Virtual set 5.60G, CPU Time 41728.160 s, CPU User Time 26558.440 s, Threads 41
+Nov 13 09:58:54 CMX50070-101776 start_cmxmarsserver.sh[4192858]: After runonce
+Nov 13 09:58:54 CMX50070-101776 start_cmxmarsserver.sh[4192858]: Adding series HSfn
+Nov 13 09:58:54 CMX50070-101776 start_cmxmarsserver.sh[4192858]: */usr/lib/cmxtools/mddb/Mddb.eps_nas_all.29.1.so: cannot open shared object file: No such file or directory
+Nov 13 09:58:54 CMX50070-101776 start_cmxmarsserver.sh[4192858]: */usr/lib/cmxtools/mddb/Mddb.lte_std.28.30.so: cannot open shared object file: No such file or directory
+Nov 13 09:58:54 CMX50070-101776 start_cmxmarsserver.sh[4192858]: */usr/lib/cmxtools/mddb/Mddb.system_all.22.18.so: cannot open shared object file: No such file or directory
+Nov 13 09:58:54 CMX50070-101776 start_cmxmarsserver.sh[4192858]: */usr/lib/cmxtools/mddb/Mddb.uplane_cuda.3.0.so: cannot open shared object file: No such file or directory
+Nov 13 09:58:54 CMX50070-101776 start_cmxmarsserver.sh[4192858]: */usr/lib/cmxtools/mddb/Mddb.uplane_cupc.3.0.so: cannot open sha

@@ -1,0 +1,15 @@
+4 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2023 04:07:54 +00:00
+Nov 13 04:08:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 13 04:08:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/13/2023 04:08:54 +00:00
+Nov 13 04:08:54 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 13 04:08:54 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2023 04:08:54 +00:00
+Nov 13 04:09:18 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 173.00M, Virtual set 5.60G, CPU Time 38547.520 s, CPU User Time 24526.580 s, Threads 41
+Nov 13 04:09:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 13 04:09:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/13/2023 04:09:54 +00:00
+Nov 13 04:09:54 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 13 04:09:54 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2023 04:09:54 +00:00
+Nov 13 04:10:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 13 04:10:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/13/2023 04:10:54 +00:00
+Nov 13 04:10:54 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 13 04:10:54 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2023 04:10:54 +00:00
+Nov 13 04:11:05 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 173.17M, Virtual set 5.

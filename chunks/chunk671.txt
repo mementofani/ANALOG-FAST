@@ -1,0 +1,22 @@
+016]: PIAS: Socket[D]: Error: invalid command 'GET'!
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3] >> DIR\r\n
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: [56B blob data]
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: [47B blob data]
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] >> putenv BK_REMOTE_PROTOCOL=1.0\n
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] SCPI-Error: -113,"Undefined header;PUTENV"
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: Error: invalid command 'PUTENV'!
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] >> status\n
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] SCPI-Error: -113,"Undefined header;STATUS"
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8]: Error: invalid command 'STATUS'!
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: [60B blob data]
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[9]: Data channel normally closed (or due to unexpected data).
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[9]: socket normally closed.
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: [73B blob data]
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[A]: Data channel normally closed (or due to unexpected data).
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[A]: socket normally closed.
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[D]: Data channel normally closed (or due to unexpected data).
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[D]: socket normally closed.
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: Data channel normally closed (or due to unexpected data).
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3]: Data channel normally closed (or due to unexpected data).
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: socket normally closed.
+Nov 10 06:00:34 CMX50070-101776 rspias-da

@@ -1,0 +1,22 @@
+rnel:  device couldn't be enabled
+Nov 10 05:49:38 CMX50070-101776 kernel:  device name cmx_mb7_pcie_sw   pci bar0 ==> start: 0x0000000078c00000  length: 0x0000000000400000  flags: 0x0014220c
+Nov 10 05:49:38 CMX50070-101776 kernel:  pci bar0 ==> mapped to: (%pf?)
+Nov 10 05:49:38 CMX50070-101776 kernel: [104B blob data]
+Nov 10 05:49:38 CMX50070-101776 kernel: [96B blob data]
+Nov 10 05:49:38 CMX50070-101776 kernel:  read microsemi address(0xffffb29981c02000):  device id               0x00008563
+Nov 10 05:49:38 CMX50070-101776 kernel:  read microsemi address(0xffffb29981c02004):  device version          0x00000001
+Nov 10 05:49:38 CMX50070-101776 kernel:  read microsemi address(0xffffb29981c02008):  firmware version        0x010b008c
+Nov 10 05:49:38 CMX50070-101776 kernel:  read microsemi address(0xffffb29981c02010):  vendor tab revision     0x001005c1
+Nov 10 05:49:38 CMX50070-101776 kernel:  read microsemi address(0xffffb29981c02014):  table format revision   0x00000076
+Nov 10 05:49:38 CMX50070-101776 kernel:  read microsemi address(0xffffb29981c02018):  partition id            0x00000000
+Nov 10 05:49:38 CMX50070-101776 kernel:  read microsemi address(0xffffb29981c0201c):  config file fmt version 0x00000076
+Nov 10 05:49:38 CMX50070-101776 kernel:  read microsemi address(0xffffb29981c02020):  config running          0x00030004
+Nov 10 05:49:38 CMX50070-101776 kernel:  read microsemi address(0xffffb29981c02022):  img running             0x001e0003
+Nov 10 05:49:38 CMX50070-101776 kernel: [62B blob data]
+Nov 10 05:49:38 CMX50070-101776 kernel:            device id               0x00008563
+Nov 10 05:49:38 CMX50070-101776 kernel:            device version          0x00000001
+Nov 10 05:49:38 CMX50070-101776 kernel:            firmware version        0x010b008c
+Nov 10 05:49:38 CMX50070-101776 kernel:            vendor tab revision     0x001005c1
+Nov 10 05:49:38 CMX50070-101776 kernel:            table format revision   0x00000076
+Nov 10 05:49:38 CMX50070-101776 kernel:            partition id            0x00000000
+Nov 10 05:49:38 CMX50070-101776 kernel:     

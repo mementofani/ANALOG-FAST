@@ -1,0 +1,22 @@
+: config_generic_gigabit_channel_link(): update_write on 0x00067230 with value 0x00000000 (read 0x00000000 | 0x00000000)
+Nov 10 09:15:14 CMX50070-101776 kernel: ---
+Nov 10 09:15:14 CMX50070-101776 kernel: CMX_COMMON_IOCTL_SET_GIGABIT_CHANNEL_LINK_TRAINING call
+Nov 10 09:15:14 CMX50070-101776 kernel: CMX_COMMON_IOCTL_SET_GIGABIT_CHANNEL_LINK_TRAINING call
+Nov 10 09:15:14 CMX50070-101776 start_mrt.sh[27382]: Dispatching RPC RatRqm1::sfa_0::message_received
+Nov 10 09:15:14 CMX50070-101776 start_mrt.sh[27382]: execute
+Nov 10 09:15:15 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 0 count: 35 t: 9:15:15 AM
+Nov 10 09:15:16 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 0 count: 38 t: 9:15:16 AM
+Nov 10 09:15:21 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 400 count: 19 t: 9:15:21 AM
+Nov 10 09:15:21 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 0 count: 10 t: 9:15:21 AM
+Nov 10 09:15:22 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 500 count: 53 t: 9:15:22 AM
+Nov 10 09:15:24 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 600 count: 90 t: 9:15:24 AM
+Nov 10 09:15:24 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 800 count: 23 t: 9:15:24 AM
+Nov 10 09:15:25 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 900 count: 59 t: 9:15:25 AM
+Nov 10 09:15:26 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 1000 count: 94 t: 9:15:26 AM
+Nov 10 09:15:27 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 1200 count: 28 t: 9:15:27 AM
+Nov 10 09:15:28 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 1300 count: 64 t: 9:15:28 AM
+Nov 10 09:15:29 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 1400 count: 100 t: 9:15:29 AM
+Nov 10 09:15:29 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 1500 count: 11 t: 9:15:29 AM
+Nov 10 09:15:30 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 1600 count: 34 t: 9:15:30 AM
+Nov 10 09:15:31 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 1700 count: 67 t: 9:15:31 AM
+Nov 10 09:15:32 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 180

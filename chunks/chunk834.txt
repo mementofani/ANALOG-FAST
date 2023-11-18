@@ -1,0 +1,15 @@
+t_cmxmarsserver.sh[386]: Got Data: 5900 count: 60 t: 9:16:02 AM
+Nov 10 09:16:03 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 6000 count: 99 t: 9:16:03 AM
+Nov 10 09:16:04 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 6200 count: 34 t: 9:16:04 AM
+Nov 10 09:16:05 CMX50070-101776 start_cmxmarsserver.sh[386]: */usr/lib/cmxtools/mddb/Mddb.ridl.0.5.so: cannot open shared object file: No such file or directory
+Nov 10 09:16:05 CMX50070-101776 start_cmxmarsserver.sh[386]: */usr/lib/cmxtools/mddb/Mddb.ridl.0.5.so: cannot open shared object file: No such file or directory
+Nov 10 09:16:05 CMX50070-101776 start_cmxmarsserver.sh[386]: */usr/lib/cmxtools/mddb/Mddb.ridl.0.5.so: cannot open shared object file: No such file or directory
+Nov 10 09:16:05 CMX50070-101776 start_cmxmarsserver.sh[386]: */usr/lib/cmxtools/mddb/Mddb.ridl.0.5.so: cannot open shared object file: No such file or directory
+Nov 10 09:16:05 CMX50070-101776 start_cmxmarsserver.sh[386]: */usr/lib/cmxtools/mddb/Mddb.ridl.0.5.so: cannot open shared object file: No such file or directory
+Nov 10 09:16:05 CMX50070-101776 start_cmxmarsserver.sh[386]: */usr/lib/cmxtools/mddb/Mddb.ridl.0.5.so: cannot open shared object file: No such file or directory
+Nov 10 09:16:05 CMX50070-101776 start_cmxmarsserver.sh[386]: */usr/lib/cmxtools/mddb/Mddb.ridl.0.5.so: cannot open shared object file: No such file or directory
+Nov 10 09:16:05 CMX50070-101776 start_cmxmarsserver.sh[386]: */usr/lib/cmxtools/mddb/Mddb.ridl.0.5.so: cannot open shared object file: No such file or directory
+Nov 10 09:16:05 CMX50070-101776 start_cmxmarsserver.sh[386]: */usr/lib/cmxtools/mddb/Mddb.ridl.0.5.so: cannot open shared object file: No such file or directory
+Nov 10 09:16:05 CMX50070-101776 start_cmxmarsserver.sh[386]: */usr/lib/cmxtools/mddb/Mddb.ridl.0.5.so: cannot open shared object file: No such file or directory
+Nov 10 09:16:05 CMX50070-101776 start_cmxmarsserver.sh[386]: */usr/lib/cmxtools/mddb/Mddb.ridl.0.5.so: cannot open shared object file: No such file or directory
+Nov 10 09:16:05 CMX50070-101776 start_cmxmarss

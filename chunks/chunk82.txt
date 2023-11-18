@@ -1,0 +1,12 @@
+5:49:41.455210182Z" level=info msg="starting containerd" revision=d12516713c315ea9e651eb1df89cf32ff7c8137c.m version=v1.6.1-4-gd12516713.m
+Nov 10 05:49:41 CMX50070-101776 kernel: Adding 15728636k swap on /swapspace/swapfile.  Priority:-2 extents:45 across:135307972k FS
+Nov 10 05:49:41 CMX50070-101776 enable-mrt.swap.sh[399]: enabled swapping
+Nov 10 05:49:41 CMX50070-101776 systemd[1]: Finished MRT Swap enabler.
+Nov 10 05:49:41 CMX50070-101776 containerd[1024]: time="2023-11-10T05:49:41.551654678Z" level=info msg="loading plugin \"io.containerd.content.v1.content\"..." type=io.containerd.content.v1
+Nov 10 05:49:41 CMX50070-101776 containerd[1024]: time="2023-11-10T05:49:41.551828645Z" level=info msg="loading plugin \"io.containerd.snapshotter.v1.aufs\"..." type=io.containerd.snapshotter.v1
+Nov 10 05:49:41 CMX50070-101776 containerd[1024]: time="2023-11-10T05:49:41.553764765Z" level=info msg="skip loading plugin \"io.containerd.snapshotter.v1.aufs\"..." error="aufs is not supported (modprobe aufs failed: exit status 1 \"modprobe: FATAL: Module aufs not found in directory /lib/modules/5.15.73\\n\"): skip plugin" type=io.containerd.snapshotter.v1
+Nov 10 05:49:41 CMX50070-101776 containerd[1024]: time="2023-11-10T05:49:41.565208996Z" level=info msg="loading plugin \"io.containerd.snapshotter.v1.devmapper\"..." type=io.containerd.snapshotter.v1
+Nov 10 05:49:41 CMX50070-101776 containerd[1024]: time="2023-11-10T05:49:41.565318122Z" level=warning msg="failed to load plugin io.containerd.snapshotter.v1.devmapper" error="devmapper not configured"
+Nov 10 05:49:41 CMX50070-101776 containerd[1024]: time="2023-11-10T05:49:41.565955019Z" level=info msg="loading plugin \"io.containerd.snapshotter.v1.native\"..." type=io.containerd.snapshotter.v1
+Nov 10 05:49:41 CMX50070-101776 containerd[1024]: time="2023-11-10T05:49:41.566098468Z" level=info msg="loading plugin \"io.containerd.snapshotter.v1.overlayfs\"..." type=io.containerd.snapshotter.v1
+Nov 10 05:49:41 CMX50070-101776 containerd[1024]: time="2023-11-10T05:49:41.566370660Z" level=info msg="loading plugin \"

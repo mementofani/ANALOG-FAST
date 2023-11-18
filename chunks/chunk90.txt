@@ -1,0 +1,20 @@
+:49:42 CMX50070-101776 kernel: usb 3-2.2.5.2.6.2: new high-speed USB device number 27 using xhci_hcd
+Nov 10 05:49:42 CMX50070-101776 start-mrt.sysmond.sh[1300]: 2023-11-10T05:49:42,071418037+00:00 Compression done
+Nov 10 05:49:42 CMX50070-101776 start-mrt.sysmond.sh[1307]: 2023-11-10T05:49:42,084693270+00:00 Rotation done
+Nov 10 05:49:42 CMX50070-101776 start-mrt.sysmond.sh[1312]: 2023-11-10T05:49:42,090831959+00:00 Launching nmon...
+Nov 10 05:49:42 CMX50070-101776 Xserver[1314]: D-BUS per-session daemon address is: unix:abstract=/tmp/dbus-hY384SaHhw,guid=dde148c622e2306947ff2825654dc476
+Nov 10 05:49:42 CMX50070-101776 start-mrt.sysmond.sh[1339]: 2023-11-10T05:49:42,112309981+00:00 Launch done: PID is 1335
+Nov 10 05:49:42 CMX50070-101776 kernel: usb 3-2.2.5.2.6.2: New USB device found, idVendor=0aad, idProduct=01ee, bcdDevice= 0.00
+Nov 10 05:49:42 CMX50070-101776 kernel: usb 3-2.2.5.2.6.2: New USB device strings: Mfr=1, Product=0, SerialNumber=0
+Nov 10 05:49:42 CMX50070-101776 kernel: usb 3-2.2.5.2.6.2: Manufacturer: Rohde & Schwarz GmbH & Co. KG
+Nov 10 05:49:42 CMX50070-101776 avahi-daemon[381]: Service "CMX50070-101776" (/services/rs-installation-service.service) successfully established.
+Nov 10 05:49:42 CMX50070-101776 kernel: rsmic 3-2.2.5.2.6.2:1.0: MIC device 12 connected
+Nov 10 05:49:42 CMX50070-101776 kernel: usb 3-2.2.6.2.6.1: new full-speed USB device number 28 using xhci_hcd
+Nov 10 05:49:42 CMX50070-101776 Xserver[1462]: server does not have extension for -dpms option
+Nov 10 05:49:42 CMX50070-101776 su[1471]: Successful su for xuser by root
+Nov 10 05:49:42 CMX50070-101776 su[1471]: + ??? root:xuser
+Nov 10 05:49:42 CMX50070-101776 su[1471]: pam_unix(su:session): session opened for user xuser(uid=2000) by (uid=0)
+Nov 10 05:49:42 CMX50070-101776 systemd[1]: Created slice User Slice of UID 2000.
+Nov 10 05:49:42 CMX50070-101776 systemd[1]: Starting User Runtime Directory /run/user/2000...
+Nov 10 05:49:42 CMX50070-101776 systemd-logind[412]: New session c1 of user xuser.
+Nov 10 05:49:42 CMX50070-101776 kernel: usb 3-2.2.6.2.6.1: New USB dev

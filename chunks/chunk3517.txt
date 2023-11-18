@@ -1,0 +1,18 @@
+n Daemon (192.168.85.173:44972).
+Nov 13 06:37:44 CMX50070-101776 sshd[2894094]: error: kex_exchange_identification: Connection closed by remote host
+Nov 13 06:37:44 CMX50070-101776 sshd[2894094]: Connection closed by 192.168.85.173 port 44972
+Nov 13 06:37:44 CMX50070-101776 systemd[1]: sshd@1206-10.102.37.173:22-192.168.85.173:44972.service: Deactivated successfully.
+Nov 13 06:37:44 CMX50070-101776 start_cmxmarsserver.sh[2893860]: Start signalR Config: {"HandshakeTimeout":"00:00:15","KeepAliveInterval":"00:00:10","ClientTimeoutInterval":"00:02:00","SupportedProtocols":["json","json"],"MaximumReceiveMessageSize":32768,"EnableDetailedErrors":true,"StreamBufferCapacity":10,"MaximumParallelInvocationsPerClient":1}
+Nov 13 06:37:44 CMX50070-101776 start_cmxmarsserver.sh[2893860]: Hosting environment: Production
+Nov 13 06:37:44 CMX50070-101776 start_cmxmarsserver.sh[2893860]: Content root path: /usr/lib/cmxtools/cmxmars
+Nov 13 06:37:44 CMX50070-101776 start_cmxmarsserver.sh[2893860]: Now listening on: http://0.0.0.0:39001
+Nov 13 06:37:44 CMX50070-101776 start_cmxmarsserver.sh[2893860]: Now listening on: http://[::]:39001
+Nov 13 06:37:44 CMX50070-101776 start_cmxmarsserver.sh[2893860]: The termination request handler has been registered.
+Nov 13 06:37:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 13 06:37:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/13/2023 06:37:54 +00:00
+Nov 13 06:37:54 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 13 06:37:54 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2023 06:37:54 +00:00
+Nov 13 06:37:56 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.24.26.38:58894).
+Nov 13 06:37:56 CMX50070-101776 sshd[2895406]: error: kex_exchange_identification: Connection closed by remote host
+Nov 13 06:37:56 CMX50070-101776 sshd[2895406]: Connection closed by 172.24.26.38 port 58894
+N

@@ -1,0 +1,19 @@
+al set 5.41G, CPU Time 2261.330 s, CPU User Time 1444.050 s, Threads 41
+Nov 10 09:15:02 CMX50070-101776 kernel: CMX_IOCTL_GET_SLOT_ID call
+Nov 10 09:15:02 CMX50070-101776 kernel: CMX_AU_IOCTL_SET_RAT_SIG_SLOT_ID call
+Nov 10 09:15:02 CMX50070-101776 kernel: CMX_AU_IOCTL_GET_SIGA_FPGA_VERSION call
+Nov 10 09:15:02 CMX50070-101776 kernel: CMX_AU_IOCTL_GET_SIGA_FPGA_IS_AFP_IMAGE call
+Nov 10 09:15:02 CMX50070-101776 kernel: CMX_AU_IOCTL_SET_SIGA_FPGA_AST_OFFSET call
+Nov 10 09:15:02 CMX50070-101776 kernel: CMX_COMMON_IOCTL_SET_GIGABIT_CHANNEL_LINK_CONFIG call
+Nov 10 09:15:02 CMX50070-101776 kernel: --- CONFIG GIGABIT CHANNEL ---
+Nov 10 09:15:02 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): module_offset: 0x00040000 / sub_offset: 0x00020420 / channel_offset: 0x00000000  / confLengthDataPerAddr: 002
+Nov 10 09:15:02 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): access for address[000/001] = 0x00000014
+Nov 10 09:15:02 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): access is 'clear_update_write'
+Nov 10 09:15:02 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): clear on 0x00060434 with value 0x00000000
+Nov 10 09:15:02 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): [000/001][000/002] 0x00000014 = 0x00000002 / confLengthData: 003
+Nov 10 09:15:02 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): update_write on 0x00060434 with value 0x00000002 (read 0x00000000 | 0x00000002)
+Nov 10 09:15:02 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): [000/001][001/002] 0x00000014 = 0x00000040 / confLengthData: 003
+Nov 10 09:15:02 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): update_write on 0x00060434 with value 0x00000042 (read 0x00000002 | 0x00000040)
+Nov 10 09:15:02 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): [000/001][002/002] 0x00000014 = 0x00003000 / confLengthData: 003
+Nov 10 09:15:02 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): update_write on 0x00060434 with value 0x00003042 (read 0x00000042 | 0x00003000)
+No

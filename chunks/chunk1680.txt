@@ -1,0 +1,16 @@
+v 10 21:06:52 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 21:06:52 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 21:06:52 +00:00
+Nov 10 21:07:52 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 21:07:52 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 21:07:52 +00:00
+Nov 10 21:07:52 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 21:07:52 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 21:07:52 +00:00
+Nov 10 21:08:21 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 191.44M, Virtual set 5.60G, CPU Time 9522.160 s, CPU User Time 6060.060 s, Threads 43
+Nov 10 21:08:52 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 21:08:52 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 21:08:52 +00:00
+Nov 10 21:08:52 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 21:08:52 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 21:08:52 +00:00
+Nov 10 21:09:52 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 21:09:52 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 21:09:52 +00:00
+Nov 10 21:09:52 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 21:09:52 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 21:09:52 +00:00
+Nov 10 21:10:08 CMX5007

@@ -1,0 +1,18 @@
+sh[2908496]: Got Data: 0 count: 48 t: 7:03:53 AM
+Nov 13 07:03:53 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 0 count: 50 t: 7:03:53 AM
+Nov 13 07:03:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 13 07:03:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/13/2023 07:03:54 +00:00
+Nov 13 07:03:54 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 0 count: 51 t: 7:03:54 AM
+Nov 13 07:03:54 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 0 count: 54 t: 7:03:54 AM
+Nov 13 07:03:55 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 13 07:03:55 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2023 07:03:55 +00:00
+Nov 13 07:03:56 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 0 count: 55 t: 7:03:56 AM
+Nov 13 07:03:56 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 0 count: 57 t: 7:03:56 AM
+Nov 13 07:03:57 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 0 count: 58 t: 7:03:57 AM
+Nov 13 07:03:57 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 0 count: 61 t: 7:03:57 AM
+Nov 13 07:03:58 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 0 count: 63 t: 7:03:58 AM
+Nov 13 07:03:58 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 0 count: 66 t: 7:03:58 AM
+Nov 13 07:04:04 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 159.66M, Virtual set 5.59G, CPU Time 40118.730 s, CPU User Time 25534.150 s, Threads 43
+Nov 13 07:04:07 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 07:04:09 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Re-init accessor: (defaultOnlineTable) == (9d8f396f-e32a-43bb-9f2e-4ee5feaff4a4)False
+Nov 13 07:04:09 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Re-init accessor: (Untitled) == (9d8f3

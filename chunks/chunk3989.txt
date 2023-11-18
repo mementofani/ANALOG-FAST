@@ -1,0 +1,20 @@
+cmxmarsserver.sh[316441]: Got Data: 212300 count: 13 t: 10:50:40 AM
+Nov 13 10:50:40 CMX50070-101776 start_cmxmarsserver.sh[316441]: Got Data: 211900 count: 8 t: 10:50:40 AM
+Nov 13 10:50:40 CMX50070-101776 start_cmxmarsserver.sh[316441]: Got Data: 212200 count: 100 t: 10:50:40 AM
+Nov 13 10:50:40 CMX50070-101776 start_cmxmarsserver.sh[316441]: Got Data: 212500 count: 15 t: 10:50:40 AM
+Nov 13 10:50:40 CMX50070-101776 start_cmxmarsserver.sh[316441]: Got Data: 212400 count: 100 t: 10:50:40 AM
+Nov 13 10:50:40 CMX50070-101776 start_cmxmarsserver.sh[316441]: Got Data: 212700 count: 16 t: 10:50:40 AM
+Nov 13 10:50:40 CMX50070-101776 start_cmxmarsserver.sh[316441]: Got Data: 213300 count: 23 t: 10:50:40 AM
+Nov 13 10:50:40 CMX50070-101776 start_cmxmarsserver.sh[316441]: Got Data: 213700 count: 46 t: 10:50:40 AM
+Nov 13 10:50:40 CMX50070-101776 start_cmxmarsserver.sh[316441]: Got Data: 214100 count: 39 t: 10:50:40 AM
+Nov 13 10:50:41 CMX50070-101776 start_cmxmarsserver.sh[316441]: Got Data: 214300 count: 42 t: 10:50:41 AM
+Nov 13 10:50:41 CMX50070-101776 start_cmxmarsserver.sh[316441]: Got Data: 214700 count: 47 t: 10:50:41 AM
+Nov 13 10:50:41 CMX50070-101776 start_cmxmarsserver.sh[316441]: Got Data: 214300 count: 42 t: 10:50:41 AM
+Nov 13 10:50:41 CMX50070-101776 start_cmxmarsserver.sh[316441]: Got Data: 215100 count: 49 t: 10:50:41 AM
+Nov 13 10:50:41 CMX50070-101776 start_cmxmarsserver.sh[316441]: Got Data: 215300 count: 51 t: 10:50:41 AM
+Nov 13 10:50:54 CMX50070-101776 start_cmxmarsserver.sh[316441]: Got Data: 900 count: 100 t: 10:50:54 AM
+Nov 13 10:50:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 13 10:50:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/13/2023 10:50:54 +00:00
+Nov 13 10:50:55 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 13 10:50:55 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2023 10:50:55 +00:00
+Nov 13 10:50

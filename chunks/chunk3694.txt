@@ -1,0 +1,14 @@
+: Test mode: False
+Nov 13 07:08:06 CMX50070-101776 start_mrt.sh[3094826]: [INFO] [2023-11-13T07:08:06,846+0000] [utilities.__init__:188]: Creating SaveRecall
+Nov 13 07:08:06 CMX50070-101776 start_mrt.sh[3094826]: [INFO] [2023-11-13T07:08:06,846+0000] [utilities.__init__:193]: Broker started as Slave
+Nov 13 07:08:06 CMX50070-101776 start_mrt.sh[3094826]: [INFO] [2023-11-13T07:08:06,846+0000] [srsf.verify_args:57]: Master broker address: 127.0.0.1
+Nov 13 07:08:06 CMX50070-101776 start_mrt.sh[3094826]: [INFO] [2023-11-13T07:08:06,847+0000] [srsf.verify_args:63]: fri_recall_log_lookup_location: /home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation5/fri
+Nov 13 07:08:06 CMX50070-101776 start_mrt.sh[3094826]: [INFO] [2023-11-13T07:08:06,847+0000] [srsf.verify_args:69]: working_dir: /home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation5/fri
+Nov 13 07:08:06 CMX50070-101776 start_mrt.sh[3094826]: [INFO] [2023-11-13T07:08:06,847+0000] [srsf.__init__:43]: SRSF version: 01.04.11
+Nov 13 07:08:06 CMX50070-101776 start_mrt.sh[3094826]: [INFO] [2023-11-13T07:08:06,862+0000] [utilities.register_in_persistence_registry_service:215]: Successfully registered in PersistenceRegistryService
+Nov 13 07:08:06 CMX50070-101776 start_mrt.sh[3094826]: [INFO] [2023-11-13T07:08:06,862+0000] [srsf.__init__:51]: Service registered
+Nov 13 07:08:06 CMX50070-101776 start_mrt.sh[3094826]: [INFO] [2023-11-13T07:08:06,931+0000] [srsf_service_impl.CheckService:96]: SRSF is running
+Nov 13 07:08:07 CMX50070-101776 start_mrt.sh[3094933]: PyInstaller _MEI directory save_recall
+Nov 13 07:08:07 CMX50070-101776 start_mrt.sh[3094933]: Namespace(broker_ip='127.0.0.1', sri_recall_log_dir='/home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation5/sri', verbose=False, no_base_registration=False, working_dir='/home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation5/sri')
+Nov 13 07:08:07 CMX50070-101776 start_mrt.sh[3094933]: srss.log location: /home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation5/sri/srss.log
+Nov 13 07:08:07 CMX50070-101776 sta

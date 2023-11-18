@@ -1,0 +1,21 @@
+:21:51 +00:00
+Nov 10 09:21:51 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 09:21:51 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 09:21:51 +00:00
+Nov 10 09:21:51 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 671000 count: 99 t: 9:21:51 AM
+Nov 10 09:21:52 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 673100 count: 10 t: 9:21:52 AM
+Nov 10 09:21:52 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 673000 count: 100 t: 9:21:52 AM
+Nov 10 09:21:53 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 675000 count: 9 t: 9:21:53 AM
+Nov 10 09:21:53 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 674900 count: 100 t: 9:21:53 AM
+Nov 10 09:21:54 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 677100 count: 18 t: 9:21:54 AM
+Nov 10 09:21:54 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 677000 count: 100 t: 9:21:54 AM
+Nov 10 09:21:55 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 679100 count: 25 t: 9:21:55 AM
+Nov 10 09:21:56 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 681100 count: 34 t: 9:21:56 AM
+Nov 10 09:21:57 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 683100 count: 28 t: 9:21:57 AM
+Nov 10 09:21:58 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 685100 count: 42 t: 9:21:58 AM
+Nov 10 09:21:59 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 687100 count: 39 t: 9:21:59 AM
+Nov 10 09:22:00 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 689100 count: 46 t: 9:22:00 AM
+Nov 10 09:22:01 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 691100 count: 61 t: 9:22:01 AM
+Nov 10 09:22:02 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 693100 count: 54 t: 9:22:02 AM
+Nov 10 09:22:03 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 695000 count: 18 t: 9:22:03 AM
+Nov 10 09:22:03 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 694900 count: 100 t: 9:22:03 AM
+Nov 10 09:22:04 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 

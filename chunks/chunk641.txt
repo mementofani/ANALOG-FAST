@@ -1,0 +1,13 @@
+ed: CMX ACCELERATOR UNIT
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.207686Z [DeviceApiSubscriber                                  ] DEBUG: License service hardware detected: CMX ACCELERATOR UNIT
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.210217Z [DeviceApiSubscriber                                  ] DEBUG: License service hardware detected: IPX31/128-64GB
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.212491Z [DeviceApiSubscriber                                  ] DEBUG: License service hardware detected: IF UNIT
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.214852Z [DeviceApiSubscriber                                  ] DEBUG: License service hardware detected: IF UNIT
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.217055Z [DeviceApiSubscriber                                  ] DEBUG: License service hardware detected: CMX RF UNIT
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.219222Z [DeviceApiSubscriber                                  ] DEBUG: License service hardware detected: CMX RF UNIT
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.221460Z [DeviceApiSubscriber                                  ] DEBUG: License service hardware detected: IPS14/8-12-35W
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.223653Z [DeviceApiSubscriber                                  ] DEBUG: License service hardware detected: REMOTE RADIO HEAD CMXHEAD30
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.225816Z [DeviceApiSubscriber                                  ] DEBUG: License service hardware detected: REMOTE RADIO HEAD CMXHEAD30
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.245871Z [DeviceApiSubscriber                                  ] INFO : Loading DUT service with DUT Connectors
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.256333Z [DeviceApiSubscriber                                  ] DEBUG:  * DUT profile: DUT Test
+Nov 10 05:5

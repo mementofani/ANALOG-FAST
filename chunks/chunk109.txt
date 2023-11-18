@@ -1,0 +1,23 @@
+ from Eeprom: 00:e0:33:0b:b5:bf
+Nov 10 05:49:45 CMX50070-101776 xu_launcher[2271]: gpg: AES256.CFB encrypted data
+Nov 10 05:49:45 CMX50070-101776 Xserver[2541]: server does not have extension for -dpms option
+Nov 10 05:49:45 CMX50070-101776 su[2558]: Successful su for xuser by root
+Nov 10 05:49:45 CMX50070-101776 systemd[1]: Started Session c2 of User xuser.
+Nov 10 05:49:45 CMX50070-101776 AlfManagerApp[1951]: CPDefErrorLoggerMulti::Write(): No Loggers registered!
+Nov 10 05:49:45 CMX50070-101776 AlfManagerApp[1951]: CPDefErrorLoggerMulti::Write(): No Loggers registered!
+Nov 10 05:49:45 CMX50070-101776 AlfManagerApp[1951]: AlfManager started. Version: 1.9.4.239
+Nov 10 05:49:45 CMX50070-101776 su[2558]: + ??? root:xuser
+Nov 10 05:49:45 CMX50070-101776 systemd-logind[412]: New session c2 of user xuser.
+Nov 10 05:49:45 CMX50070-101776 su[2558]: pam_unix(su:session): session opened for user xuser(uid=2000) by (uid=0)
+Nov 10 05:49:45 CMX50070-101776 Xserver[2563]: matchbox: Cant find a keycode for keysym 269025056
+Nov 10 05:49:45 CMX50070-101776 Xserver[2563]: matchbox: ignoring key shortcut XF86Calendar=!$contacts
+Nov 10 05:49:45 CMX50070-101776 Xserver[2563]: matchbox: Cant find a keycode for keysym 2809
+Nov 10 05:49:45 CMX50070-101776 Xserver[2563]: matchbox: ignoring key shortcut telephone=!$dates
+Nov 10 05:49:45 CMX50070-101776 Xserver[2563]: matchbox: Cant find a keycode for keysym 269025050
+Nov 10 05:49:45 CMX50070-101776 Xserver[2563]: matchbox: ignoring key shortcut XF86Start=!matchbox-remote -desktop
+Nov 10 05:49:45 CMX50070-101776 start_cmxmarsserver.sh[386]: Hosting environment: Production
+Nov 10 05:49:45 CMX50070-101776 start_cmxmarsserver.sh[386]: Content root path: /usr/lib/cmxtools/cmxmars
+Nov 10 05:49:45 CMX50070-101776 start_cmxmarsserver.sh[386]: Now listening on: http://0.0.0.0:39001
+Nov 10 05:49:45 CMX50070-101776 start_cmxmarsserver.sh[386]: Now listening on: http://[::]:39001
+Nov 10 05:49:45 CMX50070-101776 start_cmxmarsserver.sh[386]: The termination request handler has been registered.
+Nov 10 05:49:45 CMX50070-101776 RsLicense

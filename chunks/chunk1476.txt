@@ -1,0 +1,20 @@
+Connection closed by remote host
+Nov 10 15:48:49 CMX50070-101776 sshd[3855591]: Connection closed by 10.0.54.70 port 33220
+Nov 10 15:48:49 CMX50070-101776 systemd[1]: sshd@745-10.102.37.173:22-10.0.54.70:33220.service: Deactivated successfully.
+Nov 10 15:48:51 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 15:48:51 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 15:48:51 +00:00
+Nov 10 15:48:52 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 15:48:52 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 15:48:52 +00:00
+Nov 10 15:48:53 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (192.168.85.173:56194).
+Nov 10 15:48:53 CMX50070-101776 sshd[3855918]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:48:53 CMX50070-101776 sshd[3855918]: Connection closed by 192.168.85.173 port 56194
+Nov 10 15:48:53 CMX50070-101776 systemd[1]: sshd@746-10.102.37.173:22-192.168.85.173:56194.service: Deactivated successfully.
+Nov 10 15:48:57 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.25.196.5:56348).
+Nov 10 15:48:57 CMX50070-101776 sshd[3856454]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:48:57 CMX50070-101776 sshd[3856454]: Connection closed by 172.25.196.5 port 56348
+Nov 10 15:48:57 CMX50070-101776 systemd[1]: sshd@747-10.102.37.173:22-172.25.196.5:56348.service: Deactivated successfully.
+Nov 10 15:48:59 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.24.11.229:51688).
+Nov 10 15:48:59 CMX50070-101776 sshd[3856560]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:48:59 CMX50070-101776 sshd[3856560]: Connection closed by 172.24.11.229 port 51688
+Nov 10 15:48:59 CMX50070-101776 systemd[1]: sshd@748-10.102.37.173:22-172.24.11.229:51688.service: Deactivated successfully.
+N

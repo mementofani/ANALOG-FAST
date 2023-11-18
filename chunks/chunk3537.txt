@@ -1,0 +1,21 @@
+070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 700 count: 71 t: 6:42:17 AM
+Nov 13 06:42:18 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 700 count: 72 t: 6:42:18 AM
+Nov 13 06:42:18 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 700 count: 74 t: 6:42:18 AM
+Nov 13 06:42:19 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 700 count: 75 t: 6:42:19 AM
+Nov 13 06:42:19 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 700 count: 77 t: 6:42:19 AM
+Nov 13 06:42:20 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 700 count: 78 t: 6:42:20 AM
+Nov 13 06:42:20 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 700 count: 80 t: 6:42:20 AM
+Nov 13 06:42:21 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 700 count: 81 t: 6:42:21 AM
+Nov 13 06:42:21 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 700 count: 83 t: 6:42:21 AM
+Nov 13 06:42:22 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 700 count: 84 t: 6:42:22 AM
+Nov 13 06:42:22 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 700 count: 86 t: 6:42:22 AM
+Nov 13 06:42:23 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 700 count: 87 t: 6:42:23 AM
+Nov 13 06:42:23 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 700 count: 89 t: 6:42:23 AM
+Nov 13 06:42:24 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 700 count: 90 t: 6:42:24 AM
+Nov 13 06:42:24 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 700 count: 92 t: 6:42:24 AM
+Nov 13 06:42:25 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 700 count: 93 t: 6:42:25 AM
+Nov 13 06:42:25 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (10.0.54.71:39974).
+Nov 13 06:42:25 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 700 count: 95 t: 6:42:25 AM
+Nov 13 06:42:25 CMX50070-101776 sshd[2923814]: error: kex_exchange_identification: Connection closed by remote host
+Nov 13 06:42:25 CMX50070-101776 sshd[2923814]: Connection closed by 10.0.54.71 port 39974
+Nov 13 06:42:25 CMX50070-101776 systemd[1]:

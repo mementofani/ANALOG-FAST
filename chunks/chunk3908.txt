@@ -1,0 +1,22 @@
+pias-daemon[1016]: PIAS: Socket[C]: socket normally closed.
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[D]: Data channel normally closed (or due to unexpected data).
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[D]: socket normally closed.
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[E] >> GET / HTTP/1.1\r\n
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[E] SCPI-Error: -113,"Undefined header;GET"
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[E]: Error: invalid command 'GET'!
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] >> DIR\r\n
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: [56B blob data]
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: [47B blob data]
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] >> putenv BK_REMOTE_PROTOCOL=1.0\n
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] SCPI-Error: -113,"Undefined header;PUTENV"
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8]: Error: invalid command 'PUTENV'!
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[9] >> status\n
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[9] SCPI-Error: -113,"Undefined header;STATUS"
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[9]: Error: invalid command 'STATUS'!
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: [60B blob data]
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[A]: Data channel normally closed (or due to unexpected data).
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[A]: socket normally closed.
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: [73B blob data]
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[B]: Data channel normally closed (or due to unexpected data).
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[B]: socket normally closed.
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[E]: Data channel n

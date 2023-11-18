@@ -1,0 +1,23 @@
+0 05:50:39 CMX50070-101776 xu_launcher[10320]: ./warning_mark.bmp
+Nov 10 05:50:39 CMX50070-101776 xu_launcher[10320]: ./t_lower_12.bmp
+Nov 10 05:50:39 CMX50070-101776 xu_launcher[1978]: Received signal: 17
+Nov 10 05:50:39 CMX50070-101776 xu_launcher[1978]: Received signal: 17
+Nov 10 05:50:39 CMX50070-101776 xu_launcher[10324]: Creating Snapshot
+Nov 10 05:50:39 CMX50070-101776 xu_launcher[10324]: Creating config
+Nov 10 05:50:39 CMX50070-101776 xu_launcher[10324]: Done
+Nov 10 05:50:39 CMX50070-101776 xu_launcher[1978]: Received signal: 17
+Nov 10 05:50:39 CMX50070-101776 flexxamconfigurationbridge[6228]: running sams:
+Nov 10 05:50:39 CMX50070-101776 systemd[1]: Starting Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter...
+Nov 10 05:50:39 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.25.11.233:48798).
+Nov 10 05:50:39 CMX50070-101776 xu_launcher[10452]: Received ACK from [fe80::02e0:33ff:fe0b:b5bf%eth_internal]:21840 after 152 microseconds
+Nov 10 05:50:39 CMX50070-101776 sshd[10440]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 05:50:39 CMX50070-101776 sshd[10440]: Connection closed by 172.25.11.233 port 48798
+Nov 10 05:50:39 CMX50070-101776 systemd[1]: sshd@3-10.102.37.173:22-172.25.11.233:48798.service: Deactivated successfully.
+Nov 10 05:50:39 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Logger initialized to LOGGING_ON_TARGET
+Nov 10 05:50:39 CMX50070-101776 start_mrt.sh[3324]: CCmgAccess(/dev/rohde-schwarz/cmg_300) ctor handle=467
+Nov 10 05:50:39 CMX50070-101776 start_mrt.sh[3324]: CCmgAccess(/dev/rohde-schwarz/cmg_200) ctor handle=468
+Nov 10 05:50:39 CMX50070-101776 start_mrt.sh[3324]: fpga version=0x3070007
+Nov 10 05:50:39 CMX50070-101776 start_mrt.sh[3324]: fpga version=0x7080008
+Nov 10 05:50:39 CMX50070-101776 kernel: CLOSE cmx_au driver by pid: 2113 (PB::AuKernelGat)
+Nov 10 05:50:39 CMX50070-101776 kernel: OPEN cmx_au driver called from pid: 2113 (PB::AuKernelGat)
+Nov 10 05:50:39 CMX50070-101776 kernel: CLOSE cmx_au driver by pid: 2069 

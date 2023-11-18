@@ -1,0 +1,16 @@
+rp3dr[1969]:       Worker running at: 11/13/2023 04:57:54 +00:00
+Nov 13 04:57:54 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 13 04:57:54 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2023 04:57:54 +00:00
+Nov 13 04:58:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 13 04:58:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/13/2023 04:58:54 +00:00
+Nov 13 04:58:54 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 13 04:58:54 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2023 04:58:54 +00:00
+Nov 13 04:59:14 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 172.19M, Virtual set 5.59G, CPU Time 39010.070 s, CPU User Time 24822.390 s, Threads 41
+Nov 13 04:59:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 13 04:59:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/13/2023 04:59:54 +00:00
+Nov 13 04:59:54 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 13 04:59:54 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2023 04:59:54 +00:00
+Nov 13 05:00:00 CMX50070-101776 systemd[1]: Starting Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter...
+Nov 13 05:00:00 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Deactivated successfully.
+Nov 13 05:00:00 CMX50070-101776 systemd[1]: Finished Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 13 05:00:01 CMX50070-101776 systemd[1]: Starting Script that

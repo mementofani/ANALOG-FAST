@@ -1,0 +1,12 @@
+.0: 5 ports detected
+Nov 10 05:49:38 CMX50070-101776 systemd[1]: /lib/systemd/system/mrt.webhelp.service:7: Standard output type syslog is obsolete, automatically updating to journal. Please update your unit file, and consider removing the setting altogether.
+Nov 10 05:49:38 CMX50070-101776 systemd[1]: /lib/systemd/system/mrt.webhelp.service:8: Standard output type syslog is obsolete, automatically updating to journal. Please update your unit file, and consider removing the setting altogether.
+Nov 10 05:49:38 CMX50070-101776 systemd[1]: Configuration file /lib/systemd/system/mrt.webgui.service is marked world-writable. Please remove world writability permission bits. Proceeding anyway.
+Nov 10 05:49:38 CMX50070-101776 systemd[1]: /lib/systemd/system/mrt.webgui.service:7: Standard output type syslog is obsolete, automatically updating to journal. Please update your unit file, and consider removing the setting altogether.
+Nov 10 05:49:38 CMX50070-101776 systemd[1]: /lib/systemd/system/mrt.webgui.service:8: Standard output type syslog is obsolete, automatically updating to journal. Please update your unit file, and consider removing the setting altogether.
+Nov 10 05:49:38 CMX50070-101776 systemd[1]: Configuration file /lib/systemd/system/mrt.positioning.catrp3dr.service is marked executable. Please remove executable permission bits. Proceeding anyway.
+Nov 10 05:49:38 CMX50070-101776 systemd[1]: Configuration file /lib/systemd/system/mrt.positioning.catrp3d1.service is marked executable. Please remove executable permission bits. Proceeding anyway.
+Nov 10 05:49:38 CMX50070-101776 systemd[1]: Configuration file /lib/systemd/system/mrt.cmsequencer.service is marked executable. Please remove executable permission bits. Proceeding anyway.
+Nov 10 05:49:38 CMX50070-101776 systemd[1]: /lib/systemd/system/mrt.base.service:3: Failed to add dependency on rpcbind.sockets, ignoring: Invalid argument
+Nov 10 05:49:38 CMX50070-101776 systemd[1]: /lib/systemd/system/cmximportexport.service:16: Unknown key name 'PartOf' in section 'Service', ignoring.
+Nov 10 05:49:38 

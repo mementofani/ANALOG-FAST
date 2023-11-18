@@ -1,0 +1,16 @@
+0070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 12 04:49:53 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/12/2023 04:49:53 +00:00
+Nov 12 04:49:53 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 12 04:49:53 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/12/2023 04:49:53 +00:00
+Nov 12 04:50:53 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 12 04:50:53 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/12/2023 04:50:53 +00:00
+Nov 12 04:50:53 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 12 04:50:53 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/12/2023 04:50:53 +00:00
+Nov 12 04:51:10 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 177.62M, Virtual set 5.59G, CPU Time 26055.910 s, CPU User Time 16580.880 s, Threads 42
+Nov 12 04:51:29 CMX50070-101776 ast2sys[16350]: [169313.174] CLOCK_REALTIME rms   29 max  756 freq -30512 +/-  29
+Nov 12 04:51:42 CMX50070-101776 start_mrt.sh[3324]: TSS: No PTP nodes connected.
+Nov 12 04:51:53 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 12 04:51:53 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/12/2023 04:51:53 +00:00
+Nov 12 04:51:53 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 12 04:51:53 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/12/2023 04:51:53 +00:00
+Nov 12 04:51:55 CMX50070-101776 phc2sys[17597]: [169339.878] eth_internal rms   24 max  528 freq     -1

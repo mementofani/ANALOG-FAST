@@ -1,0 +1,19 @@
+rics and prepares them for node_exporter.
+Nov 13 07:00:58 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Start request repeated too quickly.
+Nov 13 07:00:58 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Failed with result 'start-limit-hit'.
+Nov 13 07:00:58 CMX50070-101776 systemd[1]: Failed to start Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 13 07:00:58 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 200 count: 97 t: 7:00:58 AM
+Nov 13 07:00:59 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Start request repeated too quickly.
+Nov 13 07:00:59 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Failed with result 'start-limit-hit'.
+Nov 13 07:00:59 CMX50070-101776 systemd[1]: Failed to start Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 13 07:00:59 CMX50070-101776 start_mrt.sh[3010477]: Dispatching RPC RatRqm1::sfa_0::message_received
+Nov 13 07:00:59 CMX50070-101776 start_mrt.sh[3010477]: execute
+Nov 13 07:01:00 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 200 count: 98 t: 7:01:00 AM
+Nov 13 07:01:01 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 300 count: 31 t: 7:01:01 AM
+Nov 13 07:01:01 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 200 count: 100 t: 7:01:01 AM
+Nov 13 07:01:01 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 07:01:07 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 300 count: 38 t: 7:01:07 AM
+Nov 13 07:01:07 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Calling set_mb_sync_connection(mapFile, srcSlot, srcLine, dstSlot, dstLine):/usr/lib/fw/RS.CMWBase/DPSW/mb_cst_map.xcnf 501 0 300 0
+Nov 13 07:01:07 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Success! Call to function remove_mb_sync_connection
+Nov 13 07:01:07 CMX50070-101776 kernel: CMX_MB_IOCTL_SET_SYNC_TRIG_BNC_CONNECTION call
+Nov 13 07:01:07 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Calling set_mb_sync_c

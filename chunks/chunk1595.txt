@@ -1,0 +1,15 @@
+.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 18:28:51 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 18:28:51 +00:00
+Nov 10 18:28:52 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 18:28:52 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 18:28:52 +00:00
+Nov 10 18:29:38 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 198.75M, Virtual set 5.60G, CPU Time 8113.170 s, CPU User Time 5160.240 s, Threads 43
+Nov 10 18:29:51 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 18:29:51 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 18:29:51 +00:00
+Nov 10 18:29:52 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 18:29:52 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 18:29:52 +00:00
+Nov 10 18:30:51 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 18:30:51 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 18:30:51 +00:00
+Nov 10 18:30:52 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 18:30:52 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 18:30:52 +00:00
+Nov 10 18:31:25 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 198.77M, Virtual set 5.60G, CPU Time 8125.920 s, CPU User Time 5168.590 s, Threads 41
+Nov 10 18:31:51 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCat

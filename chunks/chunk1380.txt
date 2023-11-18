@@ -1,0 +1,16 @@
+os.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 14:50:51 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 14:50:51 +00:00
+Nov 10 14:50:52 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 14:50:52 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 14:50:52 +00:00
+Nov 10 14:51:29 CMX50070-101776 ast2sys[16350]: [32513.174] CLOCK_REALTIME rms   24 max  626 freq -30512 +/-  26
+Nov 10 14:51:40 CMX50070-101776 start_mrt.sh[3324]: TSS: No PTP nodes connected.
+Nov 10 14:51:43 CMX50070-101776 phc2sys[17597]: [32527.473] eth_internal rms   25 max  474 freq     -1 +/-  22 delay  1475 +/-  16
+Nov 10 14:51:51 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 14:51:51 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 14:51:51 +00:00
+Nov 10 14:51:52 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 14:51:52 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 14:51:52 +00:00
+Nov 10 14:52:04 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 215.47M, Virtual set 5.59G, CPU Time 5950.690 s, CPU User Time 3784.490 s, Threads 43
+Nov 10 14:52:51 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 14:52:51 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 14:52:51 +00:00
+Nov 10 14:52:52 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 14:52:52 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 14:52:52

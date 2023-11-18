@@ -1,0 +1,21 @@
+xmarsserver.sh[4153157]: Got Data: 2300 count: 13 t: 9:53:08 AM
+Nov 13 09:53:08 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 2700 count: 72 t: 9:53:08 AM
+Nov 13 09:53:08 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 2900 count: 10 t: 9:53:08 AM
+Nov 13 09:53:08 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 2800 count: 100 t: 9:53:08 AM
+Nov 13 09:53:09 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 3000 count: 56 t: 9:53:09 AM
+Nov 13 09:53:09 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 3300 count: 100 t: 9:53:09 AM
+Nov 13 09:53:09 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 3400 count: 9 t: 9:53:09 AM
+Nov 13 09:53:09 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 3700 count: 74 t: 9:53:09 AM
+Nov 13 09:53:09 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 4000 count: 24 t: 9:53:09 AM
+Nov 13 09:53:10 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 4300 count: 54 t: 9:53:10 AM
+Nov 13 09:53:10 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 4700 count: 38 t: 9:53:10 AM
+Nov 13 09:53:10 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 4900 count: 22 t: 9:53:10 AM
+Nov 13 09:53:10 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 5100 count: 80 t: 9:53:10 AM
+Nov 13 09:53:10 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 5200 count: 100 t: 9:53:10 AM
+Nov 13 09:53:10 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 5300 count: 10 t: 9:53:10 AM
+Nov 13 09:53:10 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 5600 count: 34 t: 9:53:10 AM
+Nov 13 09:53:11 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 5900 count: 66 t: 9:53:11 AM
+Nov 13 09:53:11 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 6100 count: 38 t: 9:53:11 AM
+Nov 13 09:53:11 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 6300 count: 84 t: 9:53:11 AM
+Nov 13 09:53:11 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 6700 count: 40 t: 9:53:11 AM
+Nov 13 09:53:12 CMX50070-101776 start_c

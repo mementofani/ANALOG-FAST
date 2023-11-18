@@ -1,0 +1,15 @@
+   Worker running at: 11/13/2023 10:06:55 +00:00
+Nov 13 10:07:45 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 136.84M, Virtual set 5.60G, CPU Time 41820.500 s, CPU User Time 26617.800 s, Threads 45
+Nov 13 10:07:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 13 10:07:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/13/2023 10:07:54 +00:00
+Nov 13 10:07:55 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 13 10:07:55 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2023 10:07:55 +00:00
+Nov 13 10:08:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 13 10:08:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/13/2023 10:08:54 +00:00
+Nov 13 10:08:55 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 13 10:08:55 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2023 10:08:55 +00:00
+Nov 13 10:09:32 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 136.96M, Virtual set 5.60G, CPU Time 41836.240 s, CPU User Time 26627.760 s, Threads 43
+Nov 13 10:09:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 13 10:09:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/13/2023 10:09:54 +00:00
+Nov 13 10:09:55 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 13 10:09:55 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2

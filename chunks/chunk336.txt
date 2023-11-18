@@ -1,0 +1,20 @@
+scriber                                  ] DEBUG: Health service message:
+Nov 10 05:50:58 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:58.681079Z [DeviceApiSubscriber                                  ] DEBUG:  * ResourceName: //mrt/0/health/0
+Nov 10 05:50:58 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:58.681079Z [DeviceApiSubscriber                                  ] DEBUG:  * State: Startup
+Nov 10 05:50:58 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:58.681079Z [DeviceApiSubscriber                                  ] DEBUG:  * ProgressInfo: Loading and Initializing Drivers [3]
+Nov 10 05:50:58 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:58.681079Z [DeviceApiSubscriber                                  ] DEBUG: 0 messages in the queue
+Nov 10 05:50:58 CMX50070-101776 xu_launcher[12909]: Received ACK from [fe80::02e0:33ff:fe0b:b5bf%eth_internal]:22 after 231 microseconds
+Nov 10 05:50:58 CMX50070-101776 xu_launcher[1981]: Received signal: 17
+Nov 10 05:50:58 CMX50070-101776 flexxamconfigurationbridge[6228]: running sams:
+Nov 10 05:50:59 CMX50070-101776 flexxamconfigurationbridge[6228]: running sams:
+Nov 10 05:50:59 CMX50070-101776 xu_launcher[13022]: Received ACK from [fe80::02e0:33ff:fe0b:b5bf%eth_internal]:21840 after 153 microseconds
+Nov 10 05:50:59 CMX50070-101776 xu_launcher[1981]: Received signal: 17
+Nov 10 05:51:00 CMX50070-101776 flexxamconfigurationbridge[6228]: running sams:
+Nov 10 05:51:01 CMX50070-101776 xu_launcher[1981]: Received signal: 17
+Nov 10 05:51:01 CMX50070-101776 flexxamconfigurationbridge[6228]: running sams:
+Nov 10 05:51:02 CMX50070-101776 flexxamconfigurationbridge[6228]: running sams:
+Nov 10 05:51:03 CMX50070-101776 health_service.deviceapi[544]: Publish update:
+Nov 10 05:51:03 CMX50070-101776 health_service.deviceapi[544]: ################################################################################
+Nov 10 05:51:03 CMX50070-101776 health_service.deviceapi[544]: ID:        74
+Nov 10 05:51:03 CMX50070-101776 health_service.deviceapi[544]: State:        2
+Nov 10 05:51:03 CMX50070-101776 health_service.deviceapi

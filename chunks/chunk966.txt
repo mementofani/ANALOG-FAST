@@ -1,0 +1,18 @@
+ Socket[3]: Data channel normally closed (or due to unexpected data).
+Nov 10 10:13:40 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3]: socket normally closed.
+Nov 10 10:13:40 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: Data channel normally closed (or due to unexpected data).
+Nov 10 10:13:40 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: socket normally closed.
+Nov 10 10:13:40 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3]: Data channel normally closed (or due to unexpected data).
+Nov 10 10:13:40 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3]: socket normally closed.
+Nov 10 10:13:40 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: Data channel normally closed (or due to unexpected data).
+Nov 10 10:13:40 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: socket normally closed.
+Nov 10 10:13:40 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3]: Data channel normally closePIAS: PIAS: Remote access from client 10.0.2.217
+Nov 10 10:13:48 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 10 10:13:51 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 10:13:51 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 10:13:51 +00:00
+Nov 10 10:13:51 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 10:13:51 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 10:13:51 +00:00
+Nov 10 10:13:52 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 234.65M, Virtual set 5.53G, CPU Time 2834.310 s, CPU User Time 1809.410 s, Threads 41
+Nov 10 10:13:56 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 10 10:14:04 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 10 10:14:12 CMX50070-101776 rs

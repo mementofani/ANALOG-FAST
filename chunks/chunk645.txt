@@ -1,0 +1,12 @@
+g to //mrt/0/testenvironment/0/connection/16
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.600091Z [DeviceApiSubscriber                                  ] DEBUG: Subscribing to //mrt/0/testenvironment/0/connection/17
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.600091Z [DeviceApiSubscriber                                  ] DEBUG: Subscribing to //mrt/0/testenvironment/0/connection/18
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.600091Z [DeviceApiSubscriber                                  ] DEBUG: Subscribing to //mrt/0/testenvironment/0/connection/19
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.600091Z [DeviceApiSubscriber                                  ] DEBUG: Subscribing to //mrt/0/testenvironment/0/connection/20
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.600091Z [DeviceApiSubscriber                                  ] DEBUG: Subscribing to //mrt/0/testenvironment/0/connection/21
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.601119Z [DeviceApiSubscriber                                  ] DEBUG: Subscribing to //mrt/0/testenvironment/0/connection/22
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.601119Z [DeviceApiSubscriber                                  ] DEBUG: Subscribing to //mrt/0/testenvironment/0/connection/23
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.601119Z [DeviceApiSubscriber                                  ] DEBUG: Subscribing to //mrt/0/testenvironment/0/connection/24
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.601119Z [DeviceApiSubscriber                                  ] DEBUG: Subscribing to //mrt/0/testenvironment/0/connection/25
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.601119Z [DeviceApiSubscriber                                  ] DEBUG: Subscribing to //mrt/0/testenvironment/0/connection/26
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.601119Z [DeviceApiSubscriber           

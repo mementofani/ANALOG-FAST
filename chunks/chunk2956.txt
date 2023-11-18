@@ -1,0 +1,15 @@
+54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/12/2023 14:54:54 +00:00
+Nov 12 14:54:54 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 12 14:54:54 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/12/2023 14:54:54 +00:00
+Nov 12 14:55:43 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 175.69M, Virtual set 5.59G, CPU Time 31414.290 s, CPU User Time 19985.730 s, Threads 39
+Nov 12 14:55:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 12 14:55:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/12/2023 14:55:54 +00:00
+Nov 12 14:55:54 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 12 14:55:54 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/12/2023 14:55:54 +00:00
+Nov 12 14:56:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 12 14:56:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/12/2023 14:56:54 +00:00
+Nov 12 14:56:54 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 12 14:56:54 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/12/2023 14:56:54 +00:00
+Nov 12 14:57:30 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 175.73M, Virtual set 5.59G, CPU Time 31430.800 s, CPU User Time 19996.240 s, Threads 41
+Nov 12 14:57:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 12 14:57:54 CMX50070-101776 mrt.pos.ca

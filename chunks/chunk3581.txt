@@ -1,0 +1,17 @@
+ CMX50070-101776 start_mrt.sh[3010620]: [INFO] [2023-11-13T06:56:12,540+0000] [srss.verify_args:63]: sri_recall_log_lookup_location: /home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation2/sri
+Nov 13 06:56:12 CMX50070-101776 start_mrt.sh[3010620]: [INFO] [2023-11-13T06:56:12,540+0000] [srss.verify_args:69]: working_dir: /home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation2/sri
+Nov 13 06:56:12 CMX50070-101776 start_mrt.sh[3010620]: [INFO] [2023-11-13T06:56:12,540+0000] [srss.__init__:43]: SRSS version: 05.01.01
+Nov 13 06:56:12 CMX50070-101776 start_mrt.sh[3010620]: [INFO] [2023-11-13T06:56:12,557+0000] [utilities.register_in_persistence_registry_service:215]: Successfully registered in PersistenceRegistryService
+Nov 13 06:56:12 CMX50070-101776 start_mrt.sh[3010620]: [INFO] [2023-11-13T06:56:12,557+0000] [srss.__init__:51]: Service registered
+Nov 13 06:56:12 CMX50070-101776 start_mrt.sh[3010620]: [INFO] [2023-11-13T06:56:12,896+0000] [srss_service_impl.CheckService:97]: SRSS is running
+Nov 13 06:56:13 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 0 count: 7 t: 6:56:13 AM
+Nov 13 06:56:13 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 0 count: 7 t: 6:56:13 AM
+Nov 13 06:56:13 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 0 count: 7 t: 6:56:13 AM
+Nov 13 06:56:14 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 06:56:15 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 06:56:15 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 06:56:15 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 06:56:15 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 06:56:15 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 06:56:15 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 06:56:15 CMX50070-101776 rspias-daemo

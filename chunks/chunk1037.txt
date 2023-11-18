@@ -1,0 +1,19 @@
+31:42 CMX50070-101776 audit: PROCTITLE proctitle="(systemd)"
+Nov 10 10:31:42 CMX50070-101776 kernel: audit: type=1334 audit(1699612302.961:163): prog-id=36 op=LOAD
+Nov 10 10:31:42 CMX50070-101776 kernel: audit: type=1300 audit(1699612302.961:163): arch=c000003e syscall=321 success=yes exit=8 a0=5 a1=7fffb5c5a1c0 a2=78 a3=0 items=0 ppid=1 pid=1820588 auid=0 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=2 comm="systemd" exe="/lib/systemd/systemd" key=(null)
+Nov 10 10:31:42 CMX50070-101776 kernel: audit: type=1327 audit(1699612302.961:163): proctitle="(systemd)"
+Nov 10 10:31:42 CMX50070-101776 kernel: audit: type=1334 audit(1699612302.961:164): prog-id=0 op=UNLOAD
+Nov 10 10:31:42 CMX50070-101776 kernel: audit: type=1334 audit(1699612302.961:165): prog-id=37 op=LOAD
+Nov 10 10:31:42 CMX50070-101776 kernel: audit: type=1300 audit(1699612302.961:165): arch=c000003e syscall=321 success=yes exit=8 a0=5 a1=7fffb5c5a250 a2=78 a3=0 items=0 ppid=1 pid=1820588 auid=0 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=2 comm="systemd" exe="/lib/systemd/systemd" key=(null)
+Nov 10 10:31:42 CMX50070-101776 kernel: audit: type=1327 audit(1699612302.961:165): proctitle="(systemd)"
+Nov 10 10:31:42 CMX50070-101776 audit: BPF prog-id=0 op=UNLOAD
+Nov 10 10:31:43 CMX50070-101776 systemd[1820588]: Queued start job for default target Main User Target.
+Nov 10 10:31:43 CMX50070-101776 systemd[1820588]: Created slice User Application Slice.
+Nov 10 10:31:43 CMX50070-101776 systemd[1820588]: Reached target Paths.
+Nov 10 10:31:43 CMX50070-101776 systemd[1820588]: Reached target Timers.
+Nov 10 10:31:43 CMX50070-101776 systemd[1820588]: Starting D-Bus User Message Bus Socket...
+Nov 10 10:31:43 CMX50070-101776 systemd[1820588]: Listening on D-Bus User Message Bus Socket.
+Nov 10 10:31:43 CMX50070-101776 systemd[1820588]: Reached target Sockets.
+Nov 10 10:31:43 CMX50070-101776 systemd[1820588]: Reached target Basic System.
+Nov 10 10:31:43 CMX50070-101776 systemd[1820588]: Reached target Main User Target.
+Nov 10 10:31:43 CMX50070-101776 sy

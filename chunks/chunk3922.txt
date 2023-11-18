@@ -1,0 +1,21 @@
+70-101776 rspias-daemon[1016]: PIAS: Socket[4]: socket normally closed.
+Nov 13 10:20:24 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] >> POST /wsman HTTP/1.1\r\n
+Nov 13 10:20:24 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] SCPI-Error: -113,"Undefined header;POST"
+Nov 13 10:20:24 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: Error: invalid command 'POST'!
+Nov 13 10:20:24 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: Data channel normally closed (or due to unexpected data).
+Nov 13 10:20:24 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: socket normally closed.
+Nov 13 10:20:24 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: Data channel normally closed (or due to unexpected data).
+Nov 13 10:20:24 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: socket normally closed.
+Nov 13 10:20:24 CMX50070-101776 rspias-daemon[1016]: [143B blob data]
+Nov 13 10:20:24 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: Data channel normally closed (or due to unexpected data).
+Nov 13 10:20:24 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: socket normally closed.
+Nov 13 10:20:24 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: Data channel normally closed (or due to unexpected data).
+Nov 13 10:20:24 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: socket normally closed.
+Nov 13 10:20:24 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: Data channel normally closed (or due to unexpected data).
+Nov 13 10:20:24 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: socket normally closed.
+Nov 13 10:20:24 CMX50070-101776 rspias-daemon[1016]: [242B blob data]
+Nov 13 10:20:24 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: Data channel normally closed (or due to unexpected data).
+Nov 13 10:20:24 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: socket normally closed.
+Nov 13 10:20:24 CMX50070-101776 rspias-daemon[1016]: [321B blob data]
+Nov 13 10:20:24 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: socket normally closed.
+Nov 13 10:20:24 CMX50070-101776 rspias-daemon[1016]: [321B blob d

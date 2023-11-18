@@ -1,0 +1,14 @@
+-13T06:55:50,469+0000] [__init__._check_queue_empty:575]: stopping Drift - queue empty or 60 sec timeout
+Nov 13 06:55:50 CMX50070-101776 start_mrt.sh[27501]: [INFO] [2023-11-13T06:55:50,469+0000] [drift_zmqbroker.stop:64]: Stopping message_dispatcher...
+Nov 13 06:55:50 CMX50070-101776 start_mrt.sh[27476]: Shutdown event was set and clean-up was done, end of program
+Nov 13 06:55:50 CMX50070-101776 start_mrt.sh[27501]: [INFO] [2023-11-13T06:55:50,488+0000] [__init__.end_recording:527]: end_recording
+Nov 13 06:55:50 CMX50070-101776 start_mrt.sh[27501]: [INFO] [2023-11-13T06:55:50,489+0000] [drift_recorder_playback._run:93]: Logging Queue received None -> stopping
+Nov 13 06:55:50 CMX50070-101776 start_mrt.sh[27501]: [INFO] [2023-11-13T06:55:50,490+0000] [__init__.stoplogging:100]: Stopping the current logger
+Nov 13 06:55:50 CMX50070-101776 start_mrt.sh[27501]: Shutdown event was set and clean-up was done, end of program
+Nov 13 06:55:52 CMX50070-101776 mrt.dos[1967]: 2023-11-13T06:55:52.531338Z [DeviceApiSubscriber                                  ] DEBUG: Received message from Connection service
+Nov 13 06:55:52 CMX50070-101776 mrt.dos[1967]: 2023-11-13T06:55:52.531338Z [DeviceApiSubscriber                                  ] DEBUG: Connection service message: Found connection: //mrt/0/connector/16 <=> //mrt/0/testenvironment/0/dut/0/connector/0 @ //mrt/0/testenvironment/0/connection/28
+Nov 13 06:55:52 CMX50070-101776 start_mrt.sh[27382]: Dispatching RPC RatRqm1::sfa_0::message_received
+Nov 13 06:55:52 CMX50070-101776 start_mrt.sh[27382]: execute
+Nov 13 06:55:52 CMX50070-101776 mrt.dos[1967]: 2023-11-13T06:55:52.565274Z [DeviceApiSubscriber                                  ] DEBUG: 0 messages in the queue
+Nov 13 06:55:52 CMX50070-101776 mrt.dos[1967]: 2023-11-13T06:55:52.622171Z [DeviceApiSubscriber                                  ] DEBUG: Received message from Test Environment service
+Nov 13 06:55:52 CMX50070-101776 mrt.dos[1967]: 2023-11-13T06:55:52.623602Z [DeviceApiSubscriber                                  ] DEBUG: Test Environment service mess

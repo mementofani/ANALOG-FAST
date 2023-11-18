@@ -1,0 +1,12 @@
+3:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.256333Z [DeviceApiSubscriber                                  ] DEBUG:  * DUT Connectors:
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.256333Z [DeviceApiSubscriber                                  ] DEBUG:  * * //mrt/0/testenvironment/0/dut/0/connector/0
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.256333Z [DeviceApiSubscriber                                  ] DEBUG:  * * //mrt/0/testenvironment/0/dut/0/connector/1
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.256333Z [DeviceApiSubscriber                                  ] DEBUG:  * RF Connectors:
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.316255Z [SignalingFeatureRepository                           ] INFO : TxRx Restrictions: False
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.479556Z [DeviceApiSubscriber                                  ] DEBUG: Subscribing to //mrt/0/testenvironment/0/dut/0/connector/0
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.480238Z [DeviceApiSubscriber                                  ] DEBUG: Subscribing to //mrt/0/testenvironment/0/dut/0/rf/0/trxrestrictions/0
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.487514Z [DeviceApiSubscriber                                  ] DEBUG: Subscribing to //mrt/0/testenvironment/0/dut/0/connector/1
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.487514Z [DeviceApiSubscriber                                  ] DEBUG: Subscribing to //mrt/0/testenvironment/0/dut/0/rf/0/trxrestrictions/0
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.487514Z [DeviceApiSubscriber                                  ] INFO : Unsubscribing from //mrt/0/testenvironment/0/dut/0/rf/0/trxrestrictions/0
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.489666Z [DeviceApiSubscriber                                  ] INFO : Loading Test Environment with connections
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[

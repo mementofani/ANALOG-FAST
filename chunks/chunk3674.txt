@@ -1,0 +1,14 @@
+ 07:06:31 CMX50070-101776 audit: BPF prog-id=0 op=UNLOAD
+Nov 13 07:06:31 CMX50070-101776 kernel: audit: type=1334 audit(1699859191.631:209): prog-id=0 op=UNLOAD
+Nov 13 07:06:31 CMX50070-101776 kernel: audit: type=1334 audit(1699859191.631:210): prog-id=0 op=UNLOAD
+Nov 13 07:06:36 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 0 count: 4 t: 7:06:36 AM
+Nov 13 07:06:42 CMX50070-101776 start_mrt.sh[3081169]: ERROR: Caught exception while processing cell add/update '//mrt/0/testenvironment/0/signaling/0/sri/0/asservice/0/nrservice/0/cell/0': Cell //mrt/0/testenvironment/0/signaling/0/sri/0/asservice/0/nrservice/0/cell/0 is missing rach_config_common
+Nov 13 07:06:42 CMX50070-101776 start_mrt.sh[3080896]: Dispatching RPC RatRqm1::sfa_0::message_received
+Nov 13 07:06:42 CMX50070-101776 start_mrt.sh[3080896]: execute
+Nov 13 07:06:42 CMX50070-101776 mrt.dos[1967]: 2023-11-13T07:06:42.942018Z [DeviceApiSubscriber                                  ] DEBUG: Received message from Connection service
+Nov 13 07:06:42 CMX50070-101776 mrt.dos[1967]: 2023-11-13T07:06:42.942221Z [DeviceApiSubscriber                                  ] DEBUG: Connection service message: Found connection: //mrt/0/connector/16 <=> //mrt/0/testenvironment/0/dut/0/connector/0 @ //mrt/0/testenvironment/0/connection/28
+Nov 13 07:06:42 CMX50070-101776 mrt.dos[1967]: 2023-11-13T07:06:42.943491Z [DeviceApiSubscriber                                  ] DEBUG: Received message from Test Environment service
+Nov 13 07:06:42 CMX50070-101776 mrt.dos[1967]: 2023-11-13T07:06:42.953301Z [DeviceApiSubscriber                                  ] DEBUG: 1 messages in the queue
+Nov 13 07:06:42 CMX50070-101776 mrt.dos[1967]: 2023-11-13T07:06:42.953301Z [DeviceApiSubscriber                                  ] DEBUG: Test Environment service message received
+Nov 13 07:06:42 CMX50070-101776 mrt.dos[1967]: 2023-11-13T07:06:42.964877Z [DeviceApiSubscriber                                  ] DEBUG: 0 messages in the queue
+Nov 13 07:06:43 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 0 count: 45

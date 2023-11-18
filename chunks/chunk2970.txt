@@ -1,0 +1,16 @@
+oning.PositioningServiceHost[0]
+Nov 12 15:02:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/12/2023 15:02:54 +00:00
+Nov 12 15:02:54 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 12 15:02:54 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/12/2023 15:02:54 +00:00
+Nov 12 15:03:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 12 15:03:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/12/2023 15:03:54 +00:00
+Nov 12 15:03:54 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 12 15:03:54 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/12/2023 15:03:54 +00:00
+Nov 12 15:04:38 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 175.76M, Virtual set 5.59G, CPU Time 31494.740 s, CPU User Time 20037.370 s, Threads 43
+Nov 12 15:04:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 12 15:04:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/12/2023 15:04:54 +00:00
+Nov 12 15:04:54 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 12 15:04:54 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/12/2023 15:04:54 +00:00
+Nov 12 15:05:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 12 15:05:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/12/2023 15:05:54 +00:00
+Nov 12 15:05:54 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningSe

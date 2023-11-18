@@ -1,0 +1,15 @@
+MX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 11 00:12:52 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/11/2023 00:12:52 +00:00
+Nov 11 00:13:49 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 190.83M, Virtual set 5.59G, CPU Time 11186.450 s, CPU User Time 7125.810 s, Threads 43
+Nov 11 00:13:52 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 11 00:13:52 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/11/2023 00:13:52 +00:00
+Nov 11 00:13:52 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 11 00:13:52 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/11/2023 00:13:52 +00:00
+Nov 11 00:14:52 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 11 00:14:52 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/11/2023 00:14:52 +00:00
+Nov 11 00:14:52 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 11 00:14:52 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/11/2023 00:14:52 +00:00
+Nov 11 00:15:36 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 190.80M, Virtual set 5.58G, CPU Time 11201.050 s, CPU User Time 7134.890 s, Threads 41
+Nov 11 00:15:52 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 11 00:15:52 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/11/2023 00:15:52 +00:00
+Nov 11 00:15:52 CMX50070-101776 mrt.pos.catrp3d1

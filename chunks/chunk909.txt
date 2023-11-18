@@ -1,0 +1,20 @@
+start_cmxmarsserver.sh[386]: Got Data: 1249700 count: 58 t: 9:31:32 AM
+Nov 10 09:31:34 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 1253700 count: 62 t: 9:31:34 AM
+Nov 10 09:31:37 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 1259700 count: 74 t: 9:31:37 AM
+Nov 10 09:31:38 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 1261700 count: 81 t: 9:31:38 AM
+Nov 10 09:31:39 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 1263500 count: 93 t: 9:31:39 AM
+Nov 10 09:31:40 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 1265700 count: 96 t: 9:31:40 AM
+Nov 10 09:31:42 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 1269400 count: 8 t: 9:31:42 AM
+Nov 10 09:31:42 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 1269300 count: 100 t: 9:31:42 AM
+Nov 10 09:31:43 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 1271700 count: 100 t: 9:31:43 AM
+Nov 10 09:31:43 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 1271800 count: 14 t: 9:31:43 AM
+Nov 10 09:31:44 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 1273800 count: 11 t: 9:31:44 AM
+Nov 10 09:31:44 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 1273700 count: 100 t: 9:31:44 AM
+Nov 10 09:31:46 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 1277800 count: 22 t: 9:31:46 AM
+Nov 10 09:31:47 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 1279800 count: 33 t: 9:31:47 AM
+Nov 10 09:31:48 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 1281800 count: 36 t: 9:31:48 AM
+Nov 10 09:31:49 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 1283800 count: 38 t: 9:31:49 AM
+Nov 10 09:31:51 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 09:31:51 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 09:31:51 +00:00
+Nov 10 09:31:51 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 1287800 count: 57 t: 9:31:51 AM
+Nov 10 09:31:51 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.Position

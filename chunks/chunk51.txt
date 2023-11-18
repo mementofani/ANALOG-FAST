@@ -1,0 +1,27 @@
+y.
+Nov 10 05:49:38 CMX50070-101776 systemd[1]: Mounting /var/volatile...
+Nov 10 05:49:38 CMX50070-101776 kernel: [drm] amdgpu kernel modesetting enabled.
+Nov 10 05:49:38 CMX50070-101776 audit: BPF prog-id=21 op=LOAD
+Nov 10 05:49:38 CMX50070-101776 audit: BPF prog-id=22 op=LOAD
+Nov 10 05:49:38 CMX50070-101776 audit: BPF prog-id=0 op=UNLOAD
+Nov 10 05:49:38 CMX50070-101776 audit: BPF prog-id=0 op=UNLOAD
+Nov 10 05:49:38 CMX50070-101776 systemd[1]: Starting Rule-based Manager for Device Events and Files...
+Nov 10 05:49:38 CMX50070-101776 systemd[1]: Mounted Mount snapshot subvolume directory.
+Nov 10 05:49:38 CMX50070-101776 kernel: checking generic (40000000 1f0000) vs hw (40000000 10000000)
+Nov 10 05:49:38 CMX50070-101776 kernel: Console: switching to colour dummy device 80x25
+Nov 10 05:49:38 CMX50070-101776 systemd[1]: Mounted Mount efi directory.
+Nov 10 05:49:38 CMX50070-101776 systemd[1]: Mounted Mount boot directory.
+Nov 10 05:49:38 CMX50070-101776 systemd[1]: Mounted Mount /var/log directory.
+Nov 10 05:49:38 CMX50070-101776 systemd[1]: Mounted /var/volatile.
+Nov 10 05:49:38 CMX50070-101776 kernel: amdgpu 0000:0f:00.0: vgaarb: deactivate vga console
+Nov 10 05:49:38 CMX50070-101776 kernel: [drm] initializing kernel modesetting (RAVEN 0x1002:0x15DD 0x1002:0x15DD 0x82).
+Nov 10 05:49:38 CMX50070-101776 kernel: amdgpu 0000:0f:00.0: amdgpu: Trusted Memory Zone (TMZ) feature enabled
+Nov 10 05:49:38 CMX50070-101776 kernel: [drm] register mmio base: 0xF2700000
+Nov 10 05:49:38 CMX50070-101776 kernel: [drm] register mmio size: 524288
+Nov 10 05:49:38 CMX50070-101776 kernel: [drm] add ip block number 0 <soc15_common>
+Nov 10 05:49:38 CMX50070-101776 kernel: [drm] add ip block number 1 <gmc_v9_0>
+Nov 10 05:49:38 CMX50070-101776 kernel: [drm] add ip block number 2 <vega10_ih>
+Nov 10 05:49:38 CMX50070-101776 kernel: [drm] add ip block number 3 <psp>
+Nov 10 05:49:38 CMX50070-101776 kernel: [drm] add ip block number 4 <gfx_v9_0>
+Nov 10 05:49:38 CMX50070-101776 kernel: [drm] add ip block number 5 <sdma_v4_0>
+Nov 10 05:49:38 CMX50070-101776 kernel: [drm] add ip bloc

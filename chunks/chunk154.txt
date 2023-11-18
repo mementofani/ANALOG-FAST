@@ -1,0 +1,10 @@
+76 kernel: audit: type=1300 audit(1699595392.260:92): arch=c000003e syscall=54 success=yes exit=0 a0=4 a1=0 a2=40 a3=560e5c787950 items=0 ppid=1947 pid=3655 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="iptables" exe="/usr/sbin/xtables-legacy-multi" key=(null)
+Nov 10 05:49:52 CMX50070-101776 kernel: audit: type=1327 audit(1699595392.260:92): proctitle=2F7573722F7362696E2F69707461626C6573002D2D77616974002D74006E6174002D4900504F5354524F5554494E47002D73003130302E38322E36342E3132382F32350000002D6F0062722D313035343038336664313234002D6A004D415351554552414445
+Nov 10 05:49:52 CMX50070-101776 audit[3655]: NETFILTER_CFG table=nat family=2 entries=11 op=xt_replace pid=3655 comm="iptables"
+Nov 10 05:49:52 CMX50070-101776 audit[3655]: SYSCALL arch=c000003e syscall=54 success=yes exit=0 a0=4 a1=0 a2=40 a3=560e5c787950 items=0 ppid=1947 pid=3655 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="iptables" exe="/usr/sbin/xtables-legacy-multi" key=(null)
+Nov 10 05:49:52 CMX50070-101776 audit: PROCTITLE proctitle=2F7573722F7362696E2F69707461626C6573002D2D77616974002D74006E6174002D4900504F5354524F5554494E47002D73003130302E38322E36342E3132382F32350000002D6F0062722D313035343038336664313234002D6A004D415351554552414445
+Nov 10 05:49:52 CMX50070-101776 systemd-udevd[3652]: Using default interface naming scheme 'v250'.
+Nov 10 05:49:52 CMX50070-101776 NetworkManager[441]: <info>  [1699595392.2524] manager: (br-1054083fd124): new Bridge device (/org/freedesktop/NetworkManager/Devices/6)
+Nov 10 05:49:52 CMX50070-101776 audit[3659]: NETFILTER_CFG table=nat family=2 entries=12 op=xt_replace pid=3659 comm="iptables"
+Nov 10 05:49:52 CMX50070-101776 kernel: audit: type=1325 audit(1699595392.271:93): table=nat family=2 entries=12 op=xt_replace pid=3659 comm="iptables"
+Nov 10 05:49:52 CMX50070-101776 kernel: audit: type=1300 audit(1699595392.271:93): arch=c000003e syscall=54 success=yes exit=0 a0=4 a1=0 a2=40 a3=5616d7816470 items=0 ppid=1947 pid=3659 auid=4294967295 uid=

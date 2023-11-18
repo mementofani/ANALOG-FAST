@@ -1,0 +1,18 @@
+l: get_generic_syssync_link_status called
+Nov 10 05:49:48 CMX50070-101776 python[418]: [ INFO] [2023-11-10T05:49:48.636+00:00] [140022036551488] [main.wait_for_brokers:150]: Waiting for broker...
+Nov 10 05:49:48 CMX50070-101776 python[418]: INFO:DUT services starter:Waiting for broker...
+Nov 10 05:49:48 CMX50070-101776 kernel: CMX_IOCTL_GET_SLOT_ID call
+Nov 10 05:49:48 CMX50070-101776 kernel: CMX_AU_IOCTL_SET_RAT_SIG_SLOT_ID call
+Nov 10 05:49:48 CMX50070-101776 kernel: CMX_AU_IOCTL_GET_SIGA_FPGA_VERSION call
+Nov 10 05:49:48 CMX50070-101776 python[418]: [ INFO] [2023-11-10T05:49:48.646+00:00] [140022036551488] [main.wait_for_brokers:155]: Primary broker available.
+Nov 10 05:49:48 CMX50070-101776 python[418]: INFO:DUT services starter:Primary broker available.
+Nov 10 05:49:48 CMX50070-101776 python[418]: [ INFO] [2023-11-10T05:49:48.647+00:00] [140022036551488] [main.start:198]: Start python process at '/usr/lib/dut/dut_control_venv/bin' with args: /usr/lib/dut/dut_control_venv/bin/python dut_related_services_implementation.py 0  True
+Nov 10 05:49:48 CMX50070-101776 python[418]: INFO:DUT services starter:Start python process at '/usr/lib/dut/dut_control_venv/bin' with args: /usr/lib/dut/dut_control_venv/bin/python dut_related_services_implementation.py 0  True
+Nov 10 05:49:48 CMX50070-101776 kernel: CMX_AU_IOCTL_GET_SIGA_FPGA_IS_AFP_IMAGE call
+Nov 10 05:49:48 CMX50070-101776 kernel: CMX_AU_IOCTL_SET_SIGA_FPGA_AST_OFFSET call
+Nov 10 05:49:48 CMX50070-101776 kernel: CMX_COMMON_IOCTL_SET_GIGABIT_CHANNEL_LINK_CONFIG call
+Nov 10 05:49:48 CMX50070-101776 kernel: --- CONFIG GIGABIT CHANNEL ---
+Nov 10 05:49:48 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): module_offset: 0x00040000 / sub_offset: 0x00020420 / channel_offset: 0x00000000  / confLengthDataPerAddr: 002
+Nov 10 05:49:48 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): access for address[000/001] = 0x00000014
+Nov 10 05:49:48 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): access is 'clear_update_write'
+Nov 10 05:49:48 CMX50070-101776 kernel: config_gen

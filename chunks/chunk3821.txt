@@ -1,0 +1,19 @@
+101776 start_cmxmarsserver.sh[3969328]: Got Data: 100 count: 55 t: 9:45:55 AM
+Nov 13 09:45:55 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 100 count: 59 t: 9:45:55 AM
+Nov 13 09:45:56 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 100 count: 60 t: 9:45:56 AM
+Nov 13 09:45:57 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 100 count: 64 t: 9:45:57 AM
+Nov 13 09:45:59 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 100 count: 72 t: 9:45:59 AM
+Nov 13 09:46:00 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 100 count: 76 t: 9:46:00 AM
+Nov 13 09:46:01 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 100 count: 80 t: 9:46:01 AM
+Nov 13 09:46:01 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 100 count: 83 t: 9:46:01 AM
+Nov 13 09:46:03 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 100 count: 84 t: 9:46:03 AM
+Nov 13 09:46:03 CMX50070-101776 start_cmxmarsserver.sh[3969328]: After runonce
+Nov 13 09:46:03 CMX50070-101776 start_cmxmarsserver.sh[3969328]: After runonce
+Nov 13 09:46:06 CMX50070-101776 start_cmxmarsserver.sh[3969328]: After runonce
+Nov 13 09:46:06 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Adding series HSfn
+Nov 13 09:46:06 CMX50070-101776 start_cmxmarsserver.sh[3969328]: ddb/Mddb.protobuf.0.3.so: cannot open shared object file: No such file or directory
+Nov 13 09:46:06 CMX50070-101776 start_cmxmarsserver.sh[3969328]: */usr/lib/cmxtools/mddb/Mddb.protobuf.0.3.so: cannot open shared object file: No such file or directory
+Nov 13 09:46:06 CMX50070-101776 start_cmxmarsserver.sh[3969328]: */usr/lib/cmxtools/mddb/Mddb.protobuf.0.3.so: cannot open shared object file: No such file or directory
+Nov 13 09:46:06 CMX50070-101776 start_cmxmarsserver.sh[3969328]: */usr/lib/cmxtools/mddb/Mddb.protobuf.0.3.so: cannot open shared object file: No such file or directory
+Nov 13 09:46:06 CMX50070-101776 start_cmxmarsserver.sh[3969328]: */usr/lib/cmxtools/mddb/Mddb.protobuf.0.3.so: cannot open shared object file: No such file or directory
+Nov 13 09:46:06 CMX50070-101776 s

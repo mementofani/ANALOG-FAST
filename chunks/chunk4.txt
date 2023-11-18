@@ -1,0 +1,21 @@
+3DCD0858 000C77 (v01 AMD    AmdTable 00000001 INTL 20120913)
+Nov 10 05:49:37 localhost kernel: ACPI: SSDT 0x000000003DCD14D0 0010A5 (v01 AMD    AmdTable 00000001 INTL 20120913)
+Nov 10 05:49:37 localhost kernel: ACPI: SSDT 0x000000003DCD2578 002369 (v01 AMD    AmdTable 00000001 INTL 20120913)
+Nov 10 05:49:37 localhost kernel: ACPI: SSDT 0x000000003DCD48E8 000E0C (v01 AMD    AMD CPU  00000001 AMD  00000001)
+Nov 10 05:49:37 localhost kernel: ACPI: WSMT 0x000000003DCD56F8 000028 (v01 ALASKA A M I    01072009 AMI  00010013)
+Nov 10 05:49:37 localhost kernel: ACPI: SSDT 0x000000003DCD5720 0002FE (v01 AMD    AmdTable 00000001 INTL 20120913)
+Nov 10 05:49:37 localhost kernel: ACPI: Reserving FACP table memory at [mem 0x3dcbd398-0x3dcbd4ab]
+Nov 10 05:49:37 localhost kernel: ACPI: Reserving DSDT table memory at [mem 0x3dcb51e8-0x3dcbd391]
+Nov 10 05:49:37 localhost kernel: ACPI: Reserving FACS table memory at [mem 0x3dd1ed80-0x3dd1edbf]
+Nov 10 05:49:37 localhost kernel: ACPI: Reserving APIC table memory at [mem 0x3dcbd4b0-0x3dcbd58d]
+Nov 10 05:49:37 localhost kernel: ACPI: Reserving FPDT table memory at [mem 0x3dcbd590-0x3dcbd5d3]
+Nov 10 05:49:37 localhost kernel: ACPI: Reserving FIDT table memory at [mem 0x3dcbd5d8-0x3dcbd673]
+Nov 10 05:49:37 localhost kernel: ACPI: Reserving SSDT table memory at [mem 0x3dcbd678-0x3dcc2a90]
+Nov 10 05:49:37 localhost kernel: ACPI: Reserving MCFG table memory at [mem 0x3dcc2a98-0x3dcc2ad3]
+Nov 10 05:49:37 localhost kernel: ACPI: Reserving HPET table memory at [mem 0x3dcc2ad8-0x3dcc2b0f]
+Nov 10 05:49:37 localhost kernel: ACPI: Reserving UEFI table memory at [mem 0x3dcc2b10-0x3dcc2b51]
+Nov 10 05:49:37 localhost kernel: ACPI: Reserving VFCT table memory at [mem 0x3dcc2b58-0x3dccffdb]
+Nov 10 05:49:37 localhost kernel: ACPI: Reserving BGRT table memory at [mem 0x3dccffe0-0x3dcd0017]
+Nov 10 05:49:37 localhost kernel: ACPI: Reserving CRAT table memory at [mem 0x3dcd0018-0x3dcd0827]
+Nov 10 05:49:37 localhost kernel: ACPI: Reserving CDIT table memory at [mem 0x3dcd0828-0x3dcd0850]
+Nov 10 05:49:37 localhost kernel: ACPI: Reserving SSDT

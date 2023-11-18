@@ -1,0 +1,20 @@
+nfo: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 11:37:51 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 11:37:51 +00:00
+Nov 10 11:37:51 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 876700 count: 49 t: 11:37:51 AM
+Nov 10 11:37:51 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 11:37:51 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 11:37:51 +00:00
+Nov 10 11:37:52 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 878700 count: 53 t: 11:37:52 AM
+Nov 10 11:37:53 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 880700 count: 62 t: 11:37:53 AM
+Nov 10 11:37:54 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 882700 count: 61 t: 11:37:54 AM
+Nov 10 11:37:55 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 884700 count: 68 t: 11:37:55 AM
+Nov 10 11:37:56 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 886900 count: 79 t: 11:37:56 AM
+Nov 10 11:37:57 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 888700 count: 77 t: 11:37:57 AM
+Nov 10 11:37:58 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 890500 count: 78 t: 11:37:58 AM
+Nov 10 11:37:59 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 892900 count: 92 t: 11:37:59 AM
+Nov 10 11:38:00 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 894700 count: 91 t: 11:38:00 AM
+Nov 10 11:38:01 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 896700 count: 96 t: 11:38:01 AM
+Nov 10 11:38:02 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 898700 count: 100 t: 11:38:02 AM
+Nov 10 11:38:02 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 898800 count: 3 t: 11:38:02 AM
+Nov 10 11:38:03 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 900800 count: 12 t: 11:38:03 AM
+Nov 10 11:38:03 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 900700 count: 100 t: 11:38:03 AM
+Nov 10 11:38:0

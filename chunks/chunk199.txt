@@ -1,0 +1,12 @@
+Not Running context=_setup pathname=/usr/lib/callysto/venv/lib/python3.10/site-packages/rs_callysto/callysto_servicer.py lineno=131
+Nov 10 05:49:58 CMX50070-101776 audit[5224]: NETFILTER_CFG table=nat family=2 entries=0 op=xt_register pid=5224 comm="iptables"
+Nov 10 05:49:58 CMX50070-101776 audit[5224]: SYSCALL arch=c000003e syscall=55 success=yes exit=0 a0=4 a1=0 a2=40 a3=7ffeb1d45d40 items=0 ppid=5200 pid=5224 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="iptables" exe="/usr/sbin/xtables-legacy-multi" key=(null)
+Nov 10 05:49:58 CMX50070-101776 audit: PROCTITLE proctitle=2F7573722F7362696E2F69707461626C6573002D2D77616974002D74006E6174002D4C002D6E
+Nov 10 05:49:58 CMX50070-101776 audit[5228]: NETFILTER_CFG table=filter family=2 entries=0 op=xt_register pid=5228 comm="iptables"
+Nov 10 05:49:58 CMX50070-101776 audit[5228]: SYSCALL arch=c000003e syscall=55 success=yes exit=0 a0=4 a1=0 a2=40 a3=7ffe8e3de690 items=0 ppid=5200 pid=5228 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="iptables" exe="/usr/sbin/xtables-legacy-multi" key=(null)
+Nov 10 05:49:58 CMX50070-101776 audit: PROCTITLE proctitle=2F7573722F7362696E2F69707461626C6573002D2D77616974002D4C002D6E
+Nov 10 05:49:58 CMX50070-101776 audit[5233]: NETFILTER_CFG table=nat family=2 entries=5 op=xt_replace pid=5233 comm="iptables"
+Nov 10 05:49:58 CMX50070-101776 audit[5233]: SYSCALL arch=c000003e syscall=54 success=yes exit=0 a0=4 a1=0 a2=40 a3=557df3a90a60 items=0 ppid=5200 pid=5233 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="iptables" exe="/usr/sbin/xtables-legacy-multi" key=(null)
+Nov 10 05:49:58 CMX50070-101776 audit: PROCTITLE proctitle=2F7573722F7362696E2F69707461626C6573002D2D77616974002D74006E6174002D4E00444F434B45525F4F5554505554
+Nov 10 05:49:58 CMX50070-101776 audit[5235]: NETFILTER_CFG table=nat family=2 entries=7 op=xt_replace pid=5235 comm="iptables"
+Nov 10 05:49:58 CMX50070-101776 audit[5235]: SYSCALL arch=c000003e

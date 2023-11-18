@@ -1,0 +1,21 @@
+023 16:05:52 +00:00
+Nov 10 16:05:56 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.24.26.38:36830).
+Nov 10 16:05:56 CMX50070-101776 sshd[3971374]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 16:05:56 CMX50070-101776 sshd[3971374]: Connection closed by 172.24.26.38 port 36830
+Nov 10 16:05:56 CMX50070-101776 systemd[1]: sshd@840-10.102.37.173:22-172.24.26.38:36830.service: Deactivated successfully.
+Nov 10 16:06:02 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (10.0.54.70:58410).
+Nov 10 16:06:02 CMX50070-101776 sshd[3971912]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 16:06:02 CMX50070-101776 sshd[3971912]: Connection closed by 10.0.54.70 port 58410
+Nov 10 16:06:02 CMX50070-101776 systemd[1]: sshd@841-10.102.37.173:22-10.0.54.70:58410.service: Deactivated successfully.
+Nov 10 16:06:08 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.24.11.228:53080).
+Nov 10 16:06:08 CMX50070-101776 sshd[3972571]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 16:06:08 CMX50070-101776 sshd[3972571]: Connection closed by 172.24.11.228 port 53080
+Nov 10 16:06:08 CMX50070-101776 systemd[1]: sshd@842-10.102.37.173:22-172.24.11.228:53080.service: Deactivated successfully.
+Nov 10 16:06:09 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.25.11.233:56304).
+Nov 10 16:06:09 CMX50070-101776 sshd[3972759]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 16:06:09 CMX50070-101776 sshd[3972759]: Connection closed by 172.25.11.233 port 56304
+Nov 10 16:06:09 CMX50070-101776 systemd[1]: sshd@843-10.102.37.173:22-172.25.11.233:56304.service: Deactivated successfully.
+Nov 10 16:06:23 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.25.11.232:60856).
+Nov 10 16:06:23 CMX50070-101776 sshd[3974146]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 16:06:23 CMX50070-101776 sshd[3974146]: Connection closed by 172.25.11.232 port 60856
+Nov

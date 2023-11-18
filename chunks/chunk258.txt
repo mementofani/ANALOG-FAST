@@ -1,0 +1,17 @@
+ceApiSubscriber                                  ] DEBUG: Received message from Health service
+Nov 10 05:50:13 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:13.966326Z [DeviceApiSubscriber                                  ] DEBUG: Health service message:
+Nov 10 05:50:13 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:13.966326Z [DeviceApiSubscriber                                  ] DEBUG:  * ResourceName: //mrt/0/health/0
+Nov 10 05:50:13 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:13.966326Z [DeviceApiSubscriber                                  ] DEBUG:  * State: Startup
+Nov 10 05:50:13 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:13.966326Z [DeviceApiSubscriber                                  ] DEBUG:  * ProgressInfo: Product Definition 'wlan_sig_scpi_mmi' loaded in: 0.00s
+Nov 10 05:50:13 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:13.966326Z [DeviceApiSubscriber                                  ] DEBUG: 0 messages in the queue
+Nov 10 05:50:14 CMX50070-101776 xu_launcher[7163]: No ACK from [fe80::02e0:33ff:fe0b:b5bf%eth_internal]:22 after 1401497 microseconds
+Nov 10 05:50:14 CMX50070-101776 flexxamconfigurationbridge[6228]: running sams:
+Nov 10 05:50:15 CMX50070-101776 flexxamconfigurationbridge[6228]: running sams:
+Nov 10 05:50:15 CMX50070-101776 xu_launcher[7339]: No ACK from [fe80::02e0:33ff:fe0b:b5bf%eth_internal]:22 after 1077050 microseconds
+Nov 10 05:50:16 CMX50070-101776 flexxamconfigurationbridge[6228]: running sams:
+Nov 10 05:50:16 CMX50070-101776 xu_launcher[7501]: No ACK from [fe80::02e0:33ff:fe0b:b5bf%eth_internal]:22 after 1045938 microseconds
+Nov 10 05:50:17 CMX50070-101776 flexxamconfigurationbridge[6228]: running sams:
+Nov 10 05:50:17 CMX50070-101776 sh[3390]: cmseq    | log_system_disk_usage not implemented for this platform
+Nov 10 05:50:17 CMX50070-101776 xu_launcher[7666]: No ACK from [fe80::02e0:33ff:fe0b:b5bf%eth_internal]:22 after 1041328 microseconds
+Nov 10 05:50:18 CMX50070-101776 flexxamconfigurationbridge[6228]: running sams:
+Nov 10 05:50:19 CMX50070-101776 xu_launcher[7845]: No ACK from [fe80::02e0:33f

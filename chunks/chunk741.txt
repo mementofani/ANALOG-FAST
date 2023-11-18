@@ -1,0 +1,16 @@
+st[0]
+Nov 10 06:45:51 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 06:45:51 +00:00
+Nov 10 06:45:51 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 06:45:51 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 06:45:51 +00:00
+Nov 10 06:46:51 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 06:46:51 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 06:46:51 +00:00
+Nov 10 06:46:51 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 06:46:51 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 06:46:51 +00:00
+Nov 10 06:47:00 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 251.48M, Virtual set 5.34G, CPU Time 612.550 s, CPU User Time 394.570 s, Threads 41
+Nov 10 06:47:51 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 06:47:51 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 06:47:51 +00:00
+Nov 10 06:47:51 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 06:47:51 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 06:47:51 +00:00
+Nov 10 06:48:47 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 251.57M, Virtual set 5.35G, CPU Time 633.050 s, CPU User Time 407.170 s, Threads 43
+Nov 10 06:48:51 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 06:48:51 CMX50070-101776

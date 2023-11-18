@@ -1,0 +1,12 @@
+: 2023-11-13T10:33:00.440788Z [DeviceApiSubscriber                                  ] DEBUG: Received message from Connection service
+Nov 13 10:33:00 CMX50070-101776 mrt.dos[1967]: 2023-11-13T10:33:00.441924Z [DeviceApiSubscriber                                  ] DEBUG: Connection service message: Found connection: //mrt/0/connector/16 <=> //mrt/0/testenvironment/0/dut/0/connector/0 @ //mrt/0/testenvironment/0/connection/28
+Nov 13 10:33:00 CMX50070-101776 mrt.dos[1967]: 2023-11-13T10:33:00.442899Z [DeviceApiSubscriber                                  ] DEBUG: Received message from Test Environment service
+Nov 13 10:33:00 CMX50070-101776 mrt.dos[1967]: 2023-11-13T10:33:00.449276Z [DeviceApiSubscriber                                  ] DEBUG: 1 messages in the queue
+Nov 13 10:33:00 CMX50070-101776 mrt.dos[1967]: 2023-11-13T10:33:00.449276Z [DeviceApiSubscriber                                  ] DEBUG: Test Environment service message received
+Nov 13 10:33:00 CMX50070-101776 mrt.dos[1967]: 2023-11-13T10:33:00.467497Z [DeviceApiSubscriber                                  ] DEBUG: 0 messages in the queue
+Nov 13 10:33:02 CMX50070-101776 start_mrt.sh[221443]: ERROR: Caught exception while processing cell add/update '//mrt/0/testenvironment/0/signaling/0/sri/0/asservice/0/nrservice/0/cell/0': Cell //mrt/0/testenvironment/0/signaling/0/sri/0/asservice/0/nrservice/0/cell/0 is missing rach_config_common
+Nov 13 10:33:02 CMX50070-101776 mrt.dos[1967]: 2023-11-13T10:33:02.939269Z [DeviceApiSubscriber                                  ] DEBUG: Received message from Connection service
+Nov 13 10:33:02 CMX50070-101776 mrt.dos[1967]: 2023-11-13T10:33:02.939269Z [DeviceApiSubscriber                                  ] DEBUG: Connection service message: Found connection: //mrt/0/connector/16 <=> //mrt/0/testenvironment/0/dut/0/connector/0 @ //mrt/0/testenvironment/0/connection/28
+Nov 13 10:33:02 CMX50070-101776 start_mrt.sh[221199]: Dispatching RPC RatRqm1::sfa_0::message_received
+Nov 13 10:33:02 CMX50070-101776 start_mrt.sh[221199]: execute
+Nov 13 10:33:02 CMX50070-

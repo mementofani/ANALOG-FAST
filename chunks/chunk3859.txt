@@ -1,0 +1,19 @@
+ov 13 09:58:56 CMX50070-101776 start_cmxmarsserver.sh[4192858]: */usr/lib/cmxtools/mddb/MRe-init accessor: (defaultOnlineTable) == (4d85ed55-7cfa-4520-97e5-a9e667f7a48d)False
+Nov 13 09:58:58 CMX50070-101776 start_cmxmarsserver.sh[4192858]: Added series HSfn
+Nov 13 09:58:58 CMX50070-101776 start_cmxmarsserver.sh[4192858]: Series HSfn IsRunning True IsCompleted False IsPausable True IsRunningAtDeactivation False
+Nov 13 09:58:58 CMX50070-101776 start_cmxmarsserver.sh[4192858]: Re-init accessor: (Untitled) == (4d85ed55-7cfa-4520-97e5-a9e667f7a48d)False
+Nov 13 09:58:58 CMX50070-101776 start_cmxmarsserver.sh[4192858]: Got Data: 0 count: 0 t: 9:58:58 AM
+Nov 13 09:58:58 CMX50070-101776 start_cmxmarsserver.sh[4192858]: Got Data: 0 count: 0 t: 9:58:58 AM
+Nov 13 09:58:58 CMX50070-101776 start_cmxmarsserver.sh[4192858]: Got Data: 0 count: 13 t: 9:58:58 AM
+Nov 13 09:58:58 CMX50070-101776 start_cmxmarsserver.sh[4192858]: Got Data: 0 count: 13 t: 9:58:58 AM
+Nov 13 09:58:58 CMX50070-101776 start_cmxmarsserver.sh[4192858]: Got Data: 0 count: 13 t: 9:58:58 AM
+Nov 13 09:58:59 CMX50070-101776 start_cmxmarsserver.sh[4192858]: Got Data: 1600 count: 93 t: 9:58:59 AM
+Nov 13 09:58:59 CMX50070-101776 start_cmxmarsserver.sh[4192858]: Got Data: 1800 count: 93 t: 9:58:59 AM
+Nov 13 09:58:59 CMX50070-101776 start_cmxmarsserver.sh[4192858]: Got Data: 1600 count: 93 t: 9:58:59 AM
+Nov 13 09:58:59 CMX50070-101776 start_cmxmarsserver.sh[4192858]: Got Data: 2200 count: 45 t: 9:58:59 AM
+Nov 13 09:58:59 CMX50070-101776 start_cmxmarsserver.sh[4192858]: Got Data: 2700 count: 57 t: 9:58:59 AM
+Nov 13 09:59:00 CMX50070-101776 start_cmxmarsserver.sh[4192858]: Got Data: 3000 count: 67 t: 9:59:00 AM
+Nov 13 09:59:00 CMX50070-101776 start_cmxmarsserver.sh[4192858]: Got Data: 3400 count: 89 t: 9:59:00 AM
+Nov 13 09:59:00 CMX50070-101776 start_cmxmarsserver.sh[4192858]: Got Data: 3800 count: 8 t: 9:59:00 AM
+Nov 13 09:59:00 CMX50070-101776 start_cmxmarsserver.sh[4192858]: Got Data: 3700 count: 100 t: 9:59:00 AM
+Nov 13 09:59:00 CMX50070-101776 start_cmxmarsserver.sh[4192858]: Got Data: 4200 count: 

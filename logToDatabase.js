@@ -41,7 +41,7 @@ function saveToDatabase(data, dbPath = "log_data.db") {
     try {
       // Create table
       db.run(`CREATE TABLE IF NOT EXISTS logs
-              (time TEXT, layer_source TEXT, message TEXT)`);
+    (time TEXT, layer_source TEXT, message TEXT)`);
 
       // Insert data
       const stmt = db.prepare("INSERT INTO logs VALUES (?, ?, ?)");

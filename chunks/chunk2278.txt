@@ -1,0 +1,17 @@
+023 16:50:53 +00:00
+Nov 11 16:51:29 CMX50070-101776 ast2sys[16350]: [126113.174] CLOCK_REALTIME rms   44 max 1527 freq -30509 +/-  41
+Nov 11 16:51:42 CMX50070-101776 start_mrt.sh[3324]: TSS: No PTP nodes connected.
+Nov 11 16:51:51 CMX50070-101776 phc2sys[17597]: [126135.964] eth_internal rms   33 max 1026 freq     -1 +/-  30 delay  1475 +/-  16
+Nov 11 16:51:53 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 11 16:51:53 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/11/2023 16:51:53 +00:00
+Nov 11 16:51:53 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 11 16:51:53 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/11/2023 16:51:53 +00:00
+Nov 11 16:52:29 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 179.95M, Virtual set 5.60G, CPU Time 19855.050 s, CPU User Time 12630.650 s, Threads 41
+Nov 11 16:52:53 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 11 16:52:53 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/11/2023 16:52:53 +00:00
+Nov 11 16:52:53 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 11 16:52:53 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/11/2023 16:52:53 +00:00
+Nov 11 16:53:53 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 11 16:53:53 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/11/2023 16:53:53 +00:00
+Nov 11 16:53:53 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 11 16:53:53 CMX50070-101776 mrt.pos

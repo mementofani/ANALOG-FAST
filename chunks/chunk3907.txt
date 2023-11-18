@@ -1,0 +1,20 @@
+[1016]: PIAS: Socket[7]: socket normally closed.
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: Data channel normally closed (or due to unexpected data).
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: socket normally closed.
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] >> GNUTELLA CONNECT/0.4\r\n
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] SCPI-Error: -113,"Undefined header;GNUTELLA"
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: Error: invalid command 'GNUTELLA'!
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: Data channel normally closed (or due to unexpected data).
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: socket normally closed.
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: Data channel normally closed (or due to unexpected data).
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: socket normally closed.
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8]: Data channel normally closed (or due to unexpected data).
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8]: socket normally closed.
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[9]: Data channel normally closed (or due to unexpected data).
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[9]: socket normally closed.
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[A]: Data channel normally closed (or due to unexpected data).
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[A]: socket normally closed.
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[B]: Data channel normally closed (or due to unexpected data).
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[B]: socket normally closed.
+Nov 13 10:13:49 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[C]: Data channel normally closed (or due to unexpected data).
+Nov 13 10:13:49 CMX50070-101776 rs

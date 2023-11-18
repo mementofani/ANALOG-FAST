@@ -1,0 +1,19 @@
+ias-daemon[1016]: PIAS: Socket[7]: socket normally closed.
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[C] >> id\n
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[C] SCPI-Error: -113,"Undefined header;ID"
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[C]: Error: invalid command 'ID'!
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3]: Data channel normally closed (or due to unexpected data).
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3]: socket normally closed.
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[B]: Data channel normally closed (or due to unexpected data).
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8]: Data channel normally closed (or due to unexpected data).
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[B]: socket normally closed.
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8]: socket normally closed.
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[C]: Data channel normally closed (or due to unexpected data).
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[C]: socket normally closed.
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4] >> GET / HTTP/1.0\r\n
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4] SCPI-Error: -113,"Undefined header;GET"
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: Error: invalid command 'GET'!
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: 10.102.36.125:60739 >> [16EC5C81EFCF44E1B6113D344AC9209F R&S SWPL QUERY ID EqNumber=1201.0002k70,"DEFAULT"]
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: 10.102.36.125:60739 << [16EC5C81EFCF44E1B6113D344AC9209F R&S SWPL ID: Installation Server V2.84.14.1,1201.0002k70 101776]
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: 10.102.36.125:60739 >> [16EC5C81EFCF44E1B6113D344AC9209F R&S SWPL START DATA CHANNEL]
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS

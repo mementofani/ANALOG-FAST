@@ -1,0 +1,26 @@
+Connection
+Nov 10 05:49:37 localhost kernel: igb 0000:0d:00.0: eth0: (PCIe:2.5Gb/s:Width x1) 00:e0:33:0b:d1:f9
+Nov 10 05:49:37 localhost kernel: igb 0000:0d:00.0: eth0: PBA No: FFFFFF-0FF
+Nov 10 05:49:37 localhost kernel: igb 0000:0d:00.0: Using MSI-X interrupts. 2 rx queue(s), 2 tx queue(s)
+Nov 10 05:49:37 localhost kernel: Intel(R) 2.5G Ethernet Linux Driver
+Nov 10 05:49:37 localhost kernel: Copyright(c) 2018 Intel Corporation.
+Nov 10 05:49:37 localhost kernel: igbvf: Intel(R) Gigabit Virtual Function Network Driver
+Nov 10 05:49:37 localhost kernel: igbvf: Copyright (c) 2009 - 2012 Intel Corporation.
+Nov 10 05:49:37 localhost kernel: ixgbe: Intel(R) 10 Gigabit PCI Express Network Driver
+Nov 10 05:49:37 localhost kernel: ixgbe: Copyright (c) 1999-2016 Intel Corporation.
+Nov 10 05:49:37 localhost kernel: ixgbevf: Intel(R) 10 Gigabit PCI Express Virtual Function Network Driver
+Nov 10 05:49:37 localhost kernel: ixgbevf: Copyright (c) 2009 - 2018 Intel Corporation.
+Nov 10 05:49:37 localhost kernel: iavf: Intel(R) Ethernet Adaptive Virtual Function Network Driver
+Nov 10 05:49:37 localhost kernel: Copyright (c) 2013 - 2018 Intel Corporation.
+Nov 10 05:49:37 localhost kernel: usbcore: registered new interface driver ax88179_178a
+Nov 10 05:49:37 localhost kernel: usbcore: registered new interface driver cdc_ether
+Nov 10 05:49:37 localhost kernel: usbcore: registered new interface driver cdc_eem
+Nov 10 05:49:37 localhost kernel: usbcore: registered new interface driver cdc_ncm
+Nov 10 05:49:37 localhost kernel: usbcore: registered new interface driver r8153_ecm
+Nov 10 05:49:37 localhost kernel: hv_vmbus: registering driver hv_netvsc
+Nov 10 05:49:37 localhost kernel: ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+Nov 10 05:49:37 localhost kernel: ehci-pci: EHCI PCI platform driver
+Nov 10 05:49:37 localhost kernel: ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+Nov 10 05:49:37 localhost kernel: ohci-pci: OHCI PCI platform driver
+Nov 10 05:49:37 localhost kernel: uhci_hcd: USB Universal Host Controller Interface driver
+Nov 10 05:49:37 lo

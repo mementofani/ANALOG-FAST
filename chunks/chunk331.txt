@@ -1,0 +1,22 @@
+ohde-schwarz/cmg_300: status interrupt detected (fsi3, 0x2)
+Nov 10 05:50:46 CMX50070-101776 kernel: rohde-schwarz/cmg_300: status interrupt detected (fsi0, 0x205)
+Nov 10 05:50:46 CMX50070-101776 kernel: rohde-schwarz/cmg_300: status interrupt detected (base fsi0, 0x8)
+Nov 10 05:50:46 CMX50070-101776 kernel: rohde-schwarz/cmg_300: status interrupt detected (fsi0, 0x2)
+Nov 10 05:50:46 CMX50070-101776 flexxamconfigurationbridge[6228]: running sams:
+Nov 10 05:50:46 CMX50070-101776 start_mrt.sh[3324]: CORLD_300:  COR DOWNLOAD STARTED
+Nov 10 05:50:46 CMX50070-101776 kernel: rohde-schwarz/cmg_400: status interrupt detected (fsi2, 0x205)
+Nov 10 05:50:46 CMX50070-101776 kernel: rohde-schwarz/cmg_400: status interrupt detected (base fsi2, 0x8)
+Nov 10 05:50:46 CMX50070-101776 kernel: rohde-schwarz/cmg_400: status interrupt detected (fsi2, 0x2)
+Nov 10 05:50:47 CMX50070-101776 kernel: rohde-schwarz/cmg_400: status interrupt detected (fsi3, 0x205)
+Nov 10 05:50:47 CMX50070-101776 kernel: rohde-schwarz/cmg_400: status interrupt detected (base fsi3, 0x8)
+Nov 10 05:50:47 CMX50070-101776 kernel: rohde-schwarz/cmg_400: status interrupt detected (fsi3, 0x2)
+Nov 10 05:50:47 CMX50070-101776 kernel: rohde-schwarz/cmg_400: status interrupt detected (fsi0, 0x205)
+Nov 10 05:50:47 CMX50070-101776 kernel: rohde-schwarz/cmg_400: status interrupt detected (base fsi0, 0x8)
+Nov 10 05:50:47 CMX50070-101776 kernel: rohde-schwarz/cmg_400: status interrupt detected (fsi0, 0x2)
+Nov 10 05:50:47 CMX50070-101776 start_mrt.sh[3324]: CORLD_400:  COR DOWNLOAD STARTED
+Nov 10 05:50:47 CMX50070-101776 kernel: rohde-schwarz/cmg_100: status interrupt detected (fsi0, 0x207)
+Nov 10 05:50:47 CMX50070-101776 flexxamconfigurationbridge[6228]: running sams:
+Nov 10 05:50:47 CMX50070-101776 kernel: rohde-schwarz/cmg_100: status interrupt detected (fsi1, 0x205)
+Nov 10 05:50:47 CMX50070-101776 kernel: rohde-schwarz/cmg_100: status interrupt detected (base fsi1, 0x8)
+Nov 10 05:50:47 CMX50070-101776 kernel: rohde-schwarz/cmg_100: status interrupt detected (fsi1, 0x2)
+Nov 10 05:50:47 CMX50070-101776 start_

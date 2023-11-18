@@ -1,0 +1,20 @@
+unt: 60 t: 11:31:49 AM
+Nov 10 11:31:50 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 214400 count: 71 t: 11:31:50 AM
+Nov 10 11:31:51 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 11:31:51 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 11:31:51 +00:00
+Nov 10 11:31:51 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 216400 count: 76 t: 11:31:51 AM
+Nov 10 11:31:51 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 11:31:51 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 11:31:51 +00:00
+Nov 10 11:31:52 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 218400 count: 73 t: 11:31:52 AM
+Nov 10 11:31:53 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 220400 count: 86 t: 11:31:53 AM
+Nov 10 11:31:54 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 222400 count: 82 t: 11:31:54 AM
+Nov 10 11:31:55 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 224400 count: 90 t: 11:31:55 AM
+Nov 10 11:31:56 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 226400 count: 99 t: 11:31:56 AM
+Nov 10 11:31:57 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 228500 count: 1 t: 11:31:57 AM
+Nov 10 11:31:57 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 228400 count: 100 t: 11:31:57 AM
+Nov 10 11:31:58 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 230400 count: 100 t: 11:31:58 AM
+Nov 10 11:31:58 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 230500 count: 2 t: 11:31:58 AM
+Nov 10 11:31:59 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 232500 count: 12 t: 11:31:59 AM
+Nov 10 11:31:59 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 232400 count: 100 t: 11:31:59 AM
+Nov 10 11:32:00 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 234500 count: 23 t: 11:32:00 AM
+Nov 10 11:32:01 CMX50070-101776 start_cmx

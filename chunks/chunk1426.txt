@@ -1,0 +1,20 @@
+Nov 10 15:20:00 CMX50070-101776 start_cmxmarsserver.sh[3661989]: Got Data: 0 count: 72 t: 3:20:00 PM
+Nov 10 15:20:00 CMX50070-101776 start_cmxmarsserver.sh[3661989]: Got Data: 0 count: 87 t: 3:20:00 PM
+Nov 10 15:20:01 CMX50070-101776 start_cmxmarsserver.sh[3661989]: Got Data: 0 count: 90 t: 3:20:01 PM
+Nov 10 15:20:01 CMX50070-101776 start_cmxmarsserver.sh[3661989]: Got Data: 0 count: 92 t: 3:20:01 PM
+Nov 10 15:20:01 CMX50070-101776 start_cmxmarsserver.sh[3661989]: Got Data: 0 count: 95 t: 3:20:01 PM
+Nov 10 15:20:01 CMX50070-101776 start_cmxmarsserver.sh[3661989]: Got Data: 0 count: 100 t: 3:20:01 PM
+Nov 10 15:20:02 CMX50070-101776 start_cmxmarsserver.sh[3661989]: Got Data: 100 count: 4 t: 3:20:02 PM
+Nov 10 15:20:02 CMX50070-101776 start_cmxmarsserver.sh[3661989]: Got Data: 100 count: 18 t: 3:20:02 PM
+Nov 10 15:20:02 CMX50070-101776 start_cmxmarsserver.sh[3661989]: Got Data: 100 count: 22 t: 3:20:02 PM
+Nov 10 15:20:02 CMX50070-101776 start_cmxmarsserver.sh[3661989]: Got Data: 100 count: 26 t: 3:20:02 PM
+Nov 10 15:20:02 CMX50070-101776 start_cmxmarsserver.sh[3661989]: Got Data: 100 count: 43 t: 3:20:02 PM
+Nov 10 15:20:09 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.24.11.230:53904).
+Nov 10 15:20:09 CMX50070-101776 sshd[3674822]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:20:09 CMX50070-101776 sshd[3674822]: Connection closed by 172.24.11.230 port 53904
+Nov 10 15:20:09 CMX50070-101776 systemd[1]: sshd@579-10.102.37.173:22-172.24.11.230:53904.service: Deactivated successfully.
+Nov 10 15:20:10 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (10.0.54.72:58226).
+Nov 10 15:20:10 CMX50070-101776 sshd[3674928]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:20:10 CMX50070-101776 sshd[3674928]: Connection closed by 10.0.54.72 port 58226
+Nov 10 15:20:10 CMX50070-101776 systemd[1]: sshd@580-10.102.37.173:22-10.0.54.72:58226.service: Deactivated successfully.
+Nov 10 15:20:10 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (192.168.

@@ -1,0 +1,18 @@
+51:29.343654Z [DeviceApiSubscriber                                  ] DEBUG: 0 messages in the queue
+Nov 10 05:51:29 CMX50070-101776 start_mrt.sh[3324]: Queued ptp4l@primary.service start-job as /org/freedesktop/systemd1/job/2227
+Nov 10 05:51:29 CMX50070-101776 start_mrt.sh[3324]: TSS: Started PTP stack (ptp4l) on the primary
+Nov 10 05:51:29 CMX50070-101776 ptp4l[16352]: [113.491] selected /dev/ptp1 as PTP clock
+Nov 10 05:51:29 CMX50070-101776 ptp4l[16352]: [113.491] port 1: INITIALIZING to LISTENING on INIT_COMPLETE
+Nov 10 05:51:29 CMX50070-101776 ptp4l[16352]: [113.491] port 0: INITIALIZING to LISTENING on INIT_COMPLETE
+Nov 10 05:51:29 CMX50070-101776 health_service.deviceapi[544]: Publish update:
+Nov 10 05:51:29 CMX50070-101776 health_service.deviceapi[544]: ################################################################################
+Nov 10 05:51:29 CMX50070-101776 health_service.deviceapi[544]: ID:        112
+Nov 10 05:51:29 CMX50070-101776 health_service.deviceapi[544]: State:        2
+Nov 10 05:51:29 CMX50070-101776 health_service.deviceapi[544]: Progress:        [11] Run Remote
+Nov 10 05:51:29 CMX50070-101776 health_service.deviceapi[544]: Reliability:        [0]
+Nov 10 05:51:29 CMX50070-101776 health_service.deviceapi[544]: Num HW:        0
+Nov 10 05:51:29 CMX50070-101776 health_service.deviceapi[544]: ################################################################################
+Nov 10 05:51:29 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:51:29.349504Z [DeviceApiSubscriber                                  ] DEBUG: Received message from Health service
+Nov 10 05:51:29 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:51:29.349504Z [DeviceApiSubscriber                                  ] DEBUG: Health service message:
+Nov 10 05:51:29 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:51:29.349504Z [DeviceApiSubscriber                                  ] DEBUG:  * ResourceName: //mrt/0/health/0
+Nov 10 05:51:29 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:51:29.349504Z [DeviceApiSubscriber                                  ] DEBUG:  * State: Startup

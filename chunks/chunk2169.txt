@@ -1,0 +1,17 @@
+in S.M.A.R.T metrics and prepares them for node_exporter...
+Nov 11 13:00:55 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Deactivated successfully.
+Nov 11 13:00:55 CMX50070-101776 systemd[1]: Finished Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 11 13:00:56 CMX50070-101776 systemd[1]: Starting Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter...
+Nov 11 13:00:56 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Deactivated successfully.
+Nov 11 13:00:56 CMX50070-101776 systemd[1]: Finished Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 11 13:00:57 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Start request repeated too quickly.
+Nov 11 13:00:57 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Failed with result 'start-limit-hit'.
+Nov 11 13:00:57 CMX50070-101776 systemd[1]: Failed to start Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 11 13:00:58 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Start request repeated too quickly.
+Nov 11 13:00:58 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Failed with result 'start-limit-hit'.
+Nov 11 13:00:58 CMX50070-101776 systemd[1]: Failed to start Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 11 13:00:59 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Start request repeated too quickly.
+Nov 11 13:00:59 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Failed with result 'start-limit-hit'.
+Nov 11 13:00:59 CMX50070-101776 systemd[1]: Failed to start Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 11 13:01:52 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 11 13:01:52 CMX50070-101776 mrt.pos.catrp3dr[1969

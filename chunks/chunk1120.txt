@@ -1,0 +1,18 @@
+d[1]: mrt.smartmon-collector.service: Deactivated successfully.
+Nov 10 11:00:11 CMX50070-101776 systemd[1]: Finished Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 10 11:00:12 CMX50070-101776 systemd[1]: Starting Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter...
+Nov 10 11:00:12 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.25.232.145:57950).
+Nov 10 11:00:12 CMX50070-101776 sshd[2002216]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 11:00:12 CMX50070-101776 sshd[2002216]: Connection closed by 172.25.232.145 port 57950
+Nov 10 11:00:12 CMX50070-101776 systemd[1]: sshd@408-10.102.37.173:22-172.25.232.145:57950.service: Deactivated successfully.
+Nov 10 11:00:12 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Deactivated successfully.
+Nov 10 11:00:12 CMX50070-101776 systemd[1]: Finished Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 10 11:00:13 CMX50070-101776 systemd[1]: Starting Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter...
+Nov 10 11:00:13 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Deactivated successfully.
+Nov 10 11:00:13 CMX50070-101776 systemd[1]: Finished Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 10 11:00:14 CMX50070-101776 systemd[1]: Starting Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter...
+Nov 10 11:00:14 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.25.11.234:39124).
+Nov 10 11:00:14 CMX50070-101776 sshd[2002953]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 11:00:14 CMX50070-101776 sshd[2002953]: Connection closed by 172.25.11.234 port 39124
+Nov 10 11:00:14 CMX50070-101776 systemd[1]: sshd@409-10.102.37.173:22-172.25.11.234:39124.service: Deactivated successfully.
+Nov 10 11:00:1

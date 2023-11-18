@@ -1,0 +1,22 @@
+101776 start_mrt.sh[10885]: fpga version=0x3070007
+Nov 10 05:50:44 CMX50070-101776 start_mrt.sh[10883]: Write :/home/instrument/fw/log/2023-11-10T05-49-49Z/bbmpp_log_cmg_300_inst1.txt
+Nov 10 05:50:44 CMX50070-101776 start_mrt.sh[10880]: Write :/home/instrument/fw/log/2023-11-10T05-49-49Z/bbmpp_log_cmg_300_inst0.txt
+Nov 10 05:50:44 CMX50070-101776 start_mrt.sh[10881]: Write :/home/instrument/fw/log/2023-11-10T05-49-49Z/bbmpp_log_cmg_400_inst1.txt
+Nov 10 05:50:44 CMX50070-101776 start_mrt.sh[3324]: CCmgAccess(/dev/rohde-schwarz/cmg_300) ctor handle=536
+Nov 10 05:50:44 CMX50070-101776 start_mrt.sh[3324]: fpga version=0x3070007
+Nov 10 05:50:44 CMX50070-101776 start_mrt.sh[10885]: Write :/home/instrument/fw/log/2023-11-10T05-49-49Z/bbmpp_log_cmg_400_inst0.txt
+Nov 10 05:50:44 CMX50070-101776 start_mrt.sh[3324]: CCmgAccess(/dev/rohde-schwarz/cmg_400) ctor handle=540
+Nov 10 05:50:44 CMX50070-101776 start_mrt.sh[3324]: fpga version=0x3070007
+Nov 10 05:50:44 CMX50070-101776 start_mrt.sh[10882]: Reset()
+Nov 10 05:50:44 CMX50070-101776 start_mrt.sh[10882]: Write :/home/instrument/fw/log/2023-11-10T05-49-49Z/bbmpp_log_cmg_100_inst0.txt
+Nov 10 05:50:44 CMX50070-101776 start_mrt.sh[10884]: Reset()
+Nov 10 05:50:44 CMX50070-101776 start_mrt.sh[10884]: Write :/home/instrument/fw/log/2023-11-10T05-49-49Z/bbmpp_log_cmg_200_inst0.txt
+Nov 10 05:50:44 CMX50070-101776 start_mrt.sh[3324]: CCmgAccess(/dev/rohde-schwarz/cmg_200) ctor handle=542
+Nov 10 05:50:44 CMX50070-101776 start_mrt.sh[3324]: fpga version=0x7080008
+Nov 10 05:50:44 CMX50070-101776 start_mrt.sh[3324]: CCmgAccess(/dev/rohde-schwarz/cmg_100) ctor handle=543
+Nov 10 05:50:44 CMX50070-101776 start_mrt.sh[3324]: fpga version=0x7080008
+Nov 10 05:50:44 CMX50070-101776 start_mrt.sh[3324]: CCmgAccess(/dev/rohde-schwarz/cmg_100) ctor handle=546
+Nov 10 05:50:44 CMX50070-101776 start_mrt.sh[3324]: CCmgAccess(/dev/rohde-schwarz/cmg_300) ctor handle=549
+Nov 10 05:50:44 CMX50070-101776 start_mrt.sh[3324]: fpga version=0x3070007
+Nov 10 05:50:44 CMX50070-101776 start_mrt.sh[3324]: fpga version=0x7080008
+Nov 10 05:50:44 CM

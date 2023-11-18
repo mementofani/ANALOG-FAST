@@ -1,0 +1,20 @@
+:04 CMX50070-101776 sshd[3623655]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:12:04 CMX50070-101776 sshd[3623655]: Connection closed by 172.24.26.39 port 58798
+Nov 10 15:12:04 CMX50070-101776 sshd[3623656]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:12:04 CMX50070-101776 sshd[3623656]: Connection closed by 172.24.26.38 port 54398
+Nov 10 15:12:04 CMX50070-101776 systemd[1]: sshd@543-10.102.37.173:22-172.24.26.39:58798.service: Deactivated successfully.
+Nov 10 15:12:04 CMX50070-101776 systemd[1]: sshd@544-10.102.37.173:22-172.24.26.38:54398.service: Deactivated successfully.
+Nov 10 15:12:04 CMX50070-101776 sshd[3623657]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:12:04 CMX50070-101776 sshd[3623657]: Connection closed by 172.24.26.36 port 40284
+Nov 10 15:12:04 CMX50070-101776 systemd[1]: sshd@545-10.102.37.173:22-172.24.26.36:40284.service: Deactivated successfully.
+Nov 10 15:12:04 CMX50070-101776 sshd[3623659]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:12:04 CMX50070-101776 sshd[3623659]: Connection closed by 172.24.26.37 port 40272
+Nov 10 15:12:04 CMX50070-101776 systemd[1]: sshd@546-10.102.37.173:22-172.24.26.37:40272.service: Deactivated successfully.
+Nov 10 15:12:04 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.25.232.145:39684).
+Nov 10 15:12:04 CMX50070-101776 sshd[3623665]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:12:04 CMX50070-101776 sshd[3623665]: Connection closed by 172.25.232.145 port 39684
+Nov 10 15:12:04 CMX50070-101776 systemd[1]: sshd@547-10.102.37.173:22-172.25.232.145:39684.service: Deactivated successfully.
+Nov 10 15:12:09 CMX50070-101776 sshd[3623574]: Accepted password for root from 10.0.54.71 port 50636 ssh2
+Nov 10 15:12:09 CMX50070-101776 sshd[3623574]: pam_unix(sshd:session): session opened for user root(uid=0) by (uid=0)
+Nov 10 15:12:10 CMX50070-101776 systemd[1]: Created slice User Slice of UID 0.
+Nov 10 15:12:10 CMX5

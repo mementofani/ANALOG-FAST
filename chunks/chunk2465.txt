@@ -1,0 +1,15 @@
+t: 11/11/2023 22:57:53 +00:00
+Nov 11 22:58:04 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 177.33M, Virtual set 5.60G, CPU Time 23044.170 s, CPU User Time 14663.540 s, Threads 42
+Nov 11 22:58:53 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 11 22:58:53 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/11/2023 22:58:53 +00:00
+Nov 11 22:58:53 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 11 22:58:53 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/11/2023 22:58:53 +00:00
+Nov 11 22:59:51 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 177.33M, Virtual set 5.60G, CPU Time 23063.500 s, CPU User Time 14676.640 s, Threads 44
+Nov 11 22:59:53 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 11 22:59:53 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/11/2023 22:59:53 +00:00
+Nov 11 22:59:53 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 11 22:59:53 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/11/2023 22:59:53 +00:00
+Nov 11 23:00:00 CMX50070-101776 systemd[1]: Starting Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter...
+Nov 11 23:00:00 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Deactivated successfully.
+Nov 11 23:00:00 CMX50070-101776 systemd[1]: Finished Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 11 23:00:01 CMX50070-101776 systemd[1]: Starting Script that periodically evaluates the main S.M.A.R.T me

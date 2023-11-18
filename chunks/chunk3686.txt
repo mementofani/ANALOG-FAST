@@ -1,0 +1,14 @@
+qBrokerServer object at 0x7fb1cb20a410>
+Nov 13 07:07:31 CMX50070-101776 start_mrt.sh[3081029]: 2023-11-13T07:07:31.250+00:00 [info     ] Stopped GSM state background thread [gwss.gsm.gsm_state] prepare_setup=GsmWcdmaServicer server=<dapi.zmqbroker_server.ZmqBrokerServer object at 0x7fb1cb20a410>
+Nov 13 07:07:31 CMX50070-101776 start_mrt.sh[3081034]: [INFO] [2023-11-13T07:07:31,576+0000] [srss.signal_handler:109]: Received SIGTERM, shutting down...
+Nov 13 07:07:31 CMX50070-101776 start_mrt.sh[3081034]: [INFO] [2023-11-13T07:07:31,577+0000] [utilities.delete:234]: Deleting SaveRecall
+Nov 13 07:07:31 CMX50070-101776 start_mrt.sh[3081034]: [INFO] [2023-11-13T07:07:31,577+0000] [__init__.stop:551]: stopping Drift - check if the queue is empty or wait upto 60 sec
+Nov 13 07:07:34 CMX50070-101776 start_mrt.sh[3081030]: [INFO] [2023-11-13T07:07:34,211+0000] [__init__._check_queue_empty:575]: stopping Drift - queue empty or 60 sec timeout
+Nov 13 07:07:34 CMX50070-101776 start_mrt.sh[3081030]: [INFO] [2023-11-13T07:07:34,211+0000] [drift_zmqbroker.stop:64]: Stopping message_dispatcher...
+Nov 13 07:07:34 CMX50070-101776 start_mrt.sh[3081030]: [INFO] [2023-11-13T07:07:34,215+0000] [__init__.end_recording:527]: end_recording
+Nov 13 07:07:34 CMX50070-101776 start_mrt.sh[3081030]: [INFO] [2023-11-13T07:07:34,215+0000] [drift_recorder_playback._run:93]: Logging Queue received None -> stopping
+Nov 13 07:07:34 CMX50070-101776 start_mrt.sh[3081030]: [INFO] [2023-11-13T07:07:34,215+0000] [__init__.stoplogging:100]: Stopping the current logger
+Nov 13 07:07:34 CMX50070-101776 start_mrt.sh[3081030]: Shutdown event was set and clean-up was done, end of program
+Nov 13 07:07:34 CMX50070-101776 start_mrt.sh[3081034]: [INFO] [2023-11-13T07:07:34,580+0000] [__init__._check_queue_empty:575]: stopping Drift - queue empty or 60 sec timeout
+Nov 13 07:07:34 CMX50070-101776 start_mrt.sh[3081034]: [INFO] [2023-11-13T07:07:34,581+0000] [drift_zmqbroker.stop:64]: Stopping message_dispatcher...
+Nov 13 07:07:34 CMX50070-101776 start_mrt.sh[3081034]: [INFO] [2023-11-13T07:07:34,584+0000

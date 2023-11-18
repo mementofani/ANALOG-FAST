@@ -1,0 +1,15 @@
+eLib.InstallationService - Stats: Working set 184.58M, Virtual set 5.57G, CPU Time 14124.700 s, CPU User Time 8998.350 s, Threads 39
+Nov 11 05:58:52 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 11 05:58:52 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/11/2023 05:58:52 +00:00
+Nov 11 05:58:52 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 11 05:58:52 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/11/2023 05:58:52 +00:00
+Nov 11 05:59:47 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 184.23M, Virtual set 5.59G, CPU Time 14140.220 s, CPU User Time 9008.440 s, Threads 40
+Nov 11 05:59:52 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 11 05:59:52 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/11/2023 05:59:52 +00:00
+Nov 11 05:59:52 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 11 05:59:52 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/11/2023 05:59:52 +00:00
+Nov 11 06:00:00 CMX50070-101776 systemd[1]: Starting Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter...
+Nov 11 06:00:00 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Deactivated successfully.
+Nov 11 06:00:00 CMX50070-101776 systemd[1]: Finished Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 11 06:00:01 CMX50070-101776 systemd[1]: Starting Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter...
+Nov 11 06:00:01 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Deactivated successfully.

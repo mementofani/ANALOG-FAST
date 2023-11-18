@@ -1,0 +1,15 @@
+gCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 12 16:05:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/12/2023 16:05:54 +00:00
+Nov 12 16:05:54 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 12 16:05:54 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/12/2023 16:05:54 +00:00
+Nov 12 16:06:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 12 16:06:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/12/2023 16:06:54 +00:00
+Nov 12 16:06:54 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 12 16:06:54 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/12/2023 16:06:54 +00:00
+Nov 12 16:07:03 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 176.36M, Virtual set 5.58G, CPU Time 32048.520 s, CPU User Time 20390.310 s, Threads 42
+Nov 12 16:07:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 12 16:07:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/12/2023 16:07:54 +00:00
+Nov 12 16:07:54 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 12 16:07:54 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/12/2023 16:07:54 +00:00
+Nov 12 16:08:50 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 176.37M, Virtual set 5.59G, CPU Time 32063.640 s, CPU User Time 20399.860 s, Threads 43
+Nov 12 16:08:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.Positio

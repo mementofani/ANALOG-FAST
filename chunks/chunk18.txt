@@ -1,0 +1,25 @@
+0000:0d:00.0: PME# supported from D0 D3hot D3cold
+Nov 10 05:49:37 localhost kernel: pci 0000:00:01.3: PCI bridge to [bus 0d]
+Nov 10 05:49:37 localhost kernel: pci 0000:00:01.3:   bridge window [io  0xf000-0xffff]
+Nov 10 05:49:37 localhost kernel: pci 0000:00:01.3:   bridge window [mem 0xf2900000-0xf29fffff]
+Nov 10 05:49:37 localhost kernel: pci 0000:0e:00.0: [162f:14a4] type 00 class 0x078000
+Nov 10 05:49:37 localhost kernel: pci 0000:0e:00.0: reg 0x10: [mem 0x79100000-0x7913ffff 64bit pref]
+Nov 10 05:49:37 localhost kernel: pci 0000:00:01.5: PCI bridge to [bus 0e]
+Nov 10 05:49:37 localhost kernel: pci 0000:00:01.5:   bridge window [mem 0x79100000-0x791fffff 64bit pref]
+Nov 10 05:49:37 localhost kernel: pci 0000:0f:00.0: [1002:15dd] type 00 class 0x030000
+Nov 10 05:49:37 localhost kernel: pci 0000:0f:00.0: reg 0x10: [mem 0x40000000-0x4fffffff 64bit pref]
+Nov 10 05:49:37 localhost kernel: pci 0000:0f:00.0: reg 0x18: [mem 0x50000000-0x501fffff 64bit pref]
+Nov 10 05:49:37 localhost kernel: pci 0000:0f:00.0: reg 0x20: [io  0xe000-0xe0ff]
+Nov 10 05:49:37 localhost kernel: pci 0000:0f:00.0: reg 0x24: [mem 0xf2700000-0xf277ffff]
+Nov 10 05:49:37 localhost kernel: pci 0000:0f:00.0: enabling Extended Tags
+Nov 10 05:49:37 localhost kernel: pci 0000:0f:00.0: BAR 0: assigned to efifb
+Nov 10 05:49:37 localhost kernel: pci 0000:0f:00.0: PME# supported from D1 D2 D3hot D3cold
+Nov 10 05:49:37 localhost kernel: pci 0000:0f:00.1: [1002:15de] type 00 class 0x040300
+Nov 10 05:49:37 localhost kernel: pci 0000:0f:00.1: reg 0x10: [mem 0xf27c8000-0xf27cbfff]
+Nov 10 05:49:37 localhost kernel: pci 0000:0f:00.1: enabling Extended Tags
+Nov 10 05:49:37 localhost kernel: pci 0000:0f:00.1: PME# supported from D1 D2 D3hot D3cold
+Nov 10 05:49:37 localhost kernel: pci 0000:0f:00.2: [1022:15df] type 00 class 0x108000
+Nov 10 05:49:37 localhost kernel: pci 0000:0f:00.2: reg 0x18: [mem 0xf2600000-0xf26fffff]
+Nov 10 05:49:37 localhost kernel: pci 0000:0f:00.2: reg 0x24: [mem 0xf27ce000-0xf27cffff]
+Nov 10 05:49:37 localhost kernel: pci 0000:0f:00.2: enabling Extended Tags
+Nov 10 05:49:

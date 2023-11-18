@@ -1,0 +1,17 @@
+es.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 12 15:47:54 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/12/2023 15:47:54 +00:00
+Nov 12 15:48:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 12 15:48:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/12/2023 15:48:54 +00:00
+Nov 12 15:48:54 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 12 15:48:54 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/12/2023 15:48:54 +00:00
+Nov 12 15:49:13 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 175.66M, Virtual set 5.59G, CPU Time 31893.640 s, CPU User Time 20292.720 s, Threads 41
+Nov 12 15:49:40 CMX50070-101776 health_service[545]: overflow_protection.sh:
+Nov 12 15:49:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 12 15:49:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/12/2023 15:49:54 +00:00
+Nov 12 15:49:54 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 12 15:49:54 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/12/2023 15:49:54 +00:00
+Nov 12 15:50:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 12 15:50:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/12/2023 15:50:54 +00:00
+Nov 12 15:50:54 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 12 15:50:54 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/12/2023 15:50:54 +00:00
+Nov 12 15:51:00 CMX50070-101776 

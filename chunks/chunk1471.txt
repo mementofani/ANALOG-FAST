@@ -1,0 +1,20 @@
+34172).
+Nov 10 15:45:06 CMX50070-101776 sshd[3832072]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:45:06 CMX50070-101776 sshd[3832072]: Connection closed by 172.25.11.234 port 34172
+Nov 10 15:45:06 CMX50070-101776 systemd[1]: sshd@726-10.102.37.173:22-172.25.11.234:34172.service: Deactivated successfully.
+Nov 10 15:45:07 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.24.11.228:33806).
+Nov 10 15:45:07 CMX50070-101776 sshd[3832278]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:45:07 CMX50070-101776 sshd[3832278]: Connection closed by 172.24.11.228 port 33806
+Nov 10 15:45:07 CMX50070-101776 systemd[1]: sshd@727-10.102.37.173:22-172.24.11.228:33806.service: Deactivated successfully.
+Nov 10 15:45:09 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (10.0.54.72:47786).
+Nov 10 15:45:09 CMX50070-101776 sshd[3832488]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:45:09 CMX50070-101776 sshd[3832488]: Connection closed by 10.0.54.72 port 47786
+Nov 10 15:45:09 CMX50070-101776 systemd[1]: sshd@728-10.102.37.173:22-10.0.54.72:47786.service: Deactivated successfully.
+Nov 10 15:45:10 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.25.196.5:53058).
+Nov 10 15:45:10 CMX50070-101776 sshd[3832508]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:45:10 CMX50070-101776 sshd[3832508]: Connection closed by 172.25.196.5 port 53058
+Nov 10 15:45:10 CMX50070-101776 systemd[1]: sshd@729-10.102.37.173:22-172.25.196.5:53058.service: Deactivated successfully.
+Nov 10 15:45:13 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.24.26.39:35978).
+Nov 10 15:45:13 CMX50070-101776 sshd[3832931]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:45:13 CMX50070-101776 sshd[3832931]: Connection closed by 172.24.26.39 port 35978
+Nov 10 15:45:13 CMX50070-101776 systemd[1]: sshd@730-10.102.37.173:22-172.24.26.39:35978.service: Deactivated successfully

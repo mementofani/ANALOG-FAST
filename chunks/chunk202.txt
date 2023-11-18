@@ -1,0 +1,16 @@
+ch=c000003e syscall=54 success=yes exit=0 a0=4 a1=0 a2=40 a3=556f3a392fa0 items=0 ppid=5200 pid=5260 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="iptables" exe="/usr/sbin/xtables-legacy-multi" key=(null)
+Nov 10 05:49:58 CMX50070-101776 audit: PROCTITLE proctitle=2F7573722F7362696E2F69707461626C6573002D2D77616974002D74006E6174002D4900444F434B45525F504F5354524F5554494E47002D73003132372E302E302E3131002D7000746370002D2D73706F7274003430373735002D6A00534E4154002D2D746F2D736F75726365003A3533
+Nov 10 05:49:58 CMX50070-101776 kernel: eth0: renamed from veth6d7abaa
+Nov 10 05:49:58 CMX50070-101776 kernel: IPv6: ADDRCONF(NETDEV_CHANGE): vethb15faec: link becomes ready
+Nov 10 05:49:58 CMX50070-101776 kernel: br-1054083fd124: port 3(vethb15faec) entered blocking state
+Nov 10 05:49:58 CMX50070-101776 kernel: br-1054083fd124: port 3(vethb15faec) entered forwarding state
+Nov 10 05:49:58 CMX50070-101776 NetworkManager[441]: <info>  [1699595398.2022] device (vethb15faec): carrier: link connected
+Nov 10 05:49:58 CMX50070-101776 xu_launcher[5095]: No ACK from [fe80::02e0:33ff:fe0b:b5bf%eth_internal]:22 after 1026397 microseconds
+Nov 10 05:49:58 CMX50070-101776 avahi-daemon[381]: Joining mDNS multicast group on interface vethac25a19.IPv6 with address fe80::44ba:85ff:feb6:6abf.
+Nov 10 05:49:58 CMX50070-101776 avahi-daemon[381]: New relevant interface vethac25a19.IPv6 for mDNS.
+Nov 10 05:49:58 CMX50070-101776 avahi-daemon[381]: Registering new address record for fe80::44ba:85ff:feb6:6abf on vethac25a19.*.
+Nov 10 05:49:58 CMX50070-101776 bash[3413]: Creating cmxreporting_rtia_1        ... done
+Nov 10 05:49:58 CMX50070-101776 bash[3413]: Attaching to cmxreporting_socket_host_1, cmxreporting_live_view_1, cmxreporting_rtia_1
+Nov 10 05:49:58 CMX50070-101776 bash[3413]: live_view_1    | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
+Nov 10 05:49:58 CMX50070-101776 bash[3413]: live_view_1    | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
+Nov

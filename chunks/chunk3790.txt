@@ -1,0 +1,18 @@
+415.930 s, CPU User Time 26361.820 s, Threads 43
+Nov 13 09:28:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 13 09:28:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/13/2023 09:28:54 +00:00
+Nov 13 09:28:55 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 13 09:28:55 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2023 09:28:55 +00:00
+Nov 13 09:29:46 CMX50070-101776 CMXmarsServer[3969328]: DownlinkPhyFourCells.rsmsglog
+Nov 13 09:29:46 CMX50070-101776 CMXmarsServer[3969328]: Server file path: DownlinkPhyFourCells.rsmsglog
+Nov 13 09:29:51 CMX50070-101776 start_cmxmarsserver.sh[3969328]: UnsubscribeFromFormulaValues /home/instrument/fw/log/current/sfa/NetworkEmulation3/signaling.msglog
+Nov 13 09:29:52 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 0 count: 100 t: 9:29:52 AM
+Nov 13 09:29:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 13 09:29:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/13/2023 09:29:54 +00:00
+Nov 13 09:29:55 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 13 09:29:55 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2023 09:29:55 +00:00
+Nov 13 09:30:06 CMX50070-101776 CMXmarsServer[3969328]: DownlinkPhyOneCell.msglog
+Nov 13 09:30:06 CMX50070-101776 CMXmarsServer[3969328]: Server file path: DownlinkPhyOneCell.msglog
+Nov 13 09:30:11 CMX50070-101776 start_cmxmarsserver.sh[3969328]: UnsubscribeFromFormulaValues /home/instrument/.local/tmp/cmxtools/cmxmars/upload/08b61c-f5142a/DownlinkPhyFourCells.rsmsglog
+Nov 13 09:30:11 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 0 count: 100 t: 9:30:11 AM
+Nov 13 09:30:18 CMX50070-101776 RsInstallation[1952]: [.NET Threa

@@ -1,0 +1,10 @@
+2783]: SYSCALL arch=c000003e syscall=54 success=yes exit=0 a0=4 a1=0 a2=40 a3=5577b9683530 items=0 ppid=1947 pid=2783 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="iptables" exe="/usr/sbin/xtables-legacy-multi" key=(null)
+Nov 10 05:49:46 CMX50070-101776 audit: PROCTITLE proctitle=2F7573722F7362696E2F69707461626C6573002D2D77616974002D74006E6174002D4100505245524F5554494E47002D6D006164647274797065002D2D6473742D74797065004C4F43414C002D6A00444F434B4552
+Nov 10 05:49:46 CMX50070-101776 audit[2785]: NETFILTER_CFG table=nat family=2 entries=10 op=xt_replace pid=2785 comm="iptables"
+Nov 10 05:49:46 CMX50070-101776 audit[2785]: SYSCALL arch=c000003e syscall=54 success=yes exit=0 a0=4 a1=0 a2=40 a3=5563a85c9700 items=0 ppid=1947 pid=2785 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="iptables" exe="/usr/sbin/xtables-legacy-multi" key=(null)
+Nov 10 05:49:46 CMX50070-101776 audit: PROCTITLE proctitle=2F7573722F7362696E2F69707461626C6573002D2D77616974002D74006E6174002D41004F5554505554002D6D006164647274797065002D2D6473742D74797065004C4F43414C002D6A00444F434B45520000002D2D647374003132372E302E302E302F38
+Nov 10 05:49:46 CMX50070-101776 audit[2787]: NETFILTER_CFG table=filter family=2 entries=14 op=xt_replace pid=2787 comm="iptables"
+Nov 10 05:49:46 CMX50070-101776 audit[2787]: SYSCALL arch=c000003e syscall=54 success=yes exit=0 a0=4 a1=0 a2=40 a3=5582bc3c3470 items=0 ppid=1947 pid=2787 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="iptables" exe="/usr/sbin/xtables-legacy-multi" key=(null)
+Nov 10 05:49:46 CMX50070-101776 audit: PROCTITLE proctitle=2F7573722F7362696E2F69707461626C6573002D2D77616974002D4900464F5257415244002D6F00646F636B657230002D6A00444F434B4552
+Nov 10 05:49:46 CMX50070-101776 audit[2789]: NETFILTER_CFG table=filter family=2 entries=15 op=xt_replace pid=2789 comm="iptables"
+Nov 10 05:49:46 CMX50070-101776 audit[2789]: SYSCALL arch=c000003e syscall=54 success=yes exit=0 a0=4 a1=0 a2

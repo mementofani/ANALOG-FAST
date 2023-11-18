@@ -1,0 +1,21 @@
+ Data: 62500 count: 100 t: 9:44:58 AM
+Nov 13 09:44:59 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 63500 count: 33 t: 9:44:59 AM
+Nov 13 09:44:59 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 64700 count: 56 t: 9:44:59 AM
+Nov 13 09:45:00 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 65100 count: 100 t: 9:45:00 AM
+Nov 13 09:45:00 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 65200 count: 10 t: 9:45:00 AM
+Nov 13 09:45:00 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 66200 count: 61 t: 9:45:00 AM
+Nov 13 09:45:01 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 67300 count: 46 t: 9:45:01 AM
+Nov 13 09:45:02 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 67500 count: 27 t: 9:45:02 AM
+Nov 13 09:45:02 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 68300 count: 16 t: 9:45:02 AM
+Nov 13 09:45:02 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 69400 count: 76 t: 9:45:02 AM
+Nov 13 09:45:03 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 70000 count: 10 t: 9:45:03 AM
+Nov 13 09:45:03 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 69900 count: 100 t: 9:45:03 AM
+Nov 13 09:45:03 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 70600 count: 84 t: 9:45:03 AM
+Nov 13 09:45:03 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 71800 count: 47 t: 9:45:03 AM
+Nov 13 09:45:04 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 73000 count: 58 t: 9:45:04 AM
+Nov 13 09:45:04 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 73100 count: 12 t: 9:45:04 AM
+Nov 13 09:45:04 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 73000 count: 100 t: 9:45:04 AM
+Nov 13 09:45:04 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 73900 count: 85 t: 9:45:04 AM
+Nov 13 09:45:06 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 74400 count: 92 t: 9:45:06 AM
+Nov 13 09:45:06 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 75000 count: 21 t: 9:45:06 AM
+Nov 13 09:45:06 CMX50070-101776 start_cmxmars

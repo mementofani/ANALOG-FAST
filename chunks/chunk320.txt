@@ -1,0 +1,26 @@
+B_IOCTL_SET_BNC_OUT_INVERTER call
+Nov 10 05:50:40 CMX50070-101776 kernel: CMX_MB_IOCTL_SET_BNC_OUT_INVERTER call
+Nov 10 05:50:40 CMX50070-101776 kernel: CMX_MB_IOCTL_SET_BNC_OUT_INVERTER call
+Nov 10 05:50:40 CMX50070-101776 kernel: CMX_MB_IOCTL_SET_BNC_OUT_INVERTER call
+Nov 10 05:50:40 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Initializing MIC
+Nov 10 05:50:40 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: MB LD initialization complete successfully
+Nov 10 05:50:40 CMX50070-101776 start_mrt.sh[3324]: CCmgAccess(/dev/rohde-schwarz/cmg_300) ctor handle=533
+Nov 10 05:50:40 CMX50070-101776 start_mrt.sh[3324]: CCmgAccess(/dev/rohde-schwarz/cmg_200) ctor handle=534
+Nov 10 05:50:40 CMX50070-101776 start_mrt.sh[3324]: fpga version=0x3070007
+Nov 10 05:50:40 CMX50070-101776 start_mrt.sh[3324]: fpga version=0x7080008
+Nov 10 05:50:40 CMX50070-101776 start_mrt.sh[3324]: CCmgAccess(/dev/rohde-schwarz/cmg_400) ctor handle=535
+Nov 10 05:50:40 CMX50070-101776 start_mrt.sh[3324]: fpga version=0x3070007
+Nov 10 05:50:40 CMX50070-101776 start_mrt.sh[3324]: CCmgAccess(/dev/rohde-schwarz/cmg_400) ctor handle=532
+Nov 10 05:50:40 CMX50070-101776 start_mrt.sh[3324]: fpga version=0x3070007
+Nov 10 05:50:40 CMX50070-101776 start_mrt.sh[3324]: CCmgAccess(/dev/rohde-schwarz/cmg_300) ctor handle=539
+Nov 10 05:50:40 CMX50070-101776 start_mrt.sh[3324]: fpga version=0x3070007
+Nov 10 05:50:40 CMX50070-101776 start_mrt.sh[3324]: CCmgAccess(/dev/rohde-schwarz/cmg_100) ctor handle=537
+Nov 10 05:50:40 CMX50070-101776 start_mrt.sh[3324]: fpga version=0x7080008
+Nov 10 05:50:40 CMX50070-101776 flexxamconfigurationbridge[6228]: running sams:
+Nov 10 05:50:41 CMX50070-101776 xu_launcher[1981]: PU LD has been started.
+Nov 10 05:50:41 CMX50070-101776 xu_launcher[1981]: Waiting for (any) signal to shut down...
+Nov 10 05:50:41 CMX50070-101776 start_mrt.sh[10878]: /usr/lib/fw
+Nov 10 05:50:41 CMX50070-101776 start_mrt.sh[10877]: /usr/lib/fw
+Nov 10 05:50:41 CMX50070-101776 start_mrt.sh[10879]: /usr/lib/fw
+Nov 10 05:50:41 CMX50070-101776 start_mrt.sh[10875]: /usr/lib/fw
+Nov 10 05:50:41 CMX5007

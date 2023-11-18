@@ -1,0 +1,16 @@
+] [2023-11-13T07:05:59,551+0000] [srss.verify_args:57]: Master broker address: 127.0.0.1
+Nov 13 07:05:59 CMX50070-101776 start_mrt.sh[3081034]: [INFO] [2023-11-13T07:05:59,551+0000] [srss.verify_args:63]: sri_recall_log_lookup_location: /home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation4/sri
+Nov 13 07:05:59 CMX50070-101776 start_mrt.sh[3081034]: [INFO] [2023-11-13T07:05:59,551+0000] [srss.verify_args:69]: working_dir: /home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation4/sri
+Nov 13 07:05:59 CMX50070-101776 start_mrt.sh[3081034]: [INFO] [2023-11-13T07:05:59,551+0000] [srss.__init__:43]: SRSS version: 05.01.01
+Nov 13 07:05:59 CMX50070-101776 start_mrt.sh[3081034]: [INFO] [2023-11-13T07:05:59,563+0000] [utilities.register_in_persistence_registry_service:215]: Successfully registered in PersistenceRegistryService
+Nov 13 07:05:59 CMX50070-101776 start_mrt.sh[3081034]: [INFO] [2023-11-13T07:05:59,563+0000] [srss.__init__:51]: Service registered
+Nov 13 07:05:59 CMX50070-101776 sshd[3081995]: Invalid user NoSuchUser from 10.0.2.217 port 60674
+Nov 13 07:05:59 CMX50070-101776 sshd[3081995]: Connection closed by invalid user NoSuchUser 10.0.2.217 port 60674 [preauth]
+Nov 13 07:05:59 CMX50070-101776 systemd[1]: sshd@1259-10.102.37.173:22-10.0.2.217:60674.service: Deactivated successfully.
+Nov 13 07:05:59 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (10.0.2.217:60676).
+Nov 13 07:05:59 CMX50070-101776 sshd[3082022]: Invalid user USERID from 10.0.2.217 port 60676
+Nov 13 07:05:59 CMX50070-101776 sshd[3082022]: pam_unix(sshd:auth): check pass; user unknown
+Nov 13 07:05:59 CMX50070-101776 sshd[3082022]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=10.0.2.217
+Nov 13 07:05:59 CMX50070-101776 start_mrt.sh[3081030]: [INFO] [2023-11-13T07:05:59,754+0000] [srsf_service_impl.CheckService:96]: SRSF is running
+Nov 13 07:05:59 CMX50070-101776 start_mrt.sh[3081034]: [INFO] [2023-11-13T07:05:59,881+0000] [srss_service_impl.CheckService:97]: SRSS is running
+Nov 13 07:06:01 CMX50070-101

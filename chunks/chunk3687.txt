@@ -1,0 +1,14 @@
+] [__init__.end_recording:527]: end_recording
+Nov 13 07:07:34 CMX50070-101776 start_mrt.sh[3081034]: [INFO] [2023-11-13T07:07:34,585+0000] [drift_recorder_playback._run:93]: Logging Queue received None -> stopping
+Nov 13 07:07:34 CMX50070-101776 start_mrt.sh[3081034]: [INFO] [2023-11-13T07:07:34,585+0000] [__init__.stoplogging:100]: Stopping the current logger
+Nov 13 07:07:34 CMX50070-101776 start_mrt.sh[3081034]: Shutdown event was set and clean-up was done, end of program
+Nov 13 07:07:36 CMX50070-101776 mrt.dos[1967]: 2023-11-13T07:07:36.586832Z [DeviceApiSubscriber                                  ] DEBUG: Received message from Connection service
+Nov 13 07:07:36 CMX50070-101776 mrt.dos[1967]: 2023-11-13T07:07:36.588860Z [DeviceApiSubscriber                                  ] DEBUG: Connection service message: Found connection: //mrt/0/connector/16 <=> //mrt/0/testenvironment/0/dut/0/connector/0 @ //mrt/0/testenvironment/0/connection/28
+Nov 13 07:07:36 CMX50070-101776 start_mrt.sh[3080896]: Dispatching RPC RatRqm1::sfa_0::message_received
+Nov 13 07:07:36 CMX50070-101776 start_mrt.sh[3080896]: execute
+Nov 13 07:07:36 CMX50070-101776 mrt.dos[1967]: 2023-11-13T07:07:36.593711Z [DeviceApiSubscriber                                  ] DEBUG: Received message from Test Environment service
+Nov 13 07:07:36 CMX50070-101776 mrt.dos[1967]: 2023-11-13T07:07:36.598098Z [DeviceApiSubscriber                                  ] DEBUG: 1 messages in the queue
+Nov 13 07:07:36 CMX50070-101776 mrt.dos[1967]: 2023-11-13T07:07:36.598098Z [DeviceApiSubscriber                                  ] DEBUG: Test Environment service message received
+Nov 13 07:07:36 CMX50070-101776 mrt.dos[1967]: 2023-11-13T07:07:36.605766Z [DeviceApiSubscriber                                  ] DEBUG: 0 messages in the queue
+Nov 13 07:07:37 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 100 count: 18 t: 7:07:37 AM
+Nov 13 07:07:38 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 141.09M,

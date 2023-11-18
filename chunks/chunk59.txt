@@ -1,0 +1,23 @@
+.2.7
+Nov 10 05:49:38 CMX50070-101776 kernel: cmx_ifu500 0000:09:00.0: enabling device (0000 -> 0002)
+Nov 10 05:49:38 CMX50070-101776 kernel: pci bar0 ==> flags: 0x0014220c
+Nov 10 05:49:38 CMX50070-101776 kernel: pci bar0 ==> start: 0x000000005c000000  length: 0x0000000004000000  flags: 0x0014220c
+Nov 10 05:49:38 CMX50070-101776 kernel: pci bar0 ==> mapped to: (%pf?)
+Nov 10 05:49:38 CMX50070-101776 kernel: pci bar2 ==> flags: 0x0014220c
+Nov 10 05:49:38 CMX50070-101776 kernel: pci bar2 ==> start: 0x0000000058000000  length: 0x0000000004000000  flags: 0x0014220c
+Nov 10 05:49:38 CMX50070-101776 kernel: pci bar2 ==> mapped to: (%pf?)
+Nov 10 05:49:38 CMX50070-101776 kernel: pci bar4 ==> flags: 0x0014220c
+Nov 10 05:49:38 CMX50070-101776 kernel: pci bar4 ==> start: 0x0000000054000000  length: 0x0000000004000000  flags: 0x0014220c
+Nov 10 05:49:38 CMX50070-101776 kernel: pci bar4 ==> mapped to: (%pf?)
+Nov 10 05:49:38 CMX50070-101776 kernel: AU reports slot number 1000
+Nov 10 05:49:38 CMX50070-101776 kernel: pci_set_drvdata private_data: 0000000051dbeae9 pci_data: 000000002e9bb60f dma_data 00000000cb1d885f
+Nov 10 05:49:38 CMX50070-101776 kernel:  DM_BIT_MASK is set to DMA_BIT_MASK_VALUE bit
+Nov 10 05:49:38 CMX50070-101776 kernel: i40e 0000:08:00.0: fw 7.2.60285 api 1.9 nvm 7.20 0x800079f3 0.0.0 [8086:1580] [8086:0000]
+Nov 10 05:49:38 CMX50070-101776 kernel: cmx_ifu500 0000:0a:00.0: enabling device (0000 -> 0002)
+Nov 10 05:49:38 CMX50070-101776 kernel: usb 3-2.2.1.5: New USB device found, idVendor=0aad, idProduct=01f7, bcdDevice= 0.00
+Nov 10 05:49:38 CMX50070-101776 kernel: usb 3-2.2.1.5: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+Nov 10 05:49:38 CMX50070-101776 kernel: usb 3-2.2.1.5: Product: R&S Frontpanel MIC
+Nov 10 05:49:38 CMX50070-101776 kernel: usb 3-2.2.1.5: Manufacturer: Rohde & Schwarz GmbH & Co. KG
+Nov 10 05:49:38 CMX50070-101776 kernel: usb 3-2.2.1.5: SerialNumber: 102834
+Nov 10 05:49:38 CMX50070-101776 systemd-udevd[298]: /lib/udev/rules.d/50-udev-default.rules:40 Unknown group 'render', ignoring
+Nov 10 05:49:38 CMX50070-101776 sy

@@ -1,0 +1,15 @@
+1776 NetworkManager[441]: <info>  [1699595381.1799] manager: Networking is enabled by state file
+Nov 10 05:49:41 CMX50070-101776 NetworkManager[441]: <info>  [1699595381.1802] settings: Loaded settings plugin: keyfile (internal)
+Nov 10 05:49:41 CMX50070-101776 dbus-daemon[384]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.6' (uid=0 pid=441 comm="/usr/sbin/NetworkManager --no-daemon")
+Nov 10 05:49:41 CMX50070-101776 systemd[1]: Starting Network Manager Script Dispatcher Service...
+Nov 10 05:49:41 CMX50070-101776 start-mrt.sysmond.sh[1103]: 2023-11-10T05:49:41,190489797+00:00 Installed signal handlers, about to start nmon...
+Nov 10 05:49:41 CMX50070-101776 start-mrt.sysmond.sh[1108]: 2023-11-10T05:49:41,192504835+00:00 Rotate logs...
+Nov 10 05:49:41 CMX50070-101776 kernel: usb 3-2.2.6.2: New USB device found, idVendor=0424, idProduct=2517, bcdDevice= 0.02
+Nov 10 05:49:41 CMX50070-101776 kernel: usb 3-2.2.6.2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+Nov 10 05:49:41 CMX50070-101776 udisksd[413]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+Nov 10 05:49:41 CMX50070-101776 NetworkManager[441]: <info>  [1699595381.2308] settings: Loaded settings plugin: ifupdown ("/usr/lib/NetworkManager/1.36.2/libnm-settings-plugin-ifupdown.so")
+Nov 10 05:49:41 CMX50070-101776 NetworkManager[441]: <info>  [1699595381.2308] ifupdown: management mode: unmanaged
+Nov 10 05:49:41 CMX50070-101776 NetworkManager[441]: <info>  [1699595381.2309] ifupdown: interfaces file /etc/network/interfaces doesn't exist
+Nov 10 05:49:41 CMX50070-101776 NetworkManager[441]: <warn>  [1699595381.2329] keyfile: load: "/etc/NetworkManager/system-connections/Wired connection 1.nmconnection": failed to load connection: invalid connection: connection.interface-name: 'place_holder_nmcli': interface name is longer than 15 characters
+Nov 10 05:49:41 CMX50070-101776 NetworkManager[441]: <info>  [1699595381.2345] dhcp-init: Using DHCP client 'internal'
+Nov 10 05:49

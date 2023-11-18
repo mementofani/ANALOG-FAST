@@ -1,0 +1,14 @@
+OCTL_CONF_CST_CONTROL_CONNECTION call
+Nov 13 07:05:15 CMX50070-101776 kernel: CMX_MB_IOCTL_CONF_CST_CONTROL_CONNECTION call
+Nov 13 07:05:15 CMX50070-101776 kernel: CMX_MB_IOCTL_CONF_CST_CONTROL_CONNECTION call
+Nov 13 07:05:15 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Success! Call to function set_mb_ctrl_connection
+Nov 13 07:05:15 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Calling set_mb_ctrl_connection(mapFile, srcSlot, ctlAddress, dstSlot, routeInfo, mci, act):/usr/lib/fw/RS.CMWBase/DPSW/mb_cst_map.xcnf 300 0 501 1 0 0
+Nov 13 07:05:15 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Success! Call to function set_mb_ctrl_connection
+Nov 13 07:05:15 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Calling set_mb_ctrl_connection(mapFile, srcSlot, ctlAddress, dstSlot, routeInfo, mci, act):/usr/lib/fw/RS.CMWBase/DPSW/mb_cst_map.xcnf 501 0 300 1 2 0
+Nov 13 07:05:15 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Success! Call to function set_mb_ctrl_connection
+Nov 13 07:05:15 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Calling set_mb_ctrl_connection(mapFile, srcSlot, ctlAddress, dstSlot, routeInfo, mci, act):/usr/lib/fw/RS.CMWBase/DPSW/mb_cst_map.xcnf 300 1 501 0 0 0
+Nov 13 07:05:15 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Success! Call to function set_mb_ctrl_connection
+Nov 13 07:05:15 CMX50070-101776 mrt.dos[1967]: 2023-11-13T07:05:15.285160Z [DeviceApiSubscriber                                  ] DEBUG: Received message from Connection service
+Nov 13 07:05:15 CMX50070-101776 mrt.dos[1967]: 2023-11-13T07:05:15.285160Z [DeviceApiSubscriber                                  ] DEBUG: Connection service message: Found connection: //mrt/0/connector/16 <=> //mrt/0/testenvironment/0/dut/0/connector/0 @ //mrt/0/testenvironment/0/connection/28
+Nov 13 07:05:15 CMX50070-101776 mrt.dos[1967]: 2023-11-13T07:05:15.292064Z [DeviceApiSubscriber                                  ] DEBUG: 0 messages in the queue
+Nov 13 07:05:15 CMX50070-101776 start_mrt.sh[3053340]: [INFO] [2023-11-13T07:05:15,295+0000] [srsf.signal_handler:109]: Received SIGTERM, 

@@ -1,0 +1,13 @@
+ CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:21.156106Z [DeviceApiSubscriber                                  ] DEBUG: 2 messages in the queue
+Nov 10 05:53:21 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:21.156106Z [DeviceApiSubscriber                                  ] DEBUG: Health service message:
+Nov 10 05:53:21 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:21.156106Z [DeviceApiSubscriber                                  ] DEBUG:  * ResourceName: //mrt/0/health/0
+Nov 10 05:53:21 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:21.156106Z [DeviceApiSubscriber                                  ] DEBUG:  * State: Startup
+Nov 10 05:53:21 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:21.156106Z [DeviceApiSubscriber                                  ] DEBUG:  * ProgressInfo: Run measscpi_mmi
+Nov 10 05:53:21 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:21.156106Z [DeviceApiSubscriber                                  ] DEBUG: 1 messages in the queue
+Nov 10 05:53:21 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:21.156106Z [DeviceApiSubscriber                                  ] DEBUG: Health service message:
+Nov 10 05:53:21 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:21.156106Z [DeviceApiSubscriber                                  ] DEBUG:  * ResourceName: //mrt/0/health/0
+Nov 10 05:53:21 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:21.156106Z [DeviceApiSubscriber                                  ] DEBUG:  * State: Startup
+Nov 10 05:53:21 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:21.156106Z [DeviceApiSubscriber                                  ] DEBUG:  * ProgressInfo: Run wlan_sig_scpi_mmi
+Nov 10 05:53:21 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:21.156106Z [DeviceApiSubscriber                                  ] DEBUG: 0 messages in the queue
+Nov 10 05:53:21 CMX50070-101776 start_mrt.sh[3324]: OperationMode: "Primary" Master address: "10.102.37.173"  slaves:{}
+Nov 10 05:53:21 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:21.160834Z [DeviceApiSubscriber                                  ] DEBUG: Received message from H

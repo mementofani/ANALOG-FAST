@@ -1,0 +1,13 @@
+eived
+Nov 13 07:05:52 CMX50070-101776 start_mrt.sh[3080896]: execute
+Nov 13 07:05:52 CMX50070-101776 start_mrt.sh[3081029]: VIRTUAL_ENV=/usr/lib/gsm_wcdma_signaling/0.6.0-1kirkstone/venv
+Nov 13 07:05:52 CMX50070-101776 start_mrt.sh[3081029]: PATH=/usr/lib/gsm_wcdma_signaling/0.6.0-1kirkstone/venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+Nov 13 07:05:52 CMX50070-101776 start_mrt.sh[3081029]: PYVISA_LIBRARY=/usr/lib/gsm_wcdma_signaling/0.6.0-1kirkstone/librsvisa.so
+Nov 13 07:05:52 CMX50070-101776 start_mrt.sh[3081029]: python: /usr/lib/gsm_wcdma_signaling/0.6.0-1kirkstone/venv/bin/python
+Nov 13 07:05:53 CMX50070-101776 start_mrt.sh[3081029]: 2023-11-13T07:05:53.101+00:00 [info     ] write text log to /home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation4/gwss/gwss.log [gwss.gwss_server._logging_configuration] filename=/home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation4/gwss/gwss.log type=text
+Nov 13 07:05:53 CMX50070-101776 start_mrt.sh[3081029]: 2023-11-13T07:05:53.102+00:00 [info     ] write json log to /home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation4/gwss/gwss.log.json [gwss.gwss_server._logging_configuration] filename=/home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation4/gwss/gwss.log.json type=json
+Nov 13 07:05:53 CMX50070-101776 start_mrt.sh[3081169]: Location: "/usr/lib/csp/csp"
+Nov 13 07:05:53 CMX50070-101776 start_mrt.sh[3081029]: 2023-11-13T07:05:53.193+00:00 [info     ] pid = 3081029                  [gwss.gwss_server.server_application]
+Nov 13 07:05:53 CMX50070-101776 start_mrt.sh[3081029]: 2023-11-13T07:05:53.194+00:00 [info     ] log_dir = /home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation4/gwss [gwss.gwss_server.server_application]
+Nov 13 07:05:53 CMX50070-101776 start_mrt.sh[3081029]: 2023-11-13T07:05:53.198+00:00 [info     ] server_mode = ServerMode.SECONDARY [gwss.gwss_server.server_application]
+Nov 13 07:05:53 CMX50070-101776 start_mrt.sh[3081029]: 2023-11-13T07:05:53.198+00:00 [info     ] connection config: ConnectionConfig('127.0.0

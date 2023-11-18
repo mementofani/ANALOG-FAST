@@ -1,0 +1,13 @@
+0-1kirkstone/librsvisa.so
+Nov 10 05:53:10 CMX50070-101776 start_mrt.sh[27493]: python: /usr/lib/gsm_wcdma_signaling/0.6.0-1kirkstone/venv/bin/python
+Nov 10 05:53:11 CMX50070-101776 start_mrt.sh[27602]: Location: "/usr/lib/csp/csp"
+Nov 10 05:53:11 CMX50070-101776 start_mrt.sh[27532]: RmcCompositeServices startup finished
+Nov 10 05:53:11 CMX50070-101776 start_mrt.sh[27532]: Press CTRL+C to shutdown
+Nov 10 05:53:12 CMX50070-101776 start_mrt.sh[27493]: 2023-11-10T05:53:12.317+00:00 [info     ] write text log to /home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation1/gwss/gwss.log [gwss.gwss_server._logging_configuration] filename=/home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation1/gwss/gwss.log type=text
+Nov 10 05:53:12 CMX50070-101776 start_mrt.sh[27493]: 2023-11-10T05:53:12.318+00:00 [info     ] write json log to /home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation1/gwss/gwss.log.json [gwss.gwss_server._logging_configuration] filename=/home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation1/gwss/gwss.log.json type=json
+Nov 10 05:53:12 CMX50070-101776 start_mrt.sh[27493]: 2023-11-10T05:53:12.458+00:00 [info     ] pid = 27493                    [gwss.gwss_server.server_application]
+Nov 10 05:53:12 CMX50070-101776 start_mrt.sh[27493]: 2023-11-10T05:53:12.459+00:00 [info     ] log_dir = /home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation1/gwss [gwss.gwss_server.server_application]
+Nov 10 05:53:12 CMX50070-101776 start_mrt.sh[27493]: 2023-11-10T05:53:12.460+00:00 [info     ] server_mode = ServerMode.SECONDARY [gwss.gwss_server.server_application]
+Nov 10 05:53:12 CMX50070-101776 start_mrt.sh[27493]: 2023-11-10T05:53:12.461+00:00 [info     ] connection config: ConnectionConfig('127.0.0.1') [gwss.gwss_server.server_application]
+Nov 10 05:53:12 CMX50070-101776 start_mrt.sh[27493]: 2023-11-10T05:53:12.462+00:00 [info     ]   rpc_url: tcp://127.0.0.1:9013 [gwss.gwss_server.server_application]
+Nov 10 05:53:12 CMX50070-101776 start_mrt.sh[27493]: 2023-11-10T05:53:12.463+00:00 [info     ]   xpub_url

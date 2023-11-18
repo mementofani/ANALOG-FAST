@@ -1,0 +1,22 @@
+ysmond.sh[1150]: [380B blob data]
+Nov 10 05:49:41 CMX50070-101776 start-mrt.sysmond.sh[1214]: 2023-11-10T05:49:41,685453780+00:00 Compression done
+Nov 10 05:49:41 CMX50070-101776 kernel: usb 3-2.2.6.2.6: New USB device found, idVendor=0424, idProduct=2512, bcdDevice= b.b3
+Nov 10 05:49:41 CMX50070-101776 kernel: usb 3-2.2.6.2.6: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+Nov 10 05:49:41 CMX50070-101776 start-mrt.sysmond.sh[1230]: 2023-11-10T05:49:41,707172004+00:00 Compress log "/home/instrument/fw/log/sysmond_processes.1.nmon"...
+Nov 10 05:49:41 CMX50070-101776 start-mrt.sysmond.sh[1232]: *** zstd command line interface 64-bits v1.5.2, by Yann Collet ***
+Nov 10 05:49:41 CMX50070-101776 kernel: hub 3-2.2.6.2.6:1.0: USB hub found
+Nov 10 05:49:41 CMX50070-101776 kernel: hub 3-2.2.6.2.6:1.0: 2 ports detected
+Nov 10 05:49:41 CMX50070-101776 kernel: usb 3-2.2.5.2.6.1: new full-speed USB device number 26 using xhci_hcd
+Nov 10 05:49:41 CMX50070-101776 kernel: usb 3-2.2.5.2.6.1: New USB device found, idVendor=0424, idProduct=1104, bcdDevice= 2.22
+Nov 10 05:49:41 CMX50070-101776 kernel: usb 3-2.2.5.2.6.1: New USB device strings: Mfr=1, Product=2, SerialNumber=5
+Nov 10 05:49:41 CMX50070-101776 kernel: usb 3-2.2.5.2.6.1: Product: SMSC USX101x Reader
+Nov 10 05:49:41 CMX50070-101776 kernel: usb 3-2.2.5.2.6.1: Manufacturer: SMSC
+Nov 10 05:49:41 CMX50070-101776 kernel: usb 3-2.2.5.2.6.1: SerialNumber: ADDDFE60
+Nov 10 05:49:41 CMX50070-101776 snmpd[1017]: NET-SNMP version 5.9.1
+Nov 10 05:49:41 CMX50070-101776 systemd[1]: Started Simple Network Management Protocol (SNMP) Daemon..
+Nov 10 05:49:41 CMX50070-101776 systemd[1]: Started R&S Health and Utilization Monitoring.
+Nov 10 05:49:42 CMX50070-101776 Xserver[1253]: The XKEYBOARD keymap compiler (xkbcomp) reports:
+Nov 10 05:49:42 CMX50070-101776 Xserver[1253]: > Warning:          Could not resolve keysym XF86EmojiPicker
+Nov 10 05:49:42 CMX50070-101776 Xserver[1253]: Errors from xkbcomp are not fatal to the X server
+Nov 10 05:49:42 CMX50070-101776 start-mrt.sysmond.sh[1232]: [389B blob data]
+Nov 10 05

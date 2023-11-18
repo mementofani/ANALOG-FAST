@@ -1,0 +1,16 @@
+-bits v1.5.2, by Yann Collet ***
+Nov 12 09:32:21 CMX50070-101776 start-mrt.sysmond.sh[3157649]: [305B blob data]
+Nov 12 09:32:21 CMX50070-101776 start-mrt.sysmond.sh[3157653]: 2023-11-12T09:32:21,582108296+00:00 Compression done
+Nov 12 09:32:21 CMX50070-101776 start-mrt.sysmond.sh[3157657]: 2023-11-12T09:32:21,584244546+00:00 Rotation done
+Nov 12 09:32:21 CMX50070-101776 start-mrt.sysmond.sh[3157661]: 2023-11-12T09:32:21,586411255+00:00 Launching nmon...
+Nov 12 09:32:21 CMX50070-101776 start-mrt.sysmond.sh[3157672]: 2023-11-12T09:32:21,594985013+00:00 Launch done: PID is 3157668
+Nov 12 09:32:53 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 12 09:32:53 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/12/2023 09:32:53 +00:00
+Nov 12 09:32:54 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 12 09:32:54 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/12/2023 09:32:54 +00:00
+Nov 12 09:32:56 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 176.06M, Virtual set 5.59G, CPU Time 28540.570 s, CPU User Time 18164.990 s, Threads 41
+Nov 12 09:33:53 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 12 09:33:53 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/12/2023 09:33:53 +00:00
+Nov 12 09:33:54 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 12 09:33:54 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/12/2023 09:33:54 +00:00
+Nov 12 09:34:43 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 176.06M, Virtual set 5.59G, CPU Time 28555.720 s,

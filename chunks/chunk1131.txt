@@ -1,0 +1,19 @@
+ error: kex_exchange_identification: Connection closed by remote host
+Nov 10 11:00:57 CMX50070-101776 sshd[2012957]: Connection closed by 172.24.11.231 port 40776
+Nov 10 11:00:57 CMX50070-101776 systemd[1]: sshd@416-10.102.37.173:22-172.24.11.231:40776.service: Deactivated successfully.
+Nov 10 11:00:58 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Start request repeated too quickly.
+Nov 10 11:00:58 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Failed with result 'start-limit-hit'.
+Nov 10 11:00:58 CMX50070-101776 systemd[1]: Failed to start Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 10 11:00:58 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.24.26.38:57540).
+Nov 10 11:00:58 CMX50070-101776 sshd[2013071]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 11:00:58 CMX50070-101776 sshd[2013071]: Connection closed by 172.24.26.38 port 57540
+Nov 10 11:00:58 CMX50070-101776 systemd[1]: sshd@417-10.102.37.173:22-172.24.26.38:57540.service: Deactivated successfully.
+Nov 10 11:00:59 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Start request repeated too quickly.
+Nov 10 11:00:59 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Failed with result 'start-limit-hit'.
+Nov 10 11:00:59 CMX50070-101776 systemd[1]: Failed to start Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 10 11:00:59 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (10.0.54.73:46226).
+Nov 10 11:00:59 CMX50070-101776 sshd[2013177]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 11:00:59 CMX50070-101776 sshd[2013177]: Connection closed by 10.0.54.73 port 46226
+Nov 10 11:00:59 CMX50070-101776 systemd[1]: sshd@418-10.102.37.173:22-10.0.54.73:46226.service: Deactivated successfully.
+Nov 10 11:01:06 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (10.0.54.70:40158).
+Nov 10 11:01:06 CMX50070-101776 sshd[2013931]: error: k

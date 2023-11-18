@@ -1,0 +1,20 @@
+       Worker running at: 11/10/2023 10:42:51 +00:00
+Nov 10 10:42:51 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 10:42:51 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 10:42:51 +00:00
+Nov 10 10:43:09 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.24.11.229:53546).
+Nov 10 10:43:09 CMX50070-101776 sshd[1892825]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 10:43:09 CMX50070-101776 sshd[1892825]: Connection closed by 172.24.11.229 port 53546
+Nov 10 10:43:09 CMX50070-101776 systemd[1]: sshd@309-10.102.37.173:22-172.24.11.229:53546.service: Deactivated successfully.
+Nov 10 10:43:15 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (192.168.85.173:50614).
+Nov 10 10:43:15 CMX50070-101776 sshd[1893458]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 10:43:15 CMX50070-101776 sshd[1893458]: Connection closed by 192.168.85.173 port 50614
+Nov 10 10:43:15 CMX50070-101776 systemd[1]: sshd@310-10.102.37.173:22-192.168.85.173:50614.service: Deactivated successfully.
+Nov 10 10:43:25 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.24.26.39:52066).
+Nov 10 10:43:25 CMX50070-101776 sshd[1894523]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 10:43:25 CMX50070-101776 sshd[1894523]: Connection closed by 172.24.26.39 port 52066
+Nov 10 10:43:25 CMX50070-101776 systemd[1]: sshd@311-10.102.37.173:22-172.24.26.39:52066.service: Deactivated successfully.
+Nov 10 10:43:27 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (10.0.54.71:45902).
+Nov 10 10:43:27 CMX50070-101776 sshd[1894632]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 10:43:27 CMX50070-101776 sshd[1894632]: Connection closed by 10.0.54.71 port 45902
+Nov 10 10:43:27 CMX50070-101776 systemd[1]: sshd@312-10.102.37.173:22-10.0.54.71:45902.service: Deactivated successfully.
+Nov 10 10:43:31 CMX500

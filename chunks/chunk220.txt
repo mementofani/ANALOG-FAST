@@ -1,0 +1,14 @@
+                 ] DEBUG: Health service message:
+Nov 10 05:50:12 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:12.563221Z [DeviceApiSubscriber                                  ] DEBUG:  * ResourceName: //mrt/0/health/0
+Nov 10 05:50:12 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:12.563221Z [DeviceApiSubscriber                                  ] DEBUG:  * State: Startup
+Nov 10 05:50:12 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:12.563221Z [DeviceApiSubscriber                                  ] DEBUG:  * ProgressInfo: Initialize Startup
+Nov 10 05:50:12 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:12.563221Z [DeviceApiSubscriber                                  ] DEBUG: 0 messages in the queue
+Nov 10 05:50:12 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:12.566780Z [DeviceApiSubscriber                                  ] DEBUG: Received message from Health service
+Nov 10 05:50:12 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:12.566780Z [DeviceApiSubscriber                                  ] DEBUG: Health service message:
+Nov 10 05:50:12 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:12.566780Z [DeviceApiSubscriber                                  ] DEBUG:  * ResourceName: //mrt/0/health/0
+Nov 10 05:50:12 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:12.567084Z [DeviceApiSubscriber                                  ] DEBUG:  * State: Startup
+Nov 10 05:50:12 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:12.567084Z [DeviceApiSubscriber                                  ] DEBUG:  * ProgressInfo: Load Product Definition
+Nov 10 05:50:12 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:12.567084Z [DeviceApiSubscriber                                  ] DEBUG: 0 messages in the queue
+Nov 10 05:50:12 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:12.568669Z [DeviceApiSubscriber                                  ] DEBUG: Received message from Health service
+Nov 10 05:50:12 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:12.569369Z [DeviceApiSubscriber                                  ] DEBUG: Health service message:
+Nov 10 05:50:12 CMX50070

@@ -1,0 +1,11 @@
+ll=54 success=yes exit=0 a0=4 a1=0 a2=40 a3=5649daaf7ff0 items=0 ppid=1947 pid=3673 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="iptables" exe="/usr/sbin/xtables-legacy-multi" key=(null)
+Nov 10 05:49:52 CMX50070-101776 audit: PROCTITLE proctitle=2F7573722F7362696E2F69707461626C6573002D2D77616974002D4900464F5257415244002D6F0062722D313035343038336664313234002D6D00636F6E6E747261636B002D2D637473746174650052454C415445442C45535441424C4953484544002D6A00414343455054
+Nov 10 05:49:52 CMX50070-101776 audit[3675]: NETFILTER_CFG table=filter family=2 entries=27 op=xt_replace pid=3675 comm="iptables"
+Nov 10 05:49:52 CMX50070-101776 audit[3675]: SYSCALL arch=c000003e syscall=54 success=yes exit=0 a0=4 a1=0 a2=40 a3=5621d20fba40 items=0 ppid=1947 pid=3675 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="iptables" exe="/usr/sbin/xtables-legacy-multi" key=(null)
+Nov 10 05:49:52 CMX50070-101776 audit: PROCTITLE proctitle=2F7573722F7362696E2F69707461626C6573002D2D77616974002D4400464F5257415244002D6A00444F434B45522D49534F4C4154494F4E2D53544147452D31
+Nov 10 05:49:52 CMX50070-101776 xu_launcher[3539]: No ACK from [fe80::02e0:33ff:fe0b:b5bf%eth_internal]:22 after 1089779 microseconds
+Nov 10 05:49:52 CMX50070-101776 audit[3676]: NETFILTER_CFG table=filter family=2 entries=26 op=xt_replace pid=3676 comm="iptables"
+Nov 10 05:49:52 CMX50070-101776 audit[3676]: SYSCALL arch=c000003e syscall=54 success=yes exit=0 a0=4 a1=0 a2=40 a3=558b0feca830 items=0 ppid=1947 pid=3676 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="iptables" exe="/usr/sbin/xtables-legacy-multi" key=(null)
+Nov 10 05:49:52 CMX50070-101776 audit: PROCTITLE proctitle=2F7573722F7362696E2F69707461626C6573002D2D77616974002D4900464F5257415244002D6A00444F434B45522D49534F4C4154494F4E2D53544147452D31
+Nov 10 05:49:52 CMX50070-101776 audit[3678]: NETFILTER_CFG table=filter family=2 entries=27 op=xt_replace pid=3678 comm="iptables"
+Nov 10 05:49:52 CMX5

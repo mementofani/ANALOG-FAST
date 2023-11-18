@@ -1,0 +1,22 @@
+d rspias-daemon
+Nov 10 05:49:41 CMX50070-101776 rspias-daemon[1016]: Change config: DeviceName=PIAS-Linux
+Nov 10 05:49:41 CMX50070-101776 rspias-daemon[1016]: Change config: MaterialNumber=1130.0341k02
+Nov 10 05:49:41 CMX50070-101776 rspias-daemon[1016]: Change config: SerialNumber=000000
+Nov 10 05:49:41 CMX50070-101776 rspias-daemon[1016]: Change config: SoftwareVersion=1.00
+Nov 10 05:49:41 CMX50070-101776 rspias-daemon[1016]: Change config: DeviceName=CMX500
+Nov 10 05:49:41 CMX50070-101776 rspias-daemon[1016]: Change config: MaterialNumber=1201.0002k70
+Nov 10 05:49:41 CMX50070-101776 rspias-daemon[1016]: Change config: SerialNumber=101776
+Nov 10 05:49:41 CMX50070-101776 rspias-daemon[1016]: Configuration read from file /etc/rsdeviceinfo
+Nov 10 05:49:41 CMX50070-101776 start-mrt.sysmond.sh[1057]: 2023-11-10T05:49:41,070563121+00:00 NMON_SNAP= "/opt/rohde-schwarz/mrt.sysmond/mrt.sysmond-snap.sh"
+Nov 10 05:49:41 CMX50070-101776 rspias-daemon[1016]: Change config: SoftwareVersion=5.0.60.4
+Nov 10 05:49:41 CMX50070-101776 rspias-daemon[1016]: Configuration read from file /usr/lib/fw/ProductDefinition/softwareversion
+Nov 10 05:49:41 CMX50070-101776 rspias-daemon[1016]: Change config: DeviceGroup=DEFAULT
+Nov 10 05:49:41 CMX50070-101776 rspias-daemon[1016]: Change config: CheckSignature=0
+Nov 10 05:49:41 CMX50070-101776 rspias-daemon[1016]: Change config: NeededDiskSpaceMB=1000
+Nov 10 05:49:41 CMX50070-101776 rspias-daemon[1016]: Configuration read from file /etc/rspias.conf
+Nov 10 05:49:41 CMX50070-101776 start-mrt.sysmond.sh[1061]: 2023-11-10T05:49:41,087280986+00:00 SYSMOND_SNAP_HEADER= "PROCESS,Time,pid,tid,psr,total_load,kernel_load,userspace_load,command,vsz,rss"
+Nov 10 05:49:41 CMX50070-101776 rspias-daemon[1016]: Installation Assistant Sample V 2.84.14.1, Copyright: 2021 Rohde & Schwarz GmbH & Co. KG
+Nov 10 05:49:41 CMX50070-101776 rspias-daemon[1016]: Will NOT check signatures
+Nov 10 05:49:41 CMX50070-101776 rspias-daemon[1016]: Service is listening for 2 Material Number(s):
+Nov 10 05:49:41 CMX50070-101776 rspias-daemon[1016]: 1201.0002k70
+Nov

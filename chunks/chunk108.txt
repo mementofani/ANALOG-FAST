@@ -1,0 +1,14 @@
+:45 CMX50070-101776 Xserver[2476]: Errors from xkbcomp are not fatal to the X server
+Nov 10 05:49:45 CMX50070-101776 dockerd[1947]: time="2023-11-10T05:49:45.107726211Z" level=info msg="Starting up"
+Nov 10 05:49:45 CMX50070-101776 dockerd[1947]: time="2023-11-10T05:49:45.122401616Z" level=info msg="parsed scheme: \"unix\"" module=grpc
+Nov 10 05:49:45 CMX50070-101776 dockerd[1947]: time="2023-11-10T05:49:45.122428938Z" level=info msg="scheme \"unix\" not registered, fallback to default scheme" module=grpc
+Nov 10 05:49:45 CMX50070-101776 dockerd[1947]: time="2023-11-10T05:49:45.122451581Z" level=info msg="ccResolverWrapper: sending update to cc: {[{unix:///run/containerd/containerd.sock  <nil> 0 <nil>}] <nil> <nil>}" module=grpc
+Nov 10 05:49:45 CMX50070-101776 dockerd[1947]: time="2023-11-10T05:49:45.122463683Z" level=info msg="ClientConn switching balancer to \"pick_first\"" module=grpc
+Nov 10 05:49:45 CMX50070-101776 xu_launcher[1981]: ERROR: Cannot create file "PU_1100/PU_1100_mic_serial.log": No such file or directory
+Nov 10 05:49:45 CMX50070-101776 xu_launcher[1981]: WARNING: Attempting "/tmp/PU_1100_mic_serial.log" instead
+Nov 10 05:49:45 CMX50070-101776 dockerd[1947]: time="2023-11-10T05:49:45.126282231Z" level=info msg="parsed scheme: \"unix\"" module=grpc
+Nov 10 05:49:45 CMX50070-101776 dockerd[1947]: time="2023-11-10T05:49:45.126313620Z" level=info msg="scheme \"unix\" not registered, fallback to default scheme" module=grpc
+Nov 10 05:49:45 CMX50070-101776 dockerd[1947]: time="2023-11-10T05:49:45.126340991Z" level=info msg="ccResolverWrapper: sending update to cc: {[{unix:///run/containerd/containerd.sock  <nil> 0 <nil>}] <nil> <nil>}" module=grpc
+Nov 10 05:49:45 CMX50070-101776 dockerd[1947]: time="2023-11-10T05:49:45.126360869Z" level=info msg="ClientConn switching balancer to \"pick_first\"" module=grpc
+Nov 10 05:49:45 CMX50070-101776 Xserver[2511]: D-BUS per-session daemon address is: unix:abstract=/tmp/dbus-uH8bk5afWD,guid=1cab453adff6aff697ba6581654dc479
+Nov 10 05:49:45 CMX50070-101776 xu_launcher[1981]: PU MAC Address for 1G_Serdes

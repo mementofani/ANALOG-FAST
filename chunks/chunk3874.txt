@@ -1,0 +1,17 @@
+hem for node_exporter.
+Nov 13 10:00:29 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Start request repeated too quickly.
+Nov 13 10:00:29 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Failed with result 'start-limit-hit'.
+Nov 13 10:00:29 CMX50070-101776 systemd[1]: Failed to start Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 13 10:00:29 CMX50070-101776 start_cmxmarsserver.sh[15492]: Start signalR Config: {"HandshakeTimeout":"00:00:15","KeepAliveInterval":"00:00:10","ClientTimeoutInterval":"00:02:00","SupportedProtocols":["json","json"],"MaximumReceiveMessageSize":32768,"EnableDetailedErrors":true,"StreamBufferCapacity":10,"MaximumParallelInvocationsPerClient":1}
+Nov 13 10:00:29 CMX50070-101776 start_cmxmarsserver.sh[15492]: Hosting environment: Production
+Nov 13 10:00:29 CMX50070-101776 start_cmxmarsserver.sh[15492]: Content root path: /usr/lib/cmxtools/cmxmars
+Nov 13 10:00:29 CMX50070-101776 start_cmxmarsserver.sh[15492]: Now listening on: http://0.0.0.0:39001
+Nov 13 10:00:29 CMX50070-101776 start_cmxmarsserver.sh[15492]: Now listening on: http://[::]:39001
+Nov 13 10:00:29 CMX50070-101776 start_cmxmarsserver.sh[15492]: The termination request handler has been registered.
+Nov 13 10:00:30 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Start request repeated too quickly.
+Nov 13 10:00:30 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Failed with result 'start-limit-hit'.
+Nov 13 10:00:30 CMX50070-101776 systemd[1]: Failed to start Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 13 10:00:31 CMX50070-101776 systemd[1]: Starting Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter...
+Nov 13 10:00:31 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Deactivated successfully.
+Nov 13 10:00:31 CMX50070-101776 systemd[1]: Finished Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 13 10:00

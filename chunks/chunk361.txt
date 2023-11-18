@@ -1,0 +1,28 @@
+1776 mrt.dos[1967]: 2023-11-10T05:51:29.276570Z [DeviceApiSubscriber                                  ] DEBUG: 0 messages in the queue
+Nov 10 05:51:29 CMX50070-101776 kernel: CMX_IOCTL_GET_AST call
+Nov 10 05:51:29 CMX50070-101776 kernel: CMX_IOCTL_GET_AST call
+Nov 10 05:51:29 CMX50070-101776 kernel: CMX_IOCTL_GET_AST call
+Nov 10 05:51:29 CMX50070-101776 kernel: CMX_IOCTL_GET_AST call
+Nov 10 05:51:29 CMX50070-101776 kernel: CMX_IOCTL_GET_AST call
+Nov 10 05:51:29 CMX50070-101776 kernel: CMX_IOCTL_GET_AST call
+Nov 10 05:51:29 CMX50070-101776 kernel: CMX_IOCTL_GET_AST call
+Nov 10 05:51:29 CMX50070-101776 kernel: CMX_IOCTL_GET_AST call
+Nov 10 05:51:29 CMX50070-101776 kernel: CMX_IOCTL_GET_AST call
+Nov 10 05:51:29 CMX50070-101776 kernel: CMX_IOCTL_GET_AST call
+Nov 10 05:51:29 CMX50070-101776 kernel: CMX_IOCTL_GET_AST call
+Nov 10 05:51:29 CMX50070-101776 kernel: CMX_IOCTL_GET_AST call
+Nov 10 05:51:29 CMX50070-101776 kernel: CMX_IOCTL_GET_AST call
+Nov 10 05:51:29 CMX50070-101776 kernel: CMX_IOCTL_GET_AST call
+Nov 10 05:51:29 CMX50070-101776 kernel: CMX_IOCTL_GET_AST call
+Nov 10 05:51:29 CMX50070-101776 kernel: CMX_IOCTL_GET_AST call
+Nov 10 05:51:29 CMX50070-101776 kernel: CMX_IOCTL_GET_AST call
+Nov 10 05:51:29 CMX50070-101776 health_service.deviceapi[544]: Publish update:
+Nov 10 05:51:29 CMX50070-101776 health_service.deviceapi[544]: ################################################################################
+Nov 10 05:51:29 CMX50070-101776 health_service.deviceapi[544]: ID:        96
+Nov 10 05:51:29 CMX50070-101776 health_service.deviceapi[544]: State:        2
+Nov 10 05:51:29 CMX50070-101776 health_service.deviceapi[544]: Progress:        [9] Initialize Setup
+Nov 10 05:51:29 CMX50070-101776 health_service.deviceapi[544]: Reliability:        [0]
+Nov 10 05:51:29 CMX50070-101776 health_service.deviceapi[544]: Num HW:        0
+Nov 10 05:51:29 CMX50070-101776 health_service.deviceapi[544]: ################################################################################
+Nov 10 05:51:29 CMX50070-101776 kernel: CMX_IOCTL_GET_AST call
+Nov 10 05:51:29 CMX50

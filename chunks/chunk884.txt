@@ -1,0 +1,20 @@
+:33 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 875500 count: 77 t: 9:23:33 AM
+Nov 10 09:23:36 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 881500 count: 94 t: 9:23:36 AM
+Nov 10 09:23:37 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 883500 count: 100 t: 9:23:37 AM
+Nov 10 09:23:37 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 883600 count: 3 t: 9:23:37 AM
+Nov 10 09:23:39 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 887500 count: 100 t: 9:23:39 AM
+Nov 10 09:23:39 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 887600 count: 5 t: 9:23:39 AM
+Nov 10 09:23:41 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 891600 count: 26 t: 9:23:41 AM
+Nov 10 09:23:43 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 895600 count: 29 t: 9:23:43 AM
+Nov 10 09:23:44 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 897400 count: 95 t: 9:23:44 AM
+Nov 10 09:23:45 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 899600 count: 51 t: 9:23:45 AM
+Nov 10 09:23:46 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 901800 count: 58 t: 9:23:46 AM
+Nov 10 09:23:48 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 905600 count: 60 t: 9:23:48 AM
+Nov 10 09:23:49 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 907600 count: 75 t: 9:23:49 AM
+Nov 10 09:23:50 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 909600 count: 78 t: 9:23:50 AM
+Nov 10 09:23:51 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 09:23:51 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 09:23:51 +00:00
+Nov 10 09:23:51 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 911600 count: 77 t: 9:23:51 AM
+Nov 10 09:23:51 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 09:23:51 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 09:23:51 +00:00
+Nov 10 09:23:52 CMX50070-101776 start_cmxmars

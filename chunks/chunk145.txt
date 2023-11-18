@@ -1,0 +1,11 @@
+X50070-101776 RsInstallation[1952]: [RsInstallationService.MAIN] INFO RohdeSchwarz.InstallationServiceLib.InstallationServiceLib - Core (glue) library of the Installation Service v 2.0.0.0 (5.4.96-1kirkstone)
+Nov 10 05:49:49 CMX50070-101776 RsInstallation[1952]: [RsInstallationService.MAIN] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - GcInterval configured as '63'
+Nov 10 05:49:49 CMX50070-101776 RsInstallation[1952]: [RsInstallationService.MAIN] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - StatInterval configured as '107'
+Nov 10 05:49:49 CMX50070-101776 RsInstallation[1952]: [RsInstallationService.MAIN] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - MetaDataDb configured as 'Database/MetaData.db'
+Nov 10 05:49:49 CMX50070-101776 RsInstallation[1952]: [RsInstallationService.MAIN] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - CmwAddress configured as '172.22.1.4'
+Nov 10 05:49:49 CMX50070-101776 RsInstallation[1952]: [RsInstallationService.MAIN] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - RpcAddress configured as 'tcp://127.0.0.1:9013'
+Nov 10 05:49:49 CMX50070-101776 RsInstallation[1952]: [RsInstallationService.MAIN] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - MasterPubAddress configured as 'tcp://127.0.0.1:9011'
+Nov 10 05:49:49 CMX50070-101776 RsInstallation[1952]: [RsInstallationService.MAIN] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - MasterXPubAddress configured as 'tcp://127.0.0.1:9012'
+Nov 10 05:49:49 CMX50070-101776 RsInstallation[1952]: [RsInstallationService.MAIN] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - MinimumFreeDiskSpace configured as '10737418240'
+Nov 10 05:49:49 CMX50070-101776 rs_callysto.callysto_server._logging_configuration[3092]: [info     ] write text log to /var/log/callysto.log type=text log_level=20 filename=/var/log/callysto.log pathname=/usr/lib/callysto/venv/lib/python3.10/site-packages/rs_callysto/callysto_server/_logging_configuration.py lineno=167
+Nov 10 05:49:49 CMX50070-10

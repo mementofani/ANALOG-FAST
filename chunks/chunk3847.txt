@@ -1,0 +1,21 @@
+tart_cmxmarsserver.sh[4153157]: Got Data: 85800 count: 58 t: 9:53:45 AM
+Nov 13 09:53:46 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 86000 count: 55 t: 9:53:46 AM
+Nov 13 09:53:46 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 86200 count: 62 t: 9:53:46 AM
+Nov 13 09:53:46 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 87300 count: 25 t: 9:53:46 AM
+Nov 13 09:53:46 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 87700 count: 85 t: 9:53:46 AM
+Nov 13 09:53:47 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 88100 count: 91 t: 9:53:47 AM
+Nov 13 09:53:47 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 88800 count: 29 t: 9:53:47 AM
+Nov 13 09:53:47 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 89000 count: 29 t: 9:53:47 AM
+Nov 13 09:53:47 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 89400 count: 31 t: 9:53:47 AM
+Nov 13 09:53:47 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 89800 count: 32 t: 9:53:47 AM
+Nov 13 09:53:48 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 90000 count: 35 t: 9:53:48 AM
+Nov 13 09:53:48 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 90200 count: 21 t: 9:53:48 AM
+Nov 13 09:53:48 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 90900 count: 62 t: 9:53:48 AM
+Nov 13 09:53:48 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 91300 count: 64 t: 9:53:48 AM
+Nov 13 09:53:48 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 91500 count: 64 t: 9:53:48 AM
+Nov 13 09:53:48 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 91700 count: 64 t: 9:53:48 AM
+Nov 13 09:53:49 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 92300 count: 100 t: 9:53:49 AM
+Nov 13 09:53:49 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 92400 count: 14 t: 9:53:49 AM
+Nov 13 09:53:49 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 92600 count: 97 t: 9:53:49 AM
+Nov 13 09:53:49 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 92800 count: 97 t: 9:53:49 AM
+Nov 13 09:53:

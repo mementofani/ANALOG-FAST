@@ -1,0 +1,13 @@
+_generic_syssync_link_status called
+Nov 10 05:49:48 CMX50070-101776 python[418]: [ INFO] [2023-11-10T05:49:48.715+00:00] [140022036551488] [main.setup_and_start:222]: DUT related services process started.
+Nov 10 05:49:48 CMX50070-101776 python[418]: INFO:DUT services starter:DUT related services process started.
+Nov 10 05:49:48 CMX50070-101776 RsInstallation[1952]: [RsInstallationService.MAIN] INFO RohdeSchwarz.InstallationServiceContracts.InstallationServiceContracts - Contracts of the Installation Service v 2.0.0.0 (5.4.96-1kirkstone)
+Nov 10 05:49:48 CMX50070-101776 RsInstallation[1952]: [RsInstallationService.MAIN] INFO RohdeSchwarz.InstallationServiceContracts.EnvironmentHelper - Running on device
+Nov 10 05:49:48 CMX50070-101776 RsInstallation[1952]: [RsInstallationService.MAIN] INFO RohdeSchwarz.InstallationServiceContracts.EnvironmentHelper - IsRunningOnTarget   : 'True'
+Nov 10 05:49:48 CMX50070-101776 RsInstallation[1952]: [RsInstallationService.MAIN] INFO RohdeSchwarz.InstallationServiceContracts.EnvironmentHelper - IsRunningFromNUnit  : 'False'
+Nov 10 05:49:48 CMX50070-101776 RsInstallation[1952]: [RsInstallationService.MAIN] INFO RohdeSchwarz.InstallationServiceContracts.EnvironmentHelper - IsRunningFromVsCode : 'False'
+Nov 10 05:49:48 CMX50070-101776 RsInstallation[1952]: [RsInstallationService.MAIN] INFO RohdeSchwarz.InstallationServiceContracts.EnvironmentHelper - IsRunningVirtual    : 'False'
+Nov 10 05:49:48 CMX50070-101776 RsInstallation[1952]: [RsInstallationService.MAIN] INFO RohdeSchwarz.InstallationServiceContracts.EnvironmentHelper - IsRunningInDocker   : 'False'
+Nov 10 05:49:48 CMX50070-101776 RsInstallation[1952]: [RsInstallationService.MAIN] INFO RohdeSchwarz.AptAbstractionLib.AptAbstractionLib - APT Abstraction Library v 2.0.0.0 (5.4.96-1kirkstone)
+Nov 10 05:49:48 CMX50070-101776 RsInstallation[1952]: [RsInstallationService.MAIN] INFO RohdeSchwarz.AptAbstractionLib.LocalDevice - Init: Entry
+Nov 10 05:49:48 CMX50070-101776 RsInstallation[1952]: [RsInstallationService.MAIN] INFO RohdeSchwarz.AptAbstractionLib.CommandLineExe

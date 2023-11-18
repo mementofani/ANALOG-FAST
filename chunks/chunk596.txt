@@ -1,0 +1,10 @@
+ceApiSubscriber                                  ] DEBUG:  * CMX RF Connector definitions: RFOut2: 0.Slot3.RFOut2 @ //mrt/0/connector/21
+Nov 10 05:53:22 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:22.107124Z [DeviceApiSubscriber                                  ] DEBUG:  * CMX RF Connector definitions: RFOut3: 0.Slot3.RFOut3 @ //mrt/0/connector/22
+Nov 10 05:53:22 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:22.107124Z [DeviceApiSubscriber                                  ] DEBUG:  * CMX RF Connector definitions: RFOut4: 0.Slot3.RFOut4 @ //mrt/0/connector/23
+Nov 10 05:53:22 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:22.107124Z [DeviceApiSubscriber                                  ] DEBUG:  * CMX RF Connector definitions: RFCom1: 0.Slot4.RFCom1 @ //mrt/0/connector/24
+Nov 10 05:53:22 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:22.107124Z [DeviceApiSubscriber                                  ] DEBUG:  * CMX RF Connector definitions: RFCom2: 0.Slot4.RFCom2 @ //mrt/0/connector/25
+Nov 10 05:53:22 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:22.107124Z [DeviceApiSubscriber                                  ] DEBUG:  * CMX RF Connector definitions: RFIn1: 0.Slot4.RFIn1 @ //mrt/0/connector/26
+Nov 10 05:53:22 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:22.107124Z [DeviceApiSubscriber                                  ] DEBUG:  * CMX RF Connector definitions: RFIn2: 0.Slot4.RFIn2 @ //mrt/0/connector/27
+Nov 10 05:53:22 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:22.107124Z [DeviceApiSubscriber                                  ] DEBUG:  * CMX RF Connector definitions: RFOut1: 0.Slot4.RFOut1 @ //mrt/0/connector/28
+Nov 10 05:53:22 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:22.107124Z [DeviceApiSubscriber                                  ] DEBUG:  * CMX RF Connector definitions: RFOut2: 0.Slot4.RFOut2 @ //mrt/0/connector/29
+Nov 10 05:53:22 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:22.107124Z [DeviceApiSubscriber                                  ] DEBUG:  * CMX RF Connector definitions: RFOut3: 0.Slot4.RFOut3 @ //mrt/0/connecto

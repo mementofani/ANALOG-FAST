@@ -1,0 +1,16 @@
+0070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 13 07:02:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/13/2023 07:02:54 +00:00
+Nov 13 07:02:55 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 13 07:02:55 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2023 07:02:55 +00:00
+Nov 13 07:02:59 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 07:02:59 CMX50070-101776 kernel: CMX_AU_IOCTL_GET_SIGA_FPGA_PCIE_LINK_STATUS call
+Nov 13 07:02:59 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Calling set_mb_sync_connection(mapFile, srcSlot, srcLine, dstSlot, dstLine):/usr/lib/fw/RS.CMWBase/DPSW/mb_cst_map.xcnf 501 0 300 0
+Nov 13 07:02:59 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Success! Call to function set_mb_sync_connection
+Nov 13 07:02:59 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Calling set_mb_sync_connection(mapFile, srcSlot, srcLine, dstSlot, dstLine):/usr/lib/fw/RS.CMWBase/DPSW/mb_cst_map.xcnf 501 1 300 1
+Nov 13 07:02:59 CMX50070-101776 kernel: CMX_MB_IOCTL_SET_SYNC_TRIG_BNC_CONNECTION call
+Nov 13 07:02:59 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Success! Call to function set_mb_sync_connection
+Nov 13 07:02:59 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Calling set_mb_ctrl_connection(mapFile, srcSlot, ctlAddress, dstSlot, routeInfo, mci, act):/usr/lib/fw/RS.CMWBase/DPSW/mb_cst_map.xcnf 501 0 300 1 2 1
+Nov 13 07:02:59 CMX50070-101776 kernel: CMX_MB_IOCTL_SET_SYNC_TRIG_BNC_CONNECTION call
+Nov 13 07:02:59 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Success! Call to function set_mb_ctrl_connection
+Nov 13 07:02:59 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Calling set_mb_ctrl_connection(mapFile, srcSlot, ctlAddress, dstSlot, routeInfo, mci, act):/usr/lib/fw/RS.CMWBase/DPSW/mb_cst_map.xcnf 300 1 501 0 0 1
+Nov 13 07:02:59 CMX50070-101776 kernel: CMX_MB_IOCTL_CONF

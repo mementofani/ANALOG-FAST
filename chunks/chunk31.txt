@@ -1,0 +1,25 @@
+110 quirks 0x0000000840000410
+Nov 10 05:49:37 localhost kernel: xhci_hcd 0000:0f:00.4: xHCI Host Controller
+Nov 10 05:49:37 localhost kernel: xhci_hcd 0000:0f:00.4: new USB bus registered, assigned bus number 4
+Nov 10 05:49:37 localhost kernel: xhci_hcd 0000:0f:00.4: Host supports USB 3.1 Enhanced SuperSpeed
+Nov 10 05:49:37 localhost kernel: usb usb3: New USB device found, idVendor=1d6b, idProduct=0002, bcdDevice= 5.15
+Nov 10 05:49:37 localhost kernel: usb usb3: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+Nov 10 05:49:37 localhost kernel: usb usb3: Product: xHCI Host Controller
+Nov 10 05:49:37 localhost kernel: usb usb3: Manufacturer: Linux 5.15.73 xhci-hcd
+Nov 10 05:49:37 localhost kernel: usb usb3: SerialNumber: 0000:0f:00.4
+Nov 10 05:49:37 localhost kernel: hub 3-0:1.0: USB hub found
+Nov 10 05:49:37 localhost kernel: hub 3-0:1.0: 2 ports detected
+Nov 10 05:49:37 localhost kernel: usb usb4: We don't know the algorithms for LPM for this host, disabling LPM.
+Nov 10 05:49:37 localhost kernel: usb usb4: New USB device found, idVendor=1d6b, idProduct=0003, bcdDevice= 5.15
+Nov 10 05:49:37 localhost kernel: usb usb4: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+Nov 10 05:49:37 localhost kernel: usb usb4: Product: xHCI Host Controller
+Nov 10 05:49:37 localhost kernel: usb usb4: Manufacturer: Linux 5.15.73 xhci-hcd
+Nov 10 05:49:37 localhost kernel: usb usb4: SerialNumber: 0000:0f:00.4
+Nov 10 05:49:37 localhost kernel: hub 4-0:1.0: USB hub found
+Nov 10 05:49:37 localhost kernel: hub 4-0:1.0: 1 port detected
+Nov 10 05:49:37 localhost kernel: usbcore: registered new interface driver cdc_acm
+Nov 10 05:49:37 localhost kernel: cdc_acm: USB Abstract Control Model driver for USB modems and ISDN adapters
+Nov 10 05:49:37 localhost kernel: usbcore: registered new interface driver usb-storage
+Nov 10 05:49:37 localhost kernel: usbcore: registered new interface driver usbserial_generic
+Nov 10 05:49:37 localhost kernel: usbserial: USB Serial support registered for generic
+Nov 10 05:49:37 localhost kernel: usbcore: registered new interface dri

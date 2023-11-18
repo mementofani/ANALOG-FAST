@@ -1,0 +1,20 @@
+count: 100 t: 11:34:04 AM
+Nov 10 11:34:05 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 0 count: 97 t: 11:34:05 AM
+Nov 10 11:34:05 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 426900 count: 36 t: 11:34:05 AM
+Nov 10 11:34:07 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 427000 count: 85 t: 11:34:07 AM
+Nov 10 11:34:07 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 427200 count: 24 t: 11:34:07 AM
+Nov 10 11:34:07 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 231.16M, Virtual set 5.59G, CPU Time 3702.660 s, CPU User Time 2358.670 s, Threads 41
+Nov 10 11:34:08 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 100 count: 28 t: 11:34:08 AM
+Nov 10 11:34:08 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 427500 count: 26 t: 11:34:08 AM
+Nov 10 11:34:09 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 428500 count: 53 t: 11:34:09 AM
+Nov 10 11:34:10 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 100 count: 47 t: 11:34:10 AM
+Nov 10 11:34:10 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 100 count: 50 t: 11:34:10 AM
+Nov 10 11:34:10 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 430600 count: 75 t: 11:34:10 AM
+Nov 10 11:34:11 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 435700 count: 78 t: 11:34:11 AM
+Nov 10 11:34:23 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 459700 count: 42 t: 11:34:23 AM
+Nov 10 11:34:24 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 461700 count: 51 t: 11:34:24 AM
+Nov 10 11:34:25 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 463700 count: 44 t: 11:34:25 AM
+Nov 10 11:34:26 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 465700 count: 55 t: 11:34:26 AM
+Nov 10 11:34:27 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 467700 count: 65 t: 11:34:27 AM
+Nov 10 11:34:28 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 469900 count: 65 t: 11:34:28 AM
+Nov

@@ -1,0 +1,20 @@
+on: Connection closed by remote host
+Nov 10 15:37:11 CMX50070-101776 sshd[3782247]: Connection closed by 10.0.54.74 port 54934
+Nov 10 15:37:11 CMX50070-101776 systemd[1]: sshd@685-10.102.37.173:22-10.0.54.74:54934.service: Deactivated successfully.
+Nov 10 15:37:14 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (10.0.54.71:49112).
+Nov 10 15:37:14 CMX50070-101776 sshd[3782568]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:37:14 CMX50070-101776 sshd[3782568]: Connection closed by 10.0.54.71 port 49112
+Nov 10 15:37:14 CMX50070-101776 systemd[1]: sshd@686-10.102.37.173:22-10.0.54.71:49112.service: Deactivated successfully.
+Nov 10 15:37:18 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.25.11.232:46432).
+Nov 10 15:37:18 CMX50070-101776 sshd[3782901]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:37:18 CMX50070-101776 sshd[3782901]: Connection closed by 172.25.11.232 port 46432
+Nov 10 15:37:18 CMX50070-101776 systemd[1]: sshd@687-10.102.37.173:22-172.25.11.232:46432.service: Deactivated successfully.
+Nov 10 15:37:20 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.24.11.231:58008).
+Nov 10 15:37:20 CMX50070-101776 sshd[3783196]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:37:20 CMX50070-101776 sshd[3783196]: Connection closed by 172.24.11.231 port 58008
+Nov 10 15:37:20 CMX50070-101776 systemd[1]: sshd@688-10.102.37.173:22-172.24.11.231:58008.service: Deactivated successfully.
+Nov 10 15:37:32 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.25.11.234:52356).
+Nov 10 15:37:32 CMX50070-101776 sshd[3784485]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:37:32 CMX50070-101776 sshd[3784485]: Connection closed by 172.25.11.234 port 52356
+Nov 10 15:37:32 CMX50070-101776 systemd[1]: sshd@689-10.102.37.173:22-172.25.11.234:52356.service: Deactivated successfully.
+Nov 10 15:37:51 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Micros

@@ -1,0 +1,15 @@
+19:51 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 14:19:51 +00:00
+Nov 10 14:19:51 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 14:19:51 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 14:19:51 +00:00
+Nov 10 14:19:53 CMX50070-101776 sshd[3287395]: Failed password for invalid user pi from 10.0.2.217 port 32814 ssh2
+Nov 10 14:19:54 CMX50070-101776 sshd[3287395]: Connection closed by invalid user pi 10.0.2.217 port 32814 [preauth]
+Nov 10 14:19:54 CMX50070-101776 systemd[1]: sshd@523-10.102.37.173:22-10.0.2.217:32814.service: Deactivated successfully.
+Nov 10 14:19:58 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 217.18M, Virtual set 5.60G, CPU Time 5591.360 s, CPU User Time 3556.830 s, Threads 41
+Nov 10 14:20:51 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 14:20:51 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 14:20:51 +00:00
+Nov 10 14:20:51 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 14:20:51 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 14:20:51 +00:00
+Nov 10 14:21:45 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 217.14M, Virtual set 5.59G, CPU Time 5611.710 s, CPU User Time 3569.860 s, Threads 43
+Nov 10 14:21:51 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 14:21:51 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 14:21:51 +00:00
+Nov 10 14:21:51 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.Positio

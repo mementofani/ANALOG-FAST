@@ -1,0 +1,21 @@
+ ring comp_1.1.0 uses VM inv eng 4 on hub 0
+Nov 10 05:49:38 CMX50070-101776 kernel: amdgpu 0000:0f:00.0: amdgpu: ring comp_1.2.0 uses VM inv eng 5 on hub 0
+Nov 10 05:49:38 CMX50070-101776 kernel: amdgpu 0000:0f:00.0: amdgpu: ring comp_1.3.0 uses VM inv eng 6 on hub 0
+Nov 10 05:49:38 CMX50070-101776 kernel: amdgpu 0000:0f:00.0: amdgpu: ring comp_1.0.1 uses VM inv eng 7 on hub 0
+Nov 10 05:49:38 CMX50070-101776 kernel: amdgpu 0000:0f:00.0: amdgpu: ring comp_1.1.1 uses VM inv eng 8 on hub 0
+Nov 10 05:49:38 CMX50070-101776 kernel: amdgpu 0000:0f:00.0: amdgpu: ring comp_1.2.1 uses VM inv eng 9 on hub 0
+Nov 10 05:49:38 CMX50070-101776 kernel: amdgpu 0000:0f:00.0: amdgpu: ring comp_1.3.1 uses VM inv eng 10 on hub 0
+Nov 10 05:49:38 CMX50070-101776 kernel: amdgpu 0000:0f:00.0: amdgpu: ring kiq_2.1.0 uses VM inv eng 11 on hub 0
+Nov 10 05:49:38 CMX50070-101776 kernel: amdgpu 0000:0f:00.0: amdgpu: ring sdma0 uses VM inv eng 0 on hub 1
+Nov 10 05:49:38 CMX50070-101776 kernel: amdgpu 0000:0f:00.0: amdgpu: ring vcn_dec uses VM inv eng 1 on hub 1
+Nov 10 05:49:38 CMX50070-101776 kernel: amdgpu 0000:0f:00.0: amdgpu: ring vcn_enc0 uses VM inv eng 4 on hub 1
+Nov 10 05:49:38 CMX50070-101776 kernel: amdgpu 0000:0f:00.0: amdgpu: ring vcn_enc1 uses VM inv eng 5 on hub 1
+Nov 10 05:49:38 CMX50070-101776 kernel: amdgpu 0000:0f:00.0: amdgpu: ring jpeg_dec uses VM inv eng 6 on hub 1
+Nov 10 05:49:39 CMX50070-101776 kernel: [drm] Initialized amdgpu 3.42.0 20150101 for 0000:0f:00.0 on minor 0
+Nov 10 05:49:39 CMX50070-101776 systemd-modules-load[281]: Inserted module 'amdgpu'
+Nov 10 05:49:39 CMX50070-101776 systemd[1]: Finished Load Kernel Modules.
+Nov 10 05:49:39 CMX50070-101776 systemd[1]: Starting Apply Kernel Variables...
+Nov 10 05:49:39 CMX50070-101776 systemd-sysctl[376]: Couldn't write '16' to 'kernel/sysrq', ignoring: No such file or directory
+Nov 10 05:49:39 CMX50070-101776 systemd[1]: Finished Apply Kernel Variables.
+Nov 10 05:49:39 CMX50070-101776 kernel: usb 3-2.2.3: New USB device found, idVendor=0aad, idProduct=0246, bcdDevice= 0.00
+Nov 10 05:49:39 CMX50070-101776 k

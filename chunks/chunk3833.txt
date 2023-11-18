@@ -1,0 +1,16 @@
+11-13T09:52:47,876568381+00:00 Launching nmon...
+Nov 13 09:52:47 CMX50070-101776 start-mrt.sysmond.sh[4155377]: 2023-11-13T09:52:47,896717731+00:00 Launch done: PID is 4155373
+Nov 13 09:52:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 13 09:52:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/13/2023 09:52:54 +00:00
+Nov 13 09:52:55 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 13 09:52:55 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2023 09:52:55 +00:00
+Nov 13 09:53:03 CMX50070-101776 start_cmxmarsserver.sh[4153157]: After runonce
+Nov 13 09:53:03 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Adding series HSfn
+Nov 13 09:53:03 CMX50070-101776 start_cmxmarsserver.sh[4153157]: */usr/lib/cmxtools/mddb/Mddb.eps_nas_all.29.1.so: cannot open shared object file: No such file or directory
+Nov 13 09:53:03 CMX50070-101776 start_cmxmarsserver.sh[4153157]: */usr/lib/cmxtools/mddb/Mddb.lte_std.28.30.so: cannot open shared object file: No such file or directory
+Nov 13 09:53:03 CMX50070-101776 start_cmxmarsserver.sh[4153157]: */usr/lib/cmxtools/mddb/Mddb.system_all.22.18.so: cannot open shared object file: No such file or directory
+Nov 13 09:53:03 CMX50070-101776 start_cmxmarsserver.sh[4153157]: */usr/lib/cmxtools/mddb/Mddb.uplane_cuda.3.0.so: cannot open shared object file: No such file or directory
+Nov 13 09:53:03 CMX50070-101776 start_cmxmarsserver.sh[4153157]: */usr/lib/cmxtools/mddb/Mddb.uplane_cupc.3.0.so: cannot open shared object file: No such file or directory
+Nov 13 09:53:03 CMX50070-101776 start_cmxmarsserver.sh[4153157]: */usr/lib/cmxtools/mddb/Mddb.uplane_mnupc.3.0.so: cannot open shared object file: No such file or directory
+Nov 13 09:53:03 CMX50070-101776 start_cmxmarsserver.sh[4153157]: */usr/lib/cmxtools/mddb/Mddb.eps_nas_all.29.1.so: cannot open shared object file: No such file or directory
+Nov 13 09:53:03 CM

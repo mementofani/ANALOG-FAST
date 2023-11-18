@@ -1,0 +1,14 @@
+
+Nov 10 11:48:20 CMX50070-101776 RsInstallation[1952]: [30] INFO RohdeSchwarz.DapiAbstractionLib.InstallationServer - Enter: (resource //mrt/0/installation/0): GetVersionInformation
+Nov 10 11:48:20 CMX50070-101776 RsInstallation[1952]: [30] INFO RohdeSchwarz.DapiAbstractionLib.InstallationServer - Leave: (resource //mrt/0/installation/0): GetVersionInformation
+Nov 10 11:48:20 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceAPILib.Service.InstallationServiceBackend - Leave: Operation REST-API: GetVersionInformation: returning
+                                                      Version: 5.4.96-1kirkstone, Api supported version(s): 3.0,4.0
+Nov 10 11:48:20 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceAPILib.Service.InstallationServiceCredential - Enter: Credentials REST-API: GetCredentials
+Nov 10 11:48:20 CMX50070-101776 RsInstallation[1952]: [25] INFO RohdeSchwarz.DapiAbstractionLib.InstallationServer - Enter: (resource //mrt/0/installation/0): GetCredentials
+Nov 10 11:48:20 CMX50070-101776 RsInstallation[1952]: [25] INFO RohdeSchwarz.DapiAbstractionLib.InstallationServer - Leave: (resource //mrt/0/installation/0): GetCredentials
+Nov 10 11:48:20 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceAPILib.Service.InstallationServiceCredential - Leave: Credentials REST-API: GetCredentials: returning
+                                                      Id: 2289cbac-07cf-4b62-9a4a-9d0a9da097e8, Title: public, UserName: sa_mrt-art-public
+Nov 10 11:48:20 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2138000 count: 37 t: 11:48:20 AM
+Nov 10 11:48:22 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2142000 count: 55 t: 11:48:22 AM
+Nov 10 11:48:23 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 226.28M, Virtual set 5.60G, CPU Time 3871.460 s, CPU User Time 2466.320 s, Threads 42
+Nov 10 

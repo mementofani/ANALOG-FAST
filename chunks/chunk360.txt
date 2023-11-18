@@ -1,0 +1,19 @@
+_mrt.sh[3324]: TSS: CLOCK_TAI offset set to 37 seconds
+Nov 10 05:51:29 CMX50070-101776 start_mrt.sh[3324]: TSS: Created local MB wrapper on slot 1400
+Nov 10 05:51:29 CMX50070-101776 start_mrt.sh[3324]: TSS: Created AU wrapper on slot 500
+Nov 10 05:51:29 CMX50070-101776 start_mrt.sh[3324]: TSS: Created AU wrapper on slot 1000
+Nov 10 05:51:29 CMX50070-101776 start_mrt.sh[3324]: TSS: Created AU wrapper on slot 1200
+Nov 10 05:51:29 CMX50070-101776 health_service.deviceapi[544]: Publish update:
+Nov 10 05:51:29 CMX50070-101776 health_service.deviceapi[544]: ################################################################################
+Nov 10 05:51:29 CMX50070-101776 health_service.deviceapi[544]: ID:        95
+Nov 10 05:51:29 CMX50070-101776 health_service.deviceapi[544]: State:        2
+Nov 10 05:51:29 CMX50070-101776 health_service.deviceapi[544]: Progress:        [9] Initialize MassMemory
+Nov 10 05:51:29 CMX50070-101776 health_service.deviceapi[544]: Reliability:        [0]
+Nov 10 05:51:29 CMX50070-101776 health_service.deviceapi[544]: Num HW:        0
+Nov 10 05:51:29 CMX50070-101776 health_service.deviceapi[544]: ################################################################################
+Nov 10 05:51:29 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:51:29.276570Z [DeviceApiSubscriber                                  ] DEBUG: Received message from Health service
+Nov 10 05:51:29 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:51:29.276570Z [DeviceApiSubscriber                                  ] DEBUG: Health service message:
+Nov 10 05:51:29 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:51:29.276570Z [DeviceApiSubscriber                                  ] DEBUG:  * ResourceName: //mrt/0/health/0
+Nov 10 05:51:29 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:51:29.276570Z [DeviceApiSubscriber                                  ] DEBUG:  * State: Startup
+Nov 10 05:51:29 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:51:29.276570Z [DeviceApiSubscriber                                  ] DEBUG:  * ProgressInfo: Initialize MassMemory
+Nov 10 05:51:29 CMX50070-10

@@ -1,0 +1,17 @@
+.Positioning.PositioningServiceHost[0]
+Nov 11 09:50:52 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/11/2023 09:50:52 +00:00
+Nov 11 09:50:52 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 11 09:50:52 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/11/2023 09:50:52 +00:00
+Nov 11 09:51:29 CMX50070-101776 ast2sys[16350]: [100913.174] CLOCK_REALTIME rms   22 max  256 freq -30550 +/-  26
+Nov 11 09:51:37 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 183.55M, Virtual set 5.60G, CPU Time 16144.920 s, CPU User Time 10276.740 s, Threads 44
+Nov 11 09:51:42 CMX50070-101776 start_mrt.sh[3324]: TSS: No PTP nodes connected.
+Nov 11 09:51:49 CMX50070-101776 phc2sys[17597]: [100933.680] eth_internal rms   20 max  165 freq     -1 +/-  18 delay  1475 +/-  18
+Nov 11 09:51:52 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 11 09:51:52 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/11/2023 09:51:52 +00:00
+Nov 11 09:51:52 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 11 09:51:52 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/11/2023 09:51:52 +00:00
+Nov 11 09:52:52 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 11 09:52:52 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/11/2023 09:52:52 +00:00
+Nov 11 09:52:52 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 11 09:52:52 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/11/2023 09:52:52 +00:00
+Nov 11 09:53:24 CMX50070-101776 RsInstallation[1952]: [.NET Thr

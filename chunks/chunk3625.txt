@@ -1,0 +1,11 @@
+                  ] DEBUG: Received message from Connection service
+Nov 13 07:01:07 CMX50070-101776 mrt.dos[1967]: 2023-11-13T07:01:07.239602Z [DeviceApiSubscriber                                  ] DEBUG: Connection service message: Found connection: //mrt/0/connector/16 <=> //mrt/0/testenvironment/0/dut/0/connector/0 @ //mrt/0/testenvironment/0/connection/28
+Nov 13 07:01:07 CMX50070-101776 start_mrt.sh[3010619]: [INFO] [2023-11-13T07:01:07,241+0000] [srsf.signal_handler:109]: Received SIGTERM, shutting down...
+Nov 13 07:01:07 CMX50070-101776 start_mrt.sh[3010619]: [INFO] [2023-11-13T07:01:07,242+0000] [utilities.delete:234]: Deleting SaveRecall
+Nov 13 07:01:07 CMX50070-101776 start_mrt.sh[3010619]: [INFO] [2023-11-13T07:01:07,243+0000] [__init__.stop:551]: stopping Drift - check if the queue is empty or wait upto 60 sec
+Nov 13 07:01:07 CMX50070-101776 mrt.dos[1967]: 2023-11-13T07:01:07.254343Z [DeviceApiSubscriber                                  ] DEBUG: 0 messages in the queue
+Nov 13 07:01:07 CMX50070-101776 start_mrt.sh[3010621]: 2023-11-13T07:01:07.287+00:00 [info     ] Received SIGTERM, set stop event [prettypb.stoppable_server] prepare_setup=GsmWcdmaServicer
+Nov 13 07:01:07 CMX50070-101776 start_mrt.sh[3010621]: 2023-11-13T07:01:07.292+00:00 [info     ] unregister '//mrt/0/testenvironment/0/signaling/0/gsmwcdma/0' <- <gwss.gsm_wcdma_servicer.GsmWcdmaServicer object at 0x7f26fe219ab0> [gwss.gwss_server.cli] prepare_setup=GsmWcdmaServicer
+Nov 13 07:01:07 CMX50070-101776 start_mrt.sh[3010621]: 2023-11-13T07:01:07.312+00:00 [info     ] Stop WCDMA state background thread [gwss.wcdma.wcdma_state] prepare_setup=GsmWcdmaServicer server=<dapi.zmqbroker_server.ZmqBrokerServer object at 0x7f26fe31a410>
+Nov 13 07:01:07 CMX50070-101776 start_mrt.sh[3010621]: 2023-11-13T07:01:07.314+00:00 [info     ] Stopped WCDMA state background thread [gwss.wcdma.wcdma_state] prepare_setup=GsmWcdmaServicer server=<dapi.zmqbroker_server.ZmqBrokerServer object at 0x7f26fe31a410>
+Nov 13 07:01:07 CMX50070-101776 start_mrt.sh[3010621]: 2023-11-13T07:01:07.336+00:00 [inf

@@ -1,0 +1,13 @@
+[27501]: [INFO] [2023-11-10T05:53:18,869+0000] [__init__.__init__:304]: Initialized Drift version 0.10.x
+Nov 10 05:53:18 CMX50070-101776 start_mrt.sh[27501]: [INFO] [2023-11-10T05:53:18,869+0000] [__init__.__init__:305]: Test mode: False
+Nov 10 05:53:18 CMX50070-101776 start_mrt.sh[27501]: [INFO] [2023-11-10T05:53:18,869+0000] [utilities.__init__:188]: Creating SaveRecall
+Nov 10 05:53:18 CMX50070-101776 start_mrt.sh[27501]: [INFO] [2023-11-10T05:53:18,869+0000] [utilities.__init__:193]: Broker started as Slave
+Nov 10 05:53:18 CMX50070-101776 start_mrt.sh[27501]: [INFO] [2023-11-10T05:53:18,869+0000] [srss.verify_args:57]: Master broker address: 127.0.0.1
+Nov 10 05:53:18 CMX50070-101776 start_mrt.sh[27501]: [INFO] [2023-11-10T05:53:18,869+0000] [srss.verify_args:63]: sri_recall_log_lookup_location: /home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation1/sri
+Nov 10 05:53:18 CMX50070-101776 start_mrt.sh[27501]: [INFO] [2023-11-10T05:53:18,870+0000] [srss.verify_args:69]: working_dir: /home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation1/sri
+Nov 10 05:53:18 CMX50070-101776 start_mrt.sh[27501]: [INFO] [2023-11-10T05:53:18,870+0000] [srss.__init__:43]: SRSS version: 05.01.01
+Nov 10 05:53:18 CMX50070-101776 start_mrt.sh[27501]: [INFO] [2023-11-10T05:53:18,882+0000] [utilities.register_in_persistence_registry_service:215]: Successfully registered in PersistenceRegistryService
+Nov 10 05:53:18 CMX50070-101776 start_mrt.sh[27501]: [INFO] [2023-11-10T05:53:18,883+0000] [srss.__init__:51]: Service registered
+Nov 10 05:53:19 CMX50070-101776 start_mrt.sh[27501]: [INFO] [2023-11-10T05:53:19,014+0000] [srss_service_impl.CheckService:97]: SRSS is running
+Nov 10 05:53:19 CMX50070-101776 start_mrt.sh[27501]: [INFO] [2023-11-10T05:53:19,032+0000] [srss_service_impl.Recall:33]: Received PersistenceRecallRequest(phase=10200, source_path=FilePath(paths=['/home/instrument/fw/system/Restauration/PersistenceClients']))
+Nov 10 05:53:19 CMX50070-101776 start_mrt.sh[27501]: [INFO] [2023-11-10T05:53:19,032+0000] [srss_service_impl.Recall:37]: Received 

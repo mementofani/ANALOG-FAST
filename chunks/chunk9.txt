@@ -1,0 +1,26 @@
+dded V1756B with Radeon Vega Gfx (family: 0x17, model: 0x11, stepping: 0x0)
+Nov 10 05:49:37 localhost kernel: Performance Events: Fam17h+ core perfctr, AMD PMU driver.
+Nov 10 05:49:37 localhost kernel: ... version:                0
+Nov 10 05:49:37 localhost kernel: ... bit width:              48
+Nov 10 05:49:37 localhost kernel: ... generic registers:      6
+Nov 10 05:49:37 localhost kernel: ... value mask:             0000ffffffffffff
+Nov 10 05:49:37 localhost kernel: ... max period:             00007fffffffffff
+Nov 10 05:49:37 localhost kernel: ... fixed-purpose events:   0
+Nov 10 05:49:37 localhost kernel: ... event mask:             000000000000003f
+Nov 10 05:49:37 localhost kernel: rcu: Hierarchical SRCU implementation.
+Nov 10 05:49:37 localhost kernel: smp: Bringing up secondary CPUs ...
+Nov 10 05:49:37 localhost kernel: x86: Booting SMP configuration:
+Nov 10 05:49:37 localhost kernel: .... node  #0, CPUs:        #1  #2  #3  #4  #5  #6  #7
+Nov 10 05:49:37 localhost kernel: smp: Brought up 1 node, 8 CPUs
+Nov 10 05:49:37 localhost kernel: smpboot: Max logical packages: 2
+Nov 10 05:49:37 localhost kernel: smpboot: Total of 8 processors activated (51906.00 BogoMIPS)
+Nov 10 05:49:37 localhost kernel: devtmpfs: initialized
+Nov 10 05:49:37 localhost kernel: ACPI: PM: Registering ACPI NVS region [mem 0x0a200000-0x0a20afff] (45056 bytes)
+Nov 10 05:49:37 localhost kernel: ACPI: PM: Registering ACPI NVS region [mem 0x3d8aa000-0x3dd35fff] (4767744 bytes)
+Nov 10 05:49:37 localhost kernel: clocksource: jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 1911260446275000 ns
+Nov 10 05:49:37 localhost kernel: futex hash table entries: 4096 (order: 6, 262144 bytes, linear)
+Nov 10 05:49:37 localhost kernel: NET: Registered PF_NETLINK/PF_ROUTE protocol family
+Nov 10 05:49:37 localhost kernel: audit: initializing netlink subsys (disabled)
+Nov 10 05:49:37 localhost kernel: audit: type=2000 audit(1699595375.145:1): state=initialized audit_enabled=0 res=1
+Nov 10 05:49:37 localhost kernel: thermal_sys: Registered thermal governor 'step_wise'
+Nov 10 05:4

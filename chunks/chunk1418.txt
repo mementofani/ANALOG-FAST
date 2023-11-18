@@ -1,0 +1,16 @@
+s exit=1 a0=8 a1=7ffeb82acd00 a2=1 a3=0 items=0 ppid=1 pid=3661090 auid=0 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=8 comm="(systemd)" exe="/lib/systemd/systemd" key=(null)
+Nov 10 15:18:00 CMX50070-101776 audit: PROCTITLE proctitle="(systemd)"
+Nov 10 15:18:00 CMX50070-101776 kernel: kauditd_printk_skb: 7 callbacks suppressed
+Nov 10 15:18:00 CMX50070-101776 kernel: audit: type=1006 audit(1699629480.544:176): pid=3661090 uid=0 old-auid=4294967295 auid=0 tty=(none) old-ses=4294967295 ses=8 res=1
+Nov 10 15:18:00 CMX50070-101776 kernel: audit: type=1300 audit(1699629480.544:176): arch=c000003e syscall=1 success=yes exit=1 a0=8 a1=7ffeb82acd00 a2=1 a3=0 items=0 ppid=1 pid=3661090 auid=0 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=8 comm="(systemd)" exe="/lib/systemd/systemd" key=(null)
+Nov 10 15:18:00 CMX50070-101776 kernel: audit: type=1327 audit(1699629480.544:176): proctitle="(systemd)"
+Nov 10 15:18:00 CMX50070-101776 audit: BPF prog-id=40 op=LOAD
+Nov 10 15:18:00 CMX50070-101776 audit[3661090]: SYSCALL arch=c000003e syscall=321 success=yes exit=8 a0=5 a1=7ffcd279abd0 a2=78 a3=0 items=0 ppid=1 pid=3661090 auid=0 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=8 comm="systemd" exe="/lib/systemd/systemd" key=(null)
+Nov 10 15:18:00 CMX50070-101776 audit: PROCTITLE proctitle="(systemd)"
+Nov 10 15:18:00 CMX50070-101776 audit: BPF prog-id=0 op=UNLOAD
+Nov 10 15:18:00 CMX50070-101776 audit: BPF prog-id=41 op=LOAD
+Nov 10 15:18:00 CMX50070-101776 audit[3661090]: SYSCALL arch=c000003e syscall=321 success=yes exit=8 a0=5 a1=7ffcd279ac60 a2=78 a3=0 items=0 ppid=1 pid=3661090 auid=0 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=8 comm="systemd" exe="/lib/systemd/systemd" key=(null)
+Nov 10 15:18:00 CMX50070-101776 audit: PROCTITLE proctitle="(systemd)"
+Nov 10 15:18:00 CMX50070-101776 audit: BPF prog-id=0 op=UNLOAD
+Nov 10 15:18:00 CMX50070-101776 kernel: audit: type=1334 audit(1699629480.551:177): prog-id=40 op=LOAD
+Nov 10 15:18:00 CMX50070-101776 kernel: audit: 

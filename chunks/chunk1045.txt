@@ -1,0 +1,23 @@
+ART DATA CHANNEL]
+Nov 10 10:33:45 CMX50070-101776 rspias-daemon[1016]: PIAS: 10.102.36.155:57210 << [16EC5C81EFCF44E1B6113D344AC9209F R&S SWPL LISTENING ON PORT 13217]
+Nov 10 10:33:45 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] >> *CLS\n
+Nov 10 10:33:45 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] >> DIAG:PROD:CAT?\n
+Nov 10 10:33:45 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] << "1201.0002k70","__SWP_Tool__"\n
+Nov 10 10:33:45 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] >> DIAG:PROD:SEL "1201.0002k70"\n
+Nov 10 10:33:45 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] >> *IDN?\n
+Nov 10 10:33:45 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] << Rohde&Schwarz,CMX500,1201.0002k70/101776,5.0.60.4\n
+Nov 10 10:33:46 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] >> DIAG:PROD:ID?PIAS: PIAS: Remote access from client 10.102.36.155
+Nov 10 10:33:46 CMX50070-101776 rspias-daemon[1016]: \n
+Nov 10 10:33:46 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] << R&S,1201.0002k70/101776,5.0.60.4\n
+Nov 10 10:33:46 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] >> DIAG:UPD:TRAN:VERS?\n
+Nov 10 10:33:46 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] << 281,152\n
+Nov 10 10:33:46 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] >> DIAG:PROD:MAC?\n
+Nov 10 10:33:46 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] << \n
+Nov 10 10:33:46 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] >> DIAG:PIAS:ID?\n
+Nov 10 10:33:46 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] << "linux-64$00-E0-33-0B-D1-F9"\n
+Nov 10 10:33:46 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] >> DIAG:PIAS:HOST?\n
+Nov 10 10:33:46 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] << "CMX50070-101776"\n
+Nov 10 10:33:46 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: Data channel normally closed (or due to unexpected data).
+Nov 10 10:33:46 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: socket normally closed.
+Nov 10 10:33:46 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3] >> *CLS\n
+Nov 10 10:33:46 CMX5

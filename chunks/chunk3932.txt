@@ -1,0 +1,11 @@
+23-11-13T10:32:16,576+0000] [__init__.stop:551]: stopping Drift - check if the queue is empty or wait upto 60 sec
+Nov 13 10:32:16 CMX50070-101776 start_mrt.sh[3094957]: 2023-11-13T10:32:16.609+00:00 [info     ] Received SIGTERM, set stop event [prettypb.stoppable_server] prepare_setup=GsmWcdmaServicer
+Nov 13 10:32:16 CMX50070-101776 start_mrt.sh[3094957]: 2023-11-13T10:32:16.609+00:00 [info     ] unregister '//mrt/0/testenvironment/0/signaling/0/gsmwcdma/0' <- <gwss.gsm_wcdma_servicer.GsmWcdmaServicer object at 0x7f184ea41ab0> [gwss.gwss_server.cli] prepare_setup=GsmWcdmaServicer
+Nov 13 10:32:16 CMX50070-101776 start_mrt.sh[3094957]: 2023-11-13T10:32:16.634+00:00 [info     ] Stop WCDMA state background thread [gwss.wcdma.wcdma_state] prepare_setup=GsmWcdmaServicer server=<dapi.zmqbroker_server.ZmqBrokerServer object at 0x7f184eb42410>
+Nov 13 10:32:16 CMX50070-101776 start_mrt.sh[3094957]: 2023-11-13T10:32:16.635+00:00 [info     ] Stopped WCDMA state background thread [gwss.wcdma.wcdma_state] prepare_setup=GsmWcdmaServicer server=<dapi.zmqbroker_server.ZmqBrokerServer object at 0x7f184eb42410>
+Nov 13 10:32:16 CMX50070-101776 start_mrt.sh[3094957]: 2023-11-13T10:32:16.638+00:00 [info     ] Stop GSM state background thread [gwss.gsm.gsm_state] prepare_setup=GsmWcdmaServicer server=<dapi.zmqbroker_server.ZmqBrokerServer object at 0x7f184eb42410>
+Nov 13 10:32:16 CMX50070-101776 start_mrt.sh[3094957]: 2023-11-13T10:32:16.638+00:00 [info     ] Stopped GSM state background thread [gwss.gsm.gsm_state] prepare_setup=GsmWcdmaServicer server=<dapi.zmqbroker_server.ZmqBrokerServer object at 0x7f184eb42410>
+Nov 13 10:32:16 CMX50070-101776 mrt.dos[1967]: 2023-11-13T10:32:16.681293Z [DeviceApiSubscriber                                  ] DEBUG: 0 messages in the queue
+Nov 13 10:32:16 CMX50070-101776 start_mrt.sh[3094933]: [INFO] [2023-11-13T10:32:16,772+0000] [srss.signal_handler:109]: Received SIGTERM, shutting down...
+Nov 13 10:32:16 CMX50070-101776 start_mrt.sh[3094933]: [INFO] [2023-11-13T10:32:16,773+0000] [utilities.delete:234]: Deleting SaveRecall
+Nov 13

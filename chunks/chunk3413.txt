@@ -1,0 +1,17 @@
+776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/13/2023 05:40:54 +00:00
+Nov 13 05:40:54 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 13 05:40:54 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2023 05:40:54 +00:00
+Nov 13 05:41:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 13 05:41:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/13/2023 05:41:54 +00:00
+Nov 13 05:41:54 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 13 05:41:54 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2023 05:41:54 +00:00
+Nov 13 05:42:02 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 171.55M, Virtual set 5.59G, CPU Time 39389.640 s, CPU User Time 25071.320 s, Threads 42
+Nov 13 05:42:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 13 05:42:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/13/2023 05:42:54 +00:00
+Nov 13 05:42:54 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 13 05:42:54 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2023 05:42:54 +00:00
+Nov 13 05:43:47 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (10.0.54.73:43780).
+Nov 13 05:43:47 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (10.0.54.71:56200).
+Nov 13 05:43:47 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (10.0.54.74:38744).
+Nov 13 05:43:47 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (10.0.54.68:35084).
+Nov 13 05:43:47 CMX50070-101776 systemd[1]: Start

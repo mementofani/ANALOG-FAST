@@ -1,0 +1,20 @@
+ex_exchange_identification: Connection closed by remote host
+Nov 10 11:01:06 CMX50070-101776 sshd[2013931]: Connection closed by 10.0.54.70 port 40158
+Nov 10 11:01:06 CMX50070-101776 systemd[1]: sshd@419-10.102.37.173:22-10.0.54.70:40158.service: Deactivated successfully.
+Nov 10 11:01:11 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (10.0.54.74:47820).
+Nov 10 11:01:11 CMX50070-101776 sshd[2014455]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 11:01:11 CMX50070-101776 sshd[2014455]: Connection closed by 10.0.54.74 port 47820
+Nov 10 11:01:11 CMX50070-101776 systemd[1]: sshd@420-10.102.37.173:22-10.0.54.74:47820.service: Deactivated successfully.
+Nov 10 11:01:20 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (10.0.54.69:57580).
+Nov 10 11:01:20 CMX50070-101776 sshd[2015373]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 11:01:20 CMX50070-101776 sshd[2015373]: Connection closed by 10.0.54.69 port 57580
+Nov 10 11:01:20 CMX50070-101776 systemd[1]: sshd@421-10.102.37.173:22-10.0.54.69:57580.service: Deactivated successfully.
+Nov 10 11:01:33 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (10.0.54.68:37688).
+Nov 10 11:01:33 CMX50070-101776 sshd[2016693]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 11:01:33 CMX50070-101776 sshd[2016693]: Connection closed by 10.0.54.68 port 37688
+Nov 10 11:01:33 CMX50070-101776 systemd[1]: sshd@422-10.102.37.173:22-10.0.54.68:37688.service: Deactivated successfully.
+Nov 10 11:01:48 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.25.11.232:59730).
+Nov 10 11:01:48 CMX50070-101776 sshd[2018318]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 11:01:48 CMX50070-101776 sshd[2018318]: Connection closed by 172.25.11.232 port 59730
+Nov 10 11:01:48 CMX50070-101776 systemd[1]: sshd@423-10.102.37.173:22-172.25.11.232:59730.service: Deactivated successfully.
+Nov 10 11:01:51 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.

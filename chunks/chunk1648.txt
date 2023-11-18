@@ -1,0 +1,15 @@
+trp3d1[1968]:       Worker running at: 11/10/2023 20:03:52 +00:00
+Nov 10 20:04:09 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 191.98M, Virtual set 5.60G, CPU Time 8962.020 s, CPU User Time 5704.060 s, Threads 44
+Nov 10 20:04:52 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 20:04:52 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 20:04:52 +00:00
+Nov 10 20:04:52 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 20:04:52 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 20:04:52 +00:00
+Nov 10 20:05:52 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 20:05:52 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 20:05:52 +00:00
+Nov 10 20:05:52 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 20:05:52 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 20:05:52 +00:00
+Nov 10 20:05:56 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 192.98M, Virtual set 5.59G, CPU Time 8977.870 s, CPU User Time 5714.580 s, Threads 43
+Nov 10 20:06:52 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 20:06:52 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 20:06:52 +00:00
+Nov 10 20:06:52 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 20:06:52 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker runnin

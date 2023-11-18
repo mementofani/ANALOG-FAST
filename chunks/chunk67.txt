@@ -1,0 +1,19 @@
+70-101776 start-mrt.node-exporter.sh[397]: ts=2023-11-10T05:49:39.784Z caller=node_exporter.go:117 level=info collector=meminfo
+Nov 10 05:49:39 CMX50070-101776 start-mrt.node-exporter.sh[397]: ts=2023-11-10T05:49:39.784Z caller=node_exporter.go:117 level=info collector=netdev
+Nov 10 05:49:39 CMX50070-101776 start-mrt.node-exporter.sh[397]: ts=2023-11-10T05:49:39.784Z caller=node_exporter.go:117 level=info collector=os
+Nov 10 05:49:39 CMX50070-101776 start-mrt.node-exporter.sh[397]: ts=2023-11-10T05:49:39.784Z caller=node_exporter.go:117 level=info collector=perf
+Nov 10 05:49:39 CMX50070-101776 start-mrt.node-exporter.sh[397]: ts=2023-11-10T05:49:39.784Z caller=node_exporter.go:117 level=info collector=pressure
+Nov 10 05:49:39 CMX50070-101776 start-mrt.node-exporter.sh[397]: ts=2023-11-10T05:49:39.784Z caller=node_exporter.go:117 level=info collector=textfile
+Nov 10 05:49:39 CMX50070-101776 start-mrt.node-exporter.sh[397]: ts=2023-11-10T05:49:39.784Z caller=node_exporter.go:117 level=info collector=vmstat
+Nov 10 05:49:39 CMX50070-101776 start-mrt.node-exporter.sh[397]: ts=2023-11-10T05:49:39.785Z caller=tls_config.go:232 level=info msg="Listening on" address=[::]:9100
+Nov 10 05:49:39 CMX50070-101776 start-mrt.node-exporter.sh[397]: ts=2023-11-10T05:49:39.785Z caller=tls_config.go:235 level=info msg="TLS is disabled." http2=false address=[::]:9100
+Nov 10 05:49:39 CMX50070-101776 systemd[1]: Starting MRT Swap enabler...
+Nov 10 05:49:39 CMX50070-101776 bash[396]: ERROR: Could not statfs: No such file or directory
+Nov 10 05:49:39 CMX50070-101776 systemd[1]: Starting MRT System Monitoring daemon...
+Nov 10 05:49:39 CMX50070-101776 systemd[1]: Started Run MRT WebGUI.
+Nov 10 05:49:39 CMX50070-101776 systemd[1]: Started Run MRT WebHelp.
+Nov 10 05:49:39 CMX50070-101776 systemd[1]: Started PC/SC Smart Card Daemon.
+Nov 10 05:49:39 CMX50070-101776 systemd[1]: Started Hardware RNG Entropy Gatherer Daemon.
+Nov 10 05:49:39 CMX50070-101776 systemd[1]: Starting User Login Management...
+Nov 10 05:49:39 CMX50070-101776 systemd[1]: Starting Disk Manager...
+Nov 10 05:

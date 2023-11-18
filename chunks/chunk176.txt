@@ -1,0 +1,10 @@
+vent.v1.publisher\"..." runtime=io.containerd.runc.v2 type=io.containerd.event.v1
+Nov 10 05:49:54 CMX50070-101776 containerd[1024]: time="2023-11-10T05:49:54.081084370Z" level=info msg="loading plugin \"io.containerd.internal.v1.shutdown\"..." runtime=io.containerd.runc.v2 type=io.containerd.internal.v1
+Nov 10 05:49:54 CMX50070-101776 containerd[1024]: time="2023-11-10T05:49:54.081129976Z" level=info msg="loading plugin \"io.containerd.ttrpc.v1.task\"..." runtime=io.containerd.runc.v2 type=io.containerd.ttrpc.v1
+Nov 10 05:49:54 CMX50070-101776 audit[4181]: NETFILTER_CFG table=nat family=2 entries=20 op=xt_replace pid=4181 comm="iptables"
+Nov 10 05:49:54 CMX50070-101776 audit[4181]: SYSCALL arch=c000003e syscall=54 success=yes exit=0 a0=4 a1=0 a2=40 a3=563514243ca0 items=0 ppid=1947 pid=4181 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="iptables" exe="/usr/sbin/xtables-legacy-multi" key=(null)
+Nov 10 05:49:54 CMX50070-101776 audit: PROCTITLE proctitle=2F7573722F7362696E2F69707461626C6573002D2D77616974002D74006E6174002D4100504F5354524F5554494E47002D7000746370002D73003130302E38322E36342E313330002D64003130302E38322E36342E313330002D2D64706F72740034393933002D6A004D415351554552414445
+Nov 10 05:49:54 CMX50070-101776 containerd[1024]: time="2023-11-10T05:49:54.081316587Z" level=info msg="starting signal loop" namespace=moby path=/run/containerd/io.containerd.runtime.v2.task/moby/f39b5eb0f39d4a8ba92281781ecaf5d2a7c6fcd31755ef21e5acbf28092dfe80 pid=4180 runtime=io.containerd.runc.v2
+Nov 10 05:49:54 CMX50070-101776 systemd[1]: Started MRT Deployment Calculation Service.
+Nov 10 05:49:54 CMX50070-101776 containerd[1024]: time="2023-11-10T05:49:54.360128028Z" level=info msg="loading plugin \"io.containerd.event.v1.publisher\"..." runtime=io.containerd.runc.v2 type=io.containerd.event.v1
+Nov 10 05:49:54 CMX50070-101776 containerd[1024]: time="2023-11-10T05:49:54.360195305Z" level=info msg="loading plugin \"io.containerd.internal.v1.shutdown\"..." runtime=io.containerd.runc.v2 type=io.containerd.internal.

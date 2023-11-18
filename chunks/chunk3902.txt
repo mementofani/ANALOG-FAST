@@ -1,0 +1,21 @@
+catrp3dr[1969]:       Worker running at: 11/13/2023 10:11:54 +00:00
+Nov 13 10:11:55 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 13 10:11:55 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2023 10:11:55 +00:00
+Nov 13 10:12:31 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 10:12:31 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 10:12:31 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 10:12:31 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 10:12:31 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 10:12:31 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 10:12:31 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 10:12:31 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 10:12:31 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 10:12:31 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 10:12:31 CMX50070-101776 rspias-daemon[1016]: cket[7]: Error: Data channel closed with error 104
+Nov 13 10:12:31 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: socket normally closed.
+Nov 13 10:12:31 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] >> DIAG:PROD:CAT?\n
+Nov 13 10:12:31 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] << "1201.0002k70","__SWP_Tool__"\n
+Nov 13 10:12:31 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8]: Data channel normally closed (or due to unexpected data).
+Nov 13 10:12:31 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8]: socket normally closed.
+Nov 13 10:12:31 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4] >> gqw7\r\n
+Nov 13 10:12:31 CMX50070-101776 rspias-d

@@ -1,0 +1,18 @@
+ Socket[3]: socket normally closed.
+Nov 10 06:02:55 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4] >> \x02\0\x02\0\0\0\0\0qualys_scanner\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\x0Eid\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\x02\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0PIAS: Socket[4]: Data channel normally closed (or due to unexpected data).
+Nov 10 06:02:55 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: socket normally closed.
+Nov 10 06:02:55 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3]: Data channel normally closed (or due to unexpected data).
+Nov 10 06:02:55 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3]: socket normally closed.
+Nov 10 06:02:55 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: Data channel normally closed (or due to unexpected data).
+Nov 10 06:02:55 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: socket normally closed.
+Nov 10 06:02:55 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3] >> <?xml version="1.0"?>\n
+Nov 10 06:02:55 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3] SCPI-Error: -113,"Undefined header;<?XML"
+Nov 10 06:02:55 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3]: Error: invalid command '<?XML'!
+Nov 10 06:02:55 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3]: Data channel normally closed (or due to unexpected data).
+Nov 10 06:02:55 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3]: socket normally closed.
+Nov 10 06:02:55 CMX50070-101776 rspias-daemon[1016]: [321B blob data]
+Nov 10 06:02:55 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: socket normally closed.
+Nov 10 06:02:55 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3]: Data channel normally closed (or due to unexpected data).
+Nov 10 06:02:55 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3]: socket normally closed.
+Nov 10 06:02:55 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4] >> HEAD /selfupdate/wuident.cab HTTP/1.0\r\n
+Nov 10 06:02:55 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4] SCPI-Error: -113,"Undefined head
