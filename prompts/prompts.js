@@ -34,6 +34,10 @@ let promptUserInput = `User needs help with:`;
 
 let promptToNormalize = `Process the following SQLLite query results and provide a user-friendly interpretation: \n`;
 
+let propmptToFindSynonyms = "From the provided list, give the words semantically simillar to:" + "in an js array format and don't any additional comments or explanations. JUST GIVE OUT THE ARRAY"// add .txt here
+
+
+
 module.exports.instructions = instructions;
 module.exports.promptUserInput = promptUserInput;
 module.exports.promptToNormalize = promptToNormalize;
