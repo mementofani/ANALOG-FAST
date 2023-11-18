@@ -39,9 +39,9 @@ function executeQuery(sql) {
 
 async function query(sql) {
   try {
-    return executeQuery(sql);
-  } catch (error) {
-    return { error: error.message };
+    return await executeQuery(sql);
+  } catch (er) {
+    return { error: er.message };
   }
 }
 
