@@ -32,7 +32,9 @@ async function main() {
       );
 
       // Executing the generated SQLLite query and getting response
+
       const sqlLiteResponse = await query(sqlLiteQuery.sqlLite_query);
+
       const assistantResponse = await assistant.answerSqlLiteQuery(
         sqlLiteResponse
       );
