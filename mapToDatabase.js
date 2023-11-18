@@ -6,8 +6,7 @@ function extractUniqueWords(message) {
   return new Set(words.map((word) => word.toUpperCase()));
 }
 
-function createWordLogIdMapping(dbPath = "log_data.db") {
-  let wordArray = [];
+function createWordLogIdMapping(dbPath = "log_data.db", callback) {
   const dbExists = fs.existsSync(dbPath);
   if (!dbExists) {
     console.error(`Database not found at path: ${dbPath}`);
@@ -28,49 +27,72 @@ function createWordLogIdMapping(dbPath = "log_data.db") {
     uniqueWords.forEach((word) => {
       if (word in wordLogIdMapping) {
         wordLogIdMapping[word].add(row.rowid);
-        //Put inside the word array if it is not already there.
-        if (wordArray.find((element) => element === word) === undefined) {
-          wordArray.push(word);
-        }
       } else {
         wordLogIdMapping[word] = new Set([row.rowid]);
       }
     });
+  }, () => {
+    // Call the callback function after all rows have been processed
+    callback(wordLogIdMapping);
+    db.close();
   });
-  //write the word array to a file
-  fs.writeFileSync("wordArray.txt", wordArray.join(", "));
-
-  db.close();
-  return wordLogIdMapping;
 }
 
 function saveMappingToDatabase(data, dbPath = "log_data.db") {
   const db = new sqlite3.Database(dbPath);
 
-  db.run(`
-        CREATE TABLE IF NOT EXISTS word_logid_mapping (
-            word TEXT PRIMARY KEY,
-            log_ids TEXT
-        )
-    `);
+  db.serialize(() => {
+    db.run(`
+      CREATE TABLE IF NOT EXISTS word_logid_mapping (
+        word TEXT PRIMARY KEY,
+        log_ids TEXT
+      )
+    `, (err) => {
+      if (err) {
+        console.error(err.message);
+        return;
+      }
 
-  const insertOrUpdate = db.prepare(`
+      const insertOrUpdate = db.prepare(`
         INSERT OR REPLACE INTO word_logid_mapping (word, log_ids) VALUES (?, ?)
-    `);
+      `);
 
-  Object.entries(data).forEach(([word, logIds]) => {
-    const jsonLogIds = JSON.stringify(Array.from(logIds));
-    insertOrUpdate.run(word, jsonLogIds);
+      let insertCount = 0;
+      const totalInserts = Object.keys(data).length;
+
+      Object.entries(data).forEach(([word, logIds]) => {
+        const jsonLogIds = JSON.stringify(Array.from(logIds));
+        insertOrUpdate.run(word, jsonLogIds, (err) => {
+          if (err) {
+            console.error(err.message);
+          }
+
+          insertCount++;
+          if (insertCount === totalInserts) {
+            insertOrUpdate.finalize(() => {
+              db.close();
+            });
+          }
+        });
+      });
+
+      if (totalInserts === 0) {
+        insertOrUpdate.finalize(() => {
+          db.close();
+        });
+      }
+    });
   });
+}
 
-  console.log(Object.keys(data));
-
-  insertOrUpdate.finalize();
-  db.close();
+function createUniqueWordsFile(wordLogIdMapping) {
+  const uniqueWords = Object.keys(wordLogIdMapping);
+  fs.writeFileSync("uniqueWords.txt", uniqueWords.join("\n"));
 }
 
 // Run the function and save the dictionary to the existing database
-const wordLogIdMapping = createWordLogIdMapping();
-saveMappingToDatabase(wordLogIdMapping);
-
-console.log(`Word-logID mapping saved to the existing database 'log_data.db'`);
+createWordLogIdMapping("log_data.db", (wordLogIdMapping) => {
+  saveMappingToDatabase(wordLogIdMapping);
+  createUniqueWordsFile(wordLogIdMapping);
+  console.log(`Word-logID mapping and unique words list saved.`);
+});

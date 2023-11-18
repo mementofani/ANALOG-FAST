@@ -42,7 +42,7 @@ function saveToDatabase(data, dbPath = "log_data.db") {
       // Create table
       db.run(`CREATE TABLE IF NOT EXISTS logs
               (time TEXT, layer_source TEXT, message TEXT)`);
-
+      
       // Insert data
       const stmt = db.prepare("INSERT INTO logs VALUES (?, ?, ?)");
       data.forEach((row) => stmt.run(row));
@@ -65,6 +65,6 @@ function saveToDatabase(data, dbPath = "log_data.db") {
 }
 
 // Example usage
-const logFilePath = "final_log.out";
+const logFilePath = "test";
 const parsedData = processLogFile(logFilePath);
 saveToDatabase(parsedData);
