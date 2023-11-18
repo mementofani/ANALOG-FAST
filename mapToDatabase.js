@@ -38,7 +38,7 @@ function createWordLogIdMapping(dbPath = "log_data.db") {
     });
   });
   //write the word array to a file
-  fs.writeFileSync("wordArray.txt", wordArray);
+  fs.writeFileSync("wordArray.txt", wordArray.join(", "));
 
   db.close();
   return wordLogIdMapping;
