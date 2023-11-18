@@ -1,0 +1,20 @@
+md)"
+Nov 13 05:56:05 CMX50070-101776 audit: BPF prog-id=0 op=UNLOAD
+Nov 13 05:56:05 CMX50070-101776 kernel: audit: type=1334 audit(1699854965.380:198): prog-id=46 op=LOAD
+Nov 13 05:56:05 CMX50070-101776 kernel: audit: type=1300 audit(1699854965.380:198): arch=c000003e syscall=321 success=yes exit=8 a0=5 a1=7ffccd4e3fb0 a2=78 a3=0 items=0 ppid=1 pid=2624093 auid=0 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=17 comm="systemd" exe="/lib/systemd/systemd" key=(null)
+Nov 13 05:56:05 CMX50070-101776 kernel: audit: type=1327 audit(1699854965.380:198): proctitle="(systemd)"
+Nov 13 05:56:05 CMX50070-101776 kernel: audit: type=1334 audit(1699854965.380:199): prog-id=0 op=UNLOAD
+Nov 13 05:56:05 CMX50070-101776 kernel: audit: type=1334 audit(1699854965.380:200): prog-id=47 op=LOAD
+Nov 13 05:56:05 CMX50070-101776 kernel: audit: type=1300 audit(1699854965.380:200): arch=c000003e syscall=321 success=yes exit=8 a0=5 a1=7ffccd4e4040 a2=78 a3=0 items=0 ppid=1 pid=2624093 auid=0 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=17 comm="systemd" exe="/lib/systemd/systemd" key=(null)
+Nov 13 05:56:05 CMX50070-101776 kernel: audit: type=1327 audit(1699854965.380:200): proctitle="(systemd)"
+Nov 13 05:56:05 CMX50070-101776 systemd[2624093]: Queued start job for default target Main User Target.
+Nov 13 05:56:05 CMX50070-101776 systemd[2624093]: Created slice User Application Slice.
+Nov 13 05:56:05 CMX50070-101776 systemd[2624093]: Reached target Paths.
+Nov 13 05:56:05 CMX50070-101776 systemd[2624093]: Reached target Timers.
+Nov 13 05:56:05 CMX50070-101776 systemd[2624093]: Starting D-Bus User Message Bus Socket...
+Nov 13 05:56:05 CMX50070-101776 systemd[2624093]: Listening on D-Bus User Message Bus Socket.
+Nov 13 05:56:05 CMX50070-101776 systemd[2624093]: Reached target Sockets.
+Nov 13 05:56:05 CMX50070-101776 systemd[2624093]: Reached target Basic System.
+Nov 13 05:56:05 CMX50070-101776 systemd[2624093]: Reached target Main User Target.
+Nov 13 05:56:05 CMX50070-101776 systemd[2624093]: Startup finished in 80ms.
+Nov 13 05:56

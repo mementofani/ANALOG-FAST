@@ -1,0 +1,24 @@
+9 CMX50070-101776 kernel: usb 3-2.2.4: SerialNumber: 101209
+Nov 10 05:49:39 CMX50070-101776 systemd[1]: Finished Create Volatile Files and Directories.
+Nov 10 05:49:39 CMX50070-101776 systemd[1]: Rebuild Journal Catalog was skipped because of a failed condition check (ConditionNeedsUpdate=/var).
+Nov 10 05:49:39 CMX50070-101776 systemd[1]: Update is Completed was skipped because all trigger condition checks failed.
+Nov 10 05:49:39 CMX50070-101776 systemd[1]: Starting Record System Boot/Shutdown in UTMP...
+Nov 10 05:49:39 CMX50070-101776 kernel: rsmic 3-2.2.4:1.0: MIC device 6 connected
+Nov 10 05:49:39 CMX50070-101776 systemd[1]: Finished Record System Boot/Shutdown in UTMP.
+Nov 10 05:49:39 CMX50070-101776 systemd[1]: Reached target System Initialization.
+Nov 10 05:49:39 CMX50070-101776 systemd[1]: Started Watch for MRT chromium installation.
+Nov 10 05:49:39 CMX50070-101776 systemd[1]: Started Daily rotation of log files.
+Nov 10 05:49:39 CMX50070-101776 systemd[1]: Started Timer that triggers smartmontools data collection periodically.
+Nov 10 05:49:39 CMX50070-101776 systemd[1]: Started Daily Cleanup of Temporary Directories.
+Nov 10 05:49:39 CMX50070-101776 systemd[1]: Reached target Path Units.
+Nov 10 05:49:39 CMX50070-101776 systemd[1]: Reached target Timer Units.
+Nov 10 05:49:39 CMX50070-101776 systemd[1]: Listening on Avahi mDNS/DNS-SD Stack Activation Socket.
+Nov 10 05:49:39 CMX50070-101776 systemd[1]: Listening on D-Bus System Message Bus Socket.
+Nov 10 05:49:39 CMX50070-101776 systemd[1]: Starting Docker Socket for the API...
+Nov 10 05:49:39 CMX50070-101776 systemd[1]: Listening on PC/SC Smart Card Daemon Activation Socket.
+Nov 10 05:49:39 CMX50070-101776 systemd[1]: Starting sshd.socket...
+Nov 10 05:49:39 CMX50070-101776 systemd[1]: Listening on Docker Socket for the API.
+Nov 10 05:49:39 CMX50070-101776 systemd[1]: Listening on sshd.socket.
+Nov 10 05:49:39 CMX50070-101776 systemd[1]: Reached target Socket Units.
+Nov 10 05:49:39 CMX50070-101776 systemd[1]: Reached target Basic System.
+Nov 10 05:49:39 CMX50070-101776 systemd[1]: Starting Ava

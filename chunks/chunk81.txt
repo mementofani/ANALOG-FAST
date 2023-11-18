@@ -1,0 +1,19 @@
+-101776 NetworkManager[441]: <info>  [1699595381.3217] device (eth_internal): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'managed')
+Nov 10 05:49:41 CMX50070-101776 NetworkManager[441]: <info>  [1699595381.3221] device (eth_internal): state change: secondaries -> activated (reason 'none', sys-iface-state: 'managed')
+Nov 10 05:49:41 CMX50070-101776 NetworkManager[441]: <info>  [1699595381.3227] manager: NetworkManager state is now CONNECTED_LOCAL
+Nov 10 05:49:41 CMX50070-101776 NetworkManager[441]: <info>  [1699595381.3233] device (eth_internal): Activation: successful, device activated.
+Nov 10 05:49:41 CMX50070-101776 start-mrt.sysmond.sh[1150]: *** zstd command line interface 64-bits v1.5.2, by Yann Collet ***
+Nov 10 05:49:41 CMX50070-101776 health_service.deviceapi[544]: Setting hostname to CMX50070-101776
+Nov 10 05:49:41 CMX50070-101776 health_service.deviceapi[544]: Publish update:
+Nov 10 05:49:41 CMX50070-101776 health_service.deviceapi[544]: ################################################################################
+Nov 10 05:49:41 CMX50070-101776 health_service.deviceapi[544]: ID:        0
+Nov 10 05:49:41 CMX50070-101776 health_service.deviceapi[544]: State:        1
+Nov 10 05:49:41 CMX50070-101776 health_service.deviceapi[544]: Progress:        [0]
+Nov 10 05:49:41 CMX50070-101776 health_service.deviceapi[544]: Reliability:        [0]
+Nov 10 05:49:41 CMX50070-101776 health_service.deviceapi[544]: Num HW:        0
+Nov 10 05:49:41 CMX50070-101776 health_service.deviceapi[544]: ################################################################################
+Nov 10 05:49:41 CMX50070-101776 kernel: usb 3-2.2.5.2.6: New USB device found, idVendor=0424, idProduct=2512, bcdDevice= b.b3
+Nov 10 05:49:41 CMX50070-101776 kernel: usb 3-2.2.5.2.6: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+Nov 10 05:49:41 CMX50070-101776 kernel: hub 3-2.2.5.2.6:1.0: USB hub found
+Nov 10 05:49:41 CMX50070-101776 kernel: hub 3-2.2.5.2.6:1.0: 2 ports detected
+Nov 10 05:49:41 CMX50070-101776 containerd[1024]: time="2023-11-10T0

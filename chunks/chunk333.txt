@@ -1,0 +1,20 @@
+:50:48.681029Z [DeviceApiSubscriber                                  ] DEBUG:  * ProgressInfo: Loading and Initializing Drivers [2]
+Nov 10 05:50:48 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:48.681029Z [DeviceApiSubscriber                                  ] DEBUG: 0 messages in the queue
+Nov 10 05:50:48 CMX50070-101776 flexxamconfigurationbridge[6228]: running sams:
+Nov 10 05:50:49 CMX50070-101776 flexxamconfigurationbridge[6228]: running sams:
+Nov 10 05:50:50 CMX50070-101776 flexxamconfigurationbridge[6228]: running sams:
+Nov 10 05:50:51 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 05:50:51 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 05:50:51 +00:00
+Nov 10 05:50:51 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 05:50:51 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 05:50:51 +00:00
+Nov 10 05:50:51 CMX50070-101776 flexxamconfigurationbridge[6228]: running sams:
+Nov 10 05:50:52 CMX50070-101776 xu_launcher[12126]: No ACK from [fe80::02e0:33ff:fe0b:b5bf%eth_internal]:22 after 1023557 microseconds
+Nov 10 05:50:52 CMX50070-101776 xu_launcher[1981]: Received signal: 17
+Nov 10 05:50:52 CMX50070-101776 flexxamconfigurationbridge[6228]: running sams:
+Nov 10 05:50:53 CMX50070-101776 health_service.deviceapi[544]: Publish update:
+Nov 10 05:50:53 CMX50070-101776 health_service.deviceapi[544]: ################################################################################
+Nov 10 05:50:53 CMX50070-101776 health_service.deviceapi[544]: ID:        72
+Nov 10 05:50:53 CMX50070-101776 health_service.deviceapi[544]: State:        2
+Nov 10 05:50:53 CMX50070-101776 health_service.deviceapi[544]: Progress:        [8] "Finish" is waiting for: Drivers, InstrumentSetupManager, Startup
+Nov 10 05:50:53 CMX50070-101776 health_service.deviceapi[544]: Reliability:        [0]
+Nov 10 05:50:53 CMX50070-101776 health_service.

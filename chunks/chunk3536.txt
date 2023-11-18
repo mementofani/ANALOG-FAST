@@ -1,0 +1,21 @@
+01776 sshd[2922154]: error: kex_exchange_identification: Connection closed by remote host
+Nov 13 06:42:10 CMX50070-101776 sshd[2922154]: Connection closed by 172.25.11.231 port 57902
+Nov 13 06:42:10 CMX50070-101776 systemd[1]: sshd@1233-10.102.37.173:22-172.25.11.231:57902.service: Deactivated successfully.
+Nov 13 06:42:10 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 700 count: 48 t: 6:42:10 AM
+Nov 13 06:42:10 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 700 count: 50 t: 6:42:10 AM
+Nov 13 06:42:11 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 700 count: 51 t: 6:42:11 AM
+Nov 13 06:42:11 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 700 count: 53 t: 6:42:11 AM
+Nov 13 06:42:12 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 700 count: 54 t: 6:42:12 AM
+Nov 13 06:42:12 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 700 count: 55 t: 6:42:12 AM
+Nov 13 06:42:12 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 700 count: 56 t: 6:42:12 AM
+Nov 13 06:42:13 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 700 count: 57 t: 6:42:13 AM
+Nov 13 06:42:13 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 700 count: 59 t: 6:42:13 AM
+Nov 13 06:42:14 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 700 count: 60 t: 6:42:14 AM
+Nov 13 06:42:14 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 700 count: 62 t: 6:42:14 AM
+Nov 13 06:42:15 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 700 count: 63 t: 6:42:15 AM
+Nov 13 06:42:15 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 700 count: 65 t: 6:42:15 AM
+Nov 13 06:42:16 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 700 count: 66 t: 6:42:16 AM
+Nov 13 06:42:16 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 700 count: 68 t: 6:42:16 AM
+Nov 13 06:42:17 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 700 count: 69 t: 6:42:17 AM
+Nov 13 06:42:17 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 700 count: 70 t: 6:42:17 AM
+Nov 13 06:42:17 CMX50

@@ -1,0 +1,17 @@
+v 13 07:00:11 CMX50070-101776 systemd[1]: Finished Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 13 07:00:12 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 0 count: 58 t: 7:00:12 AM
+Nov 13 07:00:12 CMX50070-101776 systemd[1]: Starting Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter...
+Nov 13 07:00:12 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Deactivated successfully.
+Nov 13 07:00:12 CMX50070-101776 systemd[1]: Finished Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 13 07:00:12 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 0 count: 62 t: 7:00:12 AM
+Nov 13 07:00:13 CMX50070-101776 systemd[1]: Starting Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter...
+Nov 13 07:00:13 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Deactivated successfully.
+Nov 13 07:00:13 CMX50070-101776 systemd[1]: Finished Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 13 07:00:13 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 07:00:14 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 0 count: 66 t: 7:00:14 AM
+Nov 13 07:00:14 CMX50070-101776 systemd[1]: Starting Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter...
+Nov 13 07:00:14 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Deactivated successfully.
+Nov 13 07:00:14 CMX50070-101776 systemd[1]: Finished Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 13 07:00:15 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 0 count: 70 t: 7:00:15 AM
+Nov 13 07:00:15 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 0 count: 74 t: 7:00:15 AM
+Nov 13 07:00:15 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Start request repeated t

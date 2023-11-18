@@ -1,0 +1,20 @@
+70-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (10.0.54.70:49030).
+Nov 10 10:43:31 CMX50070-101776 sshd[1895061]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 10:43:31 CMX50070-101776 sshd[1895061]: Connection closed by 10.0.54.70 port 49030
+Nov 10 10:43:31 CMX50070-101776 systemd[1]: sshd@313-10.102.37.173:22-10.0.54.70:49030.service: Deactivated successfully.
+Nov 10 10:43:32 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (10.0.54.75:48636).
+Nov 10 10:43:32 CMX50070-101776 sshd[1895280]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 10:43:32 CMX50070-101776 sshd[1895280]: Connection closed by 10.0.54.75 port 48636
+Nov 10 10:43:32 CMX50070-101776 systemd[1]: sshd@314-10.102.37.173:22-10.0.54.75:48636.service: Deactivated successfully.
+Nov 10 10:43:42 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.25.11.234:59774).
+Nov 10 10:43:42 CMX50070-101776 sshd[1896240]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 10:43:42 CMX50070-101776 sshd[1896240]: Connection closed by 172.25.11.234 port 59774
+Nov 10 10:43:42 CMX50070-101776 systemd[1]: sshd@315-10.102.37.173:22-172.25.11.234:59774.service: Deactivated successfully.
+Nov 10 10:43:42 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.24.26.38:34374).
+Nov 10 10:43:42 CMX50070-101776 sshd[1896243]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 10:43:42 CMX50070-101776 sshd[1896243]: Connection closed by 172.24.26.38 port 34374
+Nov 10 10:43:42 CMX50070-101776 systemd[1]: sshd@316-10.102.37.173:22-172.24.26.38:34374.service: Deactivated successfully.
+Nov 10 10:43:43 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.25.11.231:33530).
+Nov 10 10:43:43 CMX50070-101776 sshd[1896357]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 10:43:43 CMX50070-101776 sshd[1896357]: Connection closed by 172.25.11.231 port 33530
+Nov 10 10:43:43 CMX50070-101776 systemd[1]: sshd@317-1

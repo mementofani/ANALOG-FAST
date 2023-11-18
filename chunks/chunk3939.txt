@@ -1,0 +1,11 @@
+gnaling.gsmwcdma.GsmWcdmaService servicer_module=gwss.gsm_wcdma_servicer servicer_qualname=GsmWcdmaServicer
+Nov 13 10:32:34 CMX50070-101776 start_mrt.sh[221343]: 2023-11-13T10:32:34.763+00:00 [info     ] exit RPC #0 (GetCmwConfig)     [dapi.incoming_call] duration=0.00010235601803287864 response={} response_bytes=b'' response_type=rs.mrt.testenvironment.signaling.gsmwcdma.CmwConfig rpc=GetCmwConfig rpc_id=0
+Nov 13 10:32:40 CMX50070-101776 start_mrt.sh[221342]: PyInstaller _MEI directory save_recall
+Nov 13 10:32:40 CMX50070-101776 start_mrt.sh[221342]: Namespace(broker_ip='127.0.0.1', fri_recall_log_dir='/home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation6/fri', verbose=False, no_base_registration=False, working_dir='/home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation6/fri')
+Nov 13 10:32:40 CMX50070-101776 start_mrt.sh[221342]: srsf.log location: /home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation6/fri/srsf.log
+Nov 13 10:32:40 CMX50070-101776 start_mrt.sh[221342]: [INFO] [2023-11-13T10:32:40,250+0000] [__init__.__init__:95]: Logging initialized with logging level 20
+Nov 13 10:32:40 CMX50070-101776 start_mrt.sh[221342]: [INFO] [2023-11-13T10:32:40,250+0000] [drift_zmqbroker.__init__:114]: Initialing DriftRpcClient with url = tcp://127.0.0.1:9013
+Nov 13 10:32:40 CMX50070-101776 start_mrt.sh[221342]: [INFO] [2023-11-13T10:32:40,251+0000] [drift_zmqbroker.start:59]: Starting message_dispatcher...
+Nov 13 10:32:40 CMX50070-101776 start_mrt.sh[221342]: [INFO] [2023-11-13T10:32:40,251+0000] [__init__._initmd:368]: Initializing default broker with tcp://127.0.0.1:9010
+Nov 13 10:32:40 CMX50070-101776 start_mrt.sh[221342]: [INFO] [2023-11-13T10:32:40,252+0000] [__init__._prepare_recordingdirectories:342]: Opened _file_handle <_io.TextIOWrapper name='/home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation6/fri/drifted/recorded/sequence.yaml' mode='w' encoding='utf-8'>
+Nov 13 10:32:40 CMX50070-101776 start_mrt.sh[221342]: [INFO] [2023-11-13T10:32:40,253+0000] [__init__._initalize_recording:436]: initalize_re

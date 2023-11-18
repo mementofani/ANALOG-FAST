@@ -1,0 +1,17 @@
+.sh:
+Nov 12 23:49:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 12 23:49:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/12/2023 23:49:54 +00:00
+Nov 12 23:49:54 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 12 23:49:54 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/12/2023 23:49:54 +00:00
+Nov 12 23:50:43 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 171.17M, Virtual set 5.60G, CPU Time 36185.360 s, CPU User Time 23015.040 s, Threads 41
+Nov 12 23:50:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 12 23:50:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/12/2023 23:50:54 +00:00
+Nov 12 23:50:54 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 12 23:50:54 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/12/2023 23:50:54 +00:00
+Nov 12 23:51:29 CMX50070-101776 ast2sys[16350]: [237713.174] CLOCK_REALTIME rms   42 max 1549 freq -30550 +/-  46
+Nov 12 23:51:42 CMX50070-101776 start_mrt.sh[3324]: TSS: No PTP nodes connected.
+Nov 12 23:51:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 12 23:51:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/12/2023 23:51:54 +00:00
+Nov 12 23:51:54 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 12 23:51:54 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/12/2023 23:51:54 +00:00
+Nov 12 23:52:01 CMX50070-101776 phc2sys[17597]: [237746.098] eth_internal rms 

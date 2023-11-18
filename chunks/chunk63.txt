@@ -1,0 +1,23 @@
+ernel: usb 3-2.2.3: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+Nov 10 05:49:39 CMX50070-101776 kernel: usb 3-2.2.3: Product: R&S AU MIC
+Nov 10 05:49:39 CMX50070-101776 kernel: usb 3-2.2.3: Manufacturer: Rohde & Schwarz GmbH & Co. KG
+Nov 10 05:49:39 CMX50070-101776 kernel: usb 3-2.2.3: SerialNumber: 103434
+Nov 10 05:49:39 CMX50070-101776 kernel: rsmic 3-2.2.3:1.0: MIC device 4 connected
+Nov 10 05:49:39 CMX50070-101776 kernel: usb 3-2.4.1.1: new high-speed USB device number 12 using xhci_hcd
+Nov 10 05:49:39 CMX50070-101776 kernel: usb 3-2.4.1.1: New USB device found, idVendor=0aad, idProduct=01f8, bcdDevice= 0.00
+Nov 10 05:49:39 CMX50070-101776 kernel: usb 3-2.4.1.1: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+Nov 10 05:49:39 CMX50070-101776 kernel: usb 3-2.4.1.1: Product: R&S CMG MIC
+Nov 10 05:49:39 CMX50070-101776 kernel: usb 3-2.4.1.1: Manufacturer: Rohde & Schwarz GmbH & Co. KG
+Nov 10 05:49:39 CMX50070-101776 kernel: usb 3-2.4.1.1: SerialNumber: 102750
+Nov 10 05:49:39 CMX50070-101776 kernel: rsmic 3-2.4.1.1:1.0: MIC device 5 connected
+Nov 10 05:49:39 CMX50070-101776 kernel: usb 3-2.4.4: new high-speed USB device number 13 using xhci_hcd
+Nov 10 05:49:39 CMX50070-101776 kernel: usb 3-2.4.4: New USB device found, idVendor=0424, idProduct=2512, bcdDevice= b.b3
+Nov 10 05:49:39 CMX50070-101776 kernel: usb 3-2.4.4: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+Nov 10 05:49:39 CMX50070-101776 kernel: hub 3-2.4.4:1.0: USB hub found
+Nov 10 05:49:39 CMX50070-101776 kernel: hub 3-2.4.4:1.0: 2 ports detected
+Nov 10 05:49:39 CMX50070-101776 kernel: usb 3-2.2.4: new high-speed USB device number 14 using xhci_hcd
+Nov 10 05:49:39 CMX50070-101776 kernel: usb 3-2.2.4: New USB device found, idVendor=0aad, idProduct=0247, bcdDevice= 0.00
+Nov 10 05:49:39 CMX50070-101776 kernel: usb 3-2.2.4: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+Nov 10 05:49:39 CMX50070-101776 kernel: usb 3-2.2.4: Product: R&S PU MIC
+Nov 10 05:49:39 CMX50070-101776 kernel: usb 3-2.2.4: Manufacturer: Rohde & Schwarz GmbH & Co. KG
+Nov 10 05:49:3

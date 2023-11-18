@@ -1,0 +1,12 @@
+50070-101776 audit[1947]: SYSCALL arch=c000003e syscall=44 success=yes exit=40 a0=e a1=c000ac2780 a2=28 a3=0 items=0 ppid=1 pid=1947 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="dockerd" exe="/usr/bin/dockerd" key=(null)
+Nov 10 05:49:53 CMX50070-101776 audit: PROCTITLE proctitle=2F7573722F62696E2F646F636B657264002D480066643A2F2F
+Nov 10 05:49:53 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:49:53.459034Z [NamingHandlerRepository                              ] INFO : Subscribing to Naming Service
+Nov 10 05:49:53 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:49:53.459034Z [NamingHandlerRepository                              ] DEBUG: Connected to Naming Service @ //mrt/0/naming/0
+Nov 10 05:49:53 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:49:53.483285Z [ConnectionOptimizerService                           ] INFO : Creating Connection Optimizer Service @ //mrt/0/connectionoptimizer/0
+Nov 10 05:49:53 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:49:53.501667Z [ConnectionOptimizerService                           ] INFO : Publishing //mrt/0/connectionoptimizer/0
+Nov 10 05:49:53 CMX50070-101776 avahi-daemon[381]: Service "CMX50070-101776" (/services/rs-installation-service.service) successfully established.
+Nov 10 05:49:53 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.AptAbstractionLib.BaseDeviceInfo - DeviceAdded: Updating IP for CMX50070-101776 fe80::290:b8ff:fe24:d36a%3
+Nov 10 05:49:53 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.AptAbstractionLib.DeviceMonitor - + 'CMX50070-101776' on eth_internal
+Nov 10 05:49:53 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.AptAbstractionLib.DeviceMonitor -         Host: CMX50070-101776 (fe80::290:b8ff:fe24:d36a%3)
+Nov 10 05:49:53 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.AptAbstractionLib.DeviceMonitor -         Port: 1015
+Nov 10 05:49:53 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchw

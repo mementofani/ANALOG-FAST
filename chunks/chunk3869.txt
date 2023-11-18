@@ -1,0 +1,18 @@
+S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 13 10:00:17 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Start request repeated too quickly.
+Nov 13 10:00:17 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Failed with result 'start-limit-hit'.
+Nov 13 10:00:17 CMX50070-101776 systemd[1]: Failed to start Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 13 10:00:18 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Start request repeated too quickly.
+Nov 13 10:00:18 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Failed with result 'start-limit-hit'.
+Nov 13 10:00:18 CMX50070-101776 systemd[1]: Failed to start Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 13 10:00:19 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Start request repeated too quickly.
+Nov 13 10:00:19 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Failed with result 'start-limit-hit'.
+Nov 13 10:00:19 CMX50070-101776 systemd[1]: Failed to start Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 13 10:00:20 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Start request repeated too quickly.
+Nov 13 10:00:20 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Failed with result 'start-limit-hit'.
+Nov 13 10:00:20 CMX50070-101776 systemd[1]: Failed to start Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 13 10:00:20 CMX50070-101776 systemd[1]: Stopping CMXmars Server...
+Nov 13 10:00:20 CMX50070-101776 stop_cmxmarsserver.sh[13577]: Attempting to stop CMXmars Server version  1.120.11-1kirkstone...
+Nov 13 10:00:20 CMX50070-101776 start_cmxmarsserver.sh[4192858]: CMXmars server has been requested to terminate.
+Nov 13 10:00:20 CMX50070-101776 start_cmxmarsserver.sh[4192858]: CMXmarsServer is stopping.
+Nov 13 10:00:21 CMX50070-101776 systemd[1]: Starting Script that periodically eval

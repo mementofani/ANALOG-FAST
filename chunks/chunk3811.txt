@@ -1,0 +1,21 @@
+: 1700 count: 78 t: 9:44:24 AM
+Nov 13 09:44:24 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 1700 count: 80 t: 9:44:24 AM
+Nov 13 09:44:25 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 2100 count: 46 t: 9:44:25 AM
+Nov 13 09:44:26 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 2600 count: 92 t: 9:44:26 AM
+Nov 13 09:44:26 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 2300 count: 36 t: 9:44:26 AM
+Nov 13 09:44:26 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 3100 count: 94 t: 9:44:26 AM
+Nov 13 09:44:27 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 3700 count: 26 t: 9:44:27 AM
+Nov 13 09:44:27 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 4300 count: 47 t: 9:44:27 AM
+Nov 13 09:44:27 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 5000 count: 4 t: 9:44:27 AM
+Nov 13 09:44:27 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 4900 count: 100 t: 9:44:27 AM
+Nov 13 09:44:28 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 5600 count: 38 t: 9:44:28 AM
+Nov 13 09:44:28 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 5900 count: 96 t: 9:44:28 AM
+Nov 13 09:44:28 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 6700 count: 23 t: 9:44:28 AM
+Nov 13 09:44:29 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 7000 count: 44 t: 9:44:29 AM
+Nov 13 09:44:29 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 7000 count: 52 t: 9:44:29 AM
+Nov 13 09:44:29 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 8000 count: 34 t: 9:44:29 AM
+Nov 13 09:44:30 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 8900 count: 32 t: 9:44:30 AM
+Nov 13 09:44:30 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 9600 count: 8 t: 9:44:30 AM
+Nov 13 09:44:30 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 9500 count: 100 t: 9:44:30 AM
+Nov 13 09:44:30 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 10700 count: 90 t: 9:44:30 AM
+Nov 13 09:44:32 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data

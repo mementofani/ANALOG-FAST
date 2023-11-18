@@ -1,0 +1,13 @@
+:12 CMX50070-101776 start_mrt.sh[3010619]: [INFO] [2023-11-13T06:56:12,028+0000] [__init__.__init__:304]: Initialized Drift version 0.10.x
+Nov 13 06:56:12 CMX50070-101776 start_mrt.sh[3010619]: [INFO] [2023-11-13T06:56:12,029+0000] [__init__.__init__:305]: Test mode: False
+Nov 13 06:56:12 CMX50070-101776 start_mrt.sh[3010619]: [INFO] [2023-11-13T06:56:12,029+0000] [utilities.__init__:188]: Creating SaveRecall
+Nov 13 06:56:12 CMX50070-101776 start_mrt.sh[3010619]: [INFO] [2023-11-13T06:56:12,030+0000] [utilities.__init__:193]: Broker started as Slave
+Nov 13 06:56:12 CMX50070-101776 start_mrt.sh[3010619]: [INFO] [2023-11-13T06:56:12,030+0000] [srsf.verify_args:57]: Master broker address: 127.0.0.1
+Nov 13 06:56:12 CMX50070-101776 start_mrt.sh[3010619]: [INFO] [2023-11-13T06:56:12,030+0000] [srsf.verify_args:63]: fri_recall_log_lookup_location: /home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation2/fri
+Nov 13 06:56:12 CMX50070-101776 start_mrt.sh[3010619]: [INFO] [2023-11-13T06:56:12,030+0000] [srsf.verify_args:69]: working_dir: /home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation2/fri
+Nov 13 06:56:12 CMX50070-101776 start_mrt.sh[3010619]: [INFO] [2023-11-13T06:56:12,030+0000] [srsf.__init__:43]: SRSF version: 01.04.11
+Nov 13 06:56:12 CMX50070-101776 start_mrt.sh[3010619]: [INFO] [2023-11-13T06:56:12,049+0000] [utilities.register_in_persistence_registry_service:215]: Successfully registered in PersistenceRegistryService
+Nov 13 06:56:12 CMX50070-101776 start_mrt.sh[3010619]: [INFO] [2023-11-13T06:56:12,049+0000] [srsf.__init__:51]: Service registered
+Nov 13 06:56:12 CMX50070-101776 start_mrt.sh[3010619]: [INFO] [2023-11-13T06:56:12,395+0000] [srsf_service_impl.CheckService:96]: SRSF is running
+Nov 13 06:56:12 CMX50070-101776 start_mrt.sh[3010620]: PyInstaller _MEI directory save_recall
+Nov 13 06:56:12 CMX50070-101776 start_mrt.sh[3010620]: Namespace(broker_ip='127.0.0.1', sri_recall_log_dir='/home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation2/sri', verbose=False, no_base_registration=False, working_dir='/home/i

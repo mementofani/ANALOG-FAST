@@ -1,0 +1,15 @@
+ (eth_internal): state change: unavailable -> disconnected (reason 'none', sys-iface-state: 'managed')
+Nov 10 05:49:41 CMX50070-101776 NetworkManager[441]: <info>  [1699595381.3038] policy: auto-activating connection 'eth_internal' (6e066520-516a-3fc4-ab25-283e978d629f)
+Nov 10 05:49:41 CMX50070-101776 NetworkManager[441]: <info>  [1699595381.3046] device (eth_internal): Activation: starting connection 'eth_internal' (6e066520-516a-3fc4-ab25-283e978d629f)
+Nov 10 05:49:41 CMX50070-101776 NetworkManager[441]: <info>  [1699595381.3047] device (eth_internal): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+Nov 10 05:49:41 CMX50070-101776 NetworkManager[441]: <info>  [1699595381.3052] manager: NetworkManager state is now CONNECTING
+Nov 10 05:49:41 CMX50070-101776 NetworkManager[441]: <info>  [1699595381.3055] device (eth_internal): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+Nov 10 05:49:41 CMX50070-101776 NetworkManager[441]: <info>  [1699595381.3063] device (eth_internal): state change: config -> ip-config (reason 'none', sys-iface-state: 'managed')
+Nov 10 05:49:41 CMX50070-101776 avahi-daemon[381]: Joining mDNS multicast group on interface eth_internal.IPv4 with address 172.22.254.245.
+Nov 10 05:49:41 CMX50070-101776 avahi-daemon[381]: New relevant interface eth_internal.IPv4 for mDNS.
+Nov 10 05:49:41 CMX50070-101776 avahi-daemon[381]: Registering new address record for 172.22.254.245 on eth_internal.IPv4.
+Nov 10 05:49:41 CMX50070-101776 NetworkManager[441]: <info>  [1699595381.3079] device (eth_internal): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'managed')
+Nov 10 05:49:41 CMX50070-101776 avahi-daemon[381]: Joining mDNS multicast group on interface eth_internal.IPv6 with address fe80::290:b8ff:fe24:d36a.
+Nov 10 05:49:41 CMX50070-101776 avahi-daemon[381]: New relevant interface eth_internal.IPv6 for mDNS.
+Nov 10 05:49:41 CMX50070-101776 avahi-daemon[381]: Registering new address record for fe80::290:b8ff:fe24:d36a on eth_internal.*.
+Nov 10 05:49:41 CMX50070

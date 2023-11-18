@@ -1,0 +1,20 @@
+0000002 / confLengthData: 003
+Nov 10 05:49:49 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): update_write on 0x00060434 with value 0x00000002 (read 0x00000000 | 0x00000002)
+Nov 10 05:49:49 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): [000/001][001/002] 0x00000014 = 0x00000040 / confLengthData: 003
+Nov 10 05:49:49 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): update_write on 0x00060434 with value 0x00000042 (read 0x00000002 | 0x00000040)
+Nov 10 05:49:49 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): [000/001][002/002] 0x00000014 = 0x00003000 / confLengthData: 003
+Nov 10 05:49:49 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): update_write on 0x00060434 with value 0x00003042 (read 0x00000042 | 0x00003000)
+Nov 10 05:49:49 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): access for address[001/001] = 0x00000010
+Nov 10 05:49:49 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): access is 'clear_update_write'
+Nov 10 05:49:49 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): clear on 0x00060430 with value 0x00000000
+Nov 10 05:49:49 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): [001/001][000/000] 0x00000010 = 0x00000000 / confLengthData: 001
+Nov 10 05:49:49 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): update_write on 0x00060430 with value 0x00000000 (read 0x00000000 | 0x00000000)
+Nov 10 05:49:49 CMX50070-101776 kernel: ---
+Nov 10 05:49:49 CMX50070-101776 kernel: CMX_COMMON_IOCTL_GET_GIGABIT_CHANNEL_LINK_STATUS call
+Nov 10 05:49:49 CMX50070-101776 kernel: CMX_COMMON_IOCTL_RESET_CST_ERROR_MONITOR call
+Nov 10 05:49:49 CMX50070-101776 kernel: CMX_COMMON_IOCTL_GET_GIGABIT_CHANNEL_LINK_STATUS call
+Nov 10 05:49:49 CMX50070-101776 kernel: CMX_COMMON_IOCTL_GET_SYSSYNC_LINK_STATUS call
+Nov 10 05:49:49 CMX50070-101776 kernel: get_generic_syssync_link_status called
+Nov 10 05:49:49 CMX50070-101776 load-images.sh[3285]: tag v4.1.3
+Nov 10 05:49:49 CMX50070-101776 load-images.sh[3285]: cmxrep-rtia
+Nov 10 05:49:49 CM

@@ -1,0 +1,30 @@
+0-101776 xu_launcher[3050]: ./colon_12.bmp
+Nov 10 05:49:47 CMX50070-101776 xu_launcher[3050]: ./n_lower_20.bmp
+Nov 10 05:49:47 CMX50070-101776 xu_launcher[3050]: ./p_lower_20.bmp
+Nov 10 05:49:47 CMX50070-101776 xu_launcher[3050]: ./m_lower_20.bmp
+Nov 10 05:49:47 CMX50070-101776 xu_launcher[3050]: ./three_12.bmp
+Nov 10 05:49:47 CMX50070-101776 xu_launcher[3050]: ./eight_20.bmp
+Nov 10 05:49:47 CMX50070-101776 xu_launcher[3050]: ./c_upper_20.bmp
+Nov 10 05:49:47 CMX50070-101776 xu_launcher[3050]: ./slash_12.bmp
+Nov 10 05:49:47 CMX50070-101776 xu_launcher[3050]: ./dot_12.bmp
+Nov 10 05:49:47 CMX50070-101776 xu_launcher[3050]: ./plus_12.bmp
+Nov 10 05:49:47 CMX50070-101776 xu_launcher[3050]: ./l_lower_12.bmp
+Nov 10 05:49:47 CMX50070-101776 xu_launcher[3050]: ./s_upper_12.bmp
+Nov 10 05:49:47 CMX50070-101776 xu_launcher[3050]: ./m_upper_20.bmp
+Nov 10 05:49:47 CMX50070-101776 xu_launcher[3050]: ./n_lower_12.bmp
+Nov 10 05:49:47 CMX50070-101776 xu_launcher[3050]: ./p_upper_20.bmp
+Nov 10 05:49:47 CMX50070-101776 xu_launcher[3050]: ./k_lower_12.bmp
+Nov 10 05:49:47 CMX50070-101776 xu_launcher[3050]: ./dot_20.bmp
+Nov 10 05:49:47 CMX50070-101776 xu_launcher[3050]: ./i_lower_20.bmp
+Nov 10 05:49:47 CMX50070-101776 xu_launcher[3050]: ./RS_BH_startup_slot_1500.bmp
+Nov 10 05:49:47 CMX50070-101776 xu_launcher[3050]: ./l_upper_20.bmp
+Nov 10 05:49:47 CMX50070-101776 xu_launcher[3050]: ./i_upper_20.bmp
+Nov 10 05:49:47 CMX50070-101776 xu_launcher[3050]: ./comma_12.bmp
+Nov 10 05:49:47 CMX50070-101776 xu_launcher[3050]: ./lower_12.bmp
+Nov 10 05:49:47 CMX50070-101776 xu_launcher[3050]: ./nine_20.bmp
+Nov 10 05:49:47 CMX50070-101776 xu_launcher[3050]: ./h_lower_12.bmp
+Nov 10 05:49:47 CMX50070-101776 xu_launcher[3050]: ./fwu_wheel_2.bmp
+Nov 10 05:49:47 CMX50070-101776 systemd[1]: Started Docker Application Container Engine.
+Nov 10 05:49:47 CMX50070-101776 systemd[1]: Starting R&S MRT Callysto Service...
+Nov 10 05:49:47 CMX50070-101776 dockerd[1947]: time="2023-11-10T05:49:47.658229408Z" level=info msg="API listen on /run/docker.sock"
+Nov 10 05:49:47 CMX50070-101776 systemd[1]: S

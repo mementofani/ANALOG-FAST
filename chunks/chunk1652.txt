@@ -1,0 +1,16 @@
+eSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 20:16:52 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 20:16:52 +00:00
+Nov 10 20:16:52 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 20:16:52 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 20:16:52 +00:00
+Nov 10 20:17:52 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 20:17:52 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 20:17:52 +00:00
+Nov 10 20:17:52 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 20:17:52 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 20:17:52 +00:00
+Nov 10 20:18:25 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 193.36M, Virtual set 5.59G, CPU Time 9079.990 s, CPU User Time 5779.400 s, Threads 42
+Nov 10 20:18:52 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 20:18:52 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 20:18:52 +00:00
+Nov 10 20:18:52 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 20:18:52 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 20:18:52 +00:00
+Nov 10 20:19:52 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 20:19:52 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 20:19:52 +00:00
+Nov 10 20:19:52 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microser

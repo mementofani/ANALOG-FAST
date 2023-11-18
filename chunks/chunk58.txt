@@ -1,0 +1,24 @@
+ 0x000000006c000000  length: 0x0000000004000000  flags: 0x0014220c
+Nov 10 05:49:38 CMX50070-101776 kernel: pci bar4 ==> mapped to: (%pf?)
+Nov 10 05:49:38 CMX50070-101776 kernel: AU reports slot number 1200
+Nov 10 05:49:38 CMX50070-101776 kernel: pci_set_drvdata private_data: 0000000079f492b4 pci_data: 00000000cc684105 dma_data 00000000e95ac906
+Nov 10 05:49:38 CMX50070-101776 kernel: usbcore: registered new interface driver rsmic
+Nov 10 05:49:38 CMX50070-101776 kernel:  DM_BIT_MASK is set to DMA_BIT_MASK_VALUE bit
+Nov 10 05:49:38 CMX50070-101776 kernel: PCI INIT cmx_au driver
+Nov 10 05:49:38 CMX50070-101776 kernel: cmx_au 0000:04:00.0: enabling device (0000 -> 0002)
+Nov 10 05:49:38 CMX50070-101776 kernel: pci bar0 ==> flags: 0x0014220c
+Nov 10 05:49:38 CMX50070-101776 kernel: pci bar0 ==> start: 0x0000000068000000  length: 0x0000000004000000  flags: 0x0014220c
+Nov 10 05:49:38 CMX50070-101776 kernel: pci bar0 ==> mapped to: (%pf?)
+Nov 10 05:49:38 CMX50070-101776 kernel: pci bar2 ==> flags: 0x0014220c
+Nov 10 05:49:38 CMX50070-101776 kernel: pci bar2 ==> start: 0x0000000064000000  length: 0x0000000004000000  flags: 0x0014220c
+Nov 10 05:49:38 CMX50070-101776 kernel: pci bar2 ==> mapped to: (%pf?)
+Nov 10 05:49:38 CMX50070-101776 kernel: pci bar4 ==> flags: 0x0014220c
+Nov 10 05:49:38 CMX50070-101776 kernel: pci bar4 ==> start: 0x0000000060000000  length: 0x0000000004000000  flags: 0x0014220c
+Nov 10 05:49:38 CMX50070-101776 kernel: pci bar4 ==> mapped to: (%pf?)
+Nov 10 05:49:38 CMX50070-101776 kernel: AU reports slot number 500
+Nov 10 05:49:38 CMX50070-101776 kernel: pci_set_drvdata private_data: 00000000204bc34f pci_data: 0000000050bfe4e7 dma_data 0000000046788dd0
+Nov 10 05:49:38 CMX50070-101776 kernel:  DM_BIT_MASK is set to DMA_BIT_MASK_VALUE bit
+Nov 10 05:49:38 CMX50070-101776 kernel: PCI INIT cmx_au driver
+Nov 10 05:49:38 CMX50070-101776 kernel: cmx_au 0000:06:00.0: enabling device (0000 -> 0002)
+Nov 10 05:49:38 CMX50070-101776 kernel: usbcore: registered new interface driver nrpz
+Nov 10 05:49:38 CMX50070-101776 kernel: R&S NRP power meter driver v4

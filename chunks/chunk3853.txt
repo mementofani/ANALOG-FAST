@@ -1,0 +1,18 @@
+r running at: 11/13/2023 09:55:54 +00:00
+Nov 13 09:55:55 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 13 09:55:55 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2023 09:55:55 +00:00
+Nov 13 09:56:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 13 09:56:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/13/2023 09:56:54 +00:00
+Nov 13 09:56:55 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 13 09:56:55 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2023 09:56:55 +00:00
+Nov 13 09:57:03 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 136.16M, Virtual set 5.60G, CPU Time 41702.650 s, CPU User Time 26541.850 s, Threads 43
+Nov 13 09:57:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 13 09:57:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/13/2023 09:57:54 +00:00
+Nov 13 09:57:55 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 13 09:57:55 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2023 09:57:55 +00:00
+Nov 13 09:58:36 CMX50070-101776 systemd[1]: Stopping CMXmars Server...
+Nov 13 09:58:36 CMX50070-101776 stop_cmxmarsserver.sh[4192189]: Attempting to stop CMXmars Server version  1.120.11-1kirkstone...
+Nov 13 09:58:36 CMX50070-101776 start_cmxmarsserver.sh[4153157]: CMXmars server has been requested to terminate.
+Nov 13 09:58:36 CMX50070-101776 start_cmxmarsserver.sh[4153157]: CMXmarsServer is stopping.
+Nov 13 09:58:42 CMX50070-101776 stop_cmxmarsserver.sh[4192189]: 4153157
+Nov 13 09:58:42 CM

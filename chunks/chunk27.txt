@@ -1,0 +1,27 @@
+48000-0x0000000039c48000] (64MB)
+Nov 10 05:49:37 localhost kernel: RAPL PMU: API unit is 2^-32 Joules, 1 fixed counters, 163840 ms ovfl timer
+Nov 10 05:49:37 localhost kernel: RAPL PMU: hw unit of domain package 2^-16 Joules
+Nov 10 05:49:37 localhost kernel: amd_uncore: 4  amd_df counters detected
+Nov 10 05:49:37 localhost kernel: amd_uncore: 6  amd_l3 counters detected
+Nov 10 05:49:37 localhost kernel: workingset: timestamp_bits=46 max_order=22 bucket_order=0
+Nov 10 05:49:37 localhost kernel: squashfs: version 4.0 (2009/01/31) Phillip Lougher
+Nov 10 05:49:37 localhost kernel: NFS: Registering the id_resolver key type
+Nov 10 05:49:37 localhost kernel: Key type id_resolver registered
+Nov 10 05:49:37 localhost kernel: Key type id_legacy registered
+Nov 10 05:49:37 localhost kernel: Key type cifs.idmap registered
+Nov 10 05:49:37 localhost kernel: ntfs3: Max link count 4000
+Nov 10 05:49:37 localhost kernel: ntfs3: Read-only LZX/Xpress compression included
+Nov 10 05:49:37 localhost kernel: xor: automatically using best checksumming function   avx
+Nov 10 05:49:37 localhost kernel: Block layer SCSI generic (bsg) driver version 0.4 loaded (major 246)
+Nov 10 05:49:37 localhost kernel: io scheduler mq-deadline registered
+Nov 10 05:49:37 localhost kernel: io scheduler kyber registered
+Nov 10 05:49:37 localhost kernel: io scheduler bfq registered
+Nov 10 05:49:37 localhost kernel: pcieport 0000:00:01.1: PME: Signaling with IRQ 25
+Nov 10 05:49:37 localhost kernel: pcieport 0000:00:01.1: AER: enabled with IRQ 25
+Nov 10 05:49:37 localhost kernel: pcieport 0000:00:01.3: PME: Signaling with IRQ 26
+Nov 10 05:49:37 localhost kernel: pcieport 0000:00:01.3: AER: enabled with IRQ 26
+Nov 10 05:49:37 localhost kernel: pcieport 0000:00:01.5: PME: Signaling with IRQ 27
+Nov 10 05:49:37 localhost kernel: pcieport 0000:00:01.5: AER: enabled with IRQ 27
+Nov 10 05:49:37 localhost kernel: pcieport 0000:00:08.1: PME: Signaling with IRQ 28
+Nov 10 05:49:37 localhost kernel: pcieport 0000:00:08.2: PME: Signaling with IRQ 29
+Nov 10 05:49:37 localhost kernel: pcieport 0000:00:08.2: AE

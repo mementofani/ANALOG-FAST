@@ -1,0 +1,14 @@
+directory
+Nov 13 09:25:45 CMX50070-101776 start_cmxmarsserver.sh[3969328]: */usr/lib/cmxtools/mddb/Mddb.protobuf.0.3.so: cannot open shared object file: No such file or directory
+Nov 13 09:25:45 CMX50070-101776 start_cmxmarsserver.sh[3969328]: */usr/lib/cmxtools/mddb/Mddb.protobuf.0.3.so: cannot open shared object file: No such file or directory
+Nov 13 09:25:45 CMX50070-101776 start_cmxmarsserver.sh[3969328]: */usr/lib/cmxtools/mddb/Mddb.protobuf.0.3.so: cannot open shared object file: No such file or directory
+Nov 13 09:25:45 CMX50070-101776 start_cmxmarsserver.sh[3969328]: */usr/lib/cmxtools/mddb/Mddb.protobuf.0.3.so: cannot open shared object file: No such file or directory
+Nov 13 09:25:45 CMX50070-101776 start_cmxmarsserver.sh[3969328]: */usr/lib/cmxtools/mddb/Mddb.protobuf.0.3.so: cannot open shared object file: No such file or directory
+Nov 13 09:25:45 CMX50070-101776 start_cmxmarsserver.sh[3969328]: */usr/lib/cmxtools/mddb/Mddb.protobuf.0.3.so: cannot open shared object file: No such file or directory
+Nov 13 09:25:45 CMX50070-101776 start_cmxmarsserver.sh[3969328]: */usr/lib/cmxtools/mddb/Mddb.protobuf.0.3.so: cannot open shared object file: No such file or directory
+Nov 13 09:25:45 CMX50070-101776 start_cmxmarsserver.sh[3969328]: */usr/lib/cmxtools/mddb/Mddb.protobuf.0.3.so: cannot open shared object file: No such file or directory
+Nov 13 09:25:45 CMX50070-101776 start_cmxmarsserver.sh[3969328]: */usr/lib/cmxtools/mddb/Mddb.protobuf.0.3.so: cannot open shared object file: No such file or directory
+Nov 13 09:25:45 CMX50070-101776 start_cmxmarsserver.sh[3969328]: */usr/lib/cmxtools/mddb/Mddb.protobuf.0.3.so: cannot open shared object file: No such file or directory
+Nov 13 09:25:45 CMX50070-101776 start_cmxmarsserver.sh[3969328]: */usr/lib/cmxtools/mddb/Mddb.protobuf.0.3.so: cannot open shared object file: No such file or directory
+Nov 13 09:25:47 CMX50070-101776 start_cmxmarsserver.sh[3969328]: */usr/lib/cmUnsubscribeFromFormulaValues /home/instrument/fw/log/MessageLogs/961275_MSC_MultiSIM_SIPMsg/signaling.rsmsglog
+Nov 13 09:25:48 CMX50070

@@ -1,0 +1,20 @@
+0070-101776 kernel: config_generic_gigabit_channel_link(): [000/001][002/002] 0x00000014 = 0x00003000 / confLengthData: 003
+Nov 10 05:50:45 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): update_write on 0x00019EF4 with value 0x00003042 (read 0x00000042 | 0x00003000)
+Nov 10 05:50:45 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): access for address[001/001] = 0x00000010
+Nov 10 05:50:45 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): access is 'clear_update_write'
+Nov 10 05:50:45 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): clear on 0x00019EF0 with value 0x00000000
+Nov 10 05:50:45 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): [001/001][000/000] 0x00000010 = 0x00000000 / confLengthData: 001
+Nov 10 05:50:45 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): update_write on 0x00019EF0 with value 0x00000000 (read 0x00000000 | 0x00000000)
+Nov 10 05:50:45 CMX50070-101776 kernel: ---
+Nov 10 05:50:45 CMX50070-101776 start_mrt.sh[3324]: CORLD_200:  perform_reset() ENTERED
+Nov 10 05:50:45 CMX50070-101776 start_mrt.sh[3324]: CCmgAccess(/dev/rohde-schwarz/cmg_200) ctor handle=585
+Nov 10 05:50:45 CMX50070-101776 start_mrt.sh[3324]: fpga version=0x7080008
+Nov 10 05:50:45 CMX50070-101776 start_mrt.sh[3324]: CORLD_400:  perform_reset() ENTERED
+Nov 10 05:50:45 CMX50070-101776 start_mrt.sh[3324]: CCmgAccess(/dev/rohde-schwarz/cmg_400) ctor handle=582
+Nov 10 05:50:45 CMX50070-101776 start_mrt.sh[3324]: fpga version=0x3070007
+Nov 10 05:50:45 CMX50070-101776 kernel: rohde-schwarz/cmg_300: status interrupt detected (fsi2, 0x205)
+Nov 10 05:50:45 CMX50070-101776 kernel: rohde-schwarz/cmg_300: status interrupt detected (base fsi2, 0x8)
+Nov 10 05:50:46 CMX50070-101776 kernel: rohde-schwarz/cmg_300: status interrupt detected (fsi2, 0x2)
+Nov 10 05:50:46 CMX50070-101776 kernel: rohde-schwarz/cmg_300: status interrupt detected (fsi3, 0x205)
+Nov 10 05:50:46 CMX50070-101776 kernel: rohde-schwarz/cmg_300: status interrupt detected (base fsi3, 0x8)
+Nov 10 05:50:46 CMX50070-101776 kernel: r

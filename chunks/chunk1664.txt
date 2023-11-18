@@ -1,0 +1,15 @@
+:05 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 192.47M, Virtual set 5.60G, CPU Time 9394.660 s, CPU User Time 5978.900 s, Threads 45
+Nov 10 20:54:52 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 20:54:52 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 20:54:52 +00:00
+Nov 10 20:54:52 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 20:54:52 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 20:54:52 +00:00
+Nov 10 20:55:52 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 20:55:52 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 20:55:52 +00:00
+Nov 10 20:55:52 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 20:55:52 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 20:55:52 +00:00
+Nov 10 20:55:52 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 192.78M, Virtual set 5.60G, CPU Time 9408.310 s, CPU User Time 5987.490 s, Threads 41
+Nov 10 20:56:52 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 20:56:52 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 20:56:52 +00:00
+Nov 10 20:56:52 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 20:56:52 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 20:56:52 +00:00
+Nov 10 20:57:39 CMX50070-101776 RsInstallatio

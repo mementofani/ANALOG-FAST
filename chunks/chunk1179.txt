@@ -1,0 +1,19 @@
+5413]: Got Data: 60000 count: 34 t: 11:30:33 AM
+Nov 10 11:30:33 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 232.01M, Virtual set 5.61G, CPU Time 3665.500 s, CPU User Time 2335.530 s, Threads 46
+Nov 10 11:30:34 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 62000 count: 44 t: 11:30:34 AM
+Nov 10 11:30:35 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 64000 count: 38 t: 11:30:35 AM
+Nov 10 11:30:36 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 66000 count: 53 t: 11:30:36 AM
+Nov 10 11:30:37 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 68000 count: 54 t: 11:30:37 AM
+Nov 10 11:30:38 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 70000 count: 52 t: 11:30:38 AM
+Nov 10 11:30:39 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 72000 count: 62 t: 11:30:39 AM
+Nov 10 11:30:40 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 74000 count: 64 t: 11:30:40 AM
+Nov 10 11:30:41 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 76000 count: 70 t: 11:30:41 AM
+Nov 10 11:30:42 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 78000 count: 79 t: 11:30:42 AM
+Nov 10 11:30:43 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 80000 count: 88 t: 11:30:43 AM
+Nov 10 11:30:44 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 82000 count: 81 t: 11:30:44 AM
+Nov 10 11:30:45 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 84200 count: 92 t: 11:30:45 AM
+Nov 10 11:30:46 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 86300 count: 5 t: 11:30:46 AM
+Nov 10 11:30:46 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 86200 count: 100 t: 11:30:46 AM
+Nov 10 11:30:47 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 88200 count: 100 t: 11:30:47 AM
+Nov 10 11:30:48 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 90000 count: 100 t: 11:30:48 AM
+Nov 10 11:30:48 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 90100 count: 

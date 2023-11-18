@@ -1,0 +1,14 @@
+1776 rs_callysto.callysto_server._logging_configuration[3092]: [info     ] write json log to /var/log/callysto.log.json type=json log_level=20 filename=/var/log/callysto.log.json pathname=/usr/lib/callysto/venv/lib/python3.10/site-packages/rs_callysto/callysto_server/_logging_configuration.py lineno=183
+Nov 10 05:49:49 CMX50070-101776 start_mrt.sh[1964]: Starting software...
+Nov 10 05:49:49 CMX50070-101776 start_mrt.sh[1964]: LS_SERVICE_CONTROL_NOT_ALLOWED:
+Nov 10 05:49:49 CMX50070-101776 start_mrt.sh[1964]: ALF_NO_SYSTEMD:
+Nov 10 05:49:49 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.AptAbstractionLib.BaseDeviceInfo - DeviceAdded: Updating IP for CMX50070-101776 fe80::290:b8ff:fe24:d36a%3
+Nov 10 05:49:49 CMX50070-101776 start_mrt.sh[3324]: RsDeviceStarter[3324]: INFO: Starting system ...
+Nov 10 05:49:49 CMX50070-101776 RsDeviceStarter[3324]: INFO: Starting system ...
+Nov 10 05:49:49 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.AptAbstractionLib.DeviceMonitor - + 'CMX50070-101776' on eth_internal
+Nov 10 05:49:49 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.AptAbstractionLib.DeviceMonitor -         Host: CMX50070-101776 (fe80::290:b8ff:fe24:d36a%3)
+Nov 10 05:49:49 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.AptAbstractionLib.DeviceMonitor -         Port: 1015
+Nov 10 05:49:49 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.AptAbstractionLib.DeviceMonitor -         Txt : [HostName=CMX50070-101776, SerialNumber=101776, PartNumber=1201.0002K70, DeviceId=1201.0002K70-101776-ss]
+Nov 10 05:49:49 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.AptAbstractionLib.DeviceMonitor - CMX50070-101776 fe80::290:b8ff:fe24:d36a%3:1015 101776 1201.0002K70
+Nov 10 05:49:49 CMX50070-101776 load-images.sh[3301]: docker.rsint.net/rs_mrt-tools-docker/cmxreporting/cmxrep-rtia:v4.1.3
+Nov 10 05:49:49 CMX50070-101776 load-images.sh[3285]: cmxrep-rtia:v4.1.3 already load

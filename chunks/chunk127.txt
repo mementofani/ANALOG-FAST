@@ -1,0 +1,13 @@
+ New relevant interface docker0.IPv4 for mDNS.
+Nov 10 05:49:46 CMX50070-101776 NetworkManager[441]: <warn>  [1699595386.9302] device (docker0): failed to read bridge setting 'vlan_stats_enabled'
+Nov 10 05:49:46 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:49:46.617629Z [Program                                              ] INFO : Connection Optimizer Service
+Nov 10 05:49:46 CMX50070-101776 avahi-daemon[381]: Registering new address record for 100.82.64.1 on docker0.IPv4.
+Nov 10 05:49:46 CMX50070-101776 NetworkManager[441]: <info>  [1699595386.9313] device (docker0): state change: unmanaged -> unavailable (reason 'connection-assumed', sys-iface-state: 'external')
+Nov 10 05:49:46 CMX50070-101776 NetworkManager[441]: <info>  [1699595386.9322] device (docker0): state change: unavailable -> disconnected (reason 'connection-assumed', sys-iface-state: 'external')
+Nov 10 05:49:46 CMX50070-101776 Xserver[2566]: [85:85:1110/054946.930511:ERROR:gpu_init.cc(481)] Passthrough is not supported, GL is egl, ANGLE is
+Nov 10 05:49:46 CMX50070-101776 NetworkManager[441]: <info>  [1699595386.9348] device (docker0): Activation: starting connection 'docker0' (3cfc2964-ec91-4e20-898c-d7b94382a687)
+Nov 10 05:49:46 CMX50070-101776 NetworkManager[441]: <info>  [1699595386.9350] device (docker0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'external')
+Nov 10 05:49:46 CMX50070-101776 NetworkManager[441]: <info>  [1699595386.9361] device (docker0): state change: prepare -> config (reason 'none', sys-iface-state: 'external')
+Nov 10 05:49:46 CMX50070-101776 NetworkManager[441]: <info>  [1699595386.9377] device (docker0): state change: config -> ip-config (reason 'none', sys-iface-state: 'external')
+Nov 10 05:49:46 CMX50070-101776 NetworkManager[441]: <info>  [1699595386.9384] device (docker0): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'external')
+Nov 10 05:49:46 CMX50070-101776 NetworkManager[441]: <info>  [1699595386.9415] device (docker0): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'external'

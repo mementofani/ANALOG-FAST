@@ -1,0 +1,19 @@
+type=1300 audit(1699629480.551:177): arch=c000003e syscall=321 success=yes exit=8 a0=5 a1=7ffcd279abd0 a2=78 a3=0 items=0 ppid=1 pid=3661090 auid=0 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=8 comm="systemd" exe="/lib/systemd/systemd" key=(null)
+Nov 10 15:18:00 CMX50070-101776 kernel: audit: type=1327 audit(1699629480.551:177): proctitle="(systemd)"
+Nov 10 15:18:00 CMX50070-101776 kernel: audit: type=1334 audit(1699629480.551:178): prog-id=0 op=UNLOAD
+Nov 10 15:18:00 CMX50070-101776 kernel: audit: type=1334 audit(1699629480.551:179): prog-id=41 op=LOAD
+Nov 10 15:18:00 CMX50070-101776 kernel: audit: type=1300 audit(1699629480.551:179): arch=c000003e syscall=321 success=yes exit=8 a0=5 a1=7ffcd279ac60 a2=78 a3=0 items=0 ppid=1 pid=3661090 auid=0 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=8 comm="systemd" exe="/lib/systemd/systemd" key=(null)
+Nov 10 15:18:00 CMX50070-101776 kernel: audit: type=1327 audit(1699629480.551:179): proctitle="(systemd)"
+Nov 10 15:18:00 CMX50070-101776 systemd[3661090]: Queued start job for default target Main User Target.
+Nov 10 15:18:00 CMX50070-101776 systemd[3661090]: Created slice User Application Slice.
+Nov 10 15:18:00 CMX50070-101776 systemd[3661090]: Reached target Paths.
+Nov 10 15:18:00 CMX50070-101776 systemd[3661090]: Reached target Timers.
+Nov 10 15:18:00 CMX50070-101776 systemd[3661090]: Starting D-Bus User Message Bus Socket...
+Nov 10 15:18:00 CMX50070-101776 systemd[3661090]: Listening on D-Bus User Message Bus Socket.
+Nov 10 15:18:00 CMX50070-101776 systemd[3661090]: Reached target Sockets.
+Nov 10 15:18:00 CMX50070-101776 systemd[3661090]: Reached target Basic System.
+Nov 10 15:18:00 CMX50070-101776 systemd[3661090]: Reached target Main User Target.
+Nov 10 15:18:00 CMX50070-101776 systemd[3661090]: Startup finished in 91ms.
+Nov 10 15:18:00 CMX50070-101776 systemd[1]: Started User Manager for UID 0.
+Nov 10 15:18:00 CMX50070-101776 systemd[1]: Started Session c7 of User root.
+Nov 10 15:18:00 CMX50070-101776 audit[3660661]: SYSCALL arch=c000003e syscall=1

@@ -1,0 +1,21 @@
+lhost kernel: pci 0000:07:00.0: reg 0x10: [mem 0xd1000000-0xd1ffffff 64bit]
+Nov 10 05:49:37 localhost kernel: pci 0000:07:00.0: reg 0x18: [mem 0xc0000000-0xcfffffff 64bit]
+Nov 10 05:49:37 localhost kernel: pci 0000:07:00.0: reg 0x20: [mem 0xd0000000-0xd0ffffff 64bit]
+Nov 10 05:49:37 localhost kernel: pci 0000:07:00.0: enabling Extended Tags
+Nov 10 05:49:37 localhost kernel: pci 0000:07:00.0: 31.504 Gb/s available PCIe bandwidth, limited by 8.0 GT/s PCIe x4 link at 0000:02:04.0 (capable of 63.008 Gb/s with 8.0 GT/s PCIe x8 link)
+Nov 10 05:49:37 localhost kernel: pci 0000:02:04.0: PCI bridge to [bus 07]
+Nov 10 05:49:37 localhost kernel: pci 0000:02:04.0:   bridge window [mem 0xc0000000-0xd1ffffff]
+Nov 10 05:49:37 localhost kernel: pci 0000:08:00.0: [8086:1580] type 00 class 0x020000
+Nov 10 05:49:37 localhost kernel: pci 0000:08:00.0: reg 0x10: [mem 0x78000000-0x787fffff 64bit pref]
+Nov 10 05:49:37 localhost kernel: pci 0000:08:00.0: reg 0x1c: [mem 0x78800000-0x78807fff 64bit pref]
+Nov 10 05:49:37 localhost kernel: pci 0000:08:00.0: reg 0x30: [mem 0xf2100000-0xf217ffff pref]
+Nov 10 05:49:37 localhost kernel: pci 0000:08:00.0: enabling Extended Tags
+Nov 10 05:49:37 localhost kernel: pci 0000:08:00.0: PME# supported from D0 D3hot
+Nov 10 05:49:37 localhost kernel: pci 0000:08:00.0: reg 0x184: [mem 0x00000000-0x0000ffff 64bit pref]
+Nov 10 05:49:37 localhost kernel: pci 0000:08:00.0: VF(n) BAR0 space: [mem 0x00000000-0x007fffff 64bit pref] (contains BAR0 for 128 VFs)
+Nov 10 05:49:37 localhost kernel: pci 0000:08:00.0: reg 0x190: [mem 0x00000000-0x00003fff 64bit pref]
+Nov 10 05:49:37 localhost kernel: pci 0000:08:00.0: VF(n) BAR3 space: [mem 0x00000000-0x001fffff 64bit pref] (contains BAR3 for 128 VFs)
+Nov 10 05:49:37 localhost kernel: pci 0000:02:05.0: PCI bridge to [bus 08]
+Nov 10 05:49:37 localhost kernel: pci 0000:02:05.0:   bridge window [mem 0xf2100000-0xf21fffff]
+Nov 10 05:49:37 localhost kernel: pci 0000:02:05.0:   bridge window [mem 0x78000000-0x788fffff 64bit pref]
+Nov 10 05:49:37 localhost kernel: pci 0000:09:00.0: [162f:14b1] type 00 class 0x

@@ -1,0 +1,21 @@
+stemd-udevd[298]: /lib/udev/rules.d/50-udev-default.rules:41 Unknown group 'render', ignoring
+Nov 10 05:49:38 CMX50070-101776 systemd-udevd[298]: /lib/udev/rules.d/50-udev-default.rules:43 Unknown group 'sgx', ignoring
+Nov 10 05:49:38 CMX50070-101776 systemd-udevd[298]: /lib/udev/rules.d/50-udev-default.rules:44 Unknown group 'sgx', ignoring
+Nov 10 05:49:38 CMX50070-101776 systemd[1]: Started Rule-based Manager for Device Events and Files.
+Nov 10 05:49:38 CMX50070-101776 systemd[1]: Starting Load Kernel Module configfs...
+Nov 10 05:49:38 CMX50070-101776 systemd[1]: Finished Automatic Boot Loader Update.
+Nov 10 05:49:38 CMX50070-101776 systemd[1]: modprobe@configfs.service: Deactivated successfully.
+Nov 10 05:49:38 CMX50070-101776 systemd[1]: Finished Load Kernel Module configfs.
+Nov 10 05:49:38 CMX50070-101776 systemd[1]: Finished Coldplug All udev Devices.
+Nov 10 05:49:38 CMX50070-101776 systemd-udevd[321]: Using default interface naming scheme 'v250'.
+Nov 10 05:49:38 CMX50070-101776 systemd[1]: Reached target Smart Card.
+Nov 10 05:49:38 CMX50070-101776 systemd[1]: Finished Flush Journal to Persistent Storage.
+Nov 10 05:49:38 CMX50070-101776 systemd[1]: Starting Create Volatile Files and Directories...
+Nov 10 05:49:38 CMX50070-101776 systemd-udevd[319]: Using default interface naming scheme 'v250'.
+Nov 10 05:49:38 CMX50070-101776 kernel: rsmic 3-2.2.1.5:1.0: MIC device 2 connected
+Nov 10 05:49:38 CMX50070-101776 kernel: i40e 0000:08:00.0: MAC address: 00:90:b8:24:d3:6a
+Nov 10 05:49:38 CMX50070-101776 systemd-tmpfiles[366]: /usr/lib/tmpfiles.d/dbus.conf:13: Line references path below legacy directory /var/run/, updating /var/run/dbus/containers → /run/dbus/containers; please update the tmpfiles.d/ drop-in file accordingly.
+Nov 10 05:49:38 CMX50070-101776 kernel: usb 3-2.4.2: new high-speed USB device number 10 using xhci_hcd
+Nov 10 05:49:38 CMX50070-101776 kernel: i40e 0000:08:00.0 eth0: NIC Link is Up, 10 Gbps Full Duplex, Flow Control: None
+Nov 10 05:49:38 CMX50070-101776 kernel: i40e 0000:08:00.0: PCI-Express: Speed 8.0GT/s Width x4
+Nov 10 05

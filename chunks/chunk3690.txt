@@ -1,0 +1,17 @@
+mrt.sh[3094698]: Dispatching RPC RatRqm1::sfa_0::message_received
+Nov 13 07:07:58 CMX50070-101776 start_mrt.sh[3094698]: execute
+Nov 13 07:07:58 CMX50070-101776 start_mrt.sh[3094698]: Dispatching RPC RatRqm1::sfa_0::message_received
+Nov 13 07:07:58 CMX50070-101776 start_mrt.sh[3094698]: execute
+Nov 13 07:07:58 CMX50070-101776 start_mrt.sh[3094698]: Dispatching RPC RatRqm1::sfa_0::message_received
+Nov 13 07:07:58 CMX50070-101776 start_mrt.sh[3094698]: execute
+Nov 13 07:07:59 CMX50070-101776 start_mrt.sh[3094698]: Dispatching RPC RatRqm1::sfa_0::message_received
+Nov 13 07:07:59 CMX50070-101776 start_mrt.sh[3094698]: execute
+Nov 13 07:07:59 CMX50070-101776 start_mrt.sh[3094957]: VIRTUAL_ENV=/usr/lib/gsm_wcdma_signaling/0.6.0-1kirkstone/venv
+Nov 13 07:07:59 CMX50070-101776 start_mrt.sh[3094957]: PATH=/usr/lib/gsm_wcdma_signaling/0.6.0-1kirkstone/venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+Nov 13 07:07:59 CMX50070-101776 start_mrt.sh[3094957]: PYVISA_LIBRARY=/usr/lib/gsm_wcdma_signaling/0.6.0-1kirkstone/librsvisa.so
+Nov 13 07:07:59 CMX50070-101776 start_mrt.sh[3094957]: python: /usr/lib/gsm_wcdma_signaling/0.6.0-1kirkstone/venv/bin/python
+Nov 13 07:07:59 CMX50070-101776 start_mrt.sh[3094943]: Location: "/usr/lib/csp/csp"
+Nov 13 07:08:00 CMX50070-101776 start_mrt.sh[3094935]: RmcCompositeServices startup finished
+Nov 13 07:08:00 CMX50070-101776 start_mrt.sh[3094935]: Press CTRL+C to shutdown
+Nov 13 07:08:01 CMX50070-101776 start_mrt.sh[3094957]: 2023-11-13T07:08:01.084+00:00 [info     ] write text log to /home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation5/gwss/gwss.log [gwss.gwss_server._logging_configuration] filename=/home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation5/gwss/gwss.log type=text
+Nov 13 07:08:01 CMX50070-101776 start_mrt.sh[3094957]: 2023-11-13T07:08:01.084+00:00 [info     ] write json log to /home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation5/gwss/gwss.log.json [gwss.gwss_server._logging_configuration] filename=/home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/Network

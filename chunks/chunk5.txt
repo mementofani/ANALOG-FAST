@@ -1,0 +1,25 @@
+ table memory at [mem 0x3dcd0858-0x3dcd14ce]
+Nov 10 05:49:37 localhost kernel: ACPI: Reserving SSDT table memory at [mem 0x3dcd14d0-0x3dcd2574]
+Nov 10 05:49:37 localhost kernel: ACPI: Reserving SSDT table memory at [mem 0x3dcd2578-0x3dcd48e0]
+Nov 10 05:49:37 localhost kernel: ACPI: Reserving SSDT table memory at [mem 0x3dcd48e8-0x3dcd56f3]
+Nov 10 05:49:37 localhost kernel: ACPI: Reserving WSMT table memory at [mem 0x3dcd56f8-0x3dcd571f]
+Nov 10 05:49:37 localhost kernel: ACPI: Reserving SSDT table memory at [mem 0x3dcd5720-0x3dcd5a1d]
+Nov 10 05:49:37 localhost kernel: Zone ranges:
+Nov 10 05:49:37 localhost kernel:   DMA      [mem 0x0000000000001000-0x0000000000ffffff]
+Nov 10 05:49:37 localhost kernel:   DMA32    [mem 0x0000000001000000-0x00000000ffffffff]
+Nov 10 05:49:37 localhost kernel:   Normal   [mem 0x0000000100000000-0x00000004bf33ffff]
+Nov 10 05:49:37 localhost kernel: Movable zone start for each node
+Nov 10 05:49:37 localhost kernel: Early memory node ranges
+Nov 10 05:49:37 localhost kernel:   node   0: [mem 0x0000000000001000-0x000000000009ffff]
+Nov 10 05:49:37 localhost kernel:   node   0: [mem 0x0000000000100000-0x0000000009601fff]
+Nov 10 05:49:37 localhost kernel:   node   0: [mem 0x0000000009800000-0x000000000a1fffff]
+Nov 10 05:49:37 localhost kernel:   node   0: [mem 0x000000000a20b000-0x000000003d5ebfff]
+Nov 10 05:49:37 localhost kernel:   node   0: [mem 0x000000003d70a000-0x000000003d8a9fff]
+Nov 10 05:49:37 localhost kernel:   node   0: [mem 0x000000003e560000-0x000000003effffff]
+Nov 10 05:49:37 localhost kernel:   node   0: [mem 0x0000000100000000-0x000000047effffff]
+Nov 10 05:49:37 localhost kernel:   node   0: [mem 0x00000004bf000000-0x00000004bf33ffff]
+Nov 10 05:49:37 localhost kernel: Initmem setup node 0 [mem 0x0000000000001000-0x00000004bf33ffff]
+Nov 10 05:49:37 localhost kernel: On node 0, zone DMA: 1 pages in unavailable ranges
+Nov 10 05:49:37 localhost kernel: On node 0, zone DMA: 96 pages in unavailable ranges
+Nov 10 05:49:37 localhost kernel: On node 0, zone DMA32: 510 pages in unavailable ranges
+Nov 10 05:49:37 localh

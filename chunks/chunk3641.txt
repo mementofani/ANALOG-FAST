@@ -1,0 +1,13 @@
+nection: //mrt/0/connector/16 <=> //mrt/0/testenvironment/0/dut/0/connector/0 @ //mrt/0/testenvironment/0/connection/28
+Nov 13 07:02:45 CMX50070-101776 mrt.dos[1967]: 2023-11-13T07:02:45.061270Z [DeviceApiSubscriber                                  ] DEBUG: Received message from Test Environment service
+Nov 13 07:02:45 CMX50070-101776 mrt.dos[1967]: 2023-11-13T07:02:45.068871Z [DeviceApiSubscriber                                  ] DEBUG: 1 messages in the queue
+Nov 13 07:02:45 CMX50070-101776 mrt.dos[1967]: 2023-11-13T07:02:45.068871Z [DeviceApiSubscriber                                  ] DEBUG: Test Environment service message received
+Nov 13 07:02:45 CMX50070-101776 mrt.dos[1967]: 2023-11-13T07:02:45.072878Z [DeviceApiSubscriber                                  ] DEBUG: 0 messages in the queue
+Nov 13 07:02:46 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 0 count: 27 t: 7:02:46 AM
+Nov 13 07:02:46 CMX50070-101776 start_mrt.sh[3053232]: Dispatching RPC RatRqm1::sfa_0::message_received
+Nov 13 07:02:46 CMX50070-101776 start_mrt.sh[3053232]: execute
+Nov 13 07:02:46 CMX50070-101776 mrt.dos[1967]: 2023-11-13T07:02:46.936895Z [DeviceApiSubscriber                                  ] DEBUG: Received message from Connection service
+Nov 13 07:02:46 CMX50070-101776 mrt.dos[1967]: 2023-11-13T07:02:46.937180Z [DeviceApiSubscriber                                  ] DEBUG: Connection service message: Found connection: //mrt/0/connector/16 <=> //mrt/0/testenvironment/0/dut/0/connector/0 @ //mrt/0/testenvironment/0/connection/28
+Nov 13 07:02:46 CMX50070-101776 mrt.dos[1967]: 2023-11-13T07:02:46.939193Z [DeviceApiSubscriber                                  ] DEBUG: Received message from Connection service
+Nov 13 07:02:46 CMX50070-101776 mrt.dos[1967]: 2023-11-13T07:02:46.942663Z [DeviceApiSubscriber                                  ] DEBUG: 1 messages in the queue
+Nov 13 07:02:46 CMX50070-101776 mrt.dos[1967]: 2023-11-13T07:02:46.942663Z [DeviceApiSubscriber                                  ] DEBUG: Connection service message: Found connection: //mrt

@@ -1,0 +1,23 @@
+n[1016]: PIAS: Socket[8] << 281,152\n
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] >> DIAG:PROD:MAC?\n
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] << \n
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] >> DIAG:PIAS:ID?\n
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] << "linux-64$00-E0-33-0B-D1-F9"\n
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] >> DIAG:PIAS:HOST?\n
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] << "CMX50070-101776"\n
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8]: Data channel normally closed (or due to unexpected data).
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8]: socket normally closed.
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] >> *CLS\n
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] >> DIAG:PROD:CAT?\n
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] << "1201.0002k70","__SWP_Tool__"\n
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] >> DIAG:PROD:SEL "1201.0002k70"\n
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] >> *IDN?\n
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] << Rohde&Schwarz,CMX500,1201.0002k70/101776,5.0.60.4\n
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] >> DIAG:PROD:ID?\n
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] << R&S,1201.0002k70/101776,5.0.60.4\n
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] >> DIAG:UPD:TRAN:VERS?\n
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] << 281,152\n
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] >> DIAG:PROD:MAC?\n
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] << \n
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] >> DIAG:PIAS:ID?\n
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] << "linux-64$

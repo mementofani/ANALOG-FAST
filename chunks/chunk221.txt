@@ -1,0 +1,20 @@
+-101776 mrt.dos[1967]: 2023-11-10T05:50:12.569369Z [DeviceApiSubscriber                                  ] DEBUG:  * ResourceName: //mrt/0/health/0
+Nov 10 05:50:12 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:12.569369Z [DeviceApiSubscriber                                  ] DEBUG:  * State: Startup
+Nov 10 05:50:12 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:12.569369Z [DeviceApiSubscriber                                  ] DEBUG:  * ProgressInfo: Activate Startup
+Nov 10 05:50:12 CMX50070-101776 health_service.deviceapi[544]: Publish update:
+Nov 10 05:50:12 CMX50070-101776 health_service.deviceapi[544]: ################################################################################
+Nov 10 05:50:12 CMX50070-101776 health_service.deviceapi[544]: ID:        10
+Nov 10 05:50:12 CMX50070-101776 health_service.deviceapi[544]: State:        2
+Nov 10 05:50:12 CMX50070-101776 health_service.deviceapi[544]: Progress:        [1] Load Product Definition
+Nov 10 05:50:12 CMX50070-101776 health_service.deviceapi[544]: Reliability:        [0]
+Nov 10 05:50:12 CMX50070-101776 health_service.deviceapi[544]: Num HW:        0
+Nov 10 05:50:12 CMX50070-101776 health_service.deviceapi[544]: ################################################################################
+Nov 10 05:50:12 CMX50070-101776 health_service.deviceapi[544]: Publish update:
+Nov 10 05:50:12 CMX50070-101776 health_service.deviceapi[544]: ################################################################################
+Nov 10 05:50:12 CMX50070-101776 health_service.deviceapi[544]: ID:        11
+Nov 10 05:50:12 CMX50070-101776 health_service.deviceapi[544]: State:        2
+Nov 10 05:50:12 CMX50070-101776 health_service.deviceapi[544]: Progress:        [1] Activate Startup
+Nov 10 05:50:12 CMX50070-101776 health_service.deviceapi[544]: Reliability:        [0]
+Nov 10 05:50:12 CMX50070-101776 health_service.deviceapi[544]: Num HW:        0
+Nov 10 05:50:12 CMX50070-101776 health_service.deviceapi[544]: ################################################################################
+Nov 10 05:50:12 

@@ -1,0 +1,13 @@
+r_in_persistence_registry_service:215]: Successfully registered in PersistenceRegistryService
+Nov 10 05:53:18 CMX50070-101776 start_mrt.sh[27476]: [INFO] [2023-11-10T05:53:18,394+0000] [srsf.__init__:51]: Service registered
+Nov 10 05:53:18 CMX50070-101776 start_mrt.sh[27476]: [INFO] [2023-11-10T05:53:18,480+0000] [srsf_service_impl.CheckService:96]: SRSF is running
+Nov 10 05:53:18 CMX50070-101776 start_mrt.sh[27501]: PyInstaller _MEI directory save_recall
+Nov 10 05:53:18 CMX50070-101776 start_mrt.sh[27501]: Namespace(broker_ip='127.0.0.1', sri_recall_log_dir='/home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation1/sri', verbose=False, no_base_registration=False, working_dir='/home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation1/sri')
+Nov 10 05:53:18 CMX50070-101776 start_mrt.sh[27501]: srss.log location: /home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation1/sri/srss.log
+Nov 10 05:53:18 CMX50070-101776 start_mrt.sh[27501]: [INFO] [2023-11-10T05:53:18,866+0000] [__init__.__init__:95]: Logging initialized with logging level 20
+Nov 10 05:53:18 CMX50070-101776 start_mrt.sh[27501]: [INFO] [2023-11-10T05:53:18,866+0000] [drift_zmqbroker.__init__:114]: Initialing DriftRpcClient with url = tcp://127.0.0.1:9013
+Nov 10 05:53:18 CMX50070-101776 start_mrt.sh[27501]: [INFO] [2023-11-10T05:53:18,867+0000] [drift_zmqbroker.start:59]: Starting message_dispatcher...
+Nov 10 05:53:18 CMX50070-101776 start_mrt.sh[27501]: [INFO] [2023-11-10T05:53:18,867+0000] [__init__._initmd:368]: Initializing default broker with tcp://127.0.0.1:9010
+Nov 10 05:53:18 CMX50070-101776 start_mrt.sh[27501]: [INFO] [2023-11-10T05:53:18,868+0000] [__init__._prepare_recordingdirectories:342]: Opened _file_handle <_io.TextIOWrapper name='/home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation1/sri/drifted/recorded/sequence.yaml' mode='w' encoding='utf-8'>
+Nov 10 05:53:18 CMX50070-101776 start_mrt.sh[27501]: [INFO] [2023-11-10T05:53:18,868+0000] [__init__._initalize_recording:436]: initalize_recording
+Nov 10 05:53:18 CMX50070-101776 start_mrt.sh

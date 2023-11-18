@@ -1,0 +1,20 @@
+art_cmxmarsserver.sh[2908496]: Got Data: 800 count: 30 t: 7:11:00 AM
+Nov 13 07:11:00 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 800 count: 34 t: 7:11:00 AM
+Nov 13 07:11:02 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 800 count: 38 t: 7:11:02 AM
+Nov 13 07:11:03 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 800 count: 42 t: 7:11:03 AM
+Nov 13 07:11:03 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 800 count: 46 t: 7:11:03 AM
+Nov 13 07:11:05 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 800 count: 50 t: 7:11:05 AM
+Nov 13 07:11:05 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 800 count: 54 t: 7:11:05 AM
+Nov 13 07:11:07 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 800 count: 58 t: 7:11:07 AM
+Nov 13 07:11:08 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 800 count: 62 t: 7:11:08 AM
+Nov 13 07:11:09 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 800 count: 66 t: 7:11:09 AM
+Nov 13 07:11:10 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 800 count: 70 t: 7:11:10 AM
+Nov 13 07:11:10 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 800 count: 74 t: 7:11:10 AM
+Nov 13 07:11:12 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 800 count: 78 t: 7:11:12 AM
+Nov 13 07:11:12 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 800 count: 82 t: 7:11:12 AM
+Nov 13 07:11:12 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 133.39M, Virtual set 5.60G, CPU Time 40185.160 s, CPU User Time 25575.830 s, Threads 45
+Nov 13 07:11:14 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 800 count: 86 t: 7:11:14 AM
+Nov 13 07:11:14 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 800 count: 90 t: 7:11:14 AM
+Nov 13 07:11:16 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 800 count: 94 t: 7:11:16 AM
+Nov 13 07:11:17 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 800 count: 98 t: 7:11:17 AM
+Nov 13 07:11

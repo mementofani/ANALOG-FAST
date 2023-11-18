@@ -1,0 +1,24 @@
+d3] type 01 class 0x060400
+Nov 10 05:49:37 localhost kernel: pci 0000:00:01.5: PME# supported from D0 D3hot D3cold
+Nov 10 05:49:37 localhost kernel: pci 0000:00:08.0: [1022:1452] type 00 class 0x060000
+Nov 10 05:49:37 localhost kernel: pci 0000:00:08.1: [1022:15db] type 01 class 0x060400
+Nov 10 05:49:37 localhost kernel: pci 0000:00:08.1: enabling Extended Tags
+Nov 10 05:49:37 localhost kernel: pci 0000:00:08.1: PME# supported from D0 D3hot D3cold
+Nov 10 05:49:37 localhost kernel: pci 0000:00:08.2: [1022:15dc] type 01 class 0x060400
+Nov 10 05:49:37 localhost kernel: pci 0000:00:08.2: enabling Extended Tags
+Nov 10 05:49:37 localhost kernel: pci 0000:00:08.2: PME# supported from D0 D3hot D3cold
+Nov 10 05:49:37 localhost kernel: pci 0000:00:14.0: [1022:790b] type 00 class 0x0c0500
+Nov 10 05:49:37 localhost kernel: pci 0000:00:14.3: [1022:790e] type 00 class 0x060100
+Nov 10 05:49:37 localhost kernel: pci 0000:00:18.0: [1022:15e8] type 00 class 0x060000
+Nov 10 05:49:37 localhost kernel: pci 0000:00:18.1: [1022:15e9] type 00 class 0x060000
+Nov 10 05:49:37 localhost kernel: pci 0000:00:18.2: [1022:15ea] type 00 class 0x060000
+Nov 10 05:49:37 localhost kernel: pci 0000:00:18.3: [1022:15eb] type 00 class 0x060000
+Nov 10 05:49:37 localhost kernel: pci 0000:00:18.4: [1022:15ec] type 00 class 0x060000
+Nov 10 05:49:37 localhost kernel: pci 0000:00:18.5: [1022:15ed] type 00 class 0x060000
+Nov 10 05:49:37 localhost kernel: pci 0000:00:18.6: [1022:15ee] type 00 class 0x060000
+Nov 10 05:49:37 localhost kernel: pci 0000:00:18.7: [1022:15ef] type 00 class 0x060000
+Nov 10 05:49:37 localhost kernel: pci 0000:01:00.0: [11f8:8563] type 01 class 0x060400
+Nov 10 05:49:37 localhost kernel: pci 0000:01:00.0: enabling Extended Tags
+Nov 10 05:49:37 localhost kernel: pci 0000:01:00.0: PME# supported from D0 D3hot D3cold
+Nov 10 05:49:37 localhost kernel: pci 0000:01:00.0: 63.008 Gb/s available PCIe bandwidth, limited by 8.0 GT/s PCIe x8 link at 0000:00:01.1 (capable of 126.016 Gb/s with 8.0 GT/s PCIe x16 link)
+Nov 10 05:49:37 localhost kernel: pci 0000:01:00.1: [11f8:8563] ty

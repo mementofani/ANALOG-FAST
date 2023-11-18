@@ -1,0 +1,18 @@
+GIGABIT_POWER_MODE call
+Nov 13 07:02:59 CMX50070-101776 kernel: CMX_COMMON_IOCTL_SET_GIGABIT_POWER_MODE call
+Nov 13 07:02:59 CMX50070-101776 kernel: CMX_COMMON_IOCTL_SET_GIGABIT_CHANNEL_LINK_CONFIG call
+Nov 13 07:02:59 CMX50070-101776 kernel: --- CONFIG GIGABIT CHANNEL ---
+Nov 13 07:02:59 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): module_offset: 0x00000000 / sub_offset: 0x00020E20 / channel_offset: 0x00000000  / confLengthDataPerAddr: 002
+Nov 13 07:02:59 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): access for address[000/001] = 0x00000014
+Nov 13 07:02:59 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): access is 'clear_update_write'
+Nov 13 07:02:59 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): clear on 0x00020E34 with value 0x00000000
+Nov 13 07:02:59 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): [000/001][000/002] 0x00000014 = 0x00000000 / confLengthData: 003
+Nov 13 07:02:59 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): update_write on 0x00020E34 with value 0x00000000 (read 0x00000000 | 0x00000000)
+Nov 13 07:02:59 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): [000/001][001/002] 0x00000014 = 0x00000000 / confLengthData: 003
+Nov 13 07:02:59 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): update_write on 0x00020E34 with value 0x00000000 (read 0x00000000 | 0x00000000)
+Nov 13 07:02:59 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): [000/001][002/002] 0x00000014 = 0x00000800 / confLengthData: 003
+Nov 13 07:02:59 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): update_write on 0x00020E34 with value 0x00000800 (read 0x00000000 | 0x00000800)
+Nov 13 07:02:59 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): access for address[001/001] = 0x00000010
+Nov 13 07:02:59 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): access is 'clear_update_write'
+Nov 13 07:02:59 CMX50070-101776 kernel: config_generic_gigabit_channel_link(): clear on 0x00020E30 with value 0x00000000
+Nov 13 

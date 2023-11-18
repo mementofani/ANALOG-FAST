@@ -1,0 +1,20 @@
+tivated successfully.
+Nov 10 05:50:03 CMX50070-101776 xu_launcher[5675]: No ACK from [fe80::02e0:33ff:fe0b:b5bf%eth_internal]:22 after 1047392 microseconds
+Nov 10 05:50:04 CMX50070-101776 xu_launcher[5790]: No ACK from [fe80::02e0:33ff:fe0b:b5bf%eth_internal]:22 after 1028852 microseconds
+Nov 10 05:50:05 CMX50070-101776 xu_launcher[5923]: No ACK from [fe80::02e0:33ff:fe0b:b5bf%eth_internal]:22 after 1019127 microseconds
+Nov 10 05:50:06 CMX50070-101776 xu_launcher[6064]: No ACK from [fe80::02e0:33ff:fe0b:b5bf%eth_internal]:22 after 1056823 microseconds
+Nov 10 05:50:06 CMX50070-101776 AlfManagerApp[1951]: CPDefErrorLoggerMulti::Write(): No Loggers registered!
+Nov 10 05:50:06 CMX50070-101776 AlfManagerApp[1951]: CPDefErrorLoggerMulti::Write(): No Loggers registered!
+Nov 10 05:50:06 CMX50070-101776 AlfManagerApp[1951]: Set operation mode to: Primary
+Nov 10 05:50:06 CMX50070-101776 systemd[1]: Started "AlfManager, a service to provide abstract license features (ALFs)".
+Nov 10 05:50:06 CMX50070-101776 systemd[1]: Started flexxamconfigurationbridge.
+Nov 10 05:50:06 CMX50070-101776 systemd[1]: Reached target Multi-User System.
+Nov 10 05:50:06 CMX50070-101776 systemd[1]: Reached target Graphical Interface.
+Nov 10 05:50:06 CMX50070-101776 systemd[1]: Startup finished in 12.649s (firmware) + 5.568s (loader) + 1.100s (kernel) + 1.162s (initrd) + 28.386s (userspace) = 48.867s.
+Nov 10 05:50:06 CMX50070-101776 flexxamconfigurationbridge[6228]: FlexxAlfManagerConfigurationBridge started
+Nov 10 05:50:06 CMX50070-101776 flexxamconfigurationbridge[6228]: running sams:
+Nov 10 05:50:07 CMX50070-101776 sh[3390]: cmseq    | log_system_disk_usage not implemented for this platform
+Nov 10 05:50:07 CMX50070-101776 flexxamconfigurationbridge[6228]: running sams:
+Nov 10 05:50:07 CMX50070-101776 xu_launcher[6235]: No ACK from [fe80::02e0:33ff:fe0b:b5bf%eth_internal]:22 after 1035157 microseconds
+Nov 10 05:50:08 CMX50070-101776 flexxamconfigurationbridge[6228]: running sams:
+Nov 10 05:50:08 CMX50070-101776 xu_launcher[6365]: No ACK from [fe80::02e0:33ff:fe0b:b5bf%eth_internal

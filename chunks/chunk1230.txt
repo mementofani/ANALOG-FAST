@@ -1,0 +1,19 @@
+1825413]: Got Data: 1955500 count: 44 t: 11:46:49 AM
+Nov 10 11:46:50 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1957500 count: 77 t: 11:46:50 AM
+Nov 10 11:46:51 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 11:46:51 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 11:46:51 +00:00
+Nov 10 11:46:51 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 11:46:51 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 11:46:51 +00:00
+Nov 10 11:46:52 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1961500 count: 83 t: 11:46:52 AM
+Nov 10 11:46:54 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1965500 count: 95 t: 11:46:54 AM
+Nov 10 11:46:57 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1971500 count: 100 t: 11:46:57 AM
+Nov 10 11:46:57 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1971600 count: 12 t: 11:46:57 AM
+Nov 10 11:46:59 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1975600 count: 16 t: 11:46:59 AM
+Nov 10 11:46:59 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1975500 count: 100 t: 11:46:59 AM
+Nov 10 11:47:01 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1979600 count: 24 t: 11:47:01 AM
+Nov 10 11:47:03 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1983600 count: 42 t: 11:47:03 AM
+Nov 10 11:47:06 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1989600 count: 51 t: 11:47:06 AM
+Nov 10 11:47:11 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1998800 count: 72 t: 11:47:11 AM
+Nov 10 11:47:13 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2003600 count: 89 t: 11:47:13 AM
+Nov 10 11:47:14 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2005600 count: 89 t: 11:47:14 AM
+Nov 10 11:47:15 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2007600 count: 98 t: 11:47:15

@@ -1,0 +1,19 @@
+08496]: Got Data: 0 count: 3 t: 7:05:04 AM
+Nov 13 07:05:05 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 0 count: 4 t: 7:05:05 AM
+Nov 13 07:05:06 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 0 count: 5 t: 7:05:06 AM
+Nov 13 07:05:07 CMX50070-101776 start_mrt.sh[3053232]: Dispatching RPC RatRqm1::sfa_0::message_received
+Nov 13 07:05:07 CMX50070-101776 start_mrt.sh[3053232]: execute
+Nov 13 07:05:08 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 0 count: 6 t: 7:05:08 AM
+Nov 13 07:05:08 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 0 count: 43 t: 7:05:08 AM
+Nov 13 07:05:10 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 07:05:10 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 07:05:10 CMX50070-101776 snmpd[1017]: Received SNMP packet(s) from UDP: [10.0.2.217]:39299->[10.102.37.173]:161
+Nov 13 07:05:15 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Calling set_mb_sync_connection(mapFile, srcSlot, srcLine, dstSlot, dstLine):/usr/lib/fw/RS.CMWBase/DPSW/mb_cst_map.xcnf 501 0 300 0
+Nov 13 07:05:15 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Success! Call to function remove_mb_sync_connection
+Nov 13 07:05:15 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Calling set_mb_sync_connection(mapFile, srcSlot, srcLine, dstSlot, dstLine):/usr/lib/fw/RS.CMWBase/DPSW/mb_cst_map.xcnf 501 1 300 1
+Nov 13 07:05:15 CMX50070-101776 kernel: CMX_MB_IOCTL_SET_SYNC_TRIG_BNC_CONNECTION call
+Nov 13 07:05:15 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Success! Call to function remove_mb_sync_connection
+Nov 13 07:05:15 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Calling set_mb_ctrl_connection(mapFile, srcSlot, ctlAddress, dstSlot, routeInfo, mci, act):/usr/lib/fw/RS.CMWBase/DPSW/mb_cst_map.xcnf 501 1 300 0 2 0
+Nov 13 07:05:15 CMX50070-101776 kernel: CMX_MB_IOCTL_SET_SYNC_TRIG_BNC_CONNECTION call
+Nov 13 07:05:15 CMX50070-101776 kernel: CMX_MB_IOCTL_CONF_CST_CONTROL_CONNECTION call
+Nov 13 07:05:15 CMX50070-101776 kernel: CMX_MB_I

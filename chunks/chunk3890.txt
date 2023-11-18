@@ -1,0 +1,22 @@
+ount: 77 t: 10:01:25 AM
+Nov 13 10:01:25 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 42300 count: 75 t: 10:01:25 AM
+Nov 13 10:01:25 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 43100 count: 9 t: 10:01:25 AM
+Nov 13 10:01:25 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 43000 count: 100 t: 10:01:25 AM
+Nov 13 10:01:26 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 43500 count: 30 t: 10:01:26 AM
+Nov 13 10:01:26 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 43900 count: 32 t: 10:01:26 AM
+Nov 13 10:01:26 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 44300 count: 32 t: 10:01:26 AM
+Nov 13 10:01:26 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 44500 count: 32 t: 10:01:26 AM
+Nov 13 10:01:27 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 45200 count: 78 t: 10:01:27 AM
+Nov 13 10:01:27 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 45600 count: 75 t: 10:01:27 AM
+Nov 13 10:01:27 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 46000 count: 71 t: 10:01:27 AM
+Nov 13 10:01:27 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 46200 count: 69 t: 10:01:27 AM
+Nov 13 10:01:27 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 47000 count: 45 t: 10:01:27 AM
+Nov 13 10:01:28 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 47400 count: 47 t: 10:01:28 AM
+Nov 13 10:01:28 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 47800 count: 45 t: 10:01:28 AM
+Nov 13 10:01:28 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 48200 count: 45 t: 10:01:28 AM
+Nov 13 10:01:28 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 48400 count: 42 t: 10:01:28 AM
+Nov 13 10:01:28 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 49100 count: 38 t: 10:01:28 AM
+Nov 13 10:01:29 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 49500 count: 41 t: 10:01:29 AM
+Nov 13 10:01:29 CMX50070-101776 start_cmxmarsserver.sh[15492]: After runonce
+Nov 13 10:01:29 CMX50070-101776 start_cmxmarsserver.sh[15492]: After runonce
+Nov 13 10:01:29 CMX50070-101776

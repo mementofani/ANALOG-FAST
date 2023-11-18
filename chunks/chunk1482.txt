@@ -1,0 +1,20 @@
+info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 15:52:52 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 15:52:52 +00:00
+Nov 10 15:52:56 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.25.196.5:59704).
+Nov 10 15:52:56 CMX50070-101776 sshd[3881897]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:52:56 CMX50070-101776 sshd[3881897]: Connection closed by 172.25.196.5 port 59704
+Nov 10 15:52:56 CMX50070-101776 systemd[1]: sshd@766-10.102.37.173:22-172.25.196.5:59704.service: Deactivated successfully.
+Nov 10 15:52:57 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (10.0.54.70:45876).
+Nov 10 15:52:57 CMX50070-101776 sshd[3882010]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:52:57 CMX50070-101776 sshd[3882010]: Connection closed by 10.0.54.70 port 45876
+Nov 10 15:52:57 CMX50070-101776 systemd[1]: sshd@767-10.102.37.173:22-10.0.54.70:45876.service: Deactivated successfully.
+Nov 10 15:53:01 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.24.11.228:51580).
+Nov 10 15:53:01 CMX50070-101776 sshd[3882439]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:53:01 CMX50070-101776 sshd[3882439]: Connection closed by 172.24.11.228 port 51580
+Nov 10 15:53:01 CMX50070-101776 systemd[1]: sshd@768-10.102.37.173:22-172.24.11.228:51580.service: Deactivated successfully.
+Nov 10 15:53:03 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.24.11.230:44012).
+Nov 10 15:53:03 CMX50070-101776 sshd[3882656]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:53:03 CMX50070-101776 sshd[3882656]: Connection closed by 172.24.11.230 port 44012
+Nov 10 15:53:03 CMX50070-101776 systemd[1]: sshd@769-10.102.37.173:22-172.24.11.230:44012.service: Deactivated successfully.
+Nov 10 15:53:12 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.24.26.38:47400).
+Nov 10 15:53:12 CMX50070-10177

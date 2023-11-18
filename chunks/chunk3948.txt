@@ -1,0 +1,27 @@
+ov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: Initial carriers:
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: Handle [ 0 0  ]
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: fs     [ 39.06250 156.25000  ]
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: RFmin  [ 0.00000 0.00000  ]
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: RF     [ 2140.00000 3549.99000  ]
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: RFmax  [ 0.00000 0.00000  ]
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: BW     [ 10.00000 100.00000  ]
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: Information message: IF spectrum is outside allowed nominal IF band, but inside extended IF band
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: Carriers TRXID 0:
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: Handle [ 0  ]
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: fs     [ 39.06250  ]
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: RFmin  [ 2020.00000  ]
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: RF     [ 2140.00000  ]
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: RFmax  [ 2260.00000  ]
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: BW     [ 10.00000  ]
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: MCh    [ 0  ]
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: CNCO   [ 0  ]
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: Multichannel parameter:
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: RF [ 2140.00000 NaN NaN ]
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: BW [ 10.00000 NaN NaN ]
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: Overall DAC:
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: RF 2140.00000
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: BW 10.00000
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: RF Band 0
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: Carriers TRXID 1:
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: Handle [ 0  ]
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: fs     [ 156.25

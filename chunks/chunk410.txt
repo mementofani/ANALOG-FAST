@@ -1,0 +1,17 @@
+criber                                  ] DEBUG:  * ProgressInfo: Connect wlan_sig_scpi_mmi
+Nov 10 05:51:31 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:51:31.211247Z [DeviceApiSubscriber                                  ] DEBUG: 0 messages in the queue
+Nov 10 05:51:33 CMX50070-101776 health_service.deviceapi[544]: Publish update:
+Nov 10 05:51:33 CMX50070-101776 health_service.deviceapi[544]: ################################################################################
+Nov 10 05:51:33 CMX50070-101776 health_service.deviceapi[544]: ID:        141
+Nov 10 05:51:33 CMX50070-101776 health_service.deviceapi[544]: State:        2
+Nov 10 05:51:33 CMX50070-101776 health_service.deviceapi[544]: Progress:        [80] Initialize Selftest
+Nov 10 05:51:33 CMX50070-101776 health_service.deviceapi[544]: Reliability:        [0]
+Nov 10 05:51:33 CMX50070-101776 health_service.deviceapi[544]: Num HW:        0
+Nov 10 05:51:33 CMX50070-101776 health_service.deviceapi[544]: ################################################################################
+Nov 10 05:51:33 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:51:33.485910Z [DeviceApiSubscriber                                  ] DEBUG: Received message from Health service
+Nov 10 05:51:33 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:51:33.486117Z [DeviceApiSubscriber                                  ] DEBUG: Health service message:
+Nov 10 05:51:33 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:51:33.486117Z [DeviceApiSubscriber                                  ] DEBUG:  * ResourceName: //mrt/0/health/0
+Nov 10 05:51:33 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:51:33.486117Z [DeviceApiSubscriber                                  ] DEBUG:  * State: Startup
+Nov 10 05:51:33 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:51:33.486117Z [DeviceApiSubscriber                                  ] DEBUG:  * ProgressInfo: Initialize Selftest
+Nov 10 05:51:33 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:51:33.486117Z [DeviceApiSubscriber                                  ] DEBUG: 0 messages in the queue
+Nov 10 05:51:33 CMX50070-1017

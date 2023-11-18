@@ -1,0 +1,19 @@
+r.sh[1825413]: Got Data: 1039100 count: 77 t: 11:39:12 AM
+Nov 10 11:39:13 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1041100 count: 76 t: 11:39:13 AM
+Nov 10 11:39:14 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1043100 count: 87 t: 11:39:14 AM
+Nov 10 11:39:15 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1045100 count: 95 t: 11:39:15 AM
+Nov 10 11:39:17 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1049100 count: 98 t: 11:39:17 AM
+Nov 10 11:39:18 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1051100 count: 100 t: 11:39:18 AM
+Nov 10 11:39:18 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1051200 count: 11 t: 11:39:18 AM
+Nov 10 11:39:20 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1055200 count: 19 t: 11:39:20 AM
+Nov 10 11:39:22 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1059200 count: 25 t: 11:39:22 AM
+Nov 10 11:39:24 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1063200 count: 37 t: 11:39:24 AM
+Nov 10 11:39:28 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1071200 count: 57 t: 11:39:28 AM
+Nov 10 11:39:28 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 225.63M, Virtual set 5.60G, CPU Time 3761.390 s, CPU User Time 2396.650 s, Threads 43
+Nov 10 11:39:31 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1077100 count: 64 t: 11:39:31 AM
+Nov 10 11:39:34 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1083200 count: 79 t: 11:39:34 AM
+Nov 10 11:39:36 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1087200 count: 88 t: 11:39:36 AM
+Nov 10 11:39:38 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1091200 count: 100 t: 11:39:38 AM
+Nov 10 11:39:38 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1091300 count: 10 t: 11:39:38 AM
+Nov 10 11:39:40 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1095300 count: 15 t: 11:39:40 AM
+Nov 10 11:39:40 CMX50070-101776 start_cmxmarss

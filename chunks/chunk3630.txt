@@ -1,0 +1,14 @@
+e
+Nov 13 07:01:34 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 07:01:34 CMX50070-101776 start_mrt.sh[3053324]: VIRTUAL_ENV=/usr/lib/gsm_wcdma_signaling/0.6.0-1kirkstone/venv
+Nov 13 07:01:34 CMX50070-101776 start_mrt.sh[3053324]: PATH=/usr/lib/gsm_wcdma_signaling/0.6.0-1kirkstone/venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+Nov 13 07:01:34 CMX50070-101776 start_mrt.sh[3053324]: PYVISA_LIBRARY=/usr/lib/gsm_wcdma_signaling/0.6.0-1kirkstone/librsvisa.so
+Nov 13 07:01:34 CMX50070-101776 start_mrt.sh[3053324]: python: /usr/lib/gsm_wcdma_signaling/0.6.0-1kirkstone/venv/bin/python
+Nov 13 07:01:34 CMX50070-101776 start_mrt.sh[3053372]: RmcCompositeServices startup finished
+Nov 13 07:01:34 CMX50070-101776 start_mrt.sh[3053372]: Press CTRL+C to shutdown
+Nov 13 07:01:34 CMX50070-101776 start_mrt.sh[3053324]: 2023-11-13T07:01:34.946+00:00 [info     ] write text log to /home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation3/gwss/gwss.log [gwss.gwss_server._logging_configuration] filename=/home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation3/gwss/gwss.log type=text
+Nov 13 07:01:34 CMX50070-101776 start_mrt.sh[3053324]: 2023-11-13T07:01:34.946+00:00 [info     ] write json log to /home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation3/gwss/gwss.log.json [gwss.gwss_server._logging_configuration] filename=/home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation3/gwss/gwss.log.json type=json
+Nov 13 07:01:35 CMX50070-101776 start_mrt.sh[3053324]: 2023-11-13T07:01:35.079+00:00 [info     ] pid = 3053324                  [gwss.gwss_server.server_application]
+Nov 13 07:01:35 CMX50070-101776 start_mrt.sh[3053324]: 2023-11-13T07:01:35.080+00:00 [info     ] log_dir = /home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation3/gwss [gwss.gwss_server.server_application]
+Nov 13 07:01:35 CMX50070-101776 start_mrt.sh[3053324]: 2023-11-13T07:01:35.083+00:00 [info     ] server_mode = ServerMode.SECONDARY [gwss.gwss_server.server_application]
+Nov 13 07:01:35 C

@@ -1,0 +1,15 @@
+marsserver.sh[4153157]: */usr/lib/cmxtools/mddb/Mddb.uplane_mnupc.3.0.so: cannot open shared object file: No such file or directory
+Nov 13 09:53:55 CMX50070-101776 start_cmxmarsserver.sh[4153157]: */usr/lib/cmxtools/mddb/Mddb.uplane_mnupc.3.0.so: cannot open shared object file: No such file or directory
+Nov 13 09:53:55 CMX50070-101776 start_cmxmarsserver.sh[4153157]: */usr/lib/cmxtools/mddb/Mddb.uplane_mnupc.3.0.so: cannot open shared object file: No such file or directory
+Nov 13 09:53:55 CMX50070-101776 start_cmxmarsserver.sh[4153157]: */usr/lib/cmxtools/mddb/Mddb.uplane_cupc.3.0.so: cannot open shared object file: No such file or directory
+Nov 13 09:53:55 CMX50070-101776 start_cmxmarsserver.sh[4153157]: */usr/lib/cmxtools/mddb/Mddb.uplane_cupc.3.0.so: Added series HSfn
+Nov 13 09:53:55 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Series HSfn IsRunning True IsCompleted False IsPausable True IsRunningAtDeactivation False
+Nov 13 09:54:10 CMX50070-101776 start_cmxmarsserver.sh[4153157]: After runonce
+Nov 13 09:54:10 CMX50070-101776 start_cmxmarsserver.sh[4153157]: After runonce
+Nov 13 09:54:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 13 09:54:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/13/2023 09:54:54 +00:00
+Nov 13 09:54:55 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 13 09:54:55 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2023 09:54:55 +00:00
+Nov 13 09:55:16 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 136.16M, Virtual set 5.60G, CPU Time 41685.830 s, CPU User Time 26531.800 s, Threads 41
+Nov 13 09:55:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 13 09:55:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worke

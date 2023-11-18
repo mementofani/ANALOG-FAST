@@ -1,0 +1,11 @@
+ pid=4056 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="iptables" exe="/usr/sbin/xtables-legacy-multi" key=(null)
+Nov 10 05:49:53 CMX50070-101776 audit: PROCTITLE proctitle=2F7573722F7362696E2F69707461626C6573002D2D77616974002D74006E6174002D4100444F434B4552002D7000746370002D6400302F30002D2D64706F72740034393935002D6A00444E4154002D2D746F2D64657374696E6174696F6E003130302E38322E36342E3133303A343939350000002D690062722D313035343038
+Nov 10 05:49:53 CMX50070-101776 audit[4062]: NETFILTER_CFG table=filter family=2 entries=30 op=xt_replace pid=4062 comm="iptables"
+Nov 10 05:49:53 CMX50070-101776 audit[4062]: SYSCALL arch=c000003e syscall=54 success=yes exit=0 a0=4 a1=0 a2=40 a3=555ebc67e6b0 items=0 ppid=1947 pid=4062 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="iptables" exe="/usr/sbin/xtables-legacy-multi" key=(null)
+Nov 10 05:49:53 CMX50070-101776 sh[3390]: Attaching to cmseq
+Nov 10 05:49:53 CMX50070-101776 sh[3390]: cmseq    | Adding utility paths to environment variable PYTHONPATH...
+Nov 10 05:49:53 CMX50070-101776 sh[3390]: cmseq    | PYTHONPATH=/opt/rohde-schwarz/cmsequencer/install:/opt/rohde-schwarz/cmsequencer/install/util_python:
+Nov 10 05:49:53 CMX50070-101776 audit: PROCTITLE proctitle=2F7573722F7362696E2F69707461626C6573002D2D77616974002D740066696C746572002D4100444F434B45520000002D690062722D313035343038336664313234002D6F0062722D313035343038336664313234002D7000746370002D64003130302E38322E36342E313330002D2D64706F72740034393935002D6A004143
+Nov 10 05:49:53 CMX50070-101776 audit[4068]: NETFILTER_CFG table=nat family=2 entries=16 op=xt_replace pid=4068 comm="iptables"
+Nov 10 05:49:53 CMX50070-101776 audit[4068]: SYSCALL arch=c000003e syscall=54 success=yes exit=0 a0=4 a1=0 a2=40 a3=55796406e450 items=0 ppid=1947 pid=4068 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="iptables" exe="/usr/sbin/xtables-legacy-multi" key=(null)
+Nov 10 05:49:53 CMX50070-101776 audit: PROCTITLE proct

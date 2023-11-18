@@ -1,0 +1,17 @@
+ systemd[1]: Starting Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter...
+Nov 10 16:00:32 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.25.11.231:34958).
+Nov 10 16:00:32 CMX50070-101776 sshd[3933563]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 16:00:32 CMX50070-101776 sshd[3933563]: Connection closed by 172.25.11.231 port 34958
+Nov 10 16:00:32 CMX50070-101776 systemd[1]: sshd@807-10.102.37.173:22-172.25.11.231:34958.service: Deactivated successfully.
+Nov 10 16:00:32 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Deactivated successfully.
+Nov 10 16:00:32 CMX50070-101776 systemd[1]: Finished Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 10 16:00:33 CMX50070-101776 systemd[1]: Starting Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter...
+Nov 10 16:00:33 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Deactivated successfully.
+Nov 10 16:00:33 CMX50070-101776 systemd[1]: Finished Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 10 16:00:34 CMX50070-101776 systemd[1]: Starting Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter...
+Nov 10 16:00:34 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Deactivated successfully.
+Nov 10 16:00:34 CMX50070-101776 systemd[1]: Finished Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 10 16:00:35 CMX50070-101776 systemd[1]: Starting Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter...
+Nov 10 16:00:35 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Deactivated successfully.
+Nov 10 16:00:35 CMX50070-101776 systemd[1]: Finished Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 10 16:00:36 CMX50070-101776 systemd[1

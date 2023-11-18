@@ -1,0 +1,16 @@
+g.PositioningServiceHost[0]
+Nov 11 14:09:53 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/11/2023 14:09:53 +00:00
+Nov 11 14:10:12 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 180.23M, Virtual set 5.60G, CPU Time 18405.270 s, CPU User Time 11706.490 s, Threads 40
+Nov 11 14:10:52 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 11 14:10:52 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/11/2023 14:10:52 +00:00
+Nov 11 14:10:53 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 11 14:10:53 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/11/2023 14:10:53 +00:00
+Nov 11 14:11:52 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 11 14:11:52 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/11/2023 14:11:52 +00:00
+Nov 11 14:11:53 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 11 14:11:53 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/11/2023 14:11:53 +00:00
+Nov 11 14:11:59 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 180.24M, Virtual set 5.60G, CPU Time 18421.360 s, CPU User Time 11716.820 s, Threads 43
+Nov 11 14:12:52 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 11 14:12:52 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/11/2023 14:12:52 +00:00
+Nov 11 14:12:53 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+N

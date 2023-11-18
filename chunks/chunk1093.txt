@@ -1,0 +1,21 @@
+host
+Nov 10 10:47:59 CMX50070-101776 sshd[1923315]: Connection closed by 172.25.196.5 port 47608
+Nov 10 10:47:59 CMX50070-101776 systemd[1]: sshd@342-10.102.37.173:22-172.25.196.5:47608.service: Deactivated successfully.
+Nov 10 10:47:59 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.24.26.38:40230).
+Nov 10 10:47:59 CMX50070-101776 sshd[1923318]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 10:47:59 CMX50070-101776 sshd[1923318]: Connection closed by 172.24.26.38 port 40230
+Nov 10 10:47:59 CMX50070-101776 systemd[1]: sshd@343-10.102.37.173:22-172.24.26.38:40230.service: Deactivated successfully.
+Nov 10 10:48:02 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (10.0.54.70:47196).
+Nov 10 10:48:02 CMX50070-101776 sshd[1923644]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 10:48:02 CMX50070-101776 sshd[1923644]: Connection closed by 10.0.54.70 port 47196
+Nov 10 10:48:02 CMX50070-101776 systemd[1]: sshd@344-10.102.37.173:22-10.0.54.70:47196.service: Deactivated successfully.
+Nov 10 10:48:04 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.25.11.231:45760).
+Nov 10 10:48:04 CMX50070-101776 sshd[1923861]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 10:48:04 CMX50070-101776 sshd[1923861]: Connection closed by 172.25.11.231 port 45760
+Nov 10 10:48:04 CMX50070-101776 systemd[1]: sshd@345-10.102.37.173:22-172.25.11.231:45760.service: Deactivated successfully.
+Nov 10 10:48:14 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.24.26.37:43738).
+Nov 10 10:48:14 CMX50070-101776 sshd[1924818]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 10:48:14 CMX50070-101776 sshd[1924818]: Connection closed by 172.24.26.37 port 43738
+Nov 10 10:48:14 CMX50070-101776 systemd[1]: sshd@346-10.102.37.173:22-172.24.26.37:43738.service: Deactivated successfully.
+Nov 10 10:48:20 CMX50070-101776 rspias-daemon[1016]: 00-E0-33-0B-D1-F9"\n
+Nov 10 10:48:20 CMX50070-101776 rspias-daemon

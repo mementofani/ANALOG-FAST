@@ -1,0 +1,14 @@
+0-101776 start_cmxmarsserver.sh[3969328]: */usr/lib/cmxtools/mddb/Mddb.protobuf.0.3.so: cannot open shared object file: No such file or directory
+Nov 13 09:34:19 CMX50070-101776 start_cmxmarsserver.sh[3969328]: */usr/lib/cmxtools/mddb/Mddb.protobuf.0.3.so: cannot open shared object file: No such file or directory
+Nov 13 09:34:19 CMX50070-101776 start_cmxmarsserver.sh[3969328]: */usr/lib/cmxtools/mddb/Mddb.protobuf.0.3.so: cannot open shared object file: No such file or directory
+Nov 13 09:34:19 CMX50070-101776 start_cmxmarsserver.sh[3969328]: */usr/lib/cmxtools/mddb/Mddb.protobuf.0.3.so: cannot open shared object file: No such file or directory
+Nov 13 09:34:19 CMX50070-101776 start_cmxmarsserver.sh[3969328]: */usr/lib/cmxtools/mddb/Mddb.protobuf.0.3.so: cannot open shared object file: No such file or directory
+Nov 13 09:34:19 CMX50070-101776 start_cmxmarsserver.sh[3969328]: */usr/lib/cmxtools/mddb/Mddb.protobuf.0.3.so: cannot open shared object file: No such file or directory
+Nov 13 09:34:19 CMX50070-101776 start_cmxmarsserver.sh[3969328]: */usr/lib/cmxtools/mddb/Mddb.protobuf.0.3.so: cannot open shared object file: No such file or directory
+Nov 13 09:34:19 CMX50070-101776 start_cmxmarsserver.sh[3969328]: */usr/lib/cmxtools/mddb/Mddb.protobuf.0.3.so: cannot open shared object file: No such file or directory
+Nov 13 09:34:24 CMX50070-101776 start_cmxmarsserver.sh[3969328]: */usr/lib/cmxtools/mUnsubscribeFromFormulaValues /home/instrument/fw/log/current/sfa/NetworkEmulation4/signaling.msglog
+Nov 13 09:34:25 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 0 count: 100 t: 9:34:25 AM
+Nov 13 09:34:49 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 1000 count: 100 t: 9:34:49 AM
+Nov 13 09:34:49 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 900 count: 100 t: 9:34:49 AM
+Nov 13 09:34:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 13 09:34:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/13/2023 09:34:54 +00:

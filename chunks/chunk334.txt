@@ -1,0 +1,17 @@
+deviceapi[544]: Num HW:        0
+Nov 10 05:50:53 CMX50070-101776 health_service.deviceapi[544]: ################################################################################
+Nov 10 05:50:53 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:53.377994Z [DeviceApiSubscriber                                  ] DEBUG: Received message from Health service
+Nov 10 05:50:53 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:53.378288Z [DeviceApiSubscriber                                  ] DEBUG: Health service message:
+Nov 10 05:50:53 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:53.378288Z [DeviceApiSubscriber                                  ] DEBUG:  * ResourceName: //mrt/0/health/0
+Nov 10 05:50:53 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:53.378288Z [DeviceApiSubscriber                                  ] DEBUG:  * State: Startup
+Nov 10 05:50:53 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:53.378288Z [DeviceApiSubscriber                                  ] DEBUG:  * ProgressInfo: "Finish" is waiting for: Drivers, InstrumentSetupManager, Startup
+Nov 10 05:50:53 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:53.378288Z [DeviceApiSubscriber                                  ] DEBUG: 0 messages in the queue
+Nov 10 05:50:53 CMX50070-101776 flexxamconfigurationbridge[6228]: running sams:
+Nov 10 05:50:53 CMX50070-101776 xu_launcher[12238]: No ACK from [fe80::02e0:33ff:fe0b:b5bf%eth_internal]:22 after 1131038 microseconds
+Nov 10 05:50:53 CMX50070-101776 xu_launcher[1981]: Received signal: 17
+Nov 10 05:50:54 CMX50070-101776 flexxamconfigurationbridge[6228]: running sams:
+Nov 10 05:50:55 CMX50070-101776 xu_launcher[12353]: No ACK from [fe80::02e0:33ff:fe0b:b5bf%eth_internal]:22 after 1033016 microseconds
+Nov 10 05:50:55 CMX50070-101776 xu_launcher[1981]: Received signal: 17
+Nov 10 05:50:55 CMX50070-101776 flexxamconfigurationbridge[6228]: running sams:
+Nov 10 05:50:56 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.24.11.231:40058).
+Nov 10 05:50:56 CMX50070-101776 sshd[12578]: error: kex_exchange_identification: Connection closed 

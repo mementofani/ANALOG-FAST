@@ -1,0 +1,10 @@
+ed.
+Nov 10 05:49:49 CMX50070-101776 load-images.sh[3285]: cmxrep-liveview-sockethost
+Nov 10 05:49:49 CMX50070-101776 rs_callysto.callysto_server.server_application[3092]: [info     ] pid = 3092                     pathname=/usr/lib/callysto/venv/lib/python3.10/site-packages/rs_callysto/callysto_server/server_application.py lineno=223
+Nov 10 05:49:49 CMX50070-101776 rs_callysto.callysto_server.server_application[3092]: [info     ] launched_by_systemd = True     pathname=/usr/lib/callysto/venv/lib/python3.10/site-packages/rs_callysto/callysto_server/server_application.py lineno=224
+Nov 10 05:49:49 CMX50070-101776 rs_callysto.callysto_server.server_application[3092]: [info     ] log_dir = /var/log             pathname=/usr/lib/callysto/venv/lib/python3.10/site-packages/rs_callysto/callysto_server/server_application.py lineno=225
+Nov 10 05:49:49 CMX50070-101776 rs_callysto.callysto_server.server_application[3092]: [info     ] server_mode = ServerMode.SECONDARY pathname=/usr/lib/callysto/venv/lib/python3.10/site-packages/rs_callysto/callysto_server/server_application.py lineno=226
+Nov 10 05:49:49 CMX50070-101776 rs_callysto.callysto_server.server_application[3092]: [info     ] connection config: ConnectionConfig('127.0.0.1') pathname=/usr/lib/callysto/venv/lib/python3.10/site-packages/rs_callysto/callysto_server/server_application.py lineno=227
+Nov 10 05:49:49 CMX50070-101776 rs_callysto.callysto_server.server_application[3092]: [info     ]   rpc_url: tcp://127.0.0.1:9013 pathname=/usr/lib/callysto/venv/lib/python3.10/site-packages/rs_callysto/callysto_server/server_application.py lineno=228
+Nov 10 05:49:49 CMX50070-101776 rs_callysto.callysto_server.server_application[3092]: [info     ]   xpub_url: tcp://127.0.0.1:9012 pathname=/usr/lib/callysto/venv/lib/python3.10/site-packages/rs_callysto/callysto_server/server_application.py lineno=229
+Nov 10 05:49:49 CMX50070-101776 rs_callysto.callysto_server.server_application[3092]: [info     ]   pull_url: tcp://127.0.0.1:9010 pathname=/usr/lib/callysto/venv/lib/python3.10/site-packages/rs_callysto/callysto_s

@@ -1,0 +1,19 @@
+76 start_mrt.sh[3324]: supported_tests_from_offers has test Result Name 25 A000800
+Nov 10 05:51:41 CMX50070-101776 start_mrt.sh[3324]: supported_tests_from_offers has test Result Name 25 A000800
+Nov 10 05:51:41 CMX50070-101776 start_mrt.sh[3324]: supported_tests_from_offers has test Result Name 25 A000800
+Nov 10 05:51:41 CMX50070-101776 start_mrt.sh[3324]: supported_tests_from_offers has test Result Name 25 A000800
+Nov 10 05:51:41 CMX50070-101776 start_mrt.sh[3324]: supported_tests_from_offers has test Result Name 25 A000800
+Nov 10 05:51:41 CMX50070-101776 start_mrt.sh[3324]: supported_tests_from_offers has test Result Name 25 A000800
+Nov 10 05:51:41 CMX50070-101776 start_mrt.sh[3324]: supported_tests_from_offers has test Result Name 25 A000800
+Nov 10 05:51:41 CMX50070-101776 start_mrt.sh[3324]: supported_tests_from_offers has test Result Name 25 A000800
+Nov 10 05:51:41 CMX50070-101776 start_mrt.sh[3324]: supported_tests_from_offers has test Result Name 25 A000800
+Nov 10 05:51:41 CMX50070-101776 start_mrt.sh[3324]: supported_tests_from_offers has test Result Name 5 A000800
+Nov 10 05:51:41 CMX50070-101776 start_mrt.sh[3324]: supported_tests_from_offers has test Result Name 5 A000800
+Nov 10 05:51:41 CMX50070-101776 start_mrt.sh[3324]: supported_tests_from_offers has test Result Name 5 A000800
+Nov 10 05:51:41 CMX50070-101776 start_mrt.sh[3324]: supported_tests_from_offers has test Result Name 5 A000800
+Nov 10 05:51:41 CMX50070-101776 start_mrt.sh[3324]: supported_tests_from_offers has test Result Name 5 A000800
+Nov 10 05:51:41 CMX50070-101776 start_mrt.sh[3324]: supported_tests_from_offers has test Result Name 4 A000800
+Nov 10 05:51:41 CMX50070-101776 start_mrt.sh[3324]: supported_tests_from_offers has test Result Name 4 A000800
+Nov 10 05:51:41 CMX50070-101776 start_mrt.sh[3324]: supported_tests_from_offers has test Result Name 4 A000800
+Nov 10 05:51:41 CMX50070-101776 start_mrt.sh[3324]: supported_tests_from_offers has test Result Name 4 A000800
+Nov 10 05:51:41 CMX50070-101776 start_mrt.sh[3324]: supported_tests_from_offers has test Result Name 1 

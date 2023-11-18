@@ -1,0 +1,20 @@
+85.173:54066).
+Nov 10 15:20:10 CMX50070-101776 sshd[3674931]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:20:10 CMX50070-101776 sshd[3674931]: Connection closed by 192.168.85.173 port 54066
+Nov 10 15:20:10 CMX50070-101776 systemd[1]: sshd@581-10.102.37.173:22-192.168.85.173:54066.service: Deactivated successfully.
+Nov 10 15:20:10 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (10.0.54.71:52018).
+Nov 10 15:20:10 CMX50070-101776 sshd[3674939]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:20:10 CMX50070-101776 sshd[3674939]: Connection closed by 10.0.54.71 port 52018
+Nov 10 15:20:10 CMX50070-101776 systemd[1]: sshd@582-10.102.37.173:22-10.0.54.71:52018.service: Deactivated successfully.
+Nov 10 15:20:13 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (10.0.54.69:34900).
+Nov 10 15:20:13 CMX50070-101776 sshd[3675264]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:20:13 CMX50070-101776 sshd[3675264]: Connection closed by 10.0.54.69 port 34900
+Nov 10 15:20:13 CMX50070-101776 systemd[1]: sshd@583-10.102.37.173:22-10.0.54.69:34900.service: Deactivated successfully.
+Nov 10 15:20:18 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.24.11.231:48490).
+Nov 10 15:20:18 CMX50070-101776 sshd[3675791]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:20:18 CMX50070-101776 sshd[3675791]: Connection closed by 172.24.11.231 port 48490
+Nov 10 15:20:18 CMX50070-101776 systemd[1]: sshd@584-10.102.37.173:22-172.24.11.231:48490.service: Deactivated successfully.
+Nov 10 15:20:21 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.24.26.37:51008).
+Nov 10 15:20:21 CMX50070-101776 sshd[3676114]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:20:21 CMX50070-101776 sshd[3676114]: Connection closed by 172.24.26.37 port 51008
+Nov 10 15:20:21 CMX50070-101776 systemd[1]: sshd@585-10.102.37.173:22-172.24.26.37:51008.service: Deactivated successfu

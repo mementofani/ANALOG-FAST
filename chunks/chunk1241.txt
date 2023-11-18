@@ -1,0 +1,19 @@
+10 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 228.72M, Virtual set 5.60G, CPU Time 3888.130 s, CPU User Time 2476.510 s, Threads 43
+Nov 10 11:50:11 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2360400 count: 56 t: 11:50:11 AM
+Nov 10 11:50:12 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2362400 count: 67 t: 11:50:12 AM
+Nov 10 11:50:14 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2366400 count: 69 t: 11:50:14 AM
+Nov 10 11:50:16 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2370400 count: 76 t: 11:50:16 AM
+Nov 10 11:50:17 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2372400 count: 84 t: 11:50:17 AM
+Nov 10 11:50:18 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2374400 count: 97 t: 11:50:18 AM
+Nov 10 11:50:19 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2376600 count: 96 t: 11:50:19 AM
+Nov 10 11:50:21 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2380400 count: 100 t: 11:50:21 AM
+Nov 10 11:50:21 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2380500 count: 10 t: 11:50:21 AM
+Nov 10 11:50:23 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2384500 count: 13 t: 11:50:23 AM
+Nov 10 11:50:23 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2384400 count: 100 t: 11:50:23 AM
+Nov 10 11:50:27 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2390500 count: 27 t: 11:50:27 AM
+Nov 10 11:50:30 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2398500 count: 51 t: 11:50:30 AM
+Nov 10 11:50:31 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2400500 count: 54 t: 11:50:31 AM
+Nov 10 11:50:33 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2404500 count: 64 t: 11:50:33 AM
+Nov 10 11:50:35 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2408500 count: 72 t: 11:50:35 AM
+Nov 10 11:50:36 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2410500 count: 81 t: 11:50:36 AM
+Nov 10 11

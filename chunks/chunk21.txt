@@ -1,0 +1,27 @@
+hub
+Nov 10 05:49:37 localhost kernel: usbcore: registered new device driver usb
+Nov 10 05:49:37 localhost kernel: pps_core: LinuxPPS API ver. 1 registered
+Nov 10 05:49:37 localhost kernel: pps_core: Software ver. 5.3.6 - Copyright 2005-2007 Rodolfo Giometti <giometti@linux.it>
+Nov 10 05:49:37 localhost kernel: PTP clock support registered
+Nov 10 05:49:37 localhost kernel: Registered efivars operations
+Nov 10 05:49:37 localhost kernel: PCI: Using ACPI for IRQ routing
+Nov 10 05:49:37 localhost kernel: PCI: pci_cache_line_size set to 64 bytes
+Nov 10 05:49:37 localhost kernel: Expanded resource Reserved due to conflict with PCI Bus 0000:00
+Nov 10 05:49:37 localhost kernel: e820: reserve RAM buffer [mem 0x09602000-0x0bffffff]
+Nov 10 05:49:37 localhost kernel: e820: reserve RAM buffer [mem 0x0a200000-0x0bffffff]
+Nov 10 05:49:37 localhost kernel: e820: reserve RAM buffer [mem 0x3ce10000-0x3fffffff]
+Nov 10 05:49:37 localhost kernel: e820: reserve RAM buffer [mem 0x3d5ec000-0x3fffffff]
+Nov 10 05:49:37 localhost kernel: e820: reserve RAM buffer [mem 0x3d8aa000-0x3fffffff]
+Nov 10 05:49:37 localhost kernel: e820: reserve RAM buffer [mem 0x3f000000-0x3fffffff]
+Nov 10 05:49:37 localhost kernel: e820: reserve RAM buffer [mem 0x47f000000-0x47fffffff]
+Nov 10 05:49:37 localhost kernel: e820: reserve RAM buffer [mem 0x4bf340000-0x4bfffffff]
+Nov 10 05:49:37 localhost kernel: hpet0: at MMIO 0xfed00000, IRQs 2, 8, 0
+Nov 10 05:49:37 localhost kernel: hpet0: 3 comparators, 32-bit 14.318180 MHz counter
+Nov 10 05:49:37 localhost kernel: clocksource: Switched to clocksource tsc-early
+Nov 10 05:49:37 localhost kernel: pnp: PnP ACPI init
+Nov 10 05:49:37 localhost kernel: system 00:00: [mem 0xf8000000-0xfbffffff] has been reserved
+Nov 10 05:49:37 localhost kernel: system 00:01: [mem 0xfeb80000-0xfebfffff] has been reserved
+Nov 10 05:49:37 localhost kernel: system 00:03: [io  0x04d0-0x04d1] has been reserved
+Nov 10 05:49:37 localhost kernel: system 00:03: [io  0x040b] has been reserved
+Nov 10 05:49:37 localhost kernel: system 00:03: [io  0x04d6] has been reserved
+Nov 10 05:49

@@ -1,0 +1,11 @@
+used to register with maiss--> <e> <key v = "deviceName" /> <data v = "DEVICE_RAT_RQM" /> </e> <e> <key v = "enableFMex" /> <data v = "no" /> </e> <e> <key v = "SkipChw" /> <data v = "no" /> </e> <e> <key v = "alwaysLteZ" /> <data v = "no" /> </e> <e> <key v = "ttcnMode" /> <data v = "no" /> </e> <e> <key v = "sigIf" /> <data v = "hua" /> </e> <e> <key v = "threeAUs" /> <data v = "yes" /> </e> <e> <key v = "bbcSR" /> <data v = "no" /> </e> </properties> </message> <message> <NAME v = "fast::DeploymentCfg" /> <devices> <e> <!-- this must match with the device name used to register with maiss--> <name v = "DEVICE_RAT_RQM" /> <entities> <e> <name v = "RatRqm-Xca" /> <properties> <e> <key v = "instance" /> <data v = "12" /> </e> <e> <key v = "RQM-IPAddress" /> <data v = "IP:127.0.0.1:50000" /> </e> <e> <key v = "ZMQ-Master" /> <data v = "tcp://127.0.0.1:9013" /> </e> <e> <key v = "ZMQ-ClientInstanceName" /> <data v = "sfa_0" /> </e> <e> <key v = "ZMQ-ServiceName" /> <data v = "RatRqm1" /> </e> <e> <key v = "server_type" /> <data v = "ZMQ" /> </e> </properties> </e> </entities> </e> </devices> </message> </section> </config>RatRqm1 :Connecting RPC Service attcp://127.0.0.1:9013
+Nov 13 07:01:33 CMX50070-101776 start_mrt.sh[3053232]: RatRqm1 :create, start slave broker and register service RatRqm1.
+Nov 13 07:01:33 CMX50070-101776 start_mrt.sh[3053232]: RatRqm1 :RPC connected at tcp://127.0.0.1:9013
+Nov 13 07:01:33 CMX50070-101776 start_mrt.sh[3053232]: Dispatching RPC RatRqm1::sfa_0::message_received
+Nov 13 07:01:33 CMX50070-101776 start_mrt.sh[3053232]: execute
+Nov 13 07:01:33 CMX50070-101776 start_mrt.sh[3053232]: Dispatching RPC RatRqm1::sfa_0::message_received
+Nov 13 07:01:33 CMX50070-101776 start_mrt.sh[3053232]: execute
+Nov 13 07:01:33 CMX50070-101776 start_mrt.sh[3053232]: Dispatching RPC RatRqm1::sfa_0::message_received
+Nov 13 07:01:33 CMX50070-101776 start_mrt.sh[3053232]: execute
+Nov 13 07:01:33 CMX50070-101776 start_mrt.sh[3053232]: Dispatching RPC RatRqm1::sfa_0::message_received
+Nov 13 07:01:33 CMX50070-101776 start_mrt.sh[3053232]: execut

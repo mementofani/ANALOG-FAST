@@ -1,0 +1,14 @@
+0070-101776 kernel: CMX_MB_IOCTL_CONF_CST_CONTROL_CONNECTION call
+Nov 13 10:34:21 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Success! Call to function set_mb_sync_connection
+Nov 13 10:34:21 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Calling set_mb_sync_connection(mapFile, srcSlot, srcLine, dstSlot, dstLine):/usr/lib/fw/RS.CMWBase/DPSW/mb_cst_map.xcnf 501 1 300 1
+Nov 13 10:34:21 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Success! Call to function set_mb_sync_connection
+Nov 13 10:34:21 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Calling set_mb_ctrl_connection(mapFile, srcSlot, ctlAddress, dstSlot, routeInfo, mci, act):/usr/lib/fw/RS.CMWBase/DPSW/mb_cst_map.xcnf 502 0 300 1 2 1
+Nov 13 10:34:21 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Success! Call to function set_mb_ctrl_connection
+Nov 13 10:34:21 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Calling set_mb_ctrl_connection(mapFile, srcSlot, ctlAddress, dstSlot, routeInfo, mci, act):/usr/lib/fw/RS.CMWBase/DPSW/mb_cst_map.xcnf 300 1 502 0 0 1
+Nov 13 10:34:21 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Success! Call to function set_mb_ctrl_connection
+Nov 13 10:34:21 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Calling set_mb_ctrl_connection(mapFile, srcSlot, ctlAddress, dstSlot, routeInfo, mci, act):/usr/lib/fw/RS.CMWBase/DPSW/mb_cst_map.xcnf 501 0 300 3 2 1
+Nov 13 10:34:21 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Success! Call to function set_mb_ctrl_connection
+Nov 13 10:34:21 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Calling set_mb_ctrl_connection(mapFile, srcSlot, ctlAddress, dstSlot, routeInfo, mci, act):/usr/lib/fw/RS.CMWBase/DPSW/mb_cst_map.xcnf 300 3 501 0 0 1
+Nov 13 10:34:21 CMX50070-101776 kernel: CMX_MB_IOCTL_CONF_CST_CONTROL_CONNECTION call
+Nov 13 10:34:21 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Success! Call to function set_mb_ctrl_connection
+Nov 13 10:34:21 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Calling set_mb_ctrl_connection(mapFile, srcSlot, ctlAddress, dstSlot, routeInfo, mci, act):/usr/lib/fw/RS.CMWBase/DPSW/mb_cst_map.x

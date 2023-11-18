@@ -1,0 +1,12 @@
+070-101776 NetworkManager[441]: <info>  [1699595392.4486] device (br-1054083fd124): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'external')
+Nov 10 05:49:52 CMX50070-101776 NetworkManager[441]: <info>  [1699595392.4489] device (br-1054083fd124): state change: secondaries -> activated (reason 'none', sys-iface-state: 'external')
+Nov 10 05:49:52 CMX50070-101776 NetworkManager[441]: <info>  [1699595392.4574] device (br-1054083fd124): Activation: successful, device activated.
+Nov 10 05:49:52 CMX50070-101776 RsInstallation[1952]: [RsInstallationService.MAIN] INFO RohdeSchwarz.AptAbstractionLib.CommandLineExecutor - Executing '/usr/bin/rsync -a --info=NAME --copy-links /var/tmp/rohde-schwarz/rs-installation-service/primary/etc/avahi/services/ /etc/avahi/services/'
+Nov 10 05:49:52 CMX50070-101776 avahi-daemon[381]: Files changed, reloading.
+Nov 10 05:49:52 CMX50070-101776 avahi-daemon[381]: Service group file /services/rs-installation-service.service changed, reloading.
+Nov 10 05:49:52 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.AptAbstractionLib.DeviceMonitor - - 'CMX50070-101776' on eth_internal
+Nov 10 05:49:52 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.AptAbstractionLib.DeviceMonitor -         Host: CMX50070-101776 (fe80::290:b8ff:fe24:d36a%3)
+Nov 10 05:49:52 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.AptAbstractionLib.DeviceMonitor -         Port: 1015
+Nov 10 05:49:52 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.AptAbstractionLib.DeviceMonitor -         Txt : [HostName=CMX50070-101776, SerialNumber=101776, PartNumber=1201.0002K70, DeviceId=1201.0002K70-101776-ss]
+Nov 10 05:49:52 CMX50070-101776 audit[3693]: NETFILTER_CFG table=filter family=2 entries=29 op=xt_replace pid=3693 comm="iptables"
+Nov 10 05:49:52 CMX50070-101776 audit[3693]: SYSCALL arch=c000003e syscall=54 success=yes exit=0 a0=4 a1=0 a2=40 a3=55ff4af67d30 items=0 ppid=1947 pid=3693 auid=4294967295 uid=0 gid=0 euid

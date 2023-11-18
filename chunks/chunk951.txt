@@ -1,0 +1,23 @@
+:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] >> *CLS\n
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] >> DIAG:PROD:CAT?\n
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] << "1201.0002k70","__SWP_Tool__"\n
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] >> DIAG:PROD:SEL "1201.0002k70"\n
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] >> *IDN?\n
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] << Rohde&Schwarz,CMX500,1201.0002k70/101776,5.0.60.4\n
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] >> DIAG:PROD:ID?\n
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] << R&S,1201.0002k70/101776,5.0.60.4\n
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] >> DIAG:UPD:TRAN:VERS?\n
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] << 281,152\n
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] >> DIAG:PROD:MAC?\n
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] << \n
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] >> DIAG:PIAS:ID?\n
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] << "linux-64$00-E0-33-0B-D1-F9"\n
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] >> DIAG:PIAS:HOST?\n
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] << "CMX50070-101776"\n
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] >> DIAG:PIAS:CONN? "dummy-guid","linux-64$00-E0-33-0B-D1-F9"\n
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8]: PIAS connection established!
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] << 0\n
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] >> *CLS\n
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] >> DIAG:PROD:SEL "1201.0002k70"\n
+Nov 10 10:08:48 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] >> SYST:ERR?\n
+Nov 10 10:08:50 CMX50070-101776 r

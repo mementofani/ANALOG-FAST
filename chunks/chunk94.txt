@@ -1,0 +1,18 @@
+0070-101776 systemd[1]: Started Container mrt-chromium.
+Nov 10 05:49:42 CMX50070-101776 systemd[1]: Reached target Containers.
+Nov 10 05:49:42 CMX50070-101776 systemd-nspawn[1018]: systemd 250.4-1-gc3aead5+ running in system mode (-PAM -AUDIT -SELINUX -APPARMOR +IMA -SMACK -SECCOMP -GCRYPT -GNUTLS -OPENSSL -ACL +BLKID -CURL -ELFUTILS -FIDO2 -IDN2 -IDN -IPTC +KMOD -LIBCRYPTSETUP +LIBFDISK -PCRE2 -PWQUALITY -P11KIT -QRENCODE -BZIP2 -LZ4 -XZ -ZLIB +ZSTD -BPF_FRAMEWORK +XKBCOMMON +UTMP +SYSVINIT default-hierarchy=hybrid)
+Nov 10 05:49:42 CMX50070-101776 systemd-nspawn[1018]: Detected virtualization systemd-nspawn.
+Nov 10 05:49:42 CMX50070-101776 systemd-nspawn[1018]: Detected architecture x86-64.
+Nov 10 05:49:42 CMX50070-101776 systemd-nspawn[1018]:
+Nov 10 05:49:42 CMX50070-101776 systemd-nspawn[1018]: Welcome to Poky (Yocto Project Reference Distro) 4.0 (kirkstone)!
+Nov 10 05:49:42 CMX50070-101776 systemd-nspawn[1018]:
+Nov 10 05:49:42 CMX50070-101776 systemd-nspawn[1018]: Hostname set to <genericx86-64>.
+Nov 10 05:49:42 CMX50070-101776 systemd-nspawn[1018]: Initializing machine ID from container UUID.
+Nov 10 05:49:42 CMX50070-101776 systemd-nspawn[1018]: Installed transient /etc/machine-id file.
+Nov 10 05:49:42 CMX50070-101776 kernel: audit: type=1334 audit(1699595382.834:44): prog-id=29 op=LOAD
+Nov 10 05:49:42 CMX50070-101776 kernel: audit: type=1300 audit(1699595382.834:44): arch=c000003e syscall=321 success=yes exit=8 a0=5 a1=7ffccd6379d0 a2=78 a3=0 items=0 ppid=1018 pid=1589 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="systemd" exe="/lib/systemd/systemd" key=(null)
+Nov 10 05:49:42 CMX50070-101776 kernel: audit: type=1327 audit(1699595382.834:44): proctitle="/lib/systemd/systemd"
+Nov 10 05:49:42 CMX50070-101776 kernel: audit: type=1334 audit(1699595382.834:45): prog-id=0 op=UNLOAD
+Nov 10 05:49:42 CMX50070-101776 kernel: audit: type=1334 audit(1699595382.834:46): prog-id=30 op=LOAD
+Nov 10 05:49:42 CMX50070-101776 audit: BPF prog-id=29 op=LOAD
+Nov 10 05:49:42 CMX50070-101776 audit[1589]: SY

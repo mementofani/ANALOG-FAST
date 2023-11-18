@@ -1,0 +1,20 @@
+ation: Connection closed by remote host
+Nov 10 11:13:03 CMX50070-101776 sshd[2089241]: Connection closed by 10.0.54.72 port 39350
+Nov 10 11:13:03 CMX50070-101776 systemd[1]: sshd@482-10.102.37.173:22-10.0.54.72:39350.service: Deactivated successfully.
+Nov 10 11:13:04 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.24.26.37:50088).
+Nov 10 11:13:04 CMX50070-101776 sshd[2089336]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 11:13:04 CMX50070-101776 sshd[2089336]: Connection closed by 172.24.26.37 port 50088
+Nov 10 11:13:04 CMX50070-101776 systemd[1]: sshd@483-10.102.37.173:22-172.24.26.37:50088.service: Deactivated successfully.
+Nov 10 11:13:12 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.25.232.145:46444).
+Nov 10 11:13:12 CMX50070-101776 sshd[2090197]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 11:13:12 CMX50070-101776 sshd[2090197]: Connection closed by 172.25.232.145 port 46444
+Nov 10 11:13:12 CMX50070-101776 systemd[1]: sshd@484-10.102.37.173:22-172.25.232.145:46444.service: Deactivated successfully.
+Nov 10 11:13:16 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.25.11.234:35902).
+Nov 10 11:13:16 CMX50070-101776 sshd[2090624]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 11:13:16 CMX50070-101776 sshd[2090624]: Connection closed by 172.25.11.234 port 35902
+Nov 10 11:13:16 CMX50070-101776 systemd[1]: sshd@485-10.102.37.173:22-172.25.11.234:35902.service: Deactivated successfully.
+Nov 10 11:13:17 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.25.196.5:59230).
+Nov 10 11:13:17 CMX50070-101776 sshd[2090629]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 11:13:17 CMX50070-101776 sshd[2090629]: Connection closed by 172.25.196.5 port 59230
+Nov 10 11:13:17 CMX50070-101776 systemd[1]: sshd@486-10.102.37.173:22-172.25.196.5:59230.service: Deactivated successfully.
+Nov 10 11:13:19 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection D

@@ -1,0 +1,12 @@
+o=25
+Nov 10 05:49:50 CMX50070-101776 rs_callysto[3092]: [info     ]  --> exit code: 0              pathname=/usr/lib/callysto/venv/lib/python3.10/site-packages/rs_callysto/_run.py lineno=112
+Nov 10 05:49:50 CMX50070-101776 rs_callysto.callysto_servicer[3092]: [info     ] Start Callysto                 context=_setup pathname=/usr/lib/callysto/venv/lib/python3.10/site-packages/rs_callysto/callysto_servicer.py lineno=71
+Nov 10 05:49:50 CMX50070-101776 rs_callysto.callysto_servicer[3092]: [info     ] Start Jupyter Notebook, controller: <rs_callysto.notebook_server_controller.XlapiNbDockerController object at 0x7fb23a654670> context=_setup pathname=/usr/lib/callysto/venv/lib/python3.10/site-packages/rs_callysto/callysto_servicer.py lineno=124
+Nov 10 05:49:50 CMX50070-101776 rs_callysto.xlapi_nb_container_settings[3092]: [info     ] Write .env file for XlapiContainerSettings(ip='*', port=7777, base_url='/notebooks', token='instrument', xlapi_instrument_address='localhost') to /run/user/0/mrt.callysto/.env.prod context=_setup | start pathname=/usr/lib/callysto/venv/lib/python3.10/site-packages/rs_callysto/xlapi_nb_container_settings.py lineno=46
+Nov 10 05:49:50 CMX50070-101776 rs_callysto._run[3092]: [info     ] Run /usr/share/mrt.xlapi-nb/xlapi-nb.pre-up context=_setup | start pathname=/usr/lib/callysto/venv/lib/python3.10/site-packages/rs_callysto/_run.py lineno=90
+Nov 10 05:49:50 CMX50070-101776 load-images.sh[3385]: docker.rsint.net/rs_mrt-tools-docker/cmxreporting/cmxrep-liveview-app:v4.1.3
+Nov 10 05:49:50 CMX50070-101776 load-images.sh[3285]: cmxrep-liveview-app:v4.1.3 already loaded.
+Nov 10 05:49:50 CMX50070-101776 systemd[1]: Started cmxreporting.
+Nov 10 05:49:50 CMX50070-101776 health_service.deviceapi[544]: mBaseServiceRunning: 1
+Nov 10 05:49:50 CMX50070-101776 health_service.deviceapi[544]: message: "active"
+Nov 10 05:49:50 CMX50070-101776 rs_callysto.notebook_server_controller[3092]: [info     ]   | Image with ID sha256:45ebc5d342c31a177082a50dbaa1d03abce432cc79fae5cf80b12db23785a497 already loaded context=_setup | start pathname=/usr/lib/

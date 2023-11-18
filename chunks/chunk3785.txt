@@ -1,0 +1,16 @@
+ices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 13 09:23:55 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2023 09:23:55 +00:00
+Nov 13 09:24:54 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 0 count: 32 t: 9:24:54 AM
+Nov 13 09:24:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 13 09:24:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/13/2023 09:24:54 +00:00
+Nov 13 09:24:55 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 0 count: 32 t: 9:24:55 AM
+Nov 13 09:24:55 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 13 09:24:55 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2023 09:24:55 +00:00
+Nov 13 09:24:55 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 0 count: 32 t: 9:24:55 AM
+Nov 13 09:24:57 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 139.14M, Virtual set 5.59G, CPU Time 41382.470 s, CPU User Time 26341.190 s, Threads 41
+Nov 13 09:25:06 CMX50070-101776 start_cmxmarsserver.sh[3969328]: OnDisconnectedAsync
+Nov 13 09:25:25 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 0 count: 100 t: 9:25:25 AM
+Nov 13 09:25:45 CMX50070-101776 start_cmxmarsserver.sh[3969328]: */usr/lib/cmxtools/mddb/Mddb.ridl.0.6.so: cannot open shared object file: No such file or directory
+Nov 13 09:25:45 CMX50070-101776 start_cmxmarsserver.sh[3969328]: */usr/lib/cmxtools/mddb/Mddb.ridl.0.6.so: cannot open shared object file: No such file or directory
+Nov 13 09:25:45 CMX50070-101776 start_cmxmarsserver.sh[3969328]: */usr/lib/cmxtools/mddb/Mddb.ridl.0.6.so: cannot open shared object file: No such file or directory
+Nov 13 09:25:45 CMX50070-101776 start_cmxmarsserver.sh[3969328]: */usr/lib/cmxtools/mddb/Mddb.ridl.0.6.so: cannot open shared object file: No such file or dir

@@ -1,0 +1,27 @@
+9:37 localhost kernel: thermal_sys: Registered thermal governor 'user_space'
+Nov 10 05:49:37 localhost kernel: cpuidle: using governor menu
+Nov 10 05:49:37 localhost kernel: ACPI: bus type PCI registered
+Nov 10 05:49:37 localhost kernel: PCI: MMCONFIG for domain 0000 [bus 00-3f] at [mem 0xf8000000-0xfbffffff] (base 0xf8000000)
+Nov 10 05:49:37 localhost kernel: PCI: MMCONFIG at [mem 0xf8000000-0xfbffffff] reserved in E820
+Nov 10 05:49:37 localhost kernel: PCI: Using configuration type 1 for base access
+Nov 10 05:49:37 localhost kernel: Kprobes globally optimized
+Nov 10 05:49:37 localhost kernel: raid6: skip pq benchmark and using algorithm avx2x4
+Nov 10 05:49:37 localhost kernel: raid6: using avx2x2 recovery algorithm
+Nov 10 05:49:37 localhost kernel: ACPI: Added _OSI(Module Device)
+Nov 10 05:49:37 localhost kernel: ACPI: Added _OSI(Processor Device)
+Nov 10 05:49:37 localhost kernel: ACPI: Added _OSI(3.0 _SCP Extensions)
+Nov 10 05:49:37 localhost kernel: ACPI: Added _OSI(Processor Aggregator Device)
+Nov 10 05:49:37 localhost kernel: ACPI: Added _OSI(Linux-Dell-Video)
+Nov 10 05:49:37 localhost kernel: ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+Nov 10 05:49:37 localhost kernel: ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+Nov 10 05:49:37 localhost kernel: ACPI: 7 ACPI AML tables successfully acquired and loaded
+Nov 10 05:49:37 localhost kernel: ACPI: [Firmware Bug]: BIOS _OSI(Linux) query ignored
+Nov 10 05:49:37 localhost kernel: ACPI: Interpreter enabled
+Nov 10 05:49:37 localhost kernel: ACPI: PM: (supports S0 S3 S5)
+Nov 10 05:49:37 localhost kernel: ACPI: Using IOAPIC for interrupt routing
+Nov 10 05:49:37 localhost kernel: PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+Nov 10 05:49:37 localhost kernel: ACPI: Enabled 2 GPEs in block 00 to 1F
+Nov 10 05:49:37 localhost kernel: ACPI: PM: Power Resource [P0ST]
+Nov 10 05:49:37 localhost kernel: ACPI: PM: Power Resource [P3ST]
+Nov 10 05:49:37 localhost kernel: ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+Nov 10 05:49:37 localhost kernel: acpi PNP0A08:

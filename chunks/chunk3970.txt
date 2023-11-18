@@ -1,0 +1,17 @@
+
+Nov 13 10:44:45 CMX50070-101776 systemd[1]: sshd@1295-10.102.37.173:22-172.24.26.38:33548.service: Deactivated successfully.
+Nov 13 10:44:45 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.25.232.145:54046).
+Nov 13 10:44:45 CMX50070-101776 sshd[298356]: error: kex_exchange_identification: Connection closed by remote host
+Nov 13 10:44:45 CMX50070-101776 sshd[298356]: Connection closed by 172.25.232.145 port 54046
+Nov 13 10:44:45 CMX50070-101776 systemd[1]: sshd@1296-10.102.37.173:22-172.25.232.145:54046.service: Deactivated successfully.
+Nov 13 10:44:46 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.25.11.233:47418).
+Nov 13 10:44:47 CMX50070-101776 sshd[298446]: Accepted password for root from 172.25.11.233 port 47418 ssh2
+Nov 13 10:44:47 CMX50070-101776 sshd[298446]: pam_unix(sshd:session): session opened for user root(uid=0) by (uid=0)
+Nov 13 10:44:47 CMX50070-101776 systemd[1]: Started Session c18 of User root.
+Nov 13 10:44:47 CMX50070-101776 systemd-logind[412]: New session c18 of user root.
+Nov 13 10:44:47 CMX50070-101776 audit[298446]: SYSCALL arch=c000003e syscall=1 success=yes exit=1 a0=7 a1=7ffcd0f95630 a2=1 a3=0 items=0 ppid=1 pid=298446 auid=0 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=23 comm="sshd" exe="/usr/sbin/sshd" key=(null)
+Nov 13 10:44:47 CMX50070-101776 audit: PROCTITLE proctitle=737368643A20726F6F74205B707269765D
+Nov 13 10:44:47 CMX50070-101776 kernel: audit: type=1006 audit(1699872287.517:212): pid=298446 uid=0 old-auid=4294967295 auid=0 tty=(none) old-ses=4294967295 ses=23 res=1
+Nov 13 10:44:47 CMX50070-101776 kernel: audit: type=1300 audit(1699872287.517:212): arch=c000003e syscall=1 success=yes exit=1 a0=7 a1=7ffcd0f95630 a2=1 a3=0 items=0 ppid=1 pid=298446 auid=0 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=23 comm="sshd" exe="/usr/sbin/sshd" key=(null)
+Nov 13 10:44:47 CMX50070-101776 kernel: audit: type=1327 audit(1699872287.517:212): proctitle=737368643A20726F6F74205B707269765D
+Nov 13 10:44:49 CMX50070-101776 sshd[298

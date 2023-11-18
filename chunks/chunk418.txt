@@ -1,0 +1,22 @@
+3324]: in hardware_element_from_pdef count = 1 >> OK
+Nov 10 05:51:37 CMX50070-101776 start_mrt.sh[3324]: in hardware_element_from_pdef slot base: 400
+Nov 10 05:51:37 CMX50070-101776 start_mrt.sh[3324]: in hardware_element_from_pdef count = 1 >> OK
+Nov 10 05:51:37 CMX50070-101776 start_mrt.sh[3324]: in hardware_element_from_pdef slot base: 400
+Nov 10 05:51:37 CMX50070-101776 start_mrt.sh[3324]: in hardware_element_from_pdef count = 1 >> OK
+Nov 10 05:51:37 CMX50070-101776 start_mrt.sh[3324]: in hardware_element_from_pdef slot base: 400
+Nov 10 05:51:37 CMX50070-101776 start_mrt.sh[3324]: in hardware_element_from_pdef count = 1 >> OK
+Nov 10 05:51:38 CMX50070-101776 start_mrt.sh[3324]: in hardware_element_from_pdef slot base: 400
+Nov 10 05:51:38 CMX50070-101776 start_mrt.sh[3324]: in hardware_element_from_pdef count = 1 >> OK
+Nov 10 05:51:38 CMX50070-101776 start_mrt.sh[3324]: in hardware_element_from_pdef slot base: 400
+Nov 10 05:51:38 CMX50070-101776 start_mrt.sh[3324]: in hardware_element_from_pdef count = 1 >> OK
+Nov 10 05:51:39 CMX50070-101776 start_mrt.sh[3324]: in hardware_element_from_pdef slot base: 500
+Nov 10 05:51:39 CMX50070-101776 start_mrt.sh[3324]: in hardware_element_from_pdef count = 1 >> OK
+Nov 10 05:51:39 CMX50070-101776 start_mrt.sh[3324]: in hardware_element_from_pdef slot base: 500
+Nov 10 05:51:39 CMX50070-101776 start_mrt.sh[3324]: in hardware_element_from_pdef count = 1 >> OK
+Nov 10 05:51:39 CMX50070-101776 start_mrt.sh[3324]: in hardware_element_from_pdef slot base: 700
+Nov 10 05:51:39 CMX50070-101776 start_mrt.sh[3324]: in hardware_element_from_pdef count = 1 >> OK
+Nov 10 05:51:39 CMX50070-101776 start_mrt.sh[3324]: in hardware_element_from_pdef slot base: 700
+Nov 10 05:51:39 CMX50070-101776 start_mrt.sh[3324]: in hardware_element_from_pdef count = 1 >> OK
+Nov 10 05:51:39 CMX50070-101776 start_mrt.sh[3324]: in hardware_element_from_pdef slot base: 800
+Nov 10 05:51:39 CMX50070-101776 start_mrt.sh[3324]: in hardware_element_from_pdef count = 1 >> OK
+Nov 10 05:51:39 CMX50070-101776 start_mrt.sh[3324]: in hardware_element_from_p

@@ -1,0 +1,19 @@
+scriber                                  ] DEBUG: Received message from Health service
+Nov 10 05:50:43 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:43.368718Z [DeviceApiSubscriber                                  ] DEBUG: Health service message:
+Nov 10 05:50:43 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:43.368718Z [DeviceApiSubscriber                                  ] DEBUG:  * ResourceName: //mrt/0/health/0
+Nov 10 05:50:43 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:43.368718Z [DeviceApiSubscriber                                  ] DEBUG:  * State: Startup
+Nov 10 05:50:43 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:43.368718Z [DeviceApiSubscriber                                  ] DEBUG:  * ProgressInfo: "Finish" is waiting for: Drivers, InstrumentSetupManager, Startup
+Nov 10 05:50:43 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:43.368718Z [DeviceApiSubscriber                                  ] DEBUG: 0 messages in the queue
+Nov 10 05:50:43 CMX50070-101776 flexxamconfigurationbridge[6228]: running sams:
+Nov 10 05:50:44 CMX50070-101776 start_mrt.sh[10883]: CCmgAccess(/dev/rohde-schwarz/cmg_300) ctor handle=3
+Nov 10 05:50:44 CMX50070-101776 start_mrt.sh[10883]: fpga version=0x3070007
+Nov 10 05:50:44 CMX50070-101776 start_mrt.sh[10884]: CCmgAccess(/dev/rohde-schwarz/cmg_200) ctor handle=3
+Nov 10 05:50:44 CMX50070-101776 start_mrt.sh[10881]: CCmgAccess(/dev/rohde-schwarz/cmg_400) ctor handle=3
+Nov 10 05:50:44 CMX50070-101776 start_mrt.sh[10884]: fpga version=0x7080008
+Nov 10 05:50:44 CMX50070-101776 start_mrt.sh[10881]: fpga version=0x3070007
+Nov 10 05:50:44 CMX50070-101776 start_mrt.sh[10882]: CCmgAccess(/dev/rohde-schwarz/cmg_100) ctor handle=3
+Nov 10 05:50:44 CMX50070-101776 start_mrt.sh[10882]: fpga version=0x7080008
+Nov 10 05:50:44 CMX50070-101776 start_mrt.sh[10880]: CCmgAccess(/dev/rohde-schwarz/cmg_300) ctor handle=3
+Nov 10 05:50:44 CMX50070-101776 start_mrt.sh[10880]: fpga version=0x3070007
+Nov 10 05:50:44 CMX50070-101776 start_mrt.sh[10885]: CCmgAccess(/dev/rohde-schwarz/cmg_400) ctor handle=3
+Nov 10 05:50:44 CMX50070-

@@ -1,0 +1,12 @@
+10 05:53:31 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:31.515556Z [DeviceApiSubscriber                                  ] DEBUG: License service message:
+Nov 10 05:53:31 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:31.596547Z [DeviceApiSubscriber                                  ] DEBUG: License service hardware detected: CMX ACCELERATOR UNIT
+Nov 10 05:53:31 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:31.598898Z [DeviceApiSubscriber                                  ] DEBUG: License service hardware detected: CMX ACCELERATOR UNIT
+Nov 10 05:53:31 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:31.601134Z [DeviceApiSubscriber                                  ] DEBUG: License service hardware detected: CMX ACCELERATOR UNIT
+Nov 10 05:53:31 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:31.603335Z [DeviceApiSubscriber                                  ] DEBUG: License service hardware detected: IPX31/128-64GB
+Nov 10 05:53:31 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:31.605912Z [DeviceApiSubscriber                                  ] DEBUG: License service hardware detected: IF UNIT
+Nov 10 05:53:31 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:31.608092Z [DeviceApiSubscriber                                  ] DEBUG: License service hardware detected: IF UNIT
+Nov 10 05:53:31 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:31.610299Z [DeviceApiSubscriber                                  ] DEBUG: License service hardware detected: CMX RF UNIT
+Nov 10 05:53:31 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:31.612481Z [DeviceApiSubscriber                                  ] DEBUG: License service hardware detected: CMX RF UNIT
+Nov 10 05:53:31 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:31.615207Z [DeviceApiSubscriber                                  ] DEBUG: License service hardware detected: IPS14/8-12-35W
+Nov 10 05:53:31 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:31.617385Z [DeviceApiSubscriber                                  ] DEBUG: License service hardware detected: REMOTE RADIO HEAD CMXHEAD30
+Nov 10 05:53:31 CMX50070-101776

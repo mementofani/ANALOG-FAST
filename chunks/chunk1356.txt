@@ -1,0 +1,18 @@
+1776 rspias-daemon[1016]: PIAS: Socket[7] SCPI-Error: -113,"Undefined header;GET"
+Nov 10 14:12:18 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: Error: invalid command 'GET'!
+Nov 10 14:12:18 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: Data channel normally closed (or due to unexpected data).
+Nov 10 14:12:18 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: socket normally closed.
+Nov 10 14:12:18 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4] >> HEAD / HTTP/1.0\r\n
+Nov 10 14:12:18 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4] SCPI-Error: -113,"Undefined header;HEAD"
+Nov 10 14:12:18 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: Error: invalid command 'HEAD'!
+Nov 10 14:12:18 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: Data channel normally closed (or due to unexpected data).
+Nov 10 14:12:18 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: socket normally closed.
+Nov 10 14:12:18 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] >> \x02\0\x02\0\0\0\0\0qualys_scanner\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\x0Eid\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\x02\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0PIAS: Socket[7]: Data channel normally closed (or due to unexpected data).
+Nov 10 14:12:18 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: socket normally closed.
+Nov 10 14:12:18 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: Data channel normally closed (or due to unexpected data).
+Nov 10 14:12:18 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: socket normally closed.
+Nov 10 14:12:18 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: Data channel normally closed (or due to unexpected data).
+Nov 10 14:12:18 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: socket normally closed.
+Nov 10 14:12:18 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4] >> <?xml version="1.0"?>\n
+Nov 10 14:12:18 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4] SCPI-Error: -113,"Undefined header;<?XML"
+Nov 10 14:12:18 CMX50070-101776 

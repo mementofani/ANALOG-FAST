@@ -1,0 +1,23 @@
+0.4\n
+Nov 10 10:20:00 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4] >> DIAG:UPD:TRAN:VERS?\n
+Nov 10 10:20:00 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4] << 281,152\n
+Nov 10 10:20:00 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4] >> DIAG:PROD:MAC?\n
+Nov 10 10:20:00 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4] << \n
+Nov 10 10:20:00 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4] >> DIAG:PIAS:ID?\n
+Nov 10 10:20:00 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4] << "linux-64$00-E0-33-0B-D1-F9"\n
+Nov 10 10:20:00 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4] >> DIAG:PIAS:HOST?\n
+Nov 10 10:20:00 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4] << "CMX50070-101776"\n
+Nov 10 10:20:00 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: Data channel normally closed (or due to unexpected data).
+Nov 10 10:20:00 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: socket normally closed.
+Nov 10 10:20:00 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3] >> *CLS\n
+Nov 10 10:20:00 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3] >> DIAG:PROD:CAT?\n
+Nov 10 10:20:00 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3] << "1201.0002k70","__SWP_Tool__"\n
+Nov 10 10:20:00 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3] >> DIAG:PROD:SEL "1201.0002k70"\n
+Nov 10 10:20:00 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3] >> *IDN?\n
+Nov 10 10:20:00 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3] << Rohde&Schwarz,CMX500,1201.0002k70/101776,5.0.60.4\n
+Nov 10 10:20:00 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3] >> DIAG:PROD:ID?\n
+Nov 10 10:20:02 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3] << R&S,1201.000PIAS: PIAS: Remote access from client 10.102.37.11
+Nov 10 10:20:03 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.102.37.222
+Nov 10 10:20:03 CMX50070-101776 rspias-daemon[1016]: 2k70/101776,5.0.60.4\n
+Nov 10 10:20:03 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3] >> DIAG:UPD:TRAN:VERS?\n
+Nov 10 10:20:03 CMX50070-101776 rspias-daemon[1016]: PIAS: Sock

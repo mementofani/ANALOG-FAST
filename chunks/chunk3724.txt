@@ -1,0 +1,15 @@
+3d1[1968]:       Worker running at: 11/13/2023 07:31:55 +00:00
+Nov 13 07:32:36 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 133.05M, Virtual set 5.59G, CPU Time 40367.770 s, CPU User Time 25691.730 s, Threads 43
+Nov 13 07:32:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 13 07:32:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/13/2023 07:32:54 +00:00
+Nov 13 07:32:55 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 13 07:32:55 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2023 07:32:55 +00:00
+Nov 13 07:33:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 13 07:33:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/13/2023 07:33:54 +00:00
+Nov 13 07:33:55 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 13 07:33:55 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2023 07:33:55 +00:00
+Nov 13 07:34:23 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 133.15M, Virtual set 5.59G, CPU Time 40377.690 s, CPU User Time 25697.930 s, Threads 42
+Nov 13 07:34:40 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Re-init accessor: (defaultOnlineTable) == (96659f93-001a-41c2-ad3b-05c44a2577a8)False
+Nov 13 07:34:40 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Re-init accessor: (Untitled) == (96659f93-001a-41c2-ad3b-05c44a2577a8)False
+Nov 13 07:34:42 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 1000 count: 6 t: 7:34:42 AM
+Nov 13 07:34:42 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 1000 count: 6 

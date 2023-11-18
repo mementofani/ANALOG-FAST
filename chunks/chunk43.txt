@@ -1,0 +1,25 @@
+d Automatic Boot Loader Update.
+Nov 10 05:49:37 localhost systemd[1]: systemd-sysctl.service: Deactivated successfully.
+Nov 10 05:49:37 localhost systemd[1]: Stopped Apply Kernel Variables.
+Nov 10 05:49:37 localhost systemd[1]: systemd-udev-trigger.service: Deactivated successfully.
+Nov 10 05:49:37 localhost systemd[1]: Stopped Coldplug All udev Devices.
+Nov 10 05:49:37 localhost systemd[1]: Stopping Rule-based Manager for Device Events and Files...
+Nov 10 05:49:37 localhost systemd[1]: Stopping Record System Boot/Shutdown in UTMP...
+Nov 10 05:49:37 localhost systemd[1]: initrd-cleanup.service: Deactivated successfully.
+Nov 10 05:49:37 localhost systemd[1]: Finished Cleaning Up and Shutting Down Daemons.
+Nov 10 05:49:37 localhost systemd[1]: systemd-update-utmp.service: Deactivated successfully.
+Nov 10 05:49:37 localhost systemd[1]: Stopped Record System Boot/Shutdown in UTMP.
+Nov 10 05:49:37 localhost systemd[1]: systemd-tmpfiles-setup.service: Deactivated successfully.
+Nov 10 05:49:37 localhost systemd[1]: Stopped Create Volatile Files and Directories.
+Nov 10 05:49:37 localhost systemd[1]: Stopped target Local File Systems.
+Nov 10 05:49:37 localhost kernel: usb 3-2.4: new high-speed USB device number 5 using xhci_hcd
+Nov 10 05:49:37 localhost kernel: usb 3-2.4: New USB device found, idVendor=0424, idProduct=2517, bcdDevice= 0.02
+Nov 10 05:49:37 localhost kernel: usb 3-2.4: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+Nov 10 05:49:37 localhost kernel: hub 3-2.4:1.0: USB hub found
+Nov 10 05:49:37 localhost kernel: hub 3-2.4:1.0: 7 ports detected
+Nov 10 05:49:38 localhost systemd[1]: systemd-udevd.service: Deactivated successfully.
+Nov 10 05:49:38 localhost systemd[1]: Stopped Rule-based Manager for Device Events and Files.
+Nov 10 05:49:38 localhost systemd[1]: systemd-udevd-control.socket: Deactivated successfully.
+Nov 10 05:49:38 localhost systemd[1]: Closed udev Control Socket.
+Nov 10 05:49:38 localhost systemd[1]: systemd-udevd-kernel.socket: Deactivated successfully.
+Nov 10 05:49:38 localhost systemd[1]: Closed udev Kernel Socket

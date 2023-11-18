@@ -1,0 +1,21 @@
+1776 start_cmxmarsserver.sh[2908496]: Got Data: 800 count: 50 t: 6:42:44 AM
+Nov 13 06:42:44 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 800 count: 52 t: 6:42:44 AM
+Nov 13 06:42:45 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 800 count: 53 t: 6:42:45 AM
+Nov 13 06:42:45 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 800 count: 55 t: 6:42:45 AM
+Nov 13 06:42:46 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (10.0.54.72:52504).
+Nov 13 06:42:46 CMX50070-101776 sshd[2925943]: error: kex_exchange_identification: Connection closed by remote host
+Nov 13 06:42:46 CMX50070-101776 sshd[2925943]: Connection closed by 10.0.54.72 port 52504
+Nov 13 06:42:46 CMX50070-101776 systemd[1]: sshd@1235-10.102.37.173:22-10.0.54.72:52504.service: Deactivated successfully.
+Nov 13 06:42:46 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 800 count: 56 t: 6:42:46 AM
+Nov 13 06:42:46 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 800 count: 58 t: 6:42:46 AM
+Nov 13 06:42:47 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 800 count: 59 t: 6:42:47 AM
+Nov 13 06:42:47 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 800 count: 61 t: 6:42:47 AM
+Nov 13 06:42:48 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 800 count: 62 t: 6:42:48 AM
+Nov 13 06:42:48 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 800 count: 64 t: 6:42:48 AM
+Nov 13 06:42:49 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 800 count: 65 t: 6:42:49 AM
+Nov 13 06:42:49 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 800 count: 67 t: 6:42:49 AM
+Nov 13 06:42:50 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 800 count: 68 t: 6:42:50 AM
+Nov 13 06:42:50 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 800 count: 70 t: 6:42:50 AM
+Nov 13 06:42:51 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 800 count: 71 t: 6:42:51 AM
+Nov 13 06:42:51 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 800 count: 73 t: 6:42:51 AM
+Nov 13 06:42:52 CMX50070-1017

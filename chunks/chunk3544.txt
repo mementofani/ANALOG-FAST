@@ -1,0 +1,20 @@
+13 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 900 count: 39 t: 6:43:13 AM
+Nov 13 06:43:13 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (10.0.54.68:38706).
+Nov 13 06:43:13 CMX50070-101776 sshd[2928851]: error: kex_exchange_identification: Connection closed by remote host
+Nov 13 06:43:13 CMX50070-101776 sshd[2928851]: Connection closed by 10.0.54.68 port 38706
+Nov 13 06:43:13 CMX50070-101776 systemd[1]: sshd@1239-10.102.37.173:22-10.0.54.68:38706.service: Deactivated successfully.
+Nov 13 06:43:14 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 900 count: 40 t: 6:43:14 AM
+Nov 13 06:43:14 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 900 count: 42 t: 6:43:14 AM
+Nov 13 06:43:14 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.24.11.230:55182).
+Nov 13 06:43:14 CMX50070-101776 sshd[2928937]: error: kex_exchange_identification: Connection closed by remote host
+Nov 13 06:43:14 CMX50070-101776 sshd[2928937]: Connection closed by 172.24.11.230 port 55182
+Nov 13 06:43:14 CMX50070-101776 systemd[1]: sshd@1240-10.102.37.173:22-172.24.11.230:55182.service: Deactivated successfully.
+Nov 13 06:43:15 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 900 count: 43 t: 6:43:15 AM
+Nov 13 06:43:15 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 900 count: 45 t: 6:43:15 AM
+Nov 13 06:43:16 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 900 count: 46 t: 6:43:16 AM
+Nov 13 06:43:16 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 900 count: 48 t: 6:43:16 AM
+Nov 13 06:43:17 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 900 count: 49 t: 6:43:17 AM
+Nov 13 06:43:17 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 900 count: 51 t: 6:43:17 AM
+Nov 13 06:43:18 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 900 count: 52 t: 6:43:18 AM
+Nov 13 06:43:19 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 900 count: 54 t: 6:43:19 AM
+Nov 13 06:43:19 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 900 count: 55 t

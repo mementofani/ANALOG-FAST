@@ -1,0 +1,18 @@
+0070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 14:08:51 +00:00
+Nov 10 14:08:51 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 14:08:51 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 14:08:51 +00:00
+Nov 10 14:09:03 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 10 14:09:03 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 10 14:09:03 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 10 14:09:03 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 10 14:09:03 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 10 14:09:03 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 10 14:09:03 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 10 14:09:03 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 10 14:09:03 CMX50070-101776 rspias-daemon[1016]: 9209F R&S SWPL QUERY ID EqNumber=1201.0002k36,"DEFAULT"]
+Nov 10 14:09:03 CMX50070-101776 rspias-daemon[1016]: PIAS: 10.102.38.89:60124 >> [16EC5C81EFCF44E1B6113D344AC9209F R&S SWPL QUERY ID EqNumber=1201.0002k36,"DEFAULT"]
+Nov 10 14:09:03 CMX50070-101776 rspias-daemon[1016]: PIAS: 10.102.38.89:39733 >> [16EC5C81EFCF44E1B6113D344AC9209F R&S SWPL QUERY ID EqNumber=1201.0002k36,"DEFAULT"]
+Nov 10 14:09:03 CMX50070-101776 rspias-daemon[1016]: PIAS: 10.102.36.160:54453 >> [16EC5C81EFCF44E1B6113D344AC9209F R&S SWPL QUERY ID EqNumber=1201.0002k18,"DEFAULT"]
+Nov 10 14:09:03 CMX50070-101776 rspias-daemon[1016]: PIAS: 10.102.38.89:48073 >> [16EC5C81EFCF44E1B6113D344AC9209F R&S SWPL QUERY ID EqNumber=1201.0002k36,"DEFAULT"]
+Nov 10 14:09:03 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4] >> DIAG:PROD:CAT?\n
+Nov 10 14:09:03 CMX50070-101776 rspias-daemon[1016]: P

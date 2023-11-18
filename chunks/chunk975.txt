@@ -1,0 +1,21 @@
+0 10:14:52 CMX50070-101776 rspias-daemon[1016]: PIPIAS: PIAS: Remote access from client 10.102.37.11
+Nov 10 10:14:52 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.102.37.222
+Nov 10 10:14:57 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: AS: 10.102.37.11:34637 << [16EC5C81EFCF44E1B6113D344AC9209F R&S SWPL LISTENING ON PORT 13217]
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] >> *CLS\n
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] >> DIAG:PROD:CAT?\n
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] << "1201.0002k70","__SWP_Tool__"\n
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] >> DIAG:PROD:SEL "1201.0002k70"\n
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] >> *IDN?\n
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] << Rohde&Schwarz,CMX500,1201.0002k70/101776,5.0.60.4\n
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] >> DIAG:PROD:ID?\n
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] << R&S,1201.0002k70/101776,5.0.60.4\n
+Nov 10 10:15:05 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8] >> DIAG:UPD:TRAN:VERS?\n
+Nov 10 10:15:05 CMX50070-101776 rspias-daemo

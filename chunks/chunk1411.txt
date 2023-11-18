@@ -1,0 +1,16 @@
+marsserver.sh[3625651]: Got Data: 200 count: 21 t: 3:12:58 PM
+Nov 10 15:12:59 CMX50070-101776 start_cmxmarsserver.sh[3625651]: Got Data: 200 count: 22 t: 3:12:59 PM
+Nov 10 15:13:28 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 213.29M, Virtual set 5.59G, CPU Time 6154.830 s, CPU User Time 3913.960 s, Threads 43
+Nov 10 15:13:51 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 15:13:51 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 15:13:51 +00:00
+Nov 10 15:13:52 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 15:13:52 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 15:13:52 +00:00
+Nov 10 15:14:51 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 15:14:51 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 15:14:51 +00:00
+Nov 10 15:14:52 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 15:14:52 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 15:14:52 +00:00
+Nov 10 15:15:15 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 215.59M, Virtual set 5.59G, CPU Time 6172.630 s, CPU User Time 3925.250 s, Threads 43
+Nov 10 15:15:49 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (10.0.54.71:36434).
+Nov 10 15:15:49 CMX50070-101776 sshd[3647297]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:15:49 CMX50070-101776 sshd[3647297]: Connection closed by 10.0.54.71 port 36434
+Nov 10 15:15:49 CMX50070-101776 systemd[1]: sshd@549-10.102.37.173:22-10.0.54.

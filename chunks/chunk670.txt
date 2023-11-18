@@ -1,0 +1,20 @@
+016]: PIAS: Socket[3]: Error: invalid command 'GNUTELLA'!
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3]: Data channel normally closed (or due to unexpected data).
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3]: socket normally closed.
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: Data channel normally closed (or due to unexpected data).
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: socket normally closed.
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: Data channel normally closed (or due to unexpected data).
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: socket normally closed.
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8]: Data channel normally closed (or due to unexpected data).
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8]: socket normally closed.
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[9]: Data channel normally closed (or due to unexpected data).
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[9]: socket normally closed.
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[A]: Data channel normally closed (or due to unexpected data).
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[A]: socket normally closed.
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[B]: Data channel normally closed (or due to unexpected data).
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[B]: socket normally closed.
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[C]: Data channel normally closed (or due to unexpected data).
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[C]: socket normally closed.
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[D] >> GET / HTTP/1.1\r\n
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[D] SCPI-Error: -113,"Undefined header;GET"
+Nov 10 06:00:34 CMX50070-101776 rspias-daemon[1

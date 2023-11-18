@@ -1,0 +1,14 @@
+                                 ] DEBUG: 0 messages in the queue
+Nov 10 05:49:53 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:49:53.639853Z [DeviceApiSubscriber                                  ] DEBUG: Received message from Health service
+Nov 10 05:49:53 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:49:53.644074Z [Lifetime                                             ] INFO : Application started. Hosting environment: Production; Content root path: /
+Nov 10 05:49:53 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:49:53.654820Z [DeviceApiSubscriber                                  ] DEBUG: Health service message:
+Nov 10 05:49:53 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:49:53.655263Z [DeviceApiSubscriber                                  ] DEBUG:  * ResourceName: //mrt/0/health/0
+Nov 10 05:49:53 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:49:53.655263Z [DeviceApiSubscriber                                  ] DEBUG:  * State: Startup
+Nov 10 05:49:53 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:49:53.655263Z [DeviceApiSubscriber                                  ] DEBUG:  * ProgressInfo: Detect model and licensing ...
+Nov 10 05:49:53 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:49:53.656741Z [DeviceApiSubscriber                                  ] INFO : MRT changed from state Inactive to Startup
+Nov 10 05:49:53 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:49:53.656741Z [DeviceApiSubscriber                                  ] DEBUG: 0 messages in the queue
+Nov 10 05:49:53 CMX50070-101776 systemd[1]: Started MRT Deployment Optimizer Service.
+Nov 10 05:49:53 CMX50070-101776 sh[3390]: Creating cmseq ... done
+Nov 10 05:49:53 CMX50070-101776 audit[4018]: NETFILTER_CFG table=nat family=2 entries=13 op=xt_replace pid=4018 comm="iptables"
+Nov 10 05:49:53 CMX50070-101776 audit[4018]: SYSCALL arch=c000003e syscall=54 success=yes exit=0 a0=4 a1=0 a2=40 a3=562c1ab12f30 items=0 ppid=1947 pid=4018 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="iptables" exe="/usr/sbin/xtables-legacy-multi" key=(null)
+Nov 10 05:

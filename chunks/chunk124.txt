@@ -1,0 +1,12 @@
+f valid types are "tcp" and on UNIX "unix")
+Nov 10 05:49:46 CMX50070-101776 Xserver[2566]: [51:77:1110/054946.805526:ERROR:bus.cc(398)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+Nov 10 05:49:46 CMX50070-101776 audit[2871]: NETFILTER_CFG table=filter family=2 entries=14 op=xt_replace pid=2871 comm="iptables"
+Nov 10 05:49:46 CMX50070-101776 audit[2871]: SYSCALL arch=c000003e syscall=54 success=yes exit=0 a0=4 a1=0 a2=40 a3=5636b9acd490 items=0 ppid=1947 pid=2871 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="iptables" exe="/usr/sbin/xtables-legacy-multi" key=(null)
+Nov 10 05:49:46 CMX50070-101776 audit: PROCTITLE proctitle=2F7573722F7362696E2F69707461626C6573002D2D77616974002D4900464F5257415244002D6900646F636B6572300000002D6F00646F636B657230002D6A00414343455054
+Nov 10 05:49:46 CMX50070-101776 kernel: CMX_AU_IOCTL_SET_CLEAR_SIG_FPGA call
+Nov 10 05:49:46 CMX50070-101776 kernel: CMX_IOCTL_GET_SLOT_ID call
+Nov 10 05:49:46 CMX50070-101776 audit[2878]: NETFILTER_CFG table=filter family=2 entries=15 op=xt_replace pid=2878 comm="iptables"
+Nov 10 05:49:46 CMX50070-101776 audit[2878]: SYSCALL arch=c000003e syscall=54 success=yes exit=0 a0=4 a1=0 a2=40 a3=55f0ff9b85f0 items=0 ppid=1947 pid=2878 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="iptables" exe="/usr/sbin/xtables-legacy-multi" key=(null)
+Nov 10 05:49:46 CMX50070-101776 audit: PROCTITLE proctitle=2F7573722F7362696E2F69707461626C6573002D2D77616974002D4900464F5257415244002D6F00646F636B657230002D6A00444F434B4552
+Nov 10 05:49:46 CMX50070-101776 audit[2880]: NETFILTER_CFG table=filter family=2 entries=16 op=xt_replace pid=2880 comm="iptables"
+Nov 10 05:49:46 CMX50070-101776 audit[2880]: SYSCALL arch=c000003e syscall=54 success=yes exit=0 a0=4 a1=0 a2=40 a3=562ac1ae80c0 items=0 ppid=1947 pid=2880 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="

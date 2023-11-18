@@ -1,0 +1,20 @@
+31 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2280200 count: 57 t: 11:49:31 AM
+Nov 10 11:49:32 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2282400 count: 57 t: 11:49:32 AM
+Nov 10 11:49:33 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2284200 count: 66 t: 11:49:33 AM
+Nov 10 11:49:34 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2286200 count: 77 t: 11:49:34 AM
+Nov 10 11:49:35 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2288200 count: 70 t: 11:49:35 AM
+Nov 10 11:49:36 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2290200 count: 81 t: 11:49:36 AM
+Nov 10 11:49:37 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2292400 count: 90 t: 11:49:37 AM
+Nov 10 11:49:38 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2294200 count: 89 t: 11:49:38 AM
+Nov 10 11:49:39 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2296200 count: 94 t: 11:49:39 AM
+Nov 10 11:49:40 CMX50070-101776 health_service[545]: overflow_protection.sh:
+Nov 10 11:49:41 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2300300 count: 11 t: 11:49:41 AM
+Nov 10 11:49:41 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2300200 count: 100 t: 11:49:41 AM
+Nov 10 11:49:42 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2302200 count: 100 t: 11:49:42 AM
+Nov 10 11:49:42 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2302300 count: 5 t: 11:49:42 AM
+Nov 10 11:49:44 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2306300 count: 28 t: 11:49:44 AM
+Nov 10 11:49:45 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2308300 count: 22 t: 11:49:45 AM
+Nov 10 11:49:48 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2314300 count: 43 t: 11:49:48 AM
+Nov 10 11:49:49 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2316500 count: 46 t: 11:49:49 AM
+Nov 10 11:49:50 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2318300 count: 53 t: 11:49:50 AM
+Nov 10 11:49:51 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwa

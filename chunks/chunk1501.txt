@@ -1,0 +1,17 @@
+ctor.service: Failed with result 'start-limit-hit'.
+Nov 10 16:00:41 CMX50070-101776 systemd[1]: Failed to start Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 10 16:00:42 CMX50070-101776 systemd[1]: Starting Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter...
+Nov 10 16:00:43 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Deactivated successfully.
+Nov 10 16:00:43 CMX50070-101776 systemd[1]: Finished Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 10 16:00:43 CMX50070-101776 systemd[1]: Starting Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter...
+Nov 10 16:00:43 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Deactivated successfully.
+Nov 10 16:00:43 CMX50070-101776 systemd[1]: Finished Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 10 16:00:44 CMX50070-101776 systemd[1]: Starting Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter...
+Nov 10 16:00:44 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (10.0.54.68:58010).
+Nov 10 16:00:44 CMX50070-101776 sshd[3936583]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 16:00:44 CMX50070-101776 sshd[3936583]: Connection closed by 10.0.54.68 port 58010
+Nov 10 16:00:44 CMX50070-101776 systemd[1]: sshd@808-10.102.37.173:22-10.0.54.68:58010.service: Deactivated successfully.
+Nov 10 16:00:44 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Deactivated successfully.
+Nov 10 16:00:44 CMX50070-101776 systemd[1]: Finished Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 10 16:00:45 CMX50070-101776 systemd[1]: Starting Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter...
+Nov 10 16:00:45 CMX50070-101776 systemd[1]: Started OpenSSH Pe

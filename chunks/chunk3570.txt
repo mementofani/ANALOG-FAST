@@ -1,0 +1,13 @@
+ct):/usr/lib/fw/RS.CMWBase/DPSW/mb_cst_map.xcnf 300 1 501 0 0 0
+Nov 13 06:55:47 CMX50070-101776 start_mrt.sh[3324]: CMPX_MB_LD: Success! Call to function set_mb_ctrl_connection
+Nov 13 06:55:47 CMX50070-101776 kernel: CMX_MB_IOCTL_CONF_CST_CONTROL_CONNECTION call
+Nov 13 06:55:47 CMX50070-101776 start_mrt.sh[27493]: 2023-11-13T06:55:47.325+00:00 [info     ] Received SIGTERM, set stop event [prettypb.stoppable_server] prepare_setup=GsmWcdmaServicer
+Nov 13 06:55:47 CMX50070-101776 start_mrt.sh[27493]: 2023-11-13T06:55:47.326+00:00 [info     ] unregister '//mrt/0/testenvironment/0/signaling/0/gsmwcdma/0' <- <gwss.gsm_wcdma_servicer.GsmWcdmaServicer object at 0x7f12eca01ab0> [gwss.gwss_server.cli] prepare_setup=GsmWcdmaServicer
+Nov 13 06:55:47 CMX50070-101776 start_mrt.sh[27476]: [INFO] [2023-11-13T06:55:47,335+0000] [srsf.signal_handler:109]: Received SIGTERM, shutting down...
+Nov 13 06:55:47 CMX50070-101776 start_mrt.sh[27476]: [INFO] [2023-11-13T06:55:47,361+0000] [utilities.delete:234]: Deleting SaveRecall
+Nov 13 06:55:47 CMX50070-101776 start_mrt.sh[27476]: [INFO] [2023-11-13T06:55:47,361+0000] [__init__.stop:551]: stopping Drift - check if the queue is empty or wait upto 60 sec
+Nov 13 06:55:47 CMX50070-101776 start_mrt.sh[27493]: 2023-11-13T06:55:47.460+00:00 [info     ] Stop WCDMA state background thread [gwss.wcdma.wcdma_state] prepare_setup=GsmWcdmaServicer server=<dapi.zmqbroker_server.ZmqBrokerServer object at 0x7f12ecb06410>
+Nov 13 06:55:47 CMX50070-101776 start_mrt.sh[27493]: 2023-11-13T06:55:47.461+00:00 [info     ] Stopped WCDMA state background thread [gwss.wcdma.wcdma_state] prepare_setup=GsmWcdmaServicer server=<dapi.zmqbroker_server.ZmqBrokerServer object at 0x7f12ecb06410>
+Nov 13 06:55:47 CMX50070-101776 start_mrt.sh[27501]: [INFO] [2023-11-13T06:55:47,461+0000] [srss.signal_handler:109]: Received SIGTERM, shutting down...
+Nov 13 06:55:47 CMX50070-101776 start_mrt.sh[27501]: [INFO] [2023-11-13T06:55:47,465+0000] [utilities.delete:234]: Deleting SaveRecall
+Nov 13 06:55:47 CMX50070-101776 start_mrt.sh[27501]: [INFO] [2023-11-13T06:55

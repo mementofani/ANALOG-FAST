@@ -1,0 +1,18 @@
+Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 11:01:51 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 11:01:51 +00:00
+Nov 10 11:01:51 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 11:01:51 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 11:01:51 +00:00
+Nov 10 11:02:01 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 230.80M, Virtual set 5.53G, CPU Time 3353.820 s, CPU User Time 2139.360 s, Threads 41
+Nov 10 11:02:51 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 11:02:51 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 11:02:51 +00:00
+Nov 10 11:02:51 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 11:02:51 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 11:02:51 +00:00
+Nov 10 11:03:12 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (10.0.54.75:57940).
+Nov 10 11:03:12 CMX50070-101776 sshd[2027114]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 11:03:12 CMX50070-101776 sshd[2027114]: Connection closed by 10.0.54.75 port 57940
+Nov 10 11:03:12 CMX50070-101776 systemd[1]: sshd@424-10.102.37.173:22-10.0.54.75:57940.service: Deactivated successfully.
+Nov 10 11:03:46 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.24.26.36:57988).
+Nov 10 11:03:46 CMX50070-101776 sshd[2030629]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 11:03:46 CMX50070-101776 sshd[2030629]: Connection closed by 172.24.26.36 port 57988
+Nov 10 11:03:46 CMX50070-101776 systemd[1]: sshd@425-10.102.37.173:22-172.24.26.36:57988.service: Deactivated successfully.
+Nov 10 11:0

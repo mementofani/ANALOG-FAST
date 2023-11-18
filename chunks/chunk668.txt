@@ -1,0 +1,17 @@
+[78469]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 06:00:30 CMX50070-101776 sshd[78469]: Connection closed by 10.0.54.75 port 52426
+Nov 10 06:00:30 CMX50070-101776 systemd[1]: sshd@61-10.102.37.173:22-10.0.54.75:52426.service: Deactivated successfully.
+Nov 10 06:00:31 CMX50070-101776 systemd[1]: Starting Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter...
+Nov 10 06:00:31 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Deactivated successfully.
+Nov 10 06:00:31 CMX50070-101776 systemd[1]: Finished Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 10 06:00:32 CMX50070-101776 systemd[1]: Starting Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter...
+Nov 10 06:00:32 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.24.26.37:43064).
+Nov 10 06:00:32 CMX50070-101776 sshd[78951]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 06:00:32 CMX50070-101776 sshd[78951]: Connection closed by 172.24.26.37 port 43064
+Nov 10 06:00:32 CMX50070-101776 systemd[1]: sshd@62-10.102.37.173:22-172.24.26.37:43064.service: Deactivated successfully.
+Nov 10 06:00:32 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Deactivated successfully.
+Nov 10 06:00:32 CMX50070-101776 systemd[1]: Finished Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 10 06:00:33 CMX50070-101776 systemd[1]: Starting Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter...
+Nov 10 06:00:33 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Deactivated successfully.
+Nov 10 06:00:33 CMX50070-101776 systemd[1]: Finished Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 10 06:00:34 CMX50070-101776 systemd[1]: Starting Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for no

@@ -1,0 +1,20 @@
+ta: 48100 count: 40 t: 9:53:27 AM
+Nov 13 09:53:27 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 48600 count: 23 t: 9:53:27 AM
+Nov 13 09:53:27 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 49100 count: 3 t: 9:53:27 AM
+Nov 13 09:53:27 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 49000 count: 100 t: 9:53:27 AM
+Nov 13 09:53:27 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 49200 count: 41 t: 9:53:27 AM
+Nov 13 09:53:27 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 49900 count: 9 t: 9:53:27 AM
+Nov 13 09:53:27 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 49800 count: 100 t: 9:53:27 AM
+Nov 13 09:53:28 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 50300 count: 11 t: 9:53:28 AM
+Nov 13 09:53:28 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 50200 count: 100 t: 9:53:28 AM
+Nov 13 09:53:28 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 51100 count: 42 t: 9:53:28 AM
+Nov 13 09:53:28 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 51600 count: 76 t: 9:53:28 AM
+Nov 13 09:53:29 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 51800 count: 79 t: 9:53:29 AM
+Nov 13 09:53:29 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 51900 count: 70 t: 9:53:29 AM
+Nov 13 09:53:29 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 52700 count: 80 t: 9:53:29 AM
+Nov 13 09:53:29 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 136.18M, Virtual set 5.61G, CPU Time 41667.340 s, CPU User Time 26519.730 s, Threads 43
+Nov 13 09:53:29 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 53100 count: 72 t: 9:53:29 AM
+Nov 13 09:53:30 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 54100 count: 55 t: 9:53:30 AM
+Nov 13 09:53:30 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 54500 count: 64 t: 9:53:30 AM
+Nov 13 09:53:30 CMX50070-101776 start_cmxmarsserver.sh[4153157]: Got Data: 54900 count: 64 t: 9:53:30 AM
+Nov 13 09:53

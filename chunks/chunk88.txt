@@ -1,0 +1,15 @@
+ontainerd/io.containerd.grpc.v1.cri}"
+Nov 10 05:49:41 CMX50070-101776 containerd[1024]: time="2023-11-10T05:49:41.632124628Z" level=info msg="Connect containerd service"
+Nov 10 05:49:41 CMX50070-101776 containerd[1024]: time="2023-11-10T05:49:41.632357505Z" level=info msg="Get image filesystem path \"/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs\""
+Nov 10 05:49:41 CMX50070-101776 containerd[1024]: time="2023-11-10T05:49:41.633168169Z" level=error msg="failed to load cni during init, please check CRI plugin status before setting up network for pods" error="cni config load failed: no network config found in /etc/cni/net.d: cni plugin not initialized: failed to load cni config"
+Nov 10 05:49:41 CMX50070-101776 containerd[1024]: time="2023-11-10T05:49:41.633692314Z" level=info msg=serving... address=/run/containerd/containerd.sock.ttrpc
+Nov 10 05:49:41 CMX50070-101776 containerd[1024]: time="2023-11-10T05:49:41.633806158Z" level=info msg=serving... address=/run/containerd/containerd.sock
+Nov 10 05:49:41 CMX50070-101776 systemd[1]: Started containerd container runtime.
+Nov 10 05:49:41 CMX50070-101776 containerd[1024]: time="2023-11-10T05:49:41.635854438Z" level=info msg="containerd successfully booted in 0.181164s"
+Nov 10 05:49:41 CMX50070-101776 containerd[1024]: time="2023-11-10T05:49:41.637310445Z" level=info msg="Start subscribing containerd event"
+Nov 10 05:49:41 CMX50070-101776 containerd[1024]: time="2023-11-10T05:49:41.638294625Z" level=info msg="Start recovering state"
+Nov 10 05:49:41 CMX50070-101776 containerd[1024]: time="2023-11-10T05:49:41.638566597Z" level=info msg="Start event monitor"
+Nov 10 05:49:41 CMX50070-101776 containerd[1024]: time="2023-11-10T05:49:41.638626148Z" level=info msg="Start snapshots syncer"
+Nov 10 05:49:41 CMX50070-101776 containerd[1024]: time="2023-11-10T05:49:41.638661144Z" level=info msg="Start cni network conf syncer for default"
+Nov 10 05:49:41 CMX50070-101776 containerd[1024]: time="2023-11-10T05:49:41.638709104Z" level=info msg="Start streaming server"
+Nov 10 05:49:41 CMX50070-101776 start-mrt.s

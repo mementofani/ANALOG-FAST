@@ -1,0 +1,19 @@
+atrp3d1[1968]:       Worker running at: 11/13/2023 06:54:54 +00:00
+Nov 13 06:55:09 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 170.17M, Virtual set 5.60G, CPU Time 40037.330 s, CPU User Time 25482.610 s, Threads 41
+Nov 13 06:55:14 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 06:55:14 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 06:55:14 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 06:55:14 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 06:55:14 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 06:55:14 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 06:55:14 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 06:55:14 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 06:55:14 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 06:55:14 CMX50070-101776 rspias-daemon[1016]: B6113D344AC9209F R&S SWPL QUERY ID EqNumber=1201.0002k36,"DEFAULT"]
+Nov 13 06:55:14 CMX50070-101776 rspias-daemon[1016]: PIAS: 10.102.36.120:49613 >> [16EC5C81EFCF44E1B6113D344AC9209F R&S SWPL QUERY ID EqNumber=1201.0002k18,"DEFAULT"]
+Nov 13 06:55:14 CMX50070-101776 rspias-daemon[1016]: PIAS: 10.102.36.252:49825 >> [16EC5C81EFCF44E1B6113D344AC9209F R&S SWPL QUERY ID EqNumber=1201.0002k18,"DEFAULT"]
+Nov 13 06:55:14 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] >> DIAG:PROD:CAT?\n
+Nov 13 06:55:14 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] << "1201.0002k70","__SWP_Tool__"\n
+Nov 13 06:55:14 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] >> DIAG:PROD:SEL "1201.0002k70"\n
+Nov 13 06:55:14 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7] >> SYST:DFPR?\n
+Nov 13 06:5

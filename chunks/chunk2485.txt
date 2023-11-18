@@ -1,0 +1,16 @@
+ces.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 11 23:24:53 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/11/2023 23:24:53 +00:00
+Nov 11 23:25:53 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 11 23:25:53 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/11/2023 23:25:53 +00:00
+Nov 11 23:25:53 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 11 23:25:53 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/11/2023 23:25:53 +00:00
+Nov 11 23:26:36 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 178.33M, Virtual set 5.59G, CPU Time 23304.600 s, CPU User Time 14829.910 s, Threads 42
+Nov 11 23:26:53 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 11 23:26:53 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/11/2023 23:26:53 +00:00
+Nov 11 23:26:53 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 11 23:26:53 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/11/2023 23:26:53 +00:00
+Nov 11 23:27:53 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 11 23:27:53 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/11/2023 23:27:53 +00:00
+Nov 11 23:27:53 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 11 23:27:53 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/11/2023 23:27:53 +00:00
+Nov 11 23:28:23 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.Installatio

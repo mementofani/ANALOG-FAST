@@ -1,0 +1,18 @@
+: error: kex_exchange_identification: Connection closed by remote host
+Nov 13 06:00:16 CMX50070-101776 sshd[2653027]: Connection closed by 10.0.54.75 port 59476
+Nov 13 06:00:16 CMX50070-101776 systemd[1]: sshd@997-10.102.37.173:22-10.0.54.75:59476.service: Deactivated successfully.
+Nov 13 06:00:17 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Start request repeated too quickly.
+Nov 13 06:00:17 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Failed with result 'start-limit-hit'.
+Nov 13 06:00:17 CMX50070-101776 systemd[1]: Failed to start Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 13 06:00:18 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Start request repeated too quickly.
+Nov 13 06:00:18 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Failed with result 'start-limit-hit'.
+Nov 13 06:00:18 CMX50070-101776 systemd[1]: Failed to start Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 13 06:00:19 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Start request repeated too quickly.
+Nov 13 06:00:19 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Failed with result 'start-limit-hit'.
+Nov 13 06:00:19 CMX50070-101776 systemd[1]: Failed to start Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 13 06:00:19 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.24.26.36:57028).
+Nov 13 06:00:19 CMX50070-101776 sshd[2653347]: error: kex_exchange_identification: Connection closed by remote host
+Nov 13 06:00:19 CMX50070-101776 sshd[2653347]: Connection closed by 172.24.26.36 port 57028
+Nov 13 06:00:19 CMX50070-101776 systemd[1]: sshd@998-10.102.37.173:22-172.24.26.36:57028.service: Deactivated successfully.
+Nov 13 06:00:19 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.24.11.229:57504).
+Nov 13 06:00:19 CMX50070-101776 sshd[2653350]: error: kex_exchange_identification: Connection closed b

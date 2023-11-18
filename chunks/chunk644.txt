@@ -1,0 +1,12 @@
+tion/5
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.599370Z [DeviceApiSubscriber                                  ] DEBUG: Subscribing to //mrt/0/testenvironment/0/connection/6
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.599370Z [DeviceApiSubscriber                                  ] DEBUG: Subscribing to //mrt/0/testenvironment/0/connection/7
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.599370Z [DeviceApiSubscriber                                  ] DEBUG: Subscribing to //mrt/0/testenvironment/0/connection/8
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.600091Z [DeviceApiSubscriber                                  ] DEBUG: Subscribing to //mrt/0/testenvironment/0/connection/9
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.600091Z [DeviceApiSubscriber                                  ] DEBUG: Subscribing to //mrt/0/testenvironment/0/connection/10
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.600091Z [DeviceApiSubscriber                                  ] DEBUG: Subscribing to //mrt/0/testenvironment/0/connection/11
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.600091Z [DeviceApiSubscriber                                  ] DEBUG: Subscribing to //mrt/0/testenvironment/0/connection/12
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.600091Z [DeviceApiSubscriber                                  ] DEBUG: Subscribing to //mrt/0/testenvironment/0/connection/13
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.600091Z [DeviceApiSubscriber                                  ] DEBUG: Subscribing to //mrt/0/testenvironment/0/connection/14
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.600091Z [DeviceApiSubscriber                                  ] DEBUG: Subscribing to //mrt/0/testenvironment/0/connection/15
+Nov 10 05:53:27 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:53:27.600091Z [DeviceApiSubscriber                                  ] DEBUG: Subscribin

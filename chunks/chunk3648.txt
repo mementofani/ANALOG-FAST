@@ -1,0 +1,24 @@
+channel normally closed (or due to unexpected data).
+Nov 13 07:03:07 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: socket normally closed.
+Nov 13 07:03:07 CMX50070-101776 rspias-daemon[1016]: [231B blob data]
+Nov 13 07:03:07 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: Data channel normally closed (or due to unexpected data).
+Nov 13 07:03:07 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: socket normally closed.
+Nov 13 07:03:07 CMX50070-101776 rspias-daemon[1016]: [321B blob data]
+Nov 13 07:03:07 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: socket normally closed.
+Nov 13 07:03:07 CMX50070-101776 rspias-daemon[1016]: [321B blob data]
+Nov 13 07:03:07 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: socket normally closed.
+Nov 13 07:03:07 CMX50070-101776 rspias-daemon[1016]: [321B blob data]
+Nov 13 07:03:07 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: socket normally closed.
+Nov 13 07:03:07 CMX50070-101776 rspias-daemon[1016]: [321B blob data]
+Nov 13 07:03:07 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: socket normally closed.
+Nov 13 07:03:07 CMX50070-101776 rspias-daemon[1016]: [321B blob data]
+Nov 13 07:03:07 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: socket normally closed.
+Nov 13 07:03:07 CMX50070-101776 rspias-daemon[1016]: [163B blob data]
+Nov 13 07:03:07 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: Data channel normally closed (or due to unexpected data).
+Nov 13 07:03:07 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: socket normally closed.
+Nov 13 07:03:07 CMX50070-101776 rspias-daemon[1016]: [213B blob data]
+Nov 13 07:03:07 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: Data channel normally closed (or due to unexpected data).
+Nov 13 07:03:07 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: socket normally closed.
+Nov 13 07:03:07 CMX50070-101776 rspias-daemon[1016]: [242B blob data]
+Nov 13 07:03:07 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: Data channel normally closed (or due to unexpected data).
+Nov 13 07:03:07 CMX50070-101776 rspias-d

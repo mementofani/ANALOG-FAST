@@ -1,0 +1,21 @@
+t: 11:49:04 AM
+Nov 10 11:49:07 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2231600 count: 98 t: 11:49:07 AM
+Nov 10 11:49:08 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2234100 count: 7 t: 11:49:08 AM
+Nov 10 11:49:08 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2234000 count: 100 t: 11:49:08 AM
+Nov 10 11:49:12 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2242300 count: 27 t: 11:49:12 AM
+Nov 10 11:49:13 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2244300 count: 32 t: 11:49:13 AM
+Nov 10 11:49:15 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2248300 count: 48 t: 11:49:15 AM
+Nov 10 11:49:16 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2250300 count: 53 t: 11:49:16 AM
+Nov 10 11:49:18 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2254100 count: 63 t: 11:49:18 AM
+Nov 10 11:49:19 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2256300 count: 58 t: 11:49:19 AM
+Nov 10 11:49:20 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2258300 count: 71 t: 11:49:20 AM
+Nov 10 11:49:21 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2260200 count: 100 t: 11:49:21 AM
+Nov 10 11:49:21 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2260300 count: 16 t: 11:49:21 AM
+Nov 10 11:49:22 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2262300 count: 79 t: 11:49:22 AM
+Nov 10 11:49:23 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2264300 count: 88 t: 11:49:23 AM
+Nov 10 11:49:27 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2272300 count: 100 t: 11:49:27 AM
+Nov 10 11:49:27 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2272400 count: 4 t: 11:49:27 AM
+Nov 10 11:49:28 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2274200 count: 35 t: 11:49:28 AM
+Nov 10 11:49:29 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2276200 count: 44 t: 11:49:29 AM
+Nov 10 11:49:30 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 2278200 count: 53 t: 11:49:30 AM
+Nov 10 11:49:

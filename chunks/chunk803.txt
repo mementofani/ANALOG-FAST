@@ -1,0 +1,16 @@
+.Positioning.PositioningServiceHost[0]
+Nov 10 08:49:51 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 08:49:51 +00:00
+Nov 10 08:49:51 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 08:49:51 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 08:49:51 +00:00
+Nov 10 08:50:03 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 252.42M, Virtual set 5.41G, CPU Time 1986.610 s, CPU User Time 1267.310 s, Threads 44
+Nov 10 08:50:51 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 08:50:51 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 08:50:51 +00:00
+Nov 10 08:50:51 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 08:50:51 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 08:50:51 +00:00
+Nov 10 08:51:29 CMX50070-101776 ast2sys[16350]: [10913.174] CLOCK_REALTIME rms   51 max 1545 freq -31217 +/-  46
+Nov 10 08:51:40 CMX50070-101776 start_mrt.sh[3324]: TSS: No PTP nodes connected.
+Nov 10 08:51:41 CMX50070-101776 phc2sys[17597]: [10925.502] eth_internal rms   43 max 1112 freq     -1 +/-  38 delay  1476 +/-  16
+Nov 10 08:51:50 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 252.42M, Virtual set 5.41G, CPU Time 2004.740 s, CPU User Time 1279.060 s, Threads 44
+Nov 10 08:51:51 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 08:51:51 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 08:51:51 +00:00
+Nov 10 08:51:51 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.

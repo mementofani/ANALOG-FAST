@@ -1,0 +1,20 @@
+identification: Connection closed by remote host
+Nov 10 06:07:12 CMX50070-101776 sshd[124782]: Connection closed by 172.25.196.5 port 35558
+Nov 10 06:07:12 CMX50070-101776 systemd[1]: sshd@94-10.102.37.173:22-172.25.196.5:35558.service: Deactivated successfully.
+Nov 10 06:07:23 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.24.11.231:36978).
+Nov 10 06:07:23 CMX50070-101776 sshd[125955]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 06:07:23 CMX50070-101776 sshd[125955]: Connection closed by 172.24.11.231 port 36978
+Nov 10 06:07:23 CMX50070-101776 systemd[1]: sshd@95-10.102.37.173:22-172.24.11.231:36978.service: Deactivated successfully.
+Nov 10 06:07:28 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 10 06:07:29 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (10.0.54.74:50588).
+Nov 10 06:07:29 CMX50070-101776 sshd[126492]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 06:07:29 CMX50070-101776 sshd[126492]: Connection closed by 10.0.54.74 port 50588
+Nov 10 06:07:29 CMX50070-101776 systemd[1]: sshd@96-10.102.37.173:22-10.0.54.74:50588.service: Deactivated successfully.
+Nov 10 06:07:30 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (192.168.85.173:60164).
+Nov 10 06:07:30 CMX50070-101776 sshd[126602]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 06:07:30 CMX50070-101776 sshd[126602]: Connection closed by 192.168.85.173 port 60164
+Nov 10 06:07:30 CMX50070-101776 systemd[1]: sshd@97-10.102.37.173:22-192.168.85.173:60164.service: Deactivated successfully.
+Nov 10 06:07:44 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (10.0.54.70:58666).
+Nov 10 06:07:44 CMX50070-101776 sshd[128091]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 06:07:44 CMX50070-101776 sshd[128091]: Connection closed by 10.0.54.70 port 58666
+Nov 10 06:07:44 CMX50070-101776 systemd[1]: sshd@98-10.102.37.173:22-10.0.54.70:58666.service: Deactivated s

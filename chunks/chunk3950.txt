@@ -1,0 +1,27 @@
+h[221199]: MCh    [ 0  ]
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: CNCO   [ 0  ]
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: Multichannel parameter:
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: RF [ 1950.00000 ]
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: BW [ 10.00000 ]
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: Overall DAC:
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: RF 1950.00000
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: BW 10.00000
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: RF Band 2
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: Carriers TRXID 1:
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: Handle [ 0  ]
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: fs     [ 156.25000  ]
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: RFmin  [ 3474.99000  ]
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: RF     [ 3549.99000  ]
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: RFmax  [ 3624.99000  ]
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: BW     [ 100.00000  ]
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: MCh    [ 0  ]
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: CNCO   [ 0  ]
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: Multichannel parameter:
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: RF [ 3549.99000 ]
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: BW [ 100.00000 ]
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: Overall DAC:
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: RF 3549.99000
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: BW 100.00000
+Nov 13 10:33:55 CMX50070-101776 start_mrt.sh[221199]: RF Band 4
+Nov 13 10:33:55 CMX50070-101776 mrt.dos[1967]: 2023-11-13T10:33:55.238688Z [DeviceApiSubscriber                                  ] DEBUG: Received message from Connection service
+Nov 13 10:33:55 CMX50070-101776 mrt.dos[1967]: 2023-11-13T10:33:55.238688Z [DeviceApiSubscriber                                  ] DEBUG: Connection service message: Found connec

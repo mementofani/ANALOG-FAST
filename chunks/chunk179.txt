@@ -1,0 +1,11 @@
+02 comm="iptables"
+Nov 10 05:49:54 CMX50070-101776 audit[4602]: SYSCALL arch=c000003e syscall=54 success=yes exit=0 a0=4 a1=0 a2=40 a3=5626b3529a60 items=0 ppid=4570 pid=4602 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="iptables" exe="/usr/sbin/xtables-legacy-multi" key=(null)
+Nov 10 05:49:54 CMX50070-101776 audit: PROCTITLE proctitle=2F7573722F7362696E2F69707461626C6573002D2D77616974002D74006E6174002D4E00444F434B45525F4F5554505554
+Nov 10 05:49:54 CMX50070-101776 audit[4604]: NETFILTER_CFG table=nat family=2 entries=7 op=xt_replace pid=4604 comm="iptables"
+Nov 10 05:49:54 CMX50070-101776 audit[4604]: SYSCALL arch=c000003e syscall=54 success=yes exit=0 a0=4 a1=0 a2=40 a3=55979241dc10 items=0 ppid=4570 pid=4604 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="iptables" exe="/usr/sbin/xtables-legacy-multi" key=(null)
+Nov 10 05:49:54 CMX50070-101776 audit: PROCTITLE proctitle=2F7573722F7362696E2F69707461626C6573002D2D77616974002D74006E6174002D49004F5554505554002D64003132372E302E302E3131002D6A00444F434B45525F4F5554505554
+Nov 10 05:49:54 CMX50070-101776 audit[4608]: NETFILTER_CFG table=nat family=2 entries=8 op=xt_replace pid=4608 comm="iptables"
+Nov 10 05:49:54 CMX50070-101776 audit[4608]: SYSCALL arch=c000003e syscall=54 success=yes exit=0 a0=4 a1=0 a2=40 a3=5623bb5eedb0 items=0 ppid=4570 pid=4608 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="iptables" exe="/usr/sbin/xtables-legacy-multi" key=(null)
+Nov 10 05:49:54 CMX50070-101776 audit: PROCTITLE proctitle=2F7573722F7362696E2F69707461626C6573002D2D77616974002D74006E6174002D4E00444F434B45525F504F5354524F5554494E47
+Nov 10 05:49:54 CMX50070-101776 audit[4612]: NETFILTER_CFG table=nat family=2 entries=10 op=xt_replace pid=4612 comm="iptables"
+Nov 10 05:49:54 CMX50070-101776 audit[4612]: SYSCALL arch=c000003e syscall=54 success=yes exit=0 a0=4 a1=0 a2=40 a3=55b73190df60 items=0 ppid=4570 pid=4612 auid=4294967295 uid=0 gid=0 euid=0 sui

@@ -1,0 +1,20 @@
+RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 06:05:51 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 06:05:51 +00:00
+Nov 10 06:05:51 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 10 06:05:59 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 10 06:05:59 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 229.59M, Virtual set 4.94G, CPU Time 168.210 s, CPU User Time 110.550 s, Threads 38
+Nov 10 06:06:07 CMX50070-101776 rspias-daemon[1016]: cket[4]: socket normally closed.
+Nov 10 06:06:07 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3]: Data channel normally closed (or due to unexpected data).
+Nov 10 06:06:07 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3]: socket normally closed.
+Nov 10 06:06:07 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: Data channel normally closed (or due to unexpected data).
+Nov 10 06:06:07 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: socket normally closed.
+Nov 10 06:06:07 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3]: Data channel normally closed (or due to unexpected data).
+Nov 10 06:06:07 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3]: socket normally closed.
+Nov 10 06:06:07 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: Data channel normally closed (or due to unexpected data).
+Nov 10 06:06:07 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[4]: socket normally closed.
+Nov 10 06:06:07 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3] >> INFO\r\n
+Nov 10 06:06:07 CMX50070-101776 rspias-daemon[1016]: [57B blob data]
+Nov 10 06:06:07 CMX50070-101776 rspias-daemon[1016]: [48B blob data]
+Nov 10 06:06:07 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3]: Data channel normally closed (or due to unexpected data).
+Nov 10 06:06:07 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[3]: socket normally closed.
+Nov 10 06:06:07 CMX5

@@ -1,0 +1,26 @@
+de Update Driver: v2.2.
+Nov 10 05:49:37 localhost kernel: IPI shorthand broadcast: enabled
+Nov 10 05:49:37 localhost kernel: sched_clock: Marking stable (698667917, 1332104)->(1548873467, -848873446)
+Nov 10 05:49:37 localhost kernel: Btrfs loaded, crc32c=crc32c-generic, zoned=no, fsverity=no
+Nov 10 05:49:37 localhost kernel: pstore: Using crash dump compression: deflate
+Nov 10 05:49:37 localhost kernel: Key type encrypted registered
+Nov 10 05:49:37 localhost kernel: printk: console [netcon0] enabled
+Nov 10 05:49:37 localhost kernel: netconsole: network logging started
+Nov 10 05:49:37 localhost kernel: acpi_cpufreq: overriding BIOS provided _PSD data
+Nov 10 05:49:37 localhost kernel: usb 1-1: new high-speed USB device number 2 using xhci_hcd
+Nov 10 05:49:37 localhost kernel: usb 3-2: new high-speed USB device number 2 using xhci_hcd
+Nov 10 05:49:37 localhost kernel: usb 3-2: New USB device found, idVendor=0424, idProduct=2514, bcdDevice= b.b3
+Nov 10 05:49:37 localhost kernel: usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+Nov 10 05:49:37 localhost kernel: usb 1-1: New USB device found, idVendor=0aad, idProduct=01f5, bcdDevice= 0.00
+Nov 10 05:49:37 localhost kernel: usb 1-1: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+Nov 10 05:49:37 localhost kernel: usb 1-1: Product: R&S Motherboard MIC
+Nov 10 05:49:37 localhost kernel: usb 1-1: Manufacturer: Rohde & Schwarz GmbH & Co. KG
+Nov 10 05:49:37 localhost kernel: usb 1-1: SerialNumber: 101057
+Nov 10 05:49:37 localhost kernel: hub 3-2:1.0: USB hub found
+Nov 10 05:49:37 localhost kernel: hub 3-2:1.0: 4 ports detected
+Nov 10 05:49:37 localhost kernel: ata1: SATA link up 6.0 Gbps (SStatus 133 SControl 300)
+Nov 10 05:49:37 localhost kernel: ata1.00: ATA-10: SFSA960GM2AK4TO-C-8C-636-STD, SBR10013, max UDMA/133
+Nov 10 05:49:37 localhost kernel: ata1.00: 1875385008 sectors, multi 0: LBA48 NCQ (depth 32), AA
+Nov 10 05:49:37 localhost kernel: ata1.00: Features: Dev-Sleep
+Nov 10 05:49:37 localhost kernel: ata1.00: configured for UDMA/133
+Nov 10 05:49:37 localhost kernel: scsi 0:0:0:

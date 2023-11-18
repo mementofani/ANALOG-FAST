@@ -1,0 +1,15 @@
+dPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 139.14M, Virtual set 5.60G, CPU Time 41436.170 s, CPU User Time 26374.460 s, Threads 45
+Nov 13 09:30:20 CMX50070-101776 start_cmxmarsserver.sh[3969328]: UnsubscribeFromFormulaValues /home/instrument/.local/tmp/cmxtools/cmxmars/upload/a9c82a-7bd1bf/DownlinkPhyOneCell.msglog
+Nov 13 09:30:21 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 0 count: 100 t: 9:30:21 AM
+Nov 13 09:30:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 13 09:30:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/13/2023 09:30:54 +00:00
+Nov 13 09:30:55 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 13 09:30:55 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2023 09:30:55 +00:00
+Nov 13 09:31:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 13 09:31:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/13/2023 09:31:54 +00:00
+Nov 13 09:31:55 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 13 09:31:55 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2023 09:31:55 +00:00
+Nov 13 09:32:05 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 137.18M, Virtual set 5.59G, CPU Time 41453.190 s, CPU User Time 26384.640 s, Threads 41
+Nov 13 09:32:54 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 13 09:32:54 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/13/2023 09:32:54 +00:00
+Nov 13 09:32:55 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: Roh

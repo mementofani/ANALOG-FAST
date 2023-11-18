@@ -1,0 +1,13 @@
+ t: 7:06:43 AM
+Nov 13 07:06:44 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 0 count: 69 t: 7:06:44 AM
+Nov 13 07:06:46 CMX50070-101776 start_mrt.sh[3080896]: Dispatching RPC RatRqm1::sfa_0::message_received
+Nov 13 07:06:46 CMX50070-101776 start_mrt.sh[3080896]: execute
+Nov 13 07:06:46 CMX50070-101776 mrt.dos[1967]: 2023-11-13T07:06:46.326141Z [DeviceApiSubscriber                                  ] DEBUG: Received message from Connection service
+Nov 13 07:06:46 CMX50070-101776 mrt.dos[1967]: 2023-11-13T07:06:46.326141Z [DeviceApiSubscriber                                  ] DEBUG: Received message from Connection service
+Nov 13 07:06:46 CMX50070-101776 mrt.dos[1967]: 2023-11-13T07:06:46.326141Z [DeviceApiSubscriber                                  ] DEBUG: Connection service message: Found connection: //mrt/0/connector/16 <=> //mrt/0/testenvironment/0/dut/0/connector/0 @ //mrt/0/testenvironment/0/connection/28
+Nov 13 07:06:46 CMX50070-101776 mrt.dos[1967]: 2023-11-13T07:06:46.332072Z [DeviceApiSubscriber                                  ] DEBUG: 1 messages in the queue
+Nov 13 07:06:46 CMX50070-101776 mrt.dos[1967]: 2023-11-13T07:06:46.332225Z [DeviceApiSubscriber                                  ] DEBUG: Connection service message: Found connection: //mrt/0/connector/16 <=> //mrt/0/testenvironment/0/dut/0/connector/0 @ //mrt/0/testenvironment/0/connection/28
+Nov 13 07:06:46 CMX50070-101776 mrt.dos[1967]: 2023-11-13T07:06:46.336757Z [DeviceApiSubscriber                                  ] DEBUG: 0 messages in the queue
+Nov 13 07:06:46 CMX50070-101776 mrt.dos[1967]: 2023-11-13T07:06:46.338464Z [DeviceApiSubscriber                                  ] DEBUG: Received message from Connection service
+Nov 13 07:06:46 CMX50070-101776 mrt.dos[1967]: 2023-11-13T07:06:46.338464Z [DeviceApiSubscriber                                  ] DEBUG: Connection service message: Found connection: //mrt/0/connector/16 <=> //mrt/0/testenvironment/0/dut/0/connector/0 @ //mrt/0/testenvironment/0/connection/28
+Nov 13 07:06:46 CMX50070-101776 mrt.dos[1967]: 2023-

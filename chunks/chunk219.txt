@@ -1,0 +1,22 @@
+ CMX50070-101776 kernel: CMX_IOCTL_GET_SLOT_ID call
+Nov 10 05:50:12 CMX50070-101776 kernel: CLOSE cmx_au driver by pid: 3324 (RsDeviceStarter)
+Nov 10 05:50:12 CMX50070-101776 kernel: OPEN cmx_au driver called from pid: 3324 (RsDeviceStarter)
+Nov 10 05:50:12 CMX50070-101776 kernel: CMX_IOCTL_GET_SLOT_ID call
+Nov 10 05:50:12 CMX50070-101776 kernel: CLOSE cmx_au driver by pid: 3324 (RsDeviceStarter)
+Nov 10 05:50:12 CMX50070-101776 kernel: OPEN cmx_au driver called from pid: 3324 (RsDeviceStarter)
+Nov 10 05:50:12 CMX50070-101776 kernel: CMX_IOCTL_GET_SLOT_ID call
+Nov 10 05:50:12 CMX50070-101776 kernel: CLOSE cmx_au driver by pid: 3324 (RsDeviceStarter)
+Nov 10 05:50:12 CMX50070-101776 kernel: OPEN cmx_mb_bh7 driver called from pid: 3324 (RsDeviceStarter)
+Nov 10 05:50:12 CMX50070-101776 kernel: CMX_IOCTL_GET_SLOT_ID call
+Nov 10 05:50:12 CMX50070-101776 kernel: CLOSE cmx_mb_bh7 driver by Pid: 3324 (RsDeviceStarter)
+Nov 10 05:50:12 CMX50070-101776 flexxamconfigurationbridge[6228]: running sams:
+Nov 10 05:50:12 CMX50070-101776 health_service.deviceapi[544]: Publish update:
+Nov 10 05:50:12 CMX50070-101776 health_service.deviceapi[544]: ################################################################################
+Nov 10 05:50:12 CMX50070-101776 health_service.deviceapi[544]: ID:        9
+Nov 10 05:50:12 CMX50070-101776 health_service.deviceapi[544]: State:        2
+Nov 10 05:50:12 CMX50070-101776 health_service.deviceapi[544]: Progress:        [1] Initialize Startup
+Nov 10 05:50:12 CMX50070-101776 health_service.deviceapi[544]: Reliability:        [0]
+Nov 10 05:50:12 CMX50070-101776 health_service.deviceapi[544]: Num HW:        0
+Nov 10 05:50:12 CMX50070-101776 health_service.deviceapi[544]: ################################################################################
+Nov 10 05:50:12 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:12.563221Z [DeviceApiSubscriber                                  ] DEBUG: Received message from Health service
+Nov 10 05:50:12 CMX50070-101776 mrt.dos[1967]: 2023-11-10T05:50:12.563221Z [DeviceApiSubscriber                 

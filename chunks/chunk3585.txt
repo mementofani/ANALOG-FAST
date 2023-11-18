@@ -1,0 +1,20 @@
+016]: [73B blob data]
+Nov 13 06:56:32 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[B]: Data channel normally closed (or due to unexpected data).
+Nov 13 06:56:32 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[B]: socket normally closed.
+Nov 13 06:56:32 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[E]: Data channel normally closed (or due to unexpected data).
+Nov 13 06:56:32 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[E]: socket normally closed.
+Nov 13 06:56:32 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8]: Data channel normally closed (or due to unexpected data).
+Nov 13 06:56:32 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[9]: Data channel normally closed (or due to unexpected data).
+Nov 13 06:56:32 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[8]: socket normally closed.
+Nov 13 06:56:32 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[9]: socket normally closed.
+Nov 13 06:56:32 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[C]: Data channel normally closed (or due to unexpected data).
+Nov 13 06:56:32 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[C]: socket normally closed.
+Nov 13 06:56:32 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: Data channel normally closed (or due to unexpected data).
+Nov 13 06:56:32 CMX50070-101776 rspias-daemon[1016]: PIAS: Socket[7]: socket normally closed.
+Nov 13 06:56:32 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 06:56:38 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 0 count: 18 t: 6:56:38 AM
+Nov 13 06:56:40 CMX50070-101776 rspias-daemon[1016]: PIAS: PIAS: Remote access from client 10.0.2.217
+Nov 13 06:56:40 CMX50070-101776 start_mrt.sh[3010477]: Dispatching RPC RatRqm1::sfa_0::message_received
+Nov 13 06:56:40 CMX50070-101776 start_mrt.sh[3010477]: execute
+Nov 13 06:56:40 CMX50070-101776 mrt.dos[1967]: 2023-11-13T06:56:40.884442Z [DeviceApiSubscriber                                  ] DEBUG: Received message from Connection service
+Nov 13 06:56:40 CMX50070-101776 mrt.dos[1967]: 2023-11-13T06:56:40.884442Z [

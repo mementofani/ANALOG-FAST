@@ -1,0 +1,22 @@
+.
+Nov 10 05:49:38 localhost kernel: usb 3-2.2.1: new high-speed USB device number 6 using xhci_hcd
+Nov 10 05:49:38 localhost systemd[1]: Starting Cleanup udev Database...
+Nov 10 05:49:38 localhost systemd[1]: systemd-network-generator.service: Deactivated successfully.
+Nov 10 05:49:38 localhost systemd[1]: Stopped Generate network units from Kernel command line.
+Nov 10 05:49:38 localhost systemd[1]: systemd-tmpfiles-setup-dev.service: Deactivated successfully.
+Nov 10 05:49:38 localhost systemd[1]: Stopped Create Static Device Nodes in /dev.
+Nov 10 05:49:38 localhost systemd[1]: initrd-udevadm-cleanup-db.service: Deactivated successfully.
+Nov 10 05:49:38 localhost systemd[1]: Finished Cleanup udev Database.
+Nov 10 05:49:38 localhost systemd[1]: Reached target Switch Root.
+Nov 10 05:49:38 localhost systemd[1]: Starting Switch Root...
+Nov 10 05:49:38 localhost systemd[1]: Switching root.
+Nov 10 05:49:38 localhost systemd-journald[187]: Journal stopped
+Nov 10 05:49:38 CMX50070-101776 systemd-journald[187]: Received SIGTERM from PID 1 (systemd).
+Nov 10 05:49:38 CMX50070-101776 kernel: usb 3-2.2.1: New USB device found, idVendor=0424, idProduct=2517, bcdDevice= 0.02
+Nov 10 05:49:38 CMX50070-101776 kernel: usb 3-2.2.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+Nov 10 05:49:38 CMX50070-101776 systemd[1]: Current system time is further ahead 15y after build time, but cannot correct: Invalid argument
+Nov 10 05:49:38 CMX50070-101776 systemd[1]: systemd 250.5+ running in system mode (+PAM -AUDIT -SELINUX -APPARMOR -IMA -SMACK -SECCOMP -GCRYPT -GNUTLS -OPENSSL +ACL +BLKID -CURL -ELFUTILS -FIDO2 -IDN2 -IDN -IPTC +KMOD -LIBCRYPTSETUP +LIBFDISK -PCRE2 -PWQUALITY -P11KIT -QRENCODE -BZIP2 +LZ4 -XZ -ZLIB -ZSTD -BPF_FRAMEWORK -XKBCOMMON +UTMP -SYSVINIT default-hierarchy=hybrid)
+Nov 10 05:49:38 CMX50070-101776 systemd[1]: Detected architecture x86-64.
+Nov 10 05:49:38 CMX50070-101776 systemd[1]: Hostname set to <CMX50070-101776>.
+Nov 10 05:49:38 CMX50070-101776 kernel: hub 3-2.2.1:1.0: USB hub found
+Nov 10 05:49:38 CMX50070-101776 kernel: hub 3-2.2.1:1

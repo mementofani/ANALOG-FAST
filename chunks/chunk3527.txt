@@ -1,0 +1,21 @@
+@1224-10.102.37.173:22-172.24.26.36:42972.service: Deactivated successfully.
+Nov 13 06:41:00 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 500 count: 40 t: 6:41:00 AM
+Nov 13 06:41:01 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 500 count: 41 t: 6:41:01 AM
+Nov 13 06:41:01 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 500 count: 43 t: 6:41:01 AM
+Nov 13 06:41:02 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 500 count: 44 t: 6:41:02 AM
+Nov 13 06:41:02 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 500 count: 46 t: 6:41:02 AM
+Nov 13 06:41:03 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 500 count: 47 t: 6:41:03 AM
+Nov 13 06:41:03 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 500 count: 49 t: 6:41:03 AM
+Nov 13 06:41:04 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 500 count: 50 t: 6:41:04 AM
+Nov 13 06:41:04 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 500 count: 52 t: 6:41:04 AM
+Nov 13 06:41:05 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 500 count: 53 t: 6:41:05 AM
+Nov 13 06:41:05 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 500 count: 55 t: 6:41:05 AM
+Nov 13 06:41:06 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 500 count: 56 t: 6:41:06 AM
+Nov 13 06:41:06 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 500 count: 58 t: 6:41:06 AM
+Nov 13 06:41:07 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 500 count: 59 t: 6:41:07 AM
+Nov 13 06:41:07 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 500 count: 61 t: 6:41:07 AM
+Nov 13 06:41:08 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 500 count: 62 t: 6:41:08 AM
+Nov 13 06:41:08 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 500 count: 64 t: 6:41:08 AM
+Nov 13 06:41:08 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.24.26.39:44046).
+Nov 13 06:41:08 CMX50070-101776 sshd[2915707]: error: kex_exchange_identification: Connection closed by remote host
+Nov 13 06:41:08 CMX50070-101776 s

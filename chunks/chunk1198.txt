@@ -1,0 +1,18 @@
+cmxmarsserver.sh[1825413]: Got Data: 626200 count: 39 t: 11:35:46 AM
+Nov 10 11:35:47 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 628200 count: 35 t: 11:35:47 AM
+Nov 10 11:35:48 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 630000 count: 41 t: 11:35:48 AM
+Nov 10 11:35:49 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 632200 count: 54 t: 11:35:49 AM
+Nov 10 11:35:50 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 634200 count: 53 t: 11:35:50 AM
+Nov 10 11:35:51 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 11:35:51 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 11:35:51 +00:00
+Nov 10 11:35:51 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 636200 count: 56 t: 11:35:51 AM
+Nov 10 11:35:51 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 11:35:51 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 11:35:51 +00:00
+Nov 10 11:35:52 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 638200 count: 65 t: 11:35:52 AM
+Nov 10 11:35:53 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 639800 count: 76 t: 11:35:53 AM
+Nov 10 11:35:54 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 642200 count: 69 t: 11:35:54 AM
+Nov 10 11:35:54 CMX50070-101776 RsInstallation[1952]: [.NET ThreadPool Worker] INFO RohdeSchwarz.InstallationServiceLib.InstallationService - Stats: Working set 226.02M, Virtual set 5.60G, CPU Time 3721.490 s, CPU User Time 2370.960 s, Threads 43
+Nov 10 11:35:55 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 644200 count: 80 t: 11:35:55 AM
+Nov 10 11:35:56 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 646000 count: 83 t: 11:35:56 AM
+Nov 10 11:35:57 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 647900 count: 8 t: 11:35:57 AM
+Nov 10 11:35:57 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Da

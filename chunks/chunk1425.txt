@@ -1,0 +1,19 @@
+0-101776 sshd[3672853]: Connection closed by 10.0.54.75 port 48374
+Nov 10 15:19:50 CMX50070-101776 systemd[1]: sshd@576-10.102.37.173:22-10.0.54.75:48374.service: Deactivated successfully.
+Nov 10 15:19:51 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 15:19:51 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 15:19:51 +00:00
+Nov 10 15:19:52 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 15:19:52 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 15:19:52 +00:00
+Nov 10 15:19:54 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (10.0.54.74:54422).
+Nov 10 15:19:54 CMX50070-101776 sshd[3673200]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:19:54 CMX50070-101776 sshd[3673200]: Connection closed by 10.0.54.74 port 54422
+Nov 10 15:19:54 CMX50070-101776 systemd[1]: sshd@577-10.102.37.173:22-10.0.54.74:54422.service: Deactivated successfully.
+Nov 10 15:19:55 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.24.11.228:36276).
+Nov 10 15:19:55 CMX50070-101776 sshd[3673337]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:19:55 CMX50070-101776 sshd[3673337]: Connection closed by 172.24.11.228 port 36276
+Nov 10 15:19:55 CMX50070-101776 systemd[1]: sshd@578-10.102.37.173:22-172.24.11.228:36276.service: Deactivated successfully.
+Nov 10 15:19:59 CMX50070-101776 start_cmxmarsserver.sh[3661989]: Got Data: 0 count: 54 t: 3:19:59 PM
+Nov 10 15:20:00 CMX50070-101776 start_cmxmarsserver.sh[3661989]: Got Data: 0 count: 54 t: 3:20:00 PM
+Nov 10 15:20:00 CMX50070-101776 start_cmxmarsserver.sh[3661989]: Got Data: 0 count: 57 t: 3:20:00 PM
+Nov 10 15:20:00 CMX50070-101776 start_cmxmarsserver.sh[3661989]: Got Data: 0 count: 63 t: 3:20:00 PM
+Nov 10 15:20:00 CMX50070-101776 start_cmxmarsserver.sh[3661989]: Got Data: 0 count: 54 t: 3:20:00 PM

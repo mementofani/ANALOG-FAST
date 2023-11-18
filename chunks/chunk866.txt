@@ -1,0 +1,21 @@
+xmarsserver.sh[386]: Got Data: 284200 count: 100 t: 9:18:38 AM
+Nov 10 09:18:38 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 284300 count: 2 t: 9:18:38 AM
+Nov 10 09:18:39 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 285900 count: 97 t: 9:18:39 AM
+Nov 10 09:18:40 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 288300 count: 16 t: 9:18:40 AM
+Nov 10 09:18:40 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 288200 count: 100 t: 9:18:40 AM
+Nov 10 09:18:41 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 290100 count: 25 t: 9:18:41 AM
+Nov 10 09:18:42 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 292100 count: 19 t: 9:18:42 AM
+Nov 10 09:18:43 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 294100 count: 7 t: 9:18:43 AM
+Nov 10 09:18:43 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 294000 count: 100 t: 9:18:43 AM
+Nov 10 09:18:44 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 296200 count: 22 t: 9:18:44 AM
+Nov 10 09:18:45 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 298200 count: 22 t: 9:18:45 AM
+Nov 10 09:18:46 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 300200 count: 28 t: 9:18:46 AM
+Nov 10 09:18:47 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 302200 count: 37 t: 9:18:47 AM
+Nov 10 09:18:48 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 304200 count: 100 t: 9:18:48 AM
+Nov 10 09:18:48 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 304300 count: 6 t: 9:18:48 AM
+Nov 10 09:18:49 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 306300 count: 1 t: 9:18:49 AM
+Nov 10 09:18:49 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 306200 count: 100 t: 9:18:49 AM
+Nov 10 09:18:50 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 308300 count: 12 t: 9:18:50 AM
+Nov 10 09:18:50 CMX50070-101776 start_cmxmarsserver.sh[386]: Got Data: 308200 count: 100 t: 9:18:50 AM
+Nov 10 09:18:51 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 09:18:51 CMX50070-10177

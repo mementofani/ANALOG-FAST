@@ -1,0 +1,20 @@
+os.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 13 09:41:55 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/13/2023 09:41:55 +00:00
+Nov 13 09:41:55 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 4000 count: 49 t: 9:41:55 AM
+Nov 13 09:41:55 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 4100 count: 33 t: 9:41:55 AM
+Nov 13 09:41:55 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 4100 count: 58 t: 9:41:55 AM
+Nov 13 09:41:56 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 4100 count: 88 t: 9:41:56 AM
+Nov 13 09:41:56 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 4100 count: 88 t: 9:41:56 AM
+Nov 13 09:41:56 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 4200 count: 52 t: 9:41:56 AM
+Nov 13 09:41:56 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 4200 count: 78 t: 9:41:56 AM
+Nov 13 09:41:56 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 4300 count: 8 t: 9:41:56 AM
+Nov 13 09:41:56 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 4200 count: 100 t: 9:41:56 AM
+Nov 13 09:41:57 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 4300 count: 34 t: 9:41:57 AM
+Nov 13 09:41:57 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 4300 count: 37 t: 9:41:57 AM
+Nov 13 09:41:57 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 4400 count: 8 t: 9:41:57 AM
+Nov 13 09:41:57 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 4300 count: 100 t: 9:41:57 AM
+Nov 13 09:41:57 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 4400 count: 36 t: 9:41:57 AM
+Nov 13 09:41:57 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Got Data: 4400 count: 62 t: 9:41:57 AM
+Nov 13 09:42:00 CMX50070-101776 start_cmxmarsserver.sh[3969328]: After runonce
+Nov 13 09:42:03 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Re-init accessor: (defaultOnlineTable) == (6b45dbac-2c6a-41c2-895d-050a69019c7c)False
+Nov 13 09:42:04 CMX50070-101776 start_cmxmarsserver.sh[3969328]: Re-i

@@ -1,0 +1,20 @@
+0 05:49:44 CMX50070-101776 xu_launcher[1956]: Started [1978]: /usr/lib/fw/rs.fsw_tools.fsw/front_unit_ld_standalone 1500
+Nov 10 05:49:44 CMX50070-101776 xu_launcher[1956]: Started [1979]: /usr/lib/fw/rs.fsw_tools.fsw/au_ld_standalone 1000
+Nov 10 05:49:44 CMX50070-101776 xu_launcher[1956]: Started [1980]: /usr/lib/fw/rs.fsw_tools.fsw/au_ld_standalone 500
+Nov 10 05:49:44 CMX50070-101776 xu_launcher[1956]: Started [1981]: /usr/lib/fw/rs.fsw_tools.fsw/pu_ld_standalone 1100 --type=B300B
+Nov 10 05:49:44 CMX50070-101776 xu_launcher[1978]: ERROR: Cannot create file "FrontUnit_1500.log": Permission denied
+Nov 10 05:49:44 CMX50070-101776 xu_launcher[1978]: WARNING: Attempting "/tmp/FrontUnit_1500.log" instead
+Nov 10 05:49:44 CMX50070-101776 xu_launcher[1979]: ERROR: Cannot create file "AU_1000.log": Permission denied
+Nov 10 05:49:44 CMX50070-101776 xu_launcher[1979]: WARNING: Attempting "/tmp/AU_1000.log" instead
+Nov 10 05:49:44 CMX50070-101776 xu_launcher[1977]: ERROR: Cannot create file "AU_1200.log": Permission denied
+Nov 10 05:49:44 CMX50070-101776 xu_launcher[1977]: WARNING: Attempting "/tmp/AU_1200.log" instead
+Nov 10 05:49:44 CMX50070-101776 xu_launcher[1980]: ERROR: Cannot create file "AU_500.log": Permission denied
+Nov 10 05:49:44 CMX50070-101776 xu_launcher[1980]: WARNING: Attempting "/tmp/AU_500.log" instead
+Nov 10 05:49:44 CMX50070-101776 systemd[1]: Started Xserver startup with a display manager.
+Nov 10 05:49:44 CMX50070-101776 Xserver[2257]: X.Org X Server 1.21.1.4
+Nov 10 05:49:44 CMX50070-101776 Xserver[2257]: X Protocol Version 11, Revision 0
+Nov 10 05:49:44 CMX50070-101776 Xserver[2257]: Current Operating System: Linux CMX50070-101776 5.15.73 #1 SMP PREEMPT Sun May 21 21:05:48 UTC 2023 x86_64
+Nov 10 05:49:44 CMX50070-101776 Xserver[2257]: Kernel command line: BOOT_IMAGE=/boot/vmlinuz root=/dev/sda2 video=eDP-1:d ro
+Nov 10 05:49:44 CMX50070-101776 Xserver[2257]:
+Nov 10 05:49:44 CMX50070-101776 Xserver[2257]: Current version of pixman: 0.40.0
+Nov 10 05:49:44 CMX50070-101776 Xserver[2257]:         Before reporting problems, check http://wiki

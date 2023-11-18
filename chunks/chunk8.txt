@@ -1,0 +1,23 @@
+ff, max_idle_ns: 133484873504 ns
+Nov 10 05:49:37 localhost kernel: APIC: Switch to symmetric I/O mode setup
+Nov 10 05:49:37 localhost kernel: Switched APIC routing to physical flat.
+Nov 10 05:49:37 localhost kernel: ..TIMER: vector=0x30 apic1=0 pin1=2 apic2=-1 pin2=-1
+Nov 10 05:49:37 localhost kernel: clocksource: tsc-early: mask: 0xffffffffffffffff max_cycles: 0x2ec31d52a9d, max_idle_ns: 440795303934 ns
+Nov 10 05:49:37 localhost kernel: Calibrating delay loop (skipped), value calculated using timer frequency.. 6488.25 BogoMIPS (lpj=3244125)
+Nov 10 05:49:37 localhost kernel: pid_max: default: 32768 minimum: 301
+Nov 10 05:49:37 localhost kernel: Mount-cache hash table entries: 32768 (order: 6, 262144 bytes, linear)
+Nov 10 05:49:37 localhost kernel: Mountpoint-cache hash table entries: 32768 (order: 6, 262144 bytes, linear)
+Nov 10 05:49:37 localhost kernel: LVT offset 1 assigned for vector 0xf9
+Nov 10 05:49:37 localhost kernel: LVT offset 2 assigned for vector 0xf4
+Nov 10 05:49:37 localhost kernel: Last level iTLB entries: 4KB 1024, 2MB 1024, 4MB 512
+Nov 10 05:49:37 localhost kernel: Last level dTLB entries: 4KB 1536, 2MB 1536, 4MB 768, 1GB 0
+Nov 10 05:49:37 localhost kernel: Spectre V1 : Mitigation: usercopy/swapgs barriers and __user pointer sanitization
+Nov 10 05:49:37 localhost kernel: Spectre V2 : Kernel not compiled with retpoline; no mitigation available!
+Nov 10 05:49:37 localhost kernel: Spectre V2 : Vulnerable
+Nov 10 05:49:37 localhost kernel: Spectre V2 : Spectre v2 / SpectreRSB mitigation: Filling RSB on context switch
+Nov 10 05:49:37 localhost kernel: Spectre V2 : Enabling Speculation Barrier for firmware calls
+Nov 10 05:49:37 localhost kernel: RETBleed: Vulnerable
+Nov 10 05:49:37 localhost kernel: Spectre V2 : mitigation: Enabling conditional Indirect Branch Prediction Barrier
+Nov 10 05:49:37 localhost kernel: Speculative Store Bypass: Mitigation: Speculative Store Bypass disabled via prctl and seccomp
+Nov 10 05:49:37 localhost kernel: Freeing SMP alternatives memory: 44K
+Nov 10 05:49:37 localhost kernel: smpboot: CPU0: AMD Ryzen Embe

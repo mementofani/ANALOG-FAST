@@ -1,0 +1,20 @@
+101776 sshd[3649878]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:16:13 CMX50070-101776 sshd[3649878]: Connection closed by 10.0.54.70 port 58164
+Nov 10 15:16:13 CMX50070-101776 systemd[1]: sshd@558-10.102.37.173:22-10.0.54.70:58164.service: Deactivated successfully.
+Nov 10 15:16:16 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.25.232.145:43566).
+Nov 10 15:16:16 CMX50070-101776 sshd[3650209]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:16:16 CMX50070-101776 sshd[3650209]: Connection closed by 172.25.232.145 port 43566
+Nov 10 15:16:16 CMX50070-101776 systemd[1]: sshd@559-10.102.37.173:22-172.25.232.145:43566.service: Deactivated successfully.
+Nov 10 15:16:17 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.24.26.39:35216).
+Nov 10 15:16:17 CMX50070-101776 sshd[3650313]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:16:17 CMX50070-101776 sshd[3650313]: Connection closed by 172.24.26.39 port 35216
+Nov 10 15:16:17 CMX50070-101776 systemd[1]: sshd@560-10.102.37.173:22-172.24.26.39:35216.service: Deactivated successfully.
+Nov 10 15:16:20 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.24.11.231:39672).
+Nov 10 15:16:20 CMX50070-101776 sshd[3650532]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:16:20 CMX50070-101776 sshd[3650532]: Connection closed by 172.24.11.231 port 39672
+Nov 10 15:16:20 CMX50070-101776 systemd[1]: sshd@561-10.102.37.173:22-172.24.11.231:39672.service: Deactivated successfully.
+Nov 10 15:16:20 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (10.0.54.72:45494).
+Nov 10 15:16:20 CMX50070-101776 sshd[3650591]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 15:16:20 CMX50070-101776 sshd[3650591]: Connection closed by 10.0.54.72 port 45494
+Nov 10 15:16:20 CMX50070-101776 systemd[1]: sshd@562-10.102.37.173:22-10.0.54.72:45494.service: Deactivated successfully.
+Nov 10 15:16:20 CMX50070-101776

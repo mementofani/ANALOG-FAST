@@ -1,0 +1,20 @@
+ metrics and prepares them for node_exporter.
+Nov 13 10:00:58 CMX50070-101776 start_cmxmarsserver.sh[15492]: Re-init accessor: (Untitled) == (5506ca33-fe5c-42fe-be59-caa1a8419026)False
+Nov 13 10:00:58 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 0 count: 0 t: 10:00:58 AM
+Nov 13 10:00:58 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 0 count: 0 t: 10:00:58 AM
+Nov 13 10:00:58 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 0 count: 0 t: 10:00:58 AM
+Nov 13 10:00:59 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 0 count: 13 t: 10:00:59 AM
+Nov 13 10:00:59 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 0 count: 13 t: 10:00:59 AM
+Nov 13 10:00:59 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 2900 count: 55 t: 10:00:59 AM
+Nov 13 10:00:59 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 2900 count: 55 t: 10:00:59 AM
+Nov 13 10:00:59 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Start request repeated too quickly.
+Nov 13 10:00:59 CMX50070-101776 systemd[1]: mrt.smartmon-collector.service: Failed with result 'start-limit-hit'.
+Nov 13 10:00:59 CMX50070-101776 systemd[1]: Failed to start Script that periodically evaluates the main S.M.A.R.T metrics and prepares them for node_exporter.
+Nov 13 10:00:59 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 3200 count: 100 t: 10:00:59 AM
+Nov 13 10:00:59 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 4100 count: 45 t: 10:00:59 AM
+Nov 13 10:01:00 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 4400 count: 88 t: 10:01:00 AM
+Nov 13 10:01:00 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 4700 count: 23 t: 10:01:00 AM
+Nov 13 10:01:00 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 5400 count: 5 t: 10:01:00 AM
+Nov 13 10:01:00 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 5300 count: 100 t: 10:01:00 AM
+Nov 13 10:01:00 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 6000 count: 91 t: 10:01:00 AM
+Nov 13 10:01:00 CMX50070-101776 start_cmxmarsserver.sh[15492]: Got Data: 6700 count: 4

@@ -1,0 +1,19 @@
+perationMode: "Primary" Master address: "10.102.37.173"  slaves:{}
+Nov 10 05:52:29 CMX50070-101776 start_mrt.sh[3324]: OperationMode: "Primary" Master address: "10.102.37.173"  slaves:{}
+Nov 10 05:52:29 CMX50070-101776 start_mrt.sh[3324]: try to register 172.22.1.10 (172.22.1.10)
+Nov 10 05:52:29 CMX50070-101776 start_mrt.sh[3324]: RegisterSecondaryAlfManager name:DAU address:172.22.1.10 status:18 error:Invalid Setup error adding slave 172.22.1.10
+Nov 10 05:52:41 CMX50070-101776 mrt.pos.catrp3dr[1969]: Socket: connect operation failed with error 110
+Nov 10 05:52:41 CMX50070-101776 mrt.pos.catrp3dr[1969]: Socket: connect operation failed with error 110
+Nov 10 05:52:51 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 05:52:51 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 05:52:51 +00:00
+Nov 10 05:52:51 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 05:52:51 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 05:52:51 +00:00
+Nov 10 05:52:57 CMX50070-101776 systemd[1]: Started OpenSSH Per-Connection Daemon (172.25.11.231:45176).
+Nov 10 05:52:57 CMX50070-101776 sshd[26045]: error: kex_exchange_identification: Connection closed by remote host
+Nov 10 05:52:57 CMX50070-101776 sshd[26045]: Connection closed by 172.25.11.231 port 45176
+Nov 10 05:52:57 CMX50070-101776 systemd[1]: sshd@21-10.102.37.173:22-172.25.11.231:45176.service: Deactivated successfully.
+Nov 10 05:53:07 CMX50070-101776 health_service.deviceapi[544]: Publish update:
+Nov 10 05:53:07 CMX50070-101776 health_service.deviceapi[544]: ################################################################################
+Nov 10 05:53:07 CMX50070-101776 health_service.deviceapi[544]: ID:        155
+Nov 10 05:53:07 CMX50070-101776 health_service.deviceapi[544]: State:        2
+Nov 10 05:53:07 CMX50070-101776 health_service.deviceapi[544]: Progress:        [87] Syste

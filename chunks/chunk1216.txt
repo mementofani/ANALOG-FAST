@@ -1,0 +1,20 @@
+100 t: 11:41:41 AM
+Nov 10 11:41:41 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1338000 count: 4 t: 11:41:41 AM
+Nov 10 11:41:44 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1344000 count: 17 t: 11:41:44 AM
+Nov 10 11:41:44 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1343900 count: 100 t: 11:41:44 AM
+Nov 10 11:41:45 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1346000 count: 11 t: 11:41:45 AM
+Nov 10 11:41:45 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1345900 count: 100 t: 11:41:45 AM
+Nov 10 11:41:47 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1350000 count: 35 t: 11:41:47 AM
+Nov 10 11:41:49 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1354000 count: 32 t: 11:41:49 AM
+Nov 10 11:41:50 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1356000 count: 42 t: 11:41:50 AM
+Nov 10 11:41:51 CMX50070-101776 mrt.pos.catrp3dr[1969]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3Dr.Positioning.PositioningServiceHost[0]
+Nov 10 11:41:51 CMX50070-101776 mrt.pos.catrp3dr[1969]:       Worker running at: 11/10/2023 11:41:51 +00:00
+Nov 10 11:41:51 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1358000 count: 54 t: 11:41:51 AM
+Nov 10 11:41:51 CMX50070-101776 mrt.pos.catrp3d1[1968]: info: RohdeSchwarz.Mrt.Microservices.PositioningCatrP3D1.Positioning.PositioningServiceHost[0]
+Nov 10 11:41:51 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Worker running at: 11/10/2023 11:41:51 +00:00
+Nov 10 11:41:53 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1362000 count: 56 t: 11:41:53 AM
+Nov 10 11:41:54 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1364000 count: 69 t: 11:41:54 AM
+Nov 10 11:41:56 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1368000 count: 79 t: 11:41:56 AM
+Nov 10 11:41:57 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1370000 count: 70 t: 11:41:57 AM
+Nov 10 11:41:59 CMX50070-101776 start_cmxmarsserver.sh[1825413]: Got Data: 1374000 count: 83 t: 11:41:59 AM
+Nov 10 11:42:00 CMX50070-101776

@@ -1,0 +1,21 @@
+X50070-101776 mrt.pos.catrp3d1[1968]: info: Microsoft.Hosting.Lifetime[0]
+Nov 10 05:49:51 CMX50070-101776 mrt.pos.catrp3d1[1968]:       Content root path: /opt/rohde-schwarz/mrt.positioning.catrp3d1
+Nov 10 05:49:51 CMX50070-101776 xu_launcher[1978]: Front Unit LD has been started.
+Nov 10 05:49:51 CMX50070-101776 xu_launcher[1978]: Waiting for (any) signal to shut down...
+Nov 10 05:49:52 CMX50070-101776 sh[3390]: Creating cmseq ...
+Nov 10 05:49:52 CMX50070-101776 systemd[1]: var-lib-docker-overlay2-cfdb1b95dd327b8db987fffeaaee78a86007ea65a2128702cd856d1f62001814\x2dinit-merged.mount: Deactivated successfully.
+Nov 10 05:49:52 CMX50070-101776 xu_launcher[3616]: Creating Snapshot
+Nov 10 05:49:52 CMX50070-101776 xu_launcher[3616]: Creating config
+Nov 10 05:49:52 CMX50070-101776 xu_launcher[3616]: Traceback (most recent call last):
+Nov 10 05:49:52 CMX50070-101776 xu_launcher[3616]:   File "/usr/local/share/xu-scripts/cmx_package_setup_creator.py", line 49, in <module>
+Nov 10 05:49:52 CMX50070-101776 xu_launcher[3616]:     exit(main())
+Nov 10 05:49:52 CMX50070-101776 xu_launcher[3616]:   File "/usr/local/share/xu-scripts/cmx_package_setup_creator.py", line 45, in main
+Nov 10 05:49:52 CMX50070-101776 xu_launcher[3616]:     SaveAsJson(packages,args.filepath)
+Nov 10 05:49:52 CMX50070-101776 xu_launcher[3616]:   File "/usr/local/share/xu-scripts/cmx_package_setup_creator.py", line 33, in SaveAsJson
+Nov 10 05:49:52 CMX50070-101776 xu_launcher[3616]:     with open(fullpath, 'w') as f:
+Nov 10 05:49:52 CMX50070-101776 xu_launcher[3616]: FileNotFoundError: [Errno 2] No such file or directory: 'FrontUnit_1500/setup.cmxsetup'
+Nov 10 05:49:52 CMX50070-101776 xu_launcher[1978]: Received signal: 17
+Nov 10 05:49:52 CMX50070-101776 bash[3413]: Creating network "cmxreporting_default" with the default driver
+Nov 10 05:49:52 CMX50070-101776 kernel: kauditd_printk_skb: 135 callbacks suppressed
+Nov 10 05:49:52 CMX50070-101776 kernel: audit: type=1325 audit(1699595392.260:92): table=nat family=2 entries=11 op=xt_replace pid=3655 comm="iptables"
+Nov 10 05:49:52 CMX50070-1017

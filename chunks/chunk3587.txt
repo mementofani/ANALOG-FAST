@@ -1,0 +1,15 @@
+ the queue
+Nov 13 06:56:42 CMX50070-101776 mrt.dos[1967]: 2023-11-13T06:56:42.880362Z [DeviceApiSubscriber                                  ] DEBUG: Connection service message: Found connection: //mrt/0/connector/16 <=> //mrt/0/testenvironment/0/dut/0/connector/0 @ //mrt/0/testenvironment/0/connection/28
+Nov 13 06:56:42 CMX50070-101776 mrt.dos[1967]: 2023-11-13T06:56:42.884506Z [DeviceApiSubscriber                                  ] DEBUG: 0 messages in the queue
+Nov 13 06:56:42 CMX50070-101776 mrt.dos[1967]: 2023-11-13T06:56:42.893235Z [DeviceApiSubscriber                                  ] DEBUG: Received message from Connection service
+Nov 13 06:56:42 CMX50070-101776 mrt.dos[1967]: 2023-11-13T06:56:42.893235Z [DeviceApiSubscriber                                  ] DEBUG: Connection service message: Found connection: //mrt/0/connector/16 <=> //mrt/0/testenvironment/0/dut/0/connector/0 @ //mrt/0/testenvironment/0/connection/28
+Nov 13 06:56:42 CMX50070-101776 mrt.dos[1967]: 2023-11-13T06:56:42.896588Z [DeviceApiSubscriber                                  ] DEBUG: 0 messages in the queue
+Nov 13 06:56:42 CMX50070-101776 start_mrt.sh[3010477]: Dispatching RPC RatRqm1::sfa_0::message_received
+Nov 13 06:56:42 CMX50070-101776 start_mrt.sh[3010477]: execute
+Nov 13 06:56:42 CMX50070-101776 start_mrt.sh[3014983]: /usr/lib/stack/lte/36.80.8/bsp/cmx/pu_container/tools/build_container.sh: Log at /home/instrument/fw/log/2023-11-10T05-49-49Z/sfa/NetworkEmulation2/temp/lte/build.log
+Nov 13 06:56:44 CMX50070-101776 start_mrt.sh[3324]: Found PID file from running PU LD: 1981
+Nov 13 06:56:44 CMX50070-101776 start_mrt.sh[3324]: Found PID file from running AU LD: 1980
+Nov 13 06:56:44 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 0 count: 58 t: 6:56:44 AM
+Nov 13 06:56:44 CMX50070-101776 start_cmxmarsserver.sh[2908496]: Got Data: 0 count: 59 t: 6:56:44 AM
+Nov 13 06:56:44 CMX50070-101776 xu_launcher[3015137]: Received ACK from [fe80::02e0:33ff:fe0b:b5bf%eth_internal]:22 after 197 microseconds
+Nov 13 06:56:44 CMX50070-101776 xu_launcher[1981]: Received sig

@@ -1,0 +1,11 @@
+-101776 audit[2765]: NETFILTER_CFG table=filter family=2 entries=11 op=xt_replace pid=2765 comm="iptables"
+Nov 10 05:49:46 CMX50070-101776 audit[2765]: SYSCALL arch=c000003e syscall=54 success=yes exit=0 a0=4 a1=0 a2=40 a3=563280662030 items=0 ppid=1947 pid=2765 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="iptables" exe="/usr/sbin/xtables-legacy-multi" key=(null)
+Nov 10 05:49:46 CMX50070-101776 audit: PROCTITLE proctitle=2F7573722F7362696E2F69707461626C6573002D2D77616974002D4100444F434B45522D49534F4C4154494F4E2D53544147452D32002D6A0052455455524E
+Nov 10 05:49:46 CMX50070-101776 audit[2766]: NETFILTER_CFG table=filter family=2 entries=12 op=xt_replace pid=2766 comm="iptables"
+Nov 10 05:49:46 CMX50070-101776 audit[2766]: SYSCALL arch=c000003e syscall=54 success=yes exit=0 a0=4 a1=0 a2=40 a3=557f05ad1120 items=0 ppid=1947 pid=2766 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="iptables" exe="/usr/sbin/xtables-legacy-multi" key=(null)
+Nov 10 05:49:46 CMX50070-101776 audit: PROCTITLE proctitle=2F7573722F7362696E2F69707461626C6573002D2D77616974002D740066696C746572002D5000464F52574152440044524F50
+Nov 10 05:49:46 CMX50070-101776 NetworkManager[441]: <info>  [1699595386.3148] manager: (docker0): new Bridge device (/org/freedesktop/NetworkManager/Devices/4)
+Nov 10 05:49:46 CMX50070-101776 audit[2774]: NETFILTER_CFG table=nat family=2 entries=7 op=xt_replace pid=2774 comm="iptables"
+Nov 10 05:49:46 CMX50070-101776 audit[2774]: SYSCALL arch=c000003e syscall=54 success=yes exit=0 a0=4 a1=0 a2=40 a3=55de0a5682a0 items=0 ppid=1947 pid=2774 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="iptables" exe="/usr/sbin/xtables-legacy-multi" key=(null)
+Nov 10 05:49:46 CMX50070-101776 audit: PROCTITLE proctitle=2F7573722F7362696E2F69707461626C6573002D2D77616974002D74006E6174002D4900504F5354524F5554494E47002D73003130302E38322E36342E302F32350000002D6F00646F636B657230002D6A004D415351554552414445
+Nov 10 05
