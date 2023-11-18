@@ -8,7 +8,7 @@ let db = new sqlite3.Database("log_data.db", sqlite3.OPEN_READWRITE, (err) => {
     console.log("Connected to the SQLite database.");
   }
 });
-
+//
 // Function to execute a single query
 function executeQuery(sql) {
   return new Promise((resolve, reject) => {

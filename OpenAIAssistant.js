@@ -10,16 +10,16 @@ class OpenAIAssistant {
     this.openai = new OpenAI({ apiKey });
   }
 
+  async createThread() {
+    this.thread = await this.openai.beta.threads.create();
+  }
+
   async createAssistant() {
     this.assistant = await this.openai.beta.assistants.create({
       name: "Log-Analyst",
       instructions: instructions,
       model: "gpt-4",
     });
-  }
-
-  async createThread() {
-    this.thread = await this.openai.beta.threads.create();
   }
 
   async generateSQLLiteQuery(question) {
