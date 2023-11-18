@@ -2,9 +2,12 @@
   "name": "rough-implementation",
   "version": "1.0.0",
   "description": "rough startup",
-  "main": "server.js",
+  "main": "server.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node src/server.ts"
   },
   "author": "",
   "license": "ISC",
@@ -14,5 +17,10 @@
     "express": "^4.18.2",
     "openai": "^4.19.0",
     "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.16",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.5"
   }
 }

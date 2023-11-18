@@ -2,4 +2,4 @@
 
 FAST Search Operations
 
-Authors: Tapus Aggrawal
+Authors: Tapus Aggrawal, Alihan Sencan

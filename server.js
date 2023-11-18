@@ -1,4 +1,5 @@
 require("dotenv").config();
+
 const readline = require("readline").createInterface({
   input: process.stdin,
   output: process.stdout,
@@ -17,28 +18,22 @@ async function askQuestion(question) {
 async function main() {
   try {
     const assistant = new OpenAIAssistant(
-      "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"
+      "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"
     );
     await assistant.createAssistant();
     await assistant.createThread();
 
-    const response = await assistant.askQuestionAI();
-
     let keepAsking = true;
 
     while (keepAsking) {
-      const userQuestion = await assistant.askQuestionAI(
-        "\n What is your question? "
-      );
+      const userQuestion = await askQuestion("\n What is your question? ");
 
       const sqlLiteQuery = JSON.parse(
         await assistant.generateSQLLiteQuery(userQuestion)
       );
 
       // Executing the generated SQLLite query and getting response
-
       const sqlLiteResponse = await query(sqlLiteQuery.sqlLite_query);
-
       const assistantResponse = await assistant.answerSqlLiteQuery(
         sqlLiteResponse
       );
