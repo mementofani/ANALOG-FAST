@@ -28,6 +28,9 @@ async function main() {
     while (keepAsking) {
       const userQuestion = await askQuestion("\n What is your question? ");
 
+      //Critisizing
+      //Create the critisizer before the query is asked, since we need
+
       const sqlLiteQuery = JSON.parse(
         await assistant.generateSQLLiteQuery(userQuestion)
       );

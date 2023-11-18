@@ -7,6 +7,7 @@ function extractUniqueWords(message) {
 }
 
 function createWordLogIdMapping(dbPath = "log_data.db") {
+  let wordArray = [];
   const dbExists = fs.existsSync(dbPath);
   if (!dbExists) {
     console.error(`Database not found at path: ${dbPath}`);
@@ -23,14 +24,21 @@ function createWordLogIdMapping(dbPath = "log_data.db") {
     }
 
     const uniqueWords = extractUniqueWords(row.message);
+
     uniqueWords.forEach((word) => {
       if (word in wordLogIdMapping) {
         wordLogIdMapping[word].add(row.rowid);
+        //Put inside the word array if it is not already there.
+        if (wordArray.find((element) => element === word) === undefined) {
+          wordArray.push(word);
+        }
       } else {
         wordLogIdMapping[word] = new Set([row.rowid]);
       }
     });
   });
+  //write the word array to a file
+  fs.writeFileSync("wordArray.txt", wordArray);
 
   db.close();
   return wordLogIdMapping;

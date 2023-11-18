@@ -13,7 +13,13 @@ function processLogFile(filePath) {
   const fileContent = fs.readFileSync(filePath, "utf8");
   const lines = fileContent.split("\n");
   return lines
-    .map((line) => parseLogLine(line))
+    .map((line, index) => {
+      const parsedLine = parseLogLine(line);
+      if (parsedLine === null) {
+        console.log(`Failed to parse line ${index + 1}: ${line}`);
+      }
+      return parsedLine;
+    })
     .filter((result) => result !== null);
 }
 
