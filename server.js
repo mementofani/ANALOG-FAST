@@ -16,7 +16,9 @@ async function askQuestion(question) {
 
 async function main() {
   try {
-    const assistant = new OpenAIAssistant(process.env.OPENAI_API_KEY);
+    const assistant = new OpenAIAssistant(
+      "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"
+    );
     await assistant.createAssistant();
     await assistant.createThread();
 

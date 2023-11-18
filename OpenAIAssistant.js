@@ -1,10 +1,10 @@
 const OpenAI = require("openai");
-import {
+const {
   instructions,
   promptAsk,
   promptUserInput,
   promptToNormalize,
-} from "./prompts/prompts";
+} = require("./prompts/prompts.js");
 class OpenAIAssistant {
   constructor(apiKey) {
     this.openai = new OpenAI({ apiKey });

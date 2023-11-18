@@ -1,4 +1,4 @@
-export let instructions = `Task Description for Log Analysis Machine(Only JSON formatted responses and preffer short responses):
+let instructions = `Task Description for Log Analysis Machine(Only JSON formatted responses and preffer short responses):
             Objective:
 
             Assist users in identifying specific issues or information within log files.
@@ -30,6 +30,10 @@ export let instructions = `Task Description for Log Analysis Machine(Only JSON f
             Context-Specific Query: And then Use identified keywords to formulate specific query for the logs table.
             Contextual Relevance: Ensure keywords are contextually appropriate for the query subject.`;
 
-export let promptUserInput = `User needs help with:`;
+let promptUserInput = `User needs help with:`;
 
-export let promptToNormalize = `Process the following SQLLite query results and provide a user-friendly interpretation: \n`;
+let promptToNormalize = `Process the following SQLLite query results and provide a user-friendly interpretation: \n`;
+
+module.exports.instructions = instructions;
+module.exports.promptUserInput = promptUserInput;
+module.exports.promptToNormalize = promptToNormalize;
