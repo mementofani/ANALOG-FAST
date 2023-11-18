@@ -22,12 +22,14 @@ async function main() {
     await assistant.createAssistant();
     await assistant.createThread();
 
-    const response = await askQuestionAI();
+    const response = await assistant.askQuestionAI();
 
     let keepAsking = true;
 
     while (keepAsking) {
-      const userQuestion = await askQuestion("\n What is your question? ");
+      const userQuestion = await assistant.askQuestionAI(
+        "\n What is your question? "
+      );
 
       const sqlLiteQuery = JSON.parse(
         await assistant.generateSQLLiteQuery(userQuestion)
