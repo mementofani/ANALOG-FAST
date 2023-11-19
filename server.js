@@ -38,7 +38,7 @@ async function main() {
     let numberBuffer = 0;
     let num_chunks = 4000;
     let summary = "";
-    while (numberBuffer < 2) {
+    while (numberBuffer < 100) {
       numberBuffer += 20;
       // Build the file path for the current chunk
       const chunkFilePath = `chunks/chunk${numberBuffer}.txt`;
