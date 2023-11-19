@@ -21,7 +21,7 @@ async function askQuestion(question) {
 async function main() {
   try {
     const assistant = new OpenAIAssistant(
-      "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"
+      "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"
     );
 
     await assistant.createAssistantSummary();
