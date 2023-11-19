@@ -17,13 +17,14 @@ class Summarizer {
   async summarizeChunks() {
     while (this.numberBuffer < this.num_chunks) {
       this.numberBuffer++;
-
       // Build the file path for the current chunk
       const chunkFilePath = `chunks/chunk${this.numberBuffer}.txt`;
+      console.log("Chunk file path: " + chunkFilePath);
       console.log("Reading file: " + chunkFilePath); // Add this line for debugging
-
       // Read the content of the chunk file asynchronously
       const chunkContent = await fs.readFile(chunkFilePath, "utf-8");
+
+      console.log("Chunk content is" + chunkContent);
 
       if (this.summary === "") {
         this.promptToSend = promptII + chunkContent;

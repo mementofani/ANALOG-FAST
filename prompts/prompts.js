@@ -30,6 +30,27 @@ let instructions = `Task Description for Log Analysis Machine(Only JSON formatte
             Context-Specific Query: And then Use identified keywords to formulate specific query for the logs table.
             Contextual Relevance: Ensure keywords are contextually appropriate for the query subject.`;
 
+let summaryInstructions = `Log File Summarization Prompt:
+
+---
+Given the log file provided, please generate a concise and informative summary that captures the key events, issues, and trends. The log file contains information related to [briefly describe the content, e.g., system logs, application events, network activities].
+
+Log File Content Sample:
+[Include a snippet or example of the log file content here. Highlight relevant log entries to showcase the variety of information available.]
+
+Additional Instructions:
+1. Prioritize highlighting critical events, errors, or anomalies.
+2. Include information about the timestamp, source, and severity of events.
+3. If there are specific keywords or phrases to focus on, please ensure they are appropriately emphasized.
+4. Aim for a summary length of around [specify desired word or character count].
+
+Example Keywords or Phrases:
+- [List specific keywords or phrases that are important for the summary.]
+
+---
+
+[Insert the actual content of the log file here or provide a placeholder for users to upload their log file.]`;
+
 let promptUserInput = `User needs help with:`;
 
 let propmptToFindSynonyms = `Because the word chosen as a keyword, for the user's query can be present in form of a synonym or a similar word, here is a list" // add .txt here
@@ -58,3 +79,6 @@ fs.readFile("path/to/your/file.txt", "utf8", function (err, data) {
 module.exports.instructions = instructions;
 module.exports.promptUserInput = promptUserInput;
 module.exports.promptToNormalize = promptToNormalize;
+module.exports.promptII = promptII;
+module.exports.promptI = promptI;
+module.exports.summaryInstructions = summaryInstructions;

@@ -4,6 +4,7 @@ const {
   promptAsk,
   promptUserInput,
   promptToNormalize,
+  summaryInstructions,
 } = require("./prompts/prompts.js");
 class OpenAIAssistant {
   constructor(apiKey) {
@@ -20,6 +21,18 @@ class OpenAIAssistant {
       instructions: instructions,
       model: "gpt-4",
     });
+  }
+
+  async createAssistantSummary() {
+    this.assistant = await this.openai.beta.assistants.create({
+      name: "Log-Analyst",
+      instructions: summaryInstructions,
+      model: "gpt-4",
+    });
+    console.log("--------------------");
+    console.log("CREATED ASSISTANT SUMMARY");
+    console.log(this.assistant);
+    console.log("--------------------");
   }
 
   async generateSQLLiteQuery(question) {
