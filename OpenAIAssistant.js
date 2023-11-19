@@ -5,6 +5,7 @@ const {
   promptUserInput,
   promptToNormalize,
 } = require("./prompts/prompts.js");
+
 class OpenAIAssistant {
   constructor(apiKey) {
     this.openai = new OpenAI({ apiKey });
@@ -21,6 +22,24 @@ class OpenAIAssistant {
       model: "gpt-4",
     });
   }
+
+  async isEnoughForAnalysis_AGENT() {
+
+  }
+
+  async generateKeyWords() {
+    //TODO
+  }
+
+  async matchSynonyms() {
+    //TODO
+  }
+
+  async generateSQL_Query() {
+    // TODO
+  }
+
+
 
   async generateSQLLiteQuery(question) {
     // Example prompt to generate SQLLite query

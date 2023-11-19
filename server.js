@@ -26,13 +26,13 @@ async function main() {
     await assistant.createThread();
 
     // Create an instance of Summarizer and Chunks
-    const summarizer = new Summarizer(4000, assistant);
-    const chunker = new Chunks("final_log.out", 4000);
+    // const summarizer = new Summarizer(4000, assistant);
+    // const chunker = new Chunks("final_log.out", 4000);
 
-    await chunker.execute(); // Split the file into chunks
+    // await chunker.execute(); // Split the file into chunks
 
     // Summarize the chunks
-    await summarizer.summarizeChunks();
+    //await summarizer.summarizeChunks();
 
     let keepAsking = true;
 

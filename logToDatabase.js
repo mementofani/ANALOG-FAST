@@ -40,14 +40,8 @@ function saveToDatabase(data, dbPath = "log_data.db") {
   const tryInsert = (retryCount = 0) => {
     try {
       // Create table
-      db.run(`CREATE TABLE IF NOT EXISTS logs
-<<<<<<< HEAD
-              (time TEXT, layer_source TEXT, message TEXT)`);
+      db.run(`CREATE TABLE IF NOT EXISTS logs(time TEXT, layer_source TEXT, message TEXT)`);
       
-=======
-    (time TEXT, layer_source TEXT, message TEXT)`);
-
->>>>>>> 390583678ff1d377dfa2363d182732fc94dab8e4
       // Insert data
       const stmt = db.prepare("INSERT INTO logs VALUES (?, ?, ?)");
       data.forEach((row) => stmt.run(row));

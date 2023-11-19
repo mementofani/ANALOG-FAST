@@ -1,35 +1,47 @@
-// const fs = require('fs');
+require("dotenv").config();
+const OpenAI = require("openai");
 
-// fs.readFile('word_logid_mapping.jsonl', 'utf8', (err, data) => {
-//   if (err) {
-//     console.error("Error reading file:", err);
-//     return;
-//   }
-//   try {
-//     const jsonData = JSON.parse(data);
-//     console.log(jsonData);
-//   } catch (err) {
-//     console.error("Error parsing JSON string:", err);
-//   }
-// });
+const assistant = await openai.beta.assistants.create({
+    instructions: "You are a personal math tutor. When asked a math question, write and run code to answer the question.",
+    model: "gpt-4-1106-preview",
+    tools: [{ "type": "code_interpreter" }]
+});
 
-// let str = "console.log('Hello, World!')";
-// eval(str);
+import fs from "fs";
+import OpenAI from "openai";
 
-// 
-//  
+const openai = new OpenAI();
 
-const { query } = require('./database_queries');
+async function main() {
+  const response = await openai.files.content("file-abc123");
 
-async function runQueries() {
-    try {
-        const results = await query("SELECT time, layer_source, message FROM logs WHERE id=196611");
+  // Extract the binary data from the Response object
+  const image_data = await response.arrayBuffer();
 
-        console.log("Query Results:");
-        console.log(results);
-    } catch (error) {
-        console.error("An error occurred:", error);
-    }
+  // Convert the binary data to a Buffer
+  const image_data_buffer = Buffer.from(image_data);
+
 }
 
-runQueries();
+main();
+
+
+
+
+//
+//
+
+// const { query } = require('./database_queries');
+
+// async function runQueries() {
+//     try {
+//         const results = await query("SELECT time, layer_source, message FROM logs WHERE id=196611");
+
+//         console.log("Query Results:");
+//         console.log(results);
+//     } catch (error) {
+//         console.error("An error occurred:", error);
+//     }
+// }
+
+// runQueries();

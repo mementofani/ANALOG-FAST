@@ -3,7 +3,7 @@ const fs = require("fs");
 
 function extractUniqueWords(message) {
   const words = message.match(/\b[a-zA-Z]{2,}\b/g) || [];
-  return new Set(words.map((word) => word.toUpperCase()));
+  return new Set(words.map((word) => word));
 }
 
 function createWordLogIdMapping(dbPath = "log_data.db", callback) {
